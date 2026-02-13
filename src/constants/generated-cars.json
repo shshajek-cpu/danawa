@@ -1,0 +1,3791 @@
+{
+  "brands": [
+    {
+      "id": "audi",
+      "name": "아우디",
+      "carCount": 11
+    },
+    {
+      "id": "benz",
+      "name": "벤츠",
+      "carCount": 3
+    },
+    {
+      "id": "bmw",
+      "name": "BMW",
+      "carCount": 15
+    },
+    {
+      "id": "cadillac",
+      "name": "캐딜락",
+      "carCount": 3
+    },
+    {
+      "id": "citroen",
+      "name": "시트로엥",
+      "carCount": 3
+    },
+    {
+      "id": "ds",
+      "name": "DS",
+      "carCount": 2
+    },
+    {
+      "id": "genesis",
+      "name": "제네시스",
+      "carCount": 8
+    },
+    {
+      "id": "gmc",
+      "name": "GMC",
+      "carCount": 1
+    },
+    {
+      "id": "honda",
+      "name": "혼다",
+      "carCount": 4
+    },
+    {
+      "id": "hyundai",
+      "name": "현대",
+      "carCount": 28
+    },
+    {
+      "id": "jeep",
+      "name": "지프",
+      "carCount": 3
+    },
+    {
+      "id": "kgm",
+      "name": "KGM",
+      "carCount": 9
+    },
+    {
+      "id": "kia",
+      "name": "기아",
+      "carCount": 18
+    },
+    {
+      "id": "landrover",
+      "name": "랜드로버",
+      "carCount": 1
+    },
+    {
+      "id": "lexus",
+      "name": "렉서스",
+      "carCount": 5
+    },
+    {
+      "id": "lincoln",
+      "name": "링컨",
+      "carCount": 1
+    },
+    {
+      "id": "peugeot",
+      "name": "푸조",
+      "carCount": 2
+    },
+    {
+      "id": "polestar",
+      "name": "폴스타",
+      "carCount": 1
+    },
+    {
+      "id": "porsche",
+      "name": "포르쉐",
+      "carCount": 1
+    },
+    {
+      "id": "smartev",
+      "name": "SMART EV",
+      "carCount": 3
+    },
+    {
+      "id": "toyota",
+      "name": "토요타",
+      "carCount": 7
+    },
+    {
+      "id": "volvo",
+      "name": "볼보",
+      "carCount": 2
+    },
+    {
+      "id": "르노코리아",
+      "name": "르노코리아",
+      "carCount": 2
+    },
+    {
+      "id": "쉐보레",
+      "name": "쉐보레",
+      "carCount": 2
+    },
+    {
+      "id": "쎄보모빌리티",
+      "name": "쎄보모빌리티",
+      "carCount": 1
+    },
+    {
+      "id": "테슬라",
+      "name": "테슬라",
+      "carCount": 3
+    }
+  ],
+  "cars": [
+    {
+      "id": "4707",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "A3",
+      "imageUrl": "https://autoimg.danawa.com/photo/4707/53484/color_11_360.png",
+      "startPrice": 44510000,
+      "grades": [
+        {
+          "name": "40 TFSI",
+          "price": 44510000
+        },
+        {
+          "name": "40 TFSI Premium",
+          "price": 48740000
+        },
+        {
+          "name": "40 TFSI Quattro Premium",
+          "price": 51680000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "3900",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "A5",
+      "imageUrl": "https://autoimg.danawa.com/photo/3900/52684/color_11_360.png",
+      "startPrice": 60250000,
+      "grades": [
+        {
+          "name": "40 TFSI Quattro Sportback",
+          "price": 60250000
+        },
+        {
+          "name": "40 TFSI Quattro Premium Sportback",
+          "price": 67610000
+        },
+        {
+          "name": "45 TFSI Quattro Premium Sportback",
+          "price": 70550000
+        },
+        {
+          "name": "45 TFSI Quattro Premium Sportback Carbon Edition",
+          "price": 72520000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4735",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "A5",
+      "imageUrl": "https://autoimg.danawa.com/photo/4735/53248/color_11_360.png",
+      "startPrice": 57890000,
+      "grades": [
+        {
+          "name": "40 TFSI Quattro Advanced",
+          "price": 57890000
+        },
+        {
+          "name": "40 TFSI Quattro Advanced (IP)",
+          "price": 58290000
+        },
+        {
+          "name": "40 TFSI Quattro Advanced (TECH)",
+          "price": 61590000
+        },
+        {
+          "name": "40 TFSI Quattro Advanced (TECH+IP)",
+          "price": 61980000
+        },
+        {
+          "name": "40 TFSI Quattro S-Line",
+          "price": 63780000
+        },
+        {
+          "name": "40 TFSI Quattro S-Line (IP)",
+          "price": 64180000
+        },
+        {
+          "name": "40 TFSI Quattro S-Line (HEADREST SPEAKER)",
+          "price": 64400000
+        },
+        {
+          "name": "40 TFSI Quattro S-Line (HEADREST SPEAKER+IP)",
+          "price": 64800000
+        },
+        {
+          "name": "40 TFSI Quattro S-Line Black Edition",
+          "price": 67710000
+        },
+        {
+          "name": "45 TFSI Quattro S-Line",
+          "price": 68690000
+        },
+        {
+          "name": "45 TFSI Quattro S-Line (IP)",
+          "price": 69090000
+        }
+      ],
+      "gradeCount": 11
+    },
+    {
+      "id": "4142",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "A6 e-tron",
+      "imageUrl": "https://autoimg.danawa.com/photo/4142/49311/color_11_360.png",
+      "startPrice": 94590000,
+      "grades": [
+        {
+          "name": "Performance Advanced",
+          "price": 94590000
+        },
+        {
+          "name": "Performance Advanced (Display)",
+          "price": 95920000
+        },
+        {
+          "name": "Performance Advanced (Virtual+Display)",
+          "price": 98080000
+        },
+        {
+          "name": "Performance S-line",
+          "price": 102100000
+        },
+        {
+          "name": "Performance S-line (Virtual)",
+          "price": 104260000
+        },
+        {
+          "name": "Performance S-line Black Edition",
+          "price": 105860000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "3713",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "A6",
+      "imageUrl": "https://autoimg.danawa.com/photo/3713/52673/color_11_360.png",
+      "startPrice": 72440000,
+      "grades": [
+        {
+          "name": "45 TFSI",
+          "price": 72440000
+        },
+        {
+          "name": "45 TFSI (ULEV70)",
+          "price": 72440000
+        },
+        {
+          "name": "45 TFSI Premium",
+          "price": 80300000
+        },
+        {
+          "name": "45 TFSI Premium (ULEV70)",
+          "price": 80300000
+        },
+        {
+          "name": "45 TFSI Premium (9W9W)",
+          "price": 81420000
+        },
+        {
+          "name": "45 TFSI Premium (ULEV70+9W9W)",
+          "price": 81420000
+        },
+        {
+          "name": "45 TFSI Quattro Premium",
+          "price": 83240000
+        },
+        {
+          "name": "45 TFSI Quattro Premium (ULEV70)",
+          "price": 83240000
+        },
+        {
+          "name": "45 TFSI Quattro Premium (9W9W)",
+          "price": 84370000
+        },
+        {
+          "name": "45 TFSI Quattro Premium (ULEV70+9W9W)",
+          "price": 84370000
+        }
+      ],
+      "gradeCount": 10
+    },
+    {
+      "id": "3537",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "A7",
+      "imageUrl": "https://autoimg.danawa.com/photo/3537/52686/color_11_360.png",
+      "startPrice": 103570000,
+      "grades": [
+        {
+          "name": "55 TFSI e Quattro Premium",
+          "price": 103570000
+        },
+        {
+          "name": "55 TFSI e Quattro Premium (9W9W)",
+          "price": 104690000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4736",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "Q5",
+      "imageUrl": "https://autoimg.danawa.com/photo/4736/53380/color_11_360.png",
+      "startPrice": 66730000,
+      "grades": [
+        {
+          "name": "40 TFSI Quattro Advanced",
+          "price": 66730000
+        },
+        {
+          "name": "40 TFSI Quattro Advanced (OV)",
+          "price": 67160000
+        },
+        {
+          "name": "40 TFSI Quattro S-Line",
+          "price": 72620000
+        },
+        {
+          "name": "45 TFSI Quattro S-Line",
+          "price": 81460000
+        },
+        {
+          "name": "45 TFSI Quattro S-Line (OV)",
+          "price": 81880000
+        },
+        {
+          "name": "45 TFSI Quattro S-Line Black Edition",
+          "price": 84400000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4690",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "Q6 e-tron",
+      "imageUrl": "https://autoimg.danawa.com/photo/4690/52115/color_11_360.png",
+      "startPrice": 82900000,
+      "grades": [
+        {
+          "name": "Performance",
+          "price": 82900000
+        },
+        {
+          "name": "Performance (DISPLAY)",
+          "price": 84090000
+        },
+        {
+          "name": "Performance (LIGHT)",
+          "price": 85050000
+        },
+        {
+          "name": "Performance (TECH)",
+          "price": 86900000
+        },
+        {
+          "name": "Performance (TECH+DISPLAY)",
+          "price": 88090000
+        },
+        {
+          "name": "Performance (TECH+LIGHT)",
+          "price": 89050000
+        },
+        {
+          "name": "Performance (TECH+TECHPRO+DISPLAY)",
+          "price": 94450000
+        },
+        {
+          "name": "Performance Premium",
+          "price": 89900000
+        },
+        {
+          "name": "Performance Premium (LIGHT)",
+          "price": 92180000
+        },
+        {
+          "name": "Performance Premium (TECHPRO)",
+          "price": 96350000
+        },
+        {
+          "name": "Performance Premium (TECHPRO+LIGHT)",
+          "price": 98630000
+        },
+        {
+          "name": "Quattro Premium",
+          "price": 106900000
+        }
+      ],
+      "gradeCount": 12
+    },
+    {
+      "id": "4698",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "Q7 2차",
+      "imageUrl": "https://autoimg.danawa.com/photo/4698/53572/color_11_360.png",
+      "startPrice": 119120000,
+      "grades": [
+        {
+          "name": "55 TFSI Quattro",
+          "price": 119120000
+        },
+        {
+          "name": "55 TFSI Quattro Premium",
+          "price": 124520000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4697",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "Q8",
+      "imageUrl": "https://autoimg.danawa.com/photo/4697/53497/color_11_360.png",
+      "startPrice": 123620000,
+      "grades": [
+        {
+          "name": "55 TFSI Quattro",
+          "price": 123620000
+        },
+        {
+          "name": "55 TFSI Quattro Premium",
+          "price": 130620000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4759",
+      "brandId": "audi",
+      "brandName": "아우디",
+      "name": "e-트론 GT",
+      "imageUrl": "https://autoimg.danawa.com/photo/4759/53445/color_11_360.png",
+      "startPrice": 170120000,
+      "grades": [
+        {
+          "name": "S e-tron GT",
+          "price": 170120000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4037",
+      "brandId": "benz",
+      "brandName": "벤츠",
+      "name": "C-클래스",
+      "imageUrl": "https://autoimg.danawa.com/photo/4037/53201/color_11_360.png",
+      "startPrice": 62800000,
+      "grades": [
+        {
+          "name": "C200 Avantgarde",
+          "price": 62800000
+        },
+        {
+          "name": "C200 AMG Line",
+          "price": 65900000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4430",
+      "brandId": "benz",
+      "brandName": "벤츠",
+      "name": "EQE SUV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4430/53227/color_11_360.png",
+      "startPrice": 113100000,
+      "grades": [
+        {
+          "name": "EQE350 4MATIC",
+          "price": 113100000
+        },
+        {
+          "name": "EQE500 4MATIC",
+          "price": 136200000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4381",
+      "brandId": "benz",
+      "brandName": "벤츠",
+      "name": "EQS SUV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4381/53233/color_11_360.png",
+      "startPrice": 162700000,
+      "grades": [
+        {
+          "name": "EQS450 4MATIC",
+          "price": 162700000
+        },
+        {
+          "name": "EQS580 4MATIC",
+          "price": 190000000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4114",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "2시리즈 액티브 투어러",
+      "imageUrl": "https://autoimg.danawa.com/photo/4114/53448/color_11_360.png",
+      "startPrice": 50800000,
+      "grades": [
+        {
+          "name": "220i Active Tourer Luxury",
+          "price": 50800000
+        },
+        {
+          "name": "220i Active Tourer M Sport Design",
+          "price": 52400000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4614",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "4시리즈",
+      "imageUrl": "https://autoimg.danawa.com/photo/4614/53460/color_11_360.png",
+      "startPrice": 73300000,
+      "grades": [
+        {
+          "name": "420i Coupe M Sport Pro",
+          "price": 73300000
+        },
+        {
+          "name": "420i Coupe M Sport Pro (P0-0)",
+          "price": 73300000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4196",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "7시리즈",
+      "imageUrl": "https://autoimg.danawa.com/photo/4196/52641/color_11_360.png",
+      "startPrice": 201100000,
+      "grades": [
+        {
+          "name": "750e xDrive DPE",
+          "price": 201100000
+        },
+        {
+          "name": "750e xDrive DPE (P1)",
+          "price": 201100000
+        },
+        {
+          "name": "750e xDrive M Sport",
+          "price": 204100000
+        },
+        {
+          "name": "750e xDrive M Sport (P0-0)",
+          "price": 204100000
+        },
+        {
+          "name": "750e xDrive M Sport (P1)",
+          "price": 204100000
+        },
+        {
+          "name": "750e xDrive M Sport (P1-0)",
+          "price": 204100000
+        },
+        {
+          "name": "750e xDrive M Sport Special Edition",
+          "price": 229000000
+        }
+      ],
+      "gradeCount": 7
+    },
+    {
+      "id": "4615",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "M4",
+      "imageUrl": "https://autoimg.danawa.com/photo/4615/53550/color_11_360.png",
+      "startPrice": 137700000,
+      "grades": [
+        {
+          "name": "M4 Competition M xDrive Coupe",
+          "price": 137700000
+        },
+        {
+          "name": "M4 Competition M xDrive Coupe (P0-0)",
+          "price": 137700000
+        },
+        {
+          "name": "M4 Competition M xDrive Coupe (P1)",
+          "price": 137700000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4371",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "X1",
+      "imageUrl": "https://autoimg.danawa.com/photo/4371/52642/color_11_360.png",
+      "startPrice": 63100000,
+      "grades": [
+        {
+          "name": "xDrive20i xLine",
+          "price": 63100000
+        },
+        {
+          "name": "xDrive20i xLine (P1)",
+          "price": 63100000
+        },
+        {
+          "name": "xDrive20i M Sport",
+          "price": 67900000
+        },
+        {
+          "name": "xDrive20i M Sport (P1)",
+          "price": 67900000
+        },
+        {
+          "name": "M35i xDrive",
+          "price": 72200000
+        },
+        {
+          "name": "M35i xDrive (P1)",
+          "price": 72200000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4580",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "X2",
+      "imageUrl": "https://autoimg.danawa.com/photo/4580/53488/color_11_360.png",
+      "startPrice": 69400000,
+      "grades": [
+        {
+          "name": "xDrive20i M Sport",
+          "price": 69400000
+        },
+        {
+          "name": "M35i xDrive",
+          "price": 75600000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4475",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "X5",
+      "imageUrl": "https://autoimg.danawa.com/photo/4475/53499/color_11_360.png",
+      "startPrice": 129400000,
+      "grades": [
+        {
+          "name": "xDrive50e xLine",
+          "price": 129400000
+        },
+        {
+          "name": "xDrive50e xLine (P0-1)",
+          "price": 129700000
+        },
+        {
+          "name": "xDrive50e M Sport Pro",
+          "price": 136100000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4480",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "X6 M",
+      "imageUrl": "https://autoimg.danawa.com/photo/4480/53510/color_11_360.png",
+      "startPrice": 195800000,
+      "grades": [
+        {
+          "name": "X6 M Competition",
+          "price": 195800000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4192",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "X7",
+      "imageUrl": "https://autoimg.danawa.com/photo/4192/53511/color_11_360.png",
+      "startPrice": 154300000,
+      "grades": [
+        {
+          "name": "xDrive40i DPE (6인승)",
+          "price": 154300000
+        },
+        {
+          "name": "xDrive40i DPE (7인승)",
+          "price": 152300000
+        },
+        {
+          "name": "xDrive40i M Sport (6인승)",
+          "price": 156800000
+        },
+        {
+          "name": "xDrive40i M Sport (7인승)",
+          "price": 154800000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4422",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "XM",
+      "imageUrl": "https://autoimg.danawa.com/photo/4422/53540/color_11_360.png",
+      "startPrice": 227700000,
+      "grades": [
+        {
+          "name": "XM Label",
+          "price": 227700000
+        },
+        {
+          "name": "XM Label (P0-0)",
+          "price": 227700000
+        },
+        {
+          "name": "XM Label First Edition",
+          "price": 240000000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4424",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "Z4",
+      "imageUrl": "https://autoimg.danawa.com/photo/4424/53493/color_11_360.png",
+      "startPrice": 76600000,
+      "grades": [
+        {
+          "name": "sDrive20i M Sport",
+          "price": 76600000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4528",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "i5",
+      "imageUrl": "https://autoimg.danawa.com/photo/4528/53473/color_11_360.png",
+      "startPrice": 84900000,
+      "grades": [
+        {
+          "name": "i5 eDrive40 SE",
+          "price": 84900000
+        },
+        {
+          "name": "i5 eDrive40 SE (P0-1)",
+          "price": 85500000
+        },
+        {
+          "name": "i5 eDrive40 M Sport",
+          "price": 95700000
+        },
+        {
+          "name": "i5 eDrive40 M Sport (P1)",
+          "price": 95700000
+        },
+        {
+          "name": "i5 xDrive40 M Sport",
+          "price": 103800000
+        },
+        {
+          "name": "i5 xDrive40 M Sport (P1)",
+          "price": 103800000
+        },
+        {
+          "name": "i5 xDrive40 M Sport Pro",
+          "price": 105800000
+        },
+        {
+          "name": "i5 xDrive40 M Sport Pro (P1)",
+          "price": 105800000
+        },
+        {
+          "name": "i5 M60 xDrive Pro",
+          "price": 138100000
+        },
+        {
+          "name": "i5 M60 xDrive Pro (P1)",
+          "price": 138100000
+        }
+      ],
+      "gradeCount": 10
+    },
+    {
+      "id": "4181",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "i7",
+      "imageUrl": "https://autoimg.danawa.com/photo/4181/52643/color_11_360.png",
+      "startPrice": 166100000,
+      "grades": [
+        {
+          "name": "i7 eDrive50 M Sport Limited",
+          "price": 166100000
+        },
+        {
+          "name": "i7 eDrive50 M Sport Limited (P1)",
+          "price": 166100000
+        },
+        {
+          "name": "i7 eDrive50 M Sport",
+          "price": 181100000
+        },
+        {
+          "name": "i7 eDrive50 M Sport (P1)",
+          "price": 181100000
+        },
+        {
+          "name": "i7 eDrive50 M Sport (P1-0)",
+          "price": 181100000
+        },
+        {
+          "name": "i7 xDrive60 DPE",
+          "price": 212100000
+        },
+        {
+          "name": "i7 xDrive60 DPE (P1)",
+          "price": 212100000
+        },
+        {
+          "name": "i7 xDrive60 M Sport",
+          "price": 215100000
+        },
+        {
+          "name": "i7 xDrive60 M Sport (P1)",
+          "price": 215100000
+        }
+      ],
+      "gradeCount": 9
+    },
+    {
+      "id": "4708",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "iX",
+      "imageUrl": "https://autoimg.danawa.com/photo/4708/53354/color_11_360.png",
+      "startPrice": 124800000,
+      "grades": [
+        {
+          "name": "iX xDrive45 M Sport (P1)",
+          "price": 124800000
+        },
+        {
+          "name": "iX xDrive60 M Sport Pro (P1)",
+          "price": 153800000
+        },
+        {
+          "name": "iX xDrive60 M Sport Pro (P2)",
+          "price": 153800000
+        },
+        {
+          "name": "iX M70 xDrive (P1)",
+          "price": 177700000
+        },
+        {
+          "name": "iX M70 xDrive (P2)",
+          "price": 177700000
+        }
+      ],
+      "gradeCount": 5
+    },
+    {
+      "id": "4372",
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "name": "iX1",
+      "imageUrl": "https://autoimg.danawa.com/photo/4372/53452/color_11_360.png",
+      "startPrice": 64200000,
+      "grades": [
+        {
+          "name": "eDrive20 xLine",
+          "price": 64200000
+        },
+        {
+          "name": "eDrive20 xLine (P1)",
+          "price": 64200000
+        },
+        {
+          "name": "xDrive30 xLine",
+          "price": 67900000
+        },
+        {
+          "name": "xDrive30 xLine (P1)",
+          "price": 67900000
+        },
+        {
+          "name": "xDrive30 M Sport",
+          "price": 70500000
+        },
+        {
+          "name": "xDrive30 M Sport (P1)",
+          "price": 70500000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4061",
+      "brandId": "cadillac",
+      "brandName": "캐딜락",
+      "name": "리릭",
+      "imageUrl": "https://autoimg.danawa.com/photo/4061/48752/color_11_360.png",
+      "startPrice": 106960000,
+      "grades": [
+        {
+          "name": "Sport",
+          "price": 106960000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4663",
+      "brandId": "cadillac",
+      "brandName": "캐딜락",
+      "name": "에스컬레이드",
+      "imageUrl": "https://autoimg.danawa.com/photo/4663/53240/color_11_360.png",
+      "startPrice": 166070000,
+      "grades": [
+        {
+          "name": "Sport Platinum",
+          "price": 166070000
+        },
+        {
+          "name": "Premium Luxury Platinum",
+          "price": 166070000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "3850",
+      "brandId": "cadillac",
+      "brandName": "캐딜락",
+      "name": "에스컬레이드",
+      "imageUrl": "https://autoimg.danawa.com/photo/3850/52919/color_11_360.png",
+      "startPrice": 157570000,
+      "grades": [
+        {
+          "name": "Premium Luxury Platinum",
+          "price": 157570000
+        },
+        {
+          "name": "Sport Platinum",
+          "price": 157570000
+        },
+        {
+          "name": "Twilight Special Edition",
+          "price": 159070000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "3683",
+      "brandId": "citroen",
+      "brandName": "시트로엥",
+      "name": "C3 에어크로스",
+      "imageUrl": "https://autoimg.danawa.com/photo/3683/49258/color_11_360.png",
+      "startPrice": 33000000,
+      "grades": [
+        {
+          "name": "Shine Pack",
+          "price": 33000000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "3653",
+      "brandId": "citroen",
+      "brandName": "시트로엥",
+      "name": "그랜드 C4 스페이스투어러",
+      "imageUrl": "https://autoimg.danawa.com/photo/3653/48294/color_11_360.png",
+      "startPrice": 42800000,
+      "grades": [
+        {
+          "name": "Shine",
+          "price": 42800000
+        },
+        {
+          "name": "Shine Pack",
+          "price": 46400000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "3623",
+      "brandId": "citroen",
+      "brandName": "시트로엥",
+      "name": "뉴 C4 칵투스",
+      "imageUrl": "https://autoimg.danawa.com/photo/3623/48295/color_11_360.png",
+      "startPrice": 32800000,
+      "grades": [
+        {
+          "name": "Shine",
+          "price": 32800000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4408",
+      "brandId": "ds",
+      "brandName": "DS",
+      "name": "DS3 크로스백 E-텐스",
+      "imageUrl": "https://autoimg.danawa.com/photo/4408/50003/color_11_360.png",
+      "startPrice": 57900000,
+      "grades": [
+        {
+          "name": "Grand Chic",
+          "price": 57900000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "3771",
+      "brandId": "ds",
+      "brandName": "DS",
+      "name": "DS7 크로스백",
+      "imageUrl": "https://autoimg.danawa.com/photo/3771/49797/color_11_360.png",
+      "startPrice": 50900000,
+      "grades": [
+        {
+          "name": "So Chic",
+          "price": 50900000
+        },
+        {
+          "name": "Grand Chic",
+          "price": 55900000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4660",
+      "brandId": "genesis",
+      "brandName": "제네시스",
+      "name": "G80 EV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4660/52965/color_10_360.png",
+      "startPrice": 84680000,
+      "grades": [
+        {
+          "name": "e-AWD",
+          "price": 84680000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4603",
+      "brandId": "genesis",
+      "brandName": "제네시스",
+      "name": "G80",
+      "imageUrl": "https://autoimg.danawa.com/photo/4603/53602/color_10_360.png",
+      "startPrice": 59780000,
+      "grades": [
+        {
+          "name": "2WD",
+          "price": 59780000
+        },
+        {
+          "name": "AWD",
+          "price": 62540000
+        },
+        {
+          "name": "스포츠 패키지 2WD",
+          "price": 63720000
+        },
+        {
+          "name": "스포츠 패키지 AWD",
+          "price": 66480000
+        },
+        {
+          "name": "BLACK AWD",
+          "price": 82430000
+        }
+      ],
+      "gradeCount": 5
+    },
+    {
+      "id": "4016",
+      "brandId": "genesis",
+      "brandName": "제네시스",
+      "name": "G90",
+      "imageUrl": "https://autoimg.danawa.com/photo/4016/53095/color_10_360.png",
+      "startPrice": 96170000,
+      "grades": [
+        {
+          "name": "2WD (5인승)",
+          "price": 96170000
+        },
+        {
+          "name": "AWD (5인승)",
+          "price": 99670000
+        },
+        {
+          "name": "2WD (4인승) + 뒷좌석 컴포트 패키지Ⅰ",
+          "price": 103070000
+        },
+        {
+          "name": "AWD (4인승) + 뒷좌석 컴포트 패키지Ⅰ",
+          "price": 106570000
+        },
+        {
+          "name": "BLACK AWD (5인승)",
+          "price": 128170000
+        },
+        {
+          "name": "BLACK AWD (4인승)",
+          "price": 131570000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4701",
+      "brandId": "genesis",
+      "brandName": "제네시스",
+      "name": "GV60",
+      "imageUrl": "https://autoimg.danawa.com/photo/4701/53097/color_10_360.png",
+      "startPrice": 64900000,
+      "grades": [
+        {
+          "name": "스탠다드 2WD",
+          "price": 64900000
+        },
+        {
+          "name": "스탠다드 AWD",
+          "price": 68510000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4761",
+      "brandId": "genesis",
+      "brandName": "제네시스",
+      "name": "GV60 MAGMA",
+      "imageUrl": "https://autoimg.danawa.com/photo/4761/53520/color_10_360.png",
+      "startPrice": 96570000,
+      "grades": [
+        {
+          "name": "GV60 MAGMA",
+          "price": 96570000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4609",
+      "brandId": "genesis",
+      "brandName": "제네시스",
+      "name": "GV70",
+      "imageUrl": "https://autoimg.danawa.com/photo/4609/53474/color_10_360.png",
+      "startPrice": 53180000,
+      "grades": [
+        {
+          "name": "2WD",
+          "price": 53180000
+        },
+        {
+          "name": "AWD",
+          "price": 56130000
+        },
+        {
+          "name": "스포츠 2WD",
+          "price": 55940000
+        },
+        {
+          "name": "스포츠 AWD",
+          "price": 58890000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4465",
+      "brandId": "genesis",
+      "brandName": "제네시스",
+      "name": "GV80",
+      "imageUrl": "https://autoimg.danawa.com/photo/4465/53406/color_10_360.png",
+      "startPrice": 67900000,
+      "grades": [
+        {
+          "name": "2WD (5인승)",
+          "price": 67900000
+        },
+        {
+          "name": "AWD (5인승)",
+          "price": 70860000
+        },
+        {
+          "name": "BLACK AWD (5인승)",
+          "price": 93770000
+        },
+        {
+          "name": "2WD (6인승)",
+          "price": 70370000
+        },
+        {
+          "name": "AWD (6인승)",
+          "price": 73320000
+        },
+        {
+          "name": "BLACK AWD (6인승)",
+          "price": 96270000
+        },
+        {
+          "name": "2WD (7인승)",
+          "price": 68890000
+        },
+        {
+          "name": "AWD (7인승)",
+          "price": 71840000
+        },
+        {
+          "name": "BLACK AWD (7인승)",
+          "price": 94770000
+        }
+      ],
+      "gradeCount": 9
+    },
+    {
+      "id": "3995",
+      "brandId": "genesis",
+      "brandName": "제네시스",
+      "name": "더 뉴 G70",
+      "imageUrl": "https://autoimg.danawa.com/photo/3995/53617/color_11_360.png",
+      "startPrice": 44380000,
+      "grades": [
+        {
+          "name": "2WD",
+          "price": 44380000
+        },
+        {
+          "name": "AWD",
+          "price": 46810000
+        },
+        {
+          "name": "스포츠 패키지 2WD",
+          "price": 47880000
+        },
+        {
+          "name": "스포츠 패키지 AWD",
+          "price": 50120000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4127",
+      "brandId": "gmc",
+      "brandName": "GMC",
+      "name": "시에라",
+      "imageUrl": "https://autoimg.danawa.com/photo/4127/52445/color_11_360.png",
+      "startPrice": 94200000,
+      "grades": [
+        {
+          "name": "Denali",
+          "price": 94200000
+        },
+        {
+          "name": "Denali-X",
+          "price": 95900000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4469",
+      "brandId": "honda",
+      "brandName": "혼다",
+      "name": "All New CR-V",
+      "imageUrl": "https://autoimg.danawa.com/photo/4469/53528/color_11_360.png",
+      "startPrice": 52800000,
+      "grades": [
+        {
+          "name": "2WD Touring",
+          "price": 52800000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4715",
+      "brandId": "honda",
+      "brandName": "혼다",
+      "name": "뉴 오딧세이",
+      "imageUrl": "https://autoimg.danawa.com/photo/4715/53397/color_11_360.png",
+      "startPrice": 63400000,
+      "grades": [
+        {
+          "name": "Elite",
+          "price": 63400000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4547",
+      "brandId": "honda",
+      "brandName": "혼다",
+      "name": "어코드",
+      "imageUrl": "https://autoimg.danawa.com/photo/4547/53187/color_11_360.png",
+      "startPrice": 52800000,
+      "grades": [
+        {
+          "name": "Touring",
+          "price": 52800000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4189",
+      "brandId": "honda",
+      "brandName": "혼다",
+      "name": "파일럿",
+      "imageUrl": "https://autoimg.danawa.com/photo/4189/53119/color_11_360.png",
+      "startPrice": 68100000,
+      "grades": [
+        {
+          "name": "ELITE",
+          "price": 68100000
+        },
+        {
+          "name": "Black Edition",
+          "price": 69600000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4626",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "ST1",
+      "imageUrl": "https://autoimg.danawa.com/photo/4626/52293/color_11_360.png",
+      "startPrice": 58740000,
+      "grades": [
+        {
+          "name": "스타일",
+          "price": 58740000
+        },
+        {
+          "name": "스마트",
+          "price": 60400000
+        },
+        {
+          "name": "프리미엄",
+          "price": 64180000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4677",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "넥쏘",
+      "imageUrl": "https://autoimg.danawa.com/photo/4677/52013/color_10_360.png",
+      "startPrice": 76440000,
+      "grades": [
+        {
+          "name": "익스클루시브",
+          "price": 76440000
+        },
+        {
+          "name": "익스클루시브 스페셜",
+          "price": 79280000
+        },
+        {
+          "name": "프레스티지",
+          "price": 83450000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4564",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "더 뉴 아반떼 N",
+      "imageUrl": "https://autoimg.danawa.com/photo/4564/53239/color_11_360.png",
+      "startPrice": 33090000,
+      "grades": [
+        {
+          "name": "아반떼 N",
+          "price": 33090000
+        },
+        {
+          "name": "아반떼 N",
+          "price": 35140000
+        },
+        {
+          "name": "아반떼 N (시티 팩)",
+          "price": 36680000
+        },
+        {
+          "name": "아반떼 N (트랙 팩)",
+          "price": 37180000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4455",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "더 뉴 아반떼",
+      "imageUrl": "https://autoimg.danawa.com/photo/4455/53228/color_11_360.png",
+      "startPrice": 25230000,
+      "grades": [
+        {
+          "name": "스마트",
+          "price": 25230000
+        },
+        {
+          "name": "모던 라이트",
+          "price": 25480000
+        },
+        {
+          "name": "모던",
+          "price": 27890000
+        },
+        {
+          "name": "인스퍼레이션",
+          "price": 31150000
+        },
+        {
+          "name": "N라인",
+          "price": 31840000
+        }
+      ],
+      "gradeCount": 5
+    },
+    {
+      "id": "4592",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "더 뉴 투싼",
+      "imageUrl": "https://autoimg.danawa.com/photo/4592/53356/color_10_360.png",
+      "startPrice": 32700000,
+      "grades": [
+        {
+          "name": "모던 2WD",
+          "price": 32700000
+        },
+        {
+          "name": "모던 4WD",
+          "price": 34910000
+        },
+        {
+          "name": "프리미엄 2WD",
+          "price": 35140000
+        },
+        {
+          "name": "프리미엄 4WD",
+          "price": 37350000
+        },
+        {
+          "name": "H-Pick 2WD",
+          "price": 35970000
+        },
+        {
+          "name": "H-Pick 4WD",
+          "price": 38180000
+        },
+        {
+          "name": "인스퍼레이션 2WD",
+          "price": 38610000
+        },
+        {
+          "name": "인스퍼레이션 4WD",
+          "price": 40820000
+        },
+        {
+          "name": "블랙 익스테리어 2WD",
+          "price": 39050000
+        },
+        {
+          "name": "블랙 익스테리어 4WD",
+          "price": 41260000
+        },
+        {
+          "name": "N Line 인스퍼레이션 2WD",
+          "price": 39250000
+        },
+        {
+          "name": "N Line 인스퍼레이션 4WD",
+          "price": 41460000
+        }
+      ],
+      "gradeCount": 12
+    },
+    {
+      "id": "4188",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "디 올 뉴 그랜저",
+      "imageUrl": "https://autoimg.danawa.com/photo/4188/53278/color_10_360.png",
+      "startPrice": 43540000,
+      "grades": [
+        {
+          "name": "프리미엄",
+          "price": 43540000
+        },
+        {
+          "name": "익스클루시브",
+          "price": 48430000
+        },
+        {
+          "name": "아너스",
+          "price": 50690000
+        },
+        {
+          "name": "캘리그래피",
+          "price": 52660000
+        },
+        {
+          "name": "캘리그래피 (블랙익스테리어)",
+          "price": 52660000
+        },
+        {
+          "name": "캘리그래피 (블랙잉크)",
+          "price": 53930000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "3500",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "마이티",
+      "imageUrl": "https://autoimg.danawa.com/photo/3500/default/color_01_360.png",
+      "startPrice": 0,
+      "grades": [],
+      "gradeCount": 0
+    },
+    {
+      "id": "3654",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "베뉴",
+      "imageUrl": "https://autoimg.danawa.com/photo/3654/53151/color_11_360.png",
+      "startPrice": 19260000,
+      "grades": [
+        {
+          "name": "스마트",
+          "price": 19260000
+        },
+        {
+          "name": "프리미엄",
+          "price": 22120000
+        },
+        {
+          "name": "플럭스",
+          "price": 23860000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4765",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "스타리아",
+      "imageUrl": "https://autoimg.danawa.com/photo/4765/53558/color_11_360.png",
+      "startPrice": 38700000,
+      "grades": [
+        {
+          "name": "11인승 스마트 2WD",
+          "price": 38700000
+        },
+        {
+          "name": "11인승 모던 2WD",
+          "price": 39990000
+        },
+        {
+          "name": "9인승 스마트 2WD",
+          "price": 38760000
+        },
+        {
+          "name": "9인승 모던 2WD",
+          "price": 39990000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4014",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "스타리아",
+      "imageUrl": "https://autoimg.danawa.com/photo/4014/52278/color_11_360.png",
+      "startPrice": 41100000,
+      "grades": [
+        {
+          "name": "9인승 프레스티지 2WD",
+          "price": 41100000
+        },
+        {
+          "name": "9인승 인스퍼레이션 2WD",
+          "price": 44970000
+        },
+        {
+          "name": "9인승 리무진 2WD",
+          "price": 62410000
+        },
+        {
+          "name": "7인승 인스퍼레이션 2WD",
+          "price": 45440000
+        },
+        {
+          "name": "7인승 리무진 2WD",
+          "price": 63570000
+        }
+      ],
+      "gradeCount": 5
+    },
+    {
+      "id": "4435",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "싼타페",
+      "imageUrl": "https://autoimg.danawa.com/photo/4435/53355/color_10_360.png",
+      "startPrice": 39640000,
+      "grades": [
+        {
+          "name": "익스클루시브 (5인승)",
+          "price": 39640000
+        },
+        {
+          "name": "익스클루시브 (6인승)",
+          "price": 40670000
+        },
+        {
+          "name": "익스클루시브 (7인승)",
+          "price": 40320000
+        },
+        {
+          "name": "프레스티지 (5인승)",
+          "price": 42470000
+        },
+        {
+          "name": "프레스티지 (6인승)",
+          "price": 43490000
+        },
+        {
+          "name": "프레스티지 (7인승)",
+          "price": 43150000
+        },
+        {
+          "name": "H-Pick (5인승)",
+          "price": 45080000
+        },
+        {
+          "name": "H-Pick (6인승)",
+          "price": 46100000
+        },
+        {
+          "name": "H-Pick (7인승)",
+          "price": 45760000
+        },
+        {
+          "name": "블랙 익스테리어 (5인승)",
+          "price": 45420000
+        },
+        {
+          "name": "블랙 익스테리어 (6인승)",
+          "price": 46450000
+        },
+        {
+          "name": "블랙 익스테리어 (7인승)",
+          "price": 46100000
+        },
+        {
+          "name": "캘리그래피 (5인승)",
+          "price": 48070000
+        },
+        {
+          "name": "캘리그래피 (6인승)",
+          "price": 49100000
+        },
+        {
+          "name": "캘리그래피 (7인승)",
+          "price": 48750000
+        },
+        {
+          "name": "블랙잉크 (5인승)",
+          "price": 48070000
+        },
+        {
+          "name": "블랙잉크 (6인승)",
+          "price": 49100000
+        },
+        {
+          "name": "블랙잉크 (7인승)",
+          "price": 48750000
+        }
+      ],
+      "gradeCount": 18
+    },
+    {
+      "id": "4466",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "쏘나타",
+      "imageUrl": "https://autoimg.danawa.com/photo/4466/53436/color_10_360.png",
+      "startPrice": 32700000,
+      "grades": [
+        {
+          "name": "프리미엄",
+          "price": 32700000
+        },
+        {
+          "name": "에스",
+          "price": 33710000
+        },
+        {
+          "name": "익스클루시브",
+          "price": 36740000
+        },
+        {
+          "name": "인스퍼레이션",
+          "price": 39790000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "3297",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "쏠라티",
+      "imageUrl": "https://autoimg.danawa.com/photo/3297/52250/color_11_360.png",
+      "startPrice": 67030000,
+      "grades": [
+        {
+          "name": "스탠다드 (15인승)",
+          "price": 67030000
+        },
+        {
+          "name": "스탠다드 (2인승)",
+          "price": 64410000
+        },
+        {
+          "name": "디럭스 (15인승)",
+          "price": 68820000
+        },
+        {
+          "name": "디럭스 (16인승)",
+          "price": 68840000
+        },
+        {
+          "name": "럭셔리 (15인승)",
+          "price": 71040000
+        },
+        {
+          "name": "럭셔리 (2인승)",
+          "price": 68420000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4558",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "아이오닉 5 N",
+      "imageUrl": "https://autoimg.danawa.com/photo/4558/53432/color_10_360.png",
+      "startPrice": 77690000,
+      "grades": [
+        {
+          "name": "AWD 에센셜",
+          "price": 77690000
+        },
+        {
+          "name": "AWD",
+          "price": 80290000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4624",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "아이오닉 5",
+      "imageUrl": "https://autoimg.danawa.com/photo/4624/53266/color_10_360.png",
+      "startPrice": 54500000,
+      "grades": [
+        {
+          "name": "익스클루시브 2WD",
+          "price": 54500000
+        },
+        {
+          "name": "익스클루시브 4WD",
+          "price": 56840000
+        },
+        {
+          "name": "N 라인 (익스클루시브) 2WD",
+          "price": 56500000
+        },
+        {
+          "name": "N 라인 (익스클루시브) 4WD",
+          "price": 58840000
+        },
+        {
+          "name": "프레스티지 2WD",
+          "price": 59150000
+        },
+        {
+          "name": "프레스티지 4WD",
+          "price": 61490000
+        },
+        {
+          "name": "N 라인 (프레스티지) 2WD",
+          "price": 60250000
+        },
+        {
+          "name": "N 라인 (프레스티지) 4WD",
+          "price": 62590000
+        },
+        {
+          "name": "이-라이트 2WD",
+          "price": 50640000
+        },
+        {
+          "name": "이-라이트 4WD",
+          "price": 52980000
+        }
+      ],
+      "gradeCount": 10
+    },
+    {
+      "id": "4742",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "아이오닉 6 N",
+      "imageUrl": "https://autoimg.danawa.com/photo/4742/53334/color_10_360.png",
+      "startPrice": 79900000,
+      "grades": [
+        {
+          "name": "AWD",
+          "price": 79900000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4746",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "아이오닉 6",
+      "imageUrl": "https://autoimg.danawa.com/photo/4746/53344/color_10_360.png",
+      "startPrice": 50640000,
+      "grades": [
+        {
+          "name": "이-라이트 2WD",
+          "price": 50640000
+        },
+        {
+          "name": "이-라이트 AWD",
+          "price": 52980000
+        },
+        {
+          "name": "익스클루시브 2WD",
+          "price": 55150000
+        },
+        {
+          "name": "익스클루시브 AWD",
+          "price": 57490000
+        },
+        {
+          "name": "N라인 (익스클루시브) 2WD",
+          "price": 57450000
+        },
+        {
+          "name": "N라인 (익스클루시브) AWD",
+          "price": 59800000
+        },
+        {
+          "name": "프레스티지 2WD",
+          "price": 59730000
+        },
+        {
+          "name": "프레스티지 AWD",
+          "price": 62070000
+        },
+        {
+          "name": "N 라인 (프레스티지) 2WD",
+          "price": 61320000
+        },
+        {
+          "name": "N 라인 (프레스티지) AWD",
+          "price": 63670000
+        }
+      ],
+      "gradeCount": 10
+    },
+    {
+      "id": "4088",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "아이오닉 9",
+      "imageUrl": "https://autoimg.danawa.com/photo/4088/51619/color_10_360.png",
+      "startPrice": 69030000,
+      "grades": [
+        {
+          "name": "익스클루시브 2WD",
+          "price": 69030000
+        },
+        {
+          "name": "익스클루시브 4WD (항속형)",
+          "price": 71690000
+        },
+        {
+          "name": "익스클루시브 4WD (성능형)",
+          "price": 72550000
+        },
+        {
+          "name": "프레스티지 2WD",
+          "price": 74640000
+        },
+        {
+          "name": "프레스티지 4WD (항속형)",
+          "price": 77300000
+        },
+        {
+          "name": "프레스티지 4WD (성능형)",
+          "price": 78150000
+        },
+        {
+          "name": "캘리그래피 2WD",
+          "price": 79410000
+        },
+        {
+          "name": "캘리그래피 4WD (항속형)",
+          "price": 82070000
+        },
+        {
+          "name": "캘리그래피 4WD (성능형)",
+          "price": 82920000
+        }
+      ],
+      "gradeCount": 9
+    },
+    {
+      "id": "4400",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "카운티 EV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4400/default/color_01_360.png",
+      "startPrice": 0,
+      "grades": [],
+      "gradeCount": 0
+    },
+    {
+      "id": "3502",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "카운티",
+      "imageUrl": "https://autoimg.danawa.com/photo/3502/default/color_01_360.png",
+      "startPrice": 0,
+      "grades": [],
+      "gradeCount": 0
+    },
+    {
+      "id": "4653",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "캐스퍼 EV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4653/53342/color_10_360.png",
+      "startPrice": 27870000,
+      "grades": [
+        {
+          "name": "프리미엄",
+          "price": 27870000
+        },
+        {
+          "name": "인스퍼레이션",
+          "price": 31370000
+        },
+        {
+          "name": "크로스",
+          "price": 33370000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4671",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "캐스퍼",
+      "imageUrl": "https://autoimg.danawa.com/photo/4671/52329/color_10_360.png",
+      "startPrice": 14930000,
+      "grades": [
+        {
+          "name": "스마트",
+          "price": 14930000
+        },
+        {
+          "name": "디 에센셜",
+          "price": 17710000
+        },
+        {
+          "name": "인스퍼레이션",
+          "price": 20170000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4510",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "코나 일렉트릭",
+      "imageUrl": "https://autoimg.danawa.com/photo/4510/53270/color_11_360.png",
+      "startPrice": 45660000,
+      "grades": [
+        {
+          "name": "모던 플러스",
+          "price": 45660000
+        },
+        {
+          "name": "프리미엄",
+          "price": 46570000
+        },
+        {
+          "name": "인스퍼레이션",
+          "price": 49920000
+        },
+        {
+          "name": "N 라인",
+          "price": 50860000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4361",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "코나",
+      "imageUrl": "https://autoimg.danawa.com/photo/4361/default/color_01_360.png",
+      "startPrice": 0,
+      "grades": [],
+      "gradeCount": 0
+    },
+    {
+      "id": "4003",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "파비스",
+      "imageUrl": "https://autoimg.danawa.com/photo/4003/default/color_01_360.png",
+      "startPrice": 0,
+      "grades": [],
+      "gradeCount": 0
+    },
+    {
+      "id": "4699",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "팰리세이드",
+      "imageUrl": "https://autoimg.danawa.com/photo/4699/52362/color_10_360.png",
+      "startPrice": 49680000,
+      "grades": [
+        {
+          "name": "익스클루시브 2WD",
+          "price": 49680000
+        },
+        {
+          "name": "익스클루시브 4WD",
+          "price": 53040000
+        },
+        {
+          "name": "프레스티지 2WD",
+          "price": 56420000
+        },
+        {
+          "name": "프레스티지 4WD",
+          "price": 58780000
+        },
+        {
+          "name": "캘리그래피 2WD",
+          "price": 63260000
+        },
+        {
+          "name": "캘리그래피 4WD",
+          "price": 65630000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4399",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "포터2 EV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4399/default/color_01_360.png",
+      "startPrice": 0,
+      "grades": [],
+      "gradeCount": 0
+    },
+    {
+      "id": "1901",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "포터2",
+      "imageUrl": "https://autoimg.danawa.com/photo/1901/53552/color_11_360.png",
+      "startPrice": 21520000,
+      "grades": [
+        {
+          "name": "슈퍼캡 초장축 스마트",
+          "price": 21520000
+        },
+        {
+          "name": "슈퍼캡 초장축 스마트",
+          "price": 22650000
+        },
+        {
+          "name": "슈퍼캡 초장축 모던",
+          "price": 22570000
+        },
+        {
+          "name": "슈퍼캡 초장축 모던",
+          "price": 23700000
+        },
+        {
+          "name": "슈퍼캡 초장축 프리미엄",
+          "price": 23800000
+        },
+        {
+          "name": "슈퍼캡 초장축 프리미엄",
+          "price": 24930000
+        },
+        {
+          "name": "더블캡 초장축 스마트",
+          "price": 22950000
+        },
+        {
+          "name": "더블캡 초장축 스마트",
+          "price": 24080000
+        },
+        {
+          "name": "더블캡 초장축 모던",
+          "price": 23980000
+        },
+        {
+          "name": "더블캡 초장축 모던",
+          "price": 25110000
+        },
+        {
+          "name": "더블캡 초장축 프리미엄",
+          "price": 25130000
+        },
+        {
+          "name": "더블캡 초장축 프리미엄",
+          "price": 26260000
+        },
+        {
+          "name": "일반캡 초장축 스마트",
+          "price": 21410000
+        },
+        {
+          "name": "일반캡 초장축 스마트",
+          "price": 22540000
+        },
+        {
+          "name": "일반캡 초장축 모던",
+          "price": 22420000
+        },
+        {
+          "name": "일반캡 초장축 모던",
+          "price": 23550000
+        },
+        {
+          "name": "일반캡 초장축 프리미엄",
+          "price": 23650000
+        },
+        {
+          "name": "일반캡 초장축 프리미엄",
+          "price": 24780000
+        }
+      ],
+      "gradeCount": 18
+    },
+    {
+      "id": "4065",
+      "brandId": "jeep",
+      "brandName": "지프",
+      "name": "그랜드 체로키",
+      "imageUrl": "https://autoimg.danawa.com/photo/4065/52942/color_11_360.png",
+      "startPrice": 102300000,
+      "grades": [
+        {
+          "name": "Summit Reserve",
+          "price": 102300000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4732",
+      "brandId": "jeep",
+      "brandName": "지프",
+      "name": "글래디에이터",
+      "imageUrl": "https://autoimg.danawa.com/photo/4732/53214/color_11_360.png",
+      "startPrice": 85100000,
+      "grades": [
+        {
+          "name": "Rubicon",
+          "price": 85100000
+        },
+        {
+          "name": "Fathom Blue Edition",
+          "price": 87100000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4509",
+      "brandId": "jeep",
+      "brandName": "지프",
+      "name": "랭글러",
+      "imageUrl": "https://autoimg.danawa.com/photo/4509/53678/color_11_360.png",
+      "startPrice": 83900000,
+      "grades": [
+        {
+          "name": "Rubicon 2 Door Hard Top",
+          "price": 83900000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4545",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "더 뉴 티볼리",
+      "imageUrl": "https://autoimg.danawa.com/photo/4545/53629/color_11_360.png",
+      "startPrice": 22300000,
+      "grades": [
+        {
+          "name": "V5 2WD",
+          "price": 22300000
+        },
+        {
+          "name": "V7 2WD",
+          "price": 25810000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4518",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "렉스턴 뉴 아레나",
+      "imageUrl": "https://autoimg.danawa.com/photo/4518/53376/color_10_360.png",
+      "startPrice": 39990000,
+      "grades": [
+        {
+          "name": "프리미엄 2WD",
+          "price": 39990000
+        },
+        {
+          "name": "프리미엄 4WD",
+          "price": 42010000
+        },
+        {
+          "name": "노블레스 2WD",
+          "price": 43090000
+        },
+        {
+          "name": "노블레스 4WD",
+          "price": 45110000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4666",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "무쏘 EV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4666/53071/color_11_360.png",
+      "startPrice": 48000000,
+      "grades": [
+        {
+          "name": "MX 2WD",
+          "price": 48000000
+        },
+        {
+          "name": "MX 4WD",
+          "price": 50500000
+        },
+        {
+          "name": "블랙 엣지 2WD",
+          "price": 50500000
+        },
+        {
+          "name": "블랙 엣지 4WD",
+          "price": 53000000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4716",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "무쏘 스포츠",
+      "imageUrl": "https://autoimg.danawa.com/photo/4716/53378/color_10_360.png",
+      "startPrice": 30120000,
+      "grades": [
+        {
+          "name": "와일드 2WD",
+          "price": 30120000
+        },
+        {
+          "name": "와일드 4WD",
+          "price": 32220000
+        },
+        {
+          "name": "프레스티지 2WD",
+          "price": 35390000
+        },
+        {
+          "name": "프레스티지 (블랙엣지) 2WD",
+          "price": 36040000
+        },
+        {
+          "name": "프레스티지 4WD",
+          "price": 37490000
+        },
+        {
+          "name": "프레스티지 (블랙엣지) 4WD",
+          "price": 38140000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4717",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "무쏘 칸",
+      "imageUrl": "https://autoimg.danawa.com/photo/4717/53379/color_10_360.png",
+      "startPrice": 32320000,
+      "grades": [
+        {
+          "name": "와일드 2WD",
+          "price": 32320000
+        },
+        {
+          "name": "와일드 4WD",
+          "price": 34420000
+        },
+        {
+          "name": "프레스티지 2WD",
+          "price": 37590000
+        },
+        {
+          "name": "프레스티지 (블랙엣지) 2WD",
+          "price": 38240000
+        },
+        {
+          "name": "프레스티지 4WD",
+          "price": 39690000
+        },
+        {
+          "name": "프레스티지 (블랙엣지) 4WD",
+          "price": 40340000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4766",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "무쏘",
+      "imageUrl": "https://autoimg.danawa.com/photo/4766/53570/color_11_360.png",
+      "startPrice": 29900000,
+      "grades": [
+        {
+          "name": "M5 2WD",
+          "price": 29900000
+        },
+        {
+          "name": "M5 4WD",
+          "price": 31900000
+        },
+        {
+          "name": "M7 2WD",
+          "price": 35900000
+        },
+        {
+          "name": "M7 (그랜드 스타일) 2WD",
+          "price": 36700000
+        },
+        {
+          "name": "M7 4WD",
+          "price": 37900000
+        },
+        {
+          "name": "M7 (그랜드 스타일) 4WD",
+          "price": 38700000
+        },
+        {
+          "name": "M9 2WD",
+          "price": 39900000
+        },
+        {
+          "name": "M9 (그랜드 스타일) 2WD",
+          "price": 40700000
+        },
+        {
+          "name": "M9 4WD",
+          "price": 41900000
+        },
+        {
+          "name": "M9 (그랜드 스타일) 4WD",
+          "price": 42700000
+        }
+      ],
+      "gradeCount": 10
+    },
+    {
+      "id": "4622",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "액티언",
+      "imageUrl": "https://autoimg.danawa.com/photo/4622/53301/color_11_360.png",
+      "startPrice": 36950000,
+      "grades": [
+        {
+          "name": "S8 2WD",
+          "price": 36950000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "3635",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "코란도",
+      "imageUrl": "https://autoimg.danawa.com/photo/3635/52489/color_11_360.png",
+      "startPrice": 24100000,
+      "grades": [
+        {
+          "name": "C5 2WD",
+          "price": 24100000
+        },
+        {
+          "name": "C5 플러스 2WD",
+          "price": 25930000
+        },
+        {
+          "name": "C7 2WD",
+          "price": 27870000
+        },
+        {
+          "name": "C7 4WD",
+          "price": 29700000
+        },
+        {
+          "name": "C7 블랙에디션 2WD",
+          "price": 28360000
+        },
+        {
+          "name": "C7 블랙에디션 4WD",
+          "price": 30190000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4492",
+      "brandId": "kgm",
+      "brandName": "KGM",
+      "name": "토레스 EVX",
+      "imageUrl": "https://autoimg.danawa.com/photo/4492/53664/color_11_360.png",
+      "startPrice": 46020000,
+      "grades": [
+        {
+          "name": "E5",
+          "price": 46020000
+        },
+        {
+          "name": "E7",
+          "price": 48120000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4647",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "EV3",
+      "imageUrl": "https://autoimg.danawa.com/photo/4647/53657/color_10_360.png",
+      "startPrice": 44150000,
+      "grades": [
+        {
+          "name": "에어 2WD",
+          "price": 44150000
+        },
+        {
+          "name": "에어 4WD",
+          "price": 46770000
+        },
+        {
+          "name": "어스 2WD",
+          "price": 48100000
+        },
+        {
+          "name": "어스 4WD",
+          "price": 50720000
+        },
+        {
+          "name": "GT-Line 2WD",
+          "price": 48950000
+        },
+        {
+          "name": "GT-Line 4WD",
+          "price": 51100000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4712",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "EV4",
+      "imageUrl": "https://autoimg.danawa.com/photo/4712/53660/color_10_360.png",
+      "startPrice": 44620000,
+      "grades": [
+        {
+          "name": "에어 2WD",
+          "price": 44620000
+        },
+        {
+          "name": "에어 4WD",
+          "price": 47240000
+        },
+        {
+          "name": "어스 2WD",
+          "price": 49210000
+        },
+        {
+          "name": "어스 4WD",
+          "price": 51830000
+        },
+        {
+          "name": "GT-Line 2WD",
+          "price": 50310000
+        },
+        {
+          "name": "GT-Line 4WD",
+          "price": 52460000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4128",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "EV9",
+      "imageUrl": "https://autoimg.danawa.com/photo/4128/53668/color_10_360.png",
+      "startPrice": 61970000,
+      "grades": [
+        {
+          "name": "라이트 스탠다드 (7인승)",
+          "price": 61970000
+        },
+        {
+          "name": "라이트 스탠다드 (6인승)",
+          "price": 62440000
+        },
+        {
+          "name": "라이트 롱레인지 (7인승)",
+          "price": 66420000
+        },
+        {
+          "name": "라이트 롱레인지 (6인승)",
+          "price": 66890000
+        },
+        {
+          "name": "에어 스탠다드 (7인승)",
+          "price": 64120000
+        },
+        {
+          "name": "에어 스탠다드 (6인승)",
+          "price": 64590000
+        },
+        {
+          "name": "에어 롱레인지 (7인승)",
+          "price": 68570000
+        },
+        {
+          "name": "에어 롱레인지 (6인승)",
+          "price": 69040000
+        },
+        {
+          "name": "어스 스탠다드 (7인승)",
+          "price": 68910000
+        },
+        {
+          "name": "어스 스탠다드 (6인승)",
+          "price": 69370000
+        },
+        {
+          "name": "어스 롱레인지 (7인승)",
+          "price": 73360000
+        },
+        {
+          "name": "어스 롱레인지 (6인승)",
+          "price": 73830000
+        }
+      ],
+      "gradeCount": 12
+    },
+    {
+      "id": "4714",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "PV5",
+      "imageUrl": "https://autoimg.danawa.com/photo/4714/53291/color_11_360.png",
+      "startPrice": 45400000,
+      "grades": [
+        {
+          "name": "베이직",
+          "price": 45400000
+        },
+        {
+          "name": "플러스",
+          "price": 48200000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4641",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 EV6",
+      "imageUrl": "https://autoimg.danawa.com/photo/4641/53639/color_10_360.png",
+      "startPrice": 47610000,
+      "grades": [
+        {
+          "name": "라이트 2WD",
+          "price": 47610000
+        },
+        {
+          "name": "라이트 4WD",
+          "price": 49950000
+        },
+        {
+          "name": "에어 2WD",
+          "price": 52390000
+        },
+        {
+          "name": "에어 4WD",
+          "price": 54750000
+        },
+        {
+          "name": "어스 2WD",
+          "price": 56400000
+        },
+        {
+          "name": "어스 4WD",
+          "price": 58750000
+        },
+        {
+          "name": "GT-Line 2WD",
+          "price": 57000000
+        },
+        {
+          "name": "GT-Line 4WD",
+          "price": 59340000
+        }
+      ],
+      "gradeCount": 8
+    },
+    {
+      "id": "4585",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 K5",
+      "imageUrl": "https://autoimg.danawa.com/photo/4585/53302/color_10_360.png",
+      "startPrice": 32410000,
+      "grades": [
+        {
+          "name": "프레스티지",
+          "price": 32410000
+        },
+        {
+          "name": "베스트 셀렉션",
+          "price": 33490000
+        },
+        {
+          "name": "노블레스",
+          "price": 35730000
+        },
+        {
+          "name": "시그니처",
+          "price": 38680000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4665",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 K8",
+      "imageUrl": "https://autoimg.danawa.com/photo/4665/53307/color_10_360.png",
+      "startPrice": 42060000,
+      "grades": [
+        {
+          "name": "노블레스 라이트",
+          "price": 42060000
+        },
+        {
+          "name": "베스트 셀렉션",
+          "price": 43400000
+        },
+        {
+          "name": "노블레스",
+          "price": 45520000
+        },
+        {
+          "name": "시그니처",
+          "price": 49170000
+        },
+        {
+          "name": "시그니처 블랙",
+          "price": 50530000
+        }
+      ],
+      "gradeCount": 5
+    },
+    {
+      "id": "4066",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 K9",
+      "imageUrl": "https://autoimg.danawa.com/photo/4066/53671/color_10_360.png",
+      "startPrice": 65940000,
+      "grades": [
+        {
+          "name": "플래티넘 RWD",
+          "price": 65940000
+        },
+        {
+          "name": "플래티넘 AWD",
+          "price": 68380000
+        },
+        {
+          "name": "베스트 셀렉션 I AWD",
+          "price": 73700000
+        },
+        {
+          "name": "마스터즈 AWD",
+          "price": 78820000
+        },
+        {
+          "name": "베스트 셀렉션 II AWD",
+          "price": 85820000
+        }
+      ],
+      "gradeCount": 5
+    },
+    {
+      "id": "4689",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 레이",
+      "imageUrl": "https://autoimg.danawa.com/photo/4689/53384/color_11_360.png",
+      "startPrice": 14900000,
+      "grades": [
+        {
+          "name": "트렌디",
+          "price": 14900000
+        },
+        {
+          "name": "프레스티지",
+          "price": 17600000
+        },
+        {
+          "name": "시그니처",
+          "price": 19030000
+        },
+        {
+          "name": "X-Line",
+          "price": 20030000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4554",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 모닝",
+      "imageUrl": "https://autoimg.danawa.com/photo/4554/52374/color_11_360.png",
+      "startPrice": 13950000,
+      "grades": [
+        {
+          "name": "트렌디",
+          "price": 13950000
+        },
+        {
+          "name": "프레스티지",
+          "price": 15750000
+        },
+        {
+          "name": "시그니처",
+          "price": 17750000
+        },
+        {
+          "name": "GT-Line",
+          "price": 18700000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4391",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 셀토스",
+      "imageUrl": "https://autoimg.danawa.com/photo/4391/53252/color_10_360.png",
+      "startPrice": 22660000,
+      "grades": [
+        {
+          "name": "트렌디 2WD",
+          "price": 22660000
+        },
+        {
+          "name": "트렌디 4WD",
+          "price": 24410000
+        },
+        {
+          "name": "프레스티지 2WD",
+          "price": 26090000
+        },
+        {
+          "name": "프레스티지 4WD",
+          "price": 27840000
+        },
+        {
+          "name": "시그니처 2WD",
+          "price": 28570000
+        },
+        {
+          "name": "시그니처 4WD",
+          "price": 30320000
+        },
+        {
+          "name": "X-Line 2WD",
+          "price": 29060000
+        },
+        {
+          "name": "X-Line 4WD",
+          "price": 30810000
+        }
+      ],
+      "gradeCount": 8
+    },
+    {
+      "id": "4684",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 스포티지",
+      "imageUrl": "https://autoimg.danawa.com/photo/4684/53375/color_10_360.png",
+      "startPrice": 33460000,
+      "grades": [
+        {
+          "name": "프레스티지 2WD",
+          "price": 33460000
+        },
+        {
+          "name": "프레스티지 4WD",
+          "price": 35650000
+        },
+        {
+          "name": "노블레스 2WD",
+          "price": 36700000
+        },
+        {
+          "name": "노블레스 4WD",
+          "price": 38900000
+        },
+        {
+          "name": "시그니처 2WD",
+          "price": 39310000
+        },
+        {
+          "name": "시그니처 4WD",
+          "price": 41500000
+        },
+        {
+          "name": "X-Line 2WD",
+          "price": 39950000
+        },
+        {
+          "name": "X-Line 4WD",
+          "price": 42140000
+        }
+      ],
+      "gradeCount": 8
+    },
+    {
+      "id": "4563",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 쏘렌토",
+      "imageUrl": "https://autoimg.danawa.com/photo/4563/53335/color_10_360.png",
+      "startPrice": 38960000,
+      "grades": [
+        {
+          "name": "프레스티지 (5인승)",
+          "price": 38960000
+        },
+        {
+          "name": "프레스티지 (6인승)",
+          "price": 39790000
+        },
+        {
+          "name": "프레스티지 (7인승)",
+          "price": 39640000
+        },
+        {
+          "name": "노블레스 (5인승)",
+          "price": 42170000
+        },
+        {
+          "name": "노블레스 (6인승)",
+          "price": 43000000
+        },
+        {
+          "name": "노블레스 (7인승)",
+          "price": 42850000
+        },
+        {
+          "name": "시그니처 (5인승)",
+          "price": 44670000
+        },
+        {
+          "name": "시그니처 (6인승)",
+          "price": 45490000
+        },
+        {
+          "name": "시그니처 (7인승)",
+          "price": 45350000
+        },
+        {
+          "name": "X-Line (5인승)",
+          "price": 45590000
+        },
+        {
+          "name": "X-Line (6인승)",
+          "price": 46420000
+        },
+        {
+          "name": "X-Line (7인승)",
+          "price": 46270000
+        }
+      ],
+      "gradeCount": 12
+    },
+    {
+      "id": "4586",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 뉴 카니발",
+      "imageUrl": "https://autoimg.danawa.com/photo/4586/52417/color_10_360.png",
+      "startPrice": 47080000,
+      "grades": [
+        {
+          "name": "노블레스",
+          "price": 47080000
+        },
+        {
+          "name": "아웃도어",
+          "price": 46110000
+        },
+        {
+          "name": "시그니처",
+          "price": 50800000
+        },
+        {
+          "name": "X-Line",
+          "price": 51320000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4691",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "더 레이 EV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4691/53388/color_11_360.png",
+      "startPrice": 28350000,
+      "grades": [
+        {
+          "name": "라이트",
+          "price": 28350000
+        },
+        {
+          "name": "에어",
+          "price": 30350000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4396",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "디 올 뉴 니로 EV",
+      "imageUrl": "https://autoimg.danawa.com/photo/4396/53255/color_10_360.png",
+      "startPrice": 48550000,
+      "grades": [
+        {
+          "name": "에어",
+          "price": 48550000
+        },
+        {
+          "name": "어스",
+          "price": 51200000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4130",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "디 올 뉴 니로",
+      "imageUrl": "https://autoimg.danawa.com/photo/4130/53254/color_10_360.png",
+      "startPrice": 27870000,
+      "grades": [
+        {
+          "name": "트렌디",
+          "price": 27870000
+        },
+        {
+          "name": "프레스티지",
+          "price": 30980000
+        },
+        {
+          "name": "베스트 셀렉션",
+          "price": 32060000
+        },
+        {
+          "name": "시그니처",
+          "price": 34980000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4686",
+      "brandId": "kia",
+      "brandName": "기아",
+      "name": "타스만",
+      "imageUrl": "https://autoimg.danawa.com/photo/4686/52081/color_10_360.png",
+      "startPrice": 37500000,
+      "grades": [
+        {
+          "name": "다이내믹 2WD",
+          "price": 37500000
+        },
+        {
+          "name": "다이내믹 4WD",
+          "price": 40150000
+        },
+        {
+          "name": "어드벤처 2WD",
+          "price": 41100000
+        },
+        {
+          "name": "어드벤처 4WD",
+          "price": 43750000
+        },
+        {
+          "name": "익스트림 2WD",
+          "price": 44900000
+        },
+        {
+          "name": "익스트림 4WD",
+          "price": 47550000
+        }
+      ],
+      "gradeCount": 6
+    },
+    {
+      "id": "4064",
+      "brandId": "landrover",
+      "brandName": "랜드로버",
+      "name": "디스커버리",
+      "imageUrl": "https://autoimg.danawa.com/photo/4064/53161/color_11_360.png",
+      "startPrice": 96000000,
+      "grades": [
+        {
+          "name": "P300 S",
+          "price": 96000000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4031",
+      "brandId": "lexus",
+      "brandName": "렉서스",
+      "name": "LS",
+      "imageUrl": "https://autoimg.danawa.com/photo/4031/53544/color_11_360.png",
+      "startPrice": 155970000,
+      "grades": [
+        {
+          "name": "500h Luxury AWD",
+          "price": 155970000
+        },
+        {
+          "name": "500h Platinum AWD",
+          "price": 176870000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4164",
+      "brandId": "lexus",
+      "brandName": "렉서스",
+      "name": "NX",
+      "imageUrl": "https://autoimg.danawa.com/photo/4164/53598/color_11_360.png",
+      "startPrice": 66950000,
+      "grades": [
+        {
+          "name": "350h Premium",
+          "price": 66950000
+        },
+        {
+          "name": "350h Luxury",
+          "price": 76130000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4093",
+      "brandId": "lexus",
+      "brandName": "렉서스",
+      "name": "New ES",
+      "imageUrl": "https://autoimg.danawa.com/photo/4093/52238/color_11_360.png",
+      "startPrice": 67250000,
+      "grades": [
+        {
+          "name": "300h Luxury Plus",
+          "price": 67250000
+        },
+        {
+          "name": "300h Executive",
+          "price": 71880000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4390",
+      "brandId": "lexus",
+      "brandName": "렉서스",
+      "name": "RX",
+      "imageUrl": "https://autoimg.danawa.com/photo/4390/53643/color_11_360.png",
+      "startPrice": 86750000,
+      "grades": [
+        {
+          "name": "350h Premium",
+          "price": 86750000
+        },
+        {
+          "name": "350h Luxury",
+          "price": 97430000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "3688",
+      "brandId": "lexus",
+      "brandName": "렉서스",
+      "name": "UX",
+      "imageUrl": "https://autoimg.danawa.com/photo/3688/53601/color_11_360.png",
+      "startPrice": 52120000,
+      "grades": [
+        {
+          "name": "300h 2WD",
+          "price": 52120000
+        },
+        {
+          "name": "300h F SPORT",
+          "price": 58700000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4512",
+      "brandId": "lincoln",
+      "brandName": "링컨",
+      "name": "노틸러스",
+      "imageUrl": "https://autoimg.danawa.com/photo/4512/52938/color_11_360.png",
+      "startPrice": 76200000,
+      "grades": [
+        {
+          "name": "Reserve",
+          "price": 76200000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4377",
+      "brandId": "peugeot",
+      "brandName": "푸조",
+      "name": "408",
+      "imageUrl": "https://autoimg.danawa.com/photo/4377/53313/color_11_360.png",
+      "startPrice": 43900000,
+      "grades": [
+        {
+          "name": "Allure",
+          "price": 43900000
+        },
+        {
+          "name": "GT",
+          "price": 48900000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4628",
+      "brandId": "peugeot",
+      "brandName": "푸조",
+      "name": "5008",
+      "imageUrl": "https://autoimg.danawa.com/photo/4628/53622/color_11_360.png",
+      "startPrice": 48900000,
+      "grades": [
+        {
+          "name": "Allure",
+          "price": 48900000
+        },
+        {
+          "name": "GT",
+          "price": 55900000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4468",
+      "brandId": "polestar",
+      "brandName": "폴스타",
+      "name": "폴스타 2",
+      "imageUrl": "https://autoimg.danawa.com/photo/4468/52983/color_10_360.png",
+      "startPrice": 43900000,
+      "grades": [
+        {
+          "name": "Standard range Single motor",
+          "price": 43900000
+        },
+        {
+          "name": "Long range Single motor",
+          "price": 54900000
+        },
+        {
+          "name": "Long range Dual motor + Pilot pack",
+          "price": 60900000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4593",
+      "brandId": "porsche",
+      "brandName": "포르쉐",
+      "name": "파나메라",
+      "imageUrl": "https://autoimg.danawa.com/photo/4593/53133/color_11_360.png",
+      "startPrice": 194000000,
+      "grades": [
+        {
+          "name": "Panamera 4 E-Hybrid",
+          "price": 194000000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "3815",
+      "brandId": "smartev",
+      "brandName": "SMART EV",
+      "name": "D2C",
+      "imageUrl": "https://autoimg.danawa.com/photo/3815/50615/color_11_360.png",
+      "startPrice": 19800000,
+      "grades": [
+        {
+          "name": "D2C",
+          "price": 19800000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "3836",
+      "brandId": "smartev",
+      "brandName": "SMART EV",
+      "name": "D2P",
+      "imageUrl": "https://autoimg.danawa.com/photo/3836/50616/color_11_360.png",
+      "startPrice": 19800000,
+      "grades": [
+        {
+          "name": "D2P",
+          "price": 19800000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "3904",
+      "brandId": "smartev",
+      "brandName": "SMART EV",
+      "name": "Z",
+      "imageUrl": "https://autoimg.danawa.com/photo/3904/50614/color_11_360.png",
+      "startPrice": 27500000,
+      "grades": [
+        {
+          "name": "EV Z",
+          "price": 27500000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4177",
+      "brandId": "toyota",
+      "brandName": "토요타",
+      "name": "GR 86",
+      "imageUrl": "https://autoimg.danawa.com/photo/4177/53495/color_12_360.png",
+      "startPrice": 42970000,
+      "grades": [
+        {
+          "name": "Standard",
+          "price": 42970000
+        },
+        {
+          "name": "Premium",
+          "price": 48960000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4173",
+      "brandId": "toyota",
+      "brandName": "토요타",
+      "name": "RAV4",
+      "imageUrl": "https://autoimg.danawa.com/photo/4173/53259/color_11_360.png",
+      "startPrice": 44150000,
+      "grades": [
+        {
+          "name": "2WD XLE",
+          "price": 44150000
+        },
+        {
+          "name": "AWD LTD",
+          "price": 49980000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4063",
+      "brandId": "toyota",
+      "brandName": "토요타",
+      "name": "시에나",
+      "imageUrl": "https://autoimg.danawa.com/photo/4063/53120/color_11_360.png",
+      "startPrice": 72890000,
+      "grades": [
+        {
+          "name": "2WD",
+          "price": 72890000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4473",
+      "brandId": "toyota",
+      "brandName": "토요타",
+      "name": "알파드",
+      "imageUrl": "https://autoimg.danawa.com/photo/4473/53628/color_11_360.png",
+      "startPrice": 86780000,
+      "grades": [
+        {
+          "name": "AWD Premium",
+          "price": 86780000
+        },
+        {
+          "name": "AWD Executive",
+          "price": 100490000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4447",
+      "brandId": "toyota",
+      "brandName": "토요타",
+      "name": "크라운",
+      "imageUrl": "https://autoimg.danawa.com/photo/4447/53404/color_11_360.png",
+      "startPrice": 68450000,
+      "grades": [
+        {
+          "name": "2.4L HEV Dual Boost",
+          "price": 68450000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4439",
+      "brandId": "toyota",
+      "brandName": "토요타",
+      "name": "프리우스",
+      "imageUrl": "https://autoimg.danawa.com/photo/4439/53400/color_11_360.png",
+      "startPrice": 39680000,
+      "grades": [
+        {
+          "name": "LE",
+          "price": 39680000
+        },
+        {
+          "name": "XLE",
+          "price": 43530000
+        },
+        {
+          "name": "AWD XLE",
+          "price": 45300000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4460",
+      "brandId": "toyota",
+      "brandName": "토요타",
+      "name": "하이랜더",
+      "imageUrl": "https://autoimg.danawa.com/photo/4460/52230/color_11_360.png",
+      "startPrice": 74030000,
+      "grades": [
+        {
+          "name": "Platinum",
+          "price": 74030000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4007",
+      "brandId": "volvo",
+      "brandName": "볼보",
+      "name": "V90 크로스 컨트리",
+      "imageUrl": "https://autoimg.danawa.com/photo/4007/52861/color_11_360.png",
+      "startPrice": 71548000,
+      "grades": [
+        {
+          "name": "B5 AWD Plus",
+          "price": 71548000
+        },
+        {
+          "name": "B5 AWD Ultra",
+          "price": 77666580
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4405",
+      "brandId": "volvo",
+      "brandName": "볼보",
+      "name": "XC40",
+      "imageUrl": "https://autoimg.danawa.com/photo/4405/53468/color_11_360.png",
+      "startPrice": 51201700,
+      "grades": [
+        {
+          "name": "B4 Plus Bright AWD",
+          "price": 51201700
+        },
+        {
+          "name": "B4 Ultra Bright AWD",
+          "price": 54161340
+        },
+        {
+          "name": "B4 Ultra Dark AWD",
+          "price": 54457300
+        },
+        {
+          "name": "B4 Black Edition AWD",
+          "price": 56100000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4659",
+      "brandId": "르노코리아",
+      "brandName": "르노코리아",
+      "name": "그랑 콜레오스",
+      "imageUrl": "https://autoimg.danawa.com/photo/4659/52469/color_10_360.png",
+      "startPrice": 38150000,
+      "grades": [
+        {
+          "name": "테크노",
+          "price": 38150000
+        },
+        {
+          "name": "아이코닉",
+          "price": 42090000
+        },
+        {
+          "name": "에스프리 알핀",
+          "price": 44060000
+        },
+        {
+          "name": "에스카파드",
+          "price": 43920000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4772",
+      "brandId": "르노코리아",
+      "brandName": "르노코리아",
+      "name": "필랑트",
+      "imageUrl": "https://autoimg.danawa.com/photo/4772/53621/color_10_360.png",
+      "startPrice": 43320000,
+      "grades": [
+        {
+          "name": "테크노",
+          "price": 43320000
+        },
+        {
+          "name": "아이코닉",
+          "price": 46970000
+        },
+        {
+          "name": "에스프리 알핀",
+          "price": 49720000
+        },
+        {
+          "name": "에스프리 알핀 1955",
+          "price": 52190000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4474",
+      "brandId": "쉐보레",
+      "brandName": "쉐보레",
+      "name": "더 뉴 트레일블레이저",
+      "imageUrl": "https://autoimg.danawa.com/photo/4474/53261/color_10_360.png",
+      "startPrice": 27570000,
+      "grades": [
+        {
+          "name": "프리미어 2WD",
+          "price": 27570000
+        },
+        {
+          "name": "프리미어 미드나잇 에디션 2WD",
+          "price": 29050000
+        },
+        {
+          "name": "RS 2WD",
+          "price": 30520000
+        },
+        {
+          "name": "RS AWD",
+          "price": 32880000
+        }
+      ],
+      "gradeCount": 4
+    },
+    {
+      "id": "4429",
+      "brandId": "쉐보레",
+      "brandName": "쉐보레",
+      "name": "트랙스 크로스오버",
+      "imageUrl": "https://autoimg.danawa.com/photo/4429/53333/color_11_360.png",
+      "startPrice": 21550000,
+      "grades": [
+        {
+          "name": "LS",
+          "price": 21550000
+        },
+        {
+          "name": "레드라인",
+          "price": 25650000
+        },
+        {
+          "name": "액티브",
+          "price": 27930000
+        },
+        {
+          "name": "RS",
+          "price": 28510000
+        },
+        {
+          "name": "RS 미드나잇 에디션",
+          "price": 29300000
+        }
+      ],
+      "gradeCount": 5
+    },
+    {
+      "id": "4045",
+      "brandId": "쎄보모빌리티",
+      "brandName": "쎄보모빌리티",
+      "name": "CEVO-C SE",
+      "imageUrl": "https://autoimg.danawa.com/photo/4045/50503/color_11_360.png",
+      "startPrice": 16900000,
+      "grades": [
+        {
+          "name": "기본형",
+          "price": 16900000
+        }
+      ],
+      "gradeCount": 1
+    },
+    {
+      "id": "4610",
+      "brandId": "테슬라",
+      "brandName": "테슬라",
+      "name": "모델 3 하이랜드",
+      "imageUrl": "https://autoimg.danawa.com/photo/4610/53634/color_10_360.png",
+      "startPrice": 41990000,
+      "grades": [
+        {
+          "name": "Standard",
+          "price": 41990000
+        },
+        {
+          "name": "Premium",
+          "price": 52990000
+        },
+        {
+          "name": "Performance",
+          "price": 59990000
+        }
+      ],
+      "gradeCount": 3
+    },
+    {
+      "id": "4027",
+      "brandId": "테슬라",
+      "brandName": "테슬라",
+      "name": "모델 X",
+      "imageUrl": "https://autoimg.danawa.com/photo/4027/52950/color_10_360.png",
+      "startPrice": 135000000,
+      "grades": [
+        {
+          "name": "AWD",
+          "price": 135000000
+        },
+        {
+          "name": "Plaid",
+          "price": 150000000
+        }
+      ],
+      "gradeCount": 2
+    },
+    {
+      "id": "4667",
+      "brandId": "테슬라",
+      "brandName": "테슬라",
+      "name": "모델 Y 주니퍼",
+      "imageUrl": "https://autoimg.danawa.com/photo/4667/53635/color_10_360.png",
+      "startPrice": 49990000,
+      "grades": [
+        {
+          "name": "Premium RWD",
+          "price": 49990000
+        },
+        {
+          "name": "Premium Long Range",
+          "price": 59990000
+        }
+      ],
+      "gradeCount": 2
+    }
+  ]
+}

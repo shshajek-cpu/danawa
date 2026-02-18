@@ -4,133 +4,133 @@
       "id": "audi",
       "name": "아우디",
       "carCount": 14,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23bb0a30%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/audi.svg"
     },
     {
       "id": "benz",
       "name": "벤츠",
       "carCount": 25,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23000000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2216%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EMB%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/benz.svg"
     },
     {
       "id": "bmw",
       "name": "BMW",
       "carCount": 31,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%230066b1%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2212%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EBMW%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/bmw.svg"
     },
     {
       "id": "cadillac",
       "name": "캐딜락",
       "carCount": 3,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23000000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/cadillac.svg"
     },
     {
       "id": "genesis",
       "name": "제네시스",
       "carCount": 9,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%231e1e1e%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/genesis.svg"
     },
     {
       "id": "gmc",
       "name": "GMC",
       "carCount": 3,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23c8102e%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2212%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EGMC%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/gmc.svg"
     },
     {
       "id": "honda",
       "name": "혼다",
       "carCount": 4,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23cc0000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/honda.svg"
     },
     {
       "id": "hyundai",
       "name": "현대",
       "carCount": 22,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23002c5f%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/hyundai.svg"
     },
     {
       "id": "jeep",
       "name": "지프",
       "carCount": 3,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23154734%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/jeep.svg"
     },
     {
       "id": "kgm",
       "name": "KGM",
       "carCount": 7,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23c8102e%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2212%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EKGM%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/kgm.svg"
     },
     {
       "id": "kia",
       "name": "기아",
       "carCount": 22,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23bb162b%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/kia.svg"
     },
     {
       "id": "landrover",
       "name": "랜드로버",
       "carCount": 7,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23005a2b%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2216%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3ELR%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/landrover.svg"
     },
     {
       "id": "lexus",
       "name": "렉서스",
       "carCount": 7,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23000000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/lexus.svg"
     },
     {
       "id": "lincoln",
       "name": "링컨",
       "carCount": 1,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23000000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/lincoln.svg"
     },
     {
       "id": "peugeot",
       "name": "푸조",
       "carCount": 4,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%230057a3%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/peugeot.svg"
     },
     {
       "id": "polestar",
       "name": "폴스타",
       "carCount": 2,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23ffcc00%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2216%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EP*%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/polestar.svg"
     },
     {
       "id": "porsche",
       "name": "포르쉐",
       "carCount": 5,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23d5001c%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/porsche.svg"
     },
     {
       "id": "toyota",
       "name": "토요타",
       "carCount": 8,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23eb0a1e%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/toyota.svg"
     },
     {
       "id": "volvo",
       "name": "볼보",
       "carCount": 8,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23003057%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/volvo.svg"
     },
     {
       "id": "르노코리아",
       "name": "르노코리아",
       "carCount": 4,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23ffcc00%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/renault.svg"
     },
     {
       "id": "쉐보레",
       "name": "쉐보레",
       "carCount": 3,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23d9a300%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/chevrolet.svg"
     },
     {
       "id": "테슬라",
       "name": "테슬라",
       "carCount": 5,
-      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23cc0000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fsvg%3E"
+      "logoUrl": "/brands/tesla.svg"
     }
   ],
   "cars": [
@@ -1199,7 +1199,7 @@
           "price": 94770000
         }
       ],
-      "gradeCount": 22,
+      "gradeCount": 18,
       "fuelType": "가솔린"
     },
     {
@@ -1492,34 +1492,90 @@
       "brandName": "현대",
       "name": "디 올 뉴 그랜저",
       "imageUrl": "/cars/4188.png",
-      "startPrice": 37980000,
+      "startPrice": 38570000,
       "grades": [
         {
           "name": "프리미엄",
-          "price": 43540000
+          "price": 38570000
         },
         {
           "name": "익스클루시브",
-          "price": 48430000
+          "price": 43530000
         },
         {
           "name": "아너스",
-          "price": 50690000
+          "price": 45830000
         },
         {
           "name": "캘리그래피",
-          "price": 52660000
+          "price": 47830000
         },
         {
-          "name": "캘리그래피 (블랙익스테리어)",
-          "price": 52660000
+          "name": "캘리그래피 블랙 익스테리어",
+          "price": 47830000
         },
         {
-          "name": "캘리그래피 (블랙잉크)",
-          "price": 53930000
+          "name": "캘리그래피 블랙 잉크",
+          "price": 49120000
+        },
+        {
+          "name": "프리미엄 (3.5)",
+          "price": 41040000
+        },
+        {
+          "name": "익스클루시브 (3.5)",
+          "price": 46000000
+        },
+        {
+          "name": "아너스 (3.5)",
+          "price": 48300000
+        },
+        {
+          "name": "캘리그래피 (3.5)",
+          "price": 50300000
+        },
+        {
+          "name": "캘리그래피 블랙 익스테리어 (3.5)",
+          "price": 50300000
+        },
+        {
+          "name": "캘리그래피 블랙 잉크 (3.5)",
+          "price": 51590000
+        },
+        {
+          "name": "프리미엄 (HEV)",
+          "price": 43800000
+        },
+        {
+          "name": "익스클루시브 (HEV)",
+          "price": 48760000
+        },
+        {
+          "name": "아너스 (HEV)",
+          "price": 51060000
+        },
+        {
+          "name": "캘리그래피 (HEV)",
+          "price": 53060000
+        },
+        {
+          "name": "캘리그래피 블랙 익스테리어 (HEV)",
+          "price": 53060000
+        },
+        {
+          "name": "캘리그래피 블랙 잉크 (HEV)",
+          "price": 54350000
+        },
+        {
+          "name": "프리미엄 (LPG)",
+          "price": 39250000
+        },
+        {
+          "name": "익스클루시브 (LPG)",
+          "price": 44150000
         }
       ],
-      "gradeCount": 26,
+      "gradeCount": 20,
       "fuelType": "가솔린"
     },
     {
@@ -1555,23 +1611,79 @@
       "startPrice": 32590000,
       "grades": [
         {
-          "name": "11인승 스마트 2WD",
-          "price": 38700000
+          "name": "스마트 (LPG 카고 3인)",
+          "price": 32590000
         },
         {
-          "name": "11인승 모던 2WD",
-          "price": 39990000
+          "name": "모던 (LPG 카고 3인)",
+          "price": 34120000
         },
         {
-          "name": "9인승 스마트 2WD",
+          "name": "스마트 (LPG 카고 5인)",
+          "price": 33330000
+        },
+        {
+          "name": "모던 (LPG 카고 5인)",
+          "price": 34900000
+        },
+        {
+          "name": "스마트 (HEV 카고 2인)",
+          "price": 36170000
+        },
+        {
+          "name": "모던 (HEV 카고 2인)",
+          "price": 37450000
+        },
+        {
+          "name": "스마트 (HEV 카고 5인)",
+          "price": 36860000
+        },
+        {
+          "name": "모던 (HEV 카고 5인)",
+          "price": 38200000
+        },
+        {
+          "name": "스마트 (LPG 투어러 11인)",
+          "price": 35020000
+        },
+        {
+          "name": "모던 (LPG 투어러 11인)",
+          "price": 36590000
+        },
+        {
+          "name": "스마트 (HEV 투어러 9인)",
           "price": 38760000
         },
         {
-          "name": "9인승 모던 2WD",
+          "name": "모던 (HEV 투어러 9인)",
           "price": 39990000
+        },
+        {
+          "name": "스마트 (HEV 투어러 11인)",
+          "price": 38700000
+        },
+        {
+          "name": "모던 (HEV 투어러 11인)",
+          "price": 39990000
+        },
+        {
+          "name": "인스퍼레이션 (LPG 라운지 7인)",
+          "price": 47050000
+        },
+        {
+          "name": "인스퍼레이션 (HEV 라운지 7인)",
+          "price": 50210000
+        },
+        {
+          "name": "프레스티지 (HEV 라운지 9인)",
+          "price": 44990000
+        },
+        {
+          "name": "인스퍼레이션 (HEV 라운지 9인)",
+          "price": 48760000
         }
       ],
-      "gradeCount": 25,
+      "gradeCount": 18,
       "fuelType": "가솔린"
     },
     {
@@ -1655,7 +1767,7 @@
           "price": 48750000
         }
       ],
-      "gradeCount": 36,
+      "gradeCount": 48,
       "fuelType": "가솔린"
     },
     {
@@ -1664,26 +1776,54 @@
       "brandName": "현대",
       "name": "쏘나타",
       "imageUrl": "/cars/4466.png",
-      "startPrice": 28920000,
+      "startPrice": 28700000,
       "grades": [
         {
           "name": "프리미엄",
-          "price": 32700000
+          "price": 28700000
         },
         {
           "name": "에스",
-          "price": 33710000
+          "price": 29560000
         },
         {
           "name": "익스클루시브",
-          "price": 36740000
+          "price": 33100000
         },
         {
           "name": "인스퍼레이션",
-          "price": 39790000
+          "price": 36040000
+        },
+        {
+          "name": "프리미엄 (HEV)",
+          "price": 32790000
+        },
+        {
+          "name": "에스 (HEV)",
+          "price": 33810000
+        },
+        {
+          "name": "익스클루시브 (HEV)",
+          "price": 36890000
+        },
+        {
+          "name": "인스퍼레이션 (HEV)",
+          "price": 39990000
+        },
+        {
+          "name": "프리미엄 (LPG)",
+          "price": 29100000
+        },
+        {
+          "name": "익스클루시브 (LPG)",
+          "price": 33090000
+        },
+        {
+          "name": "인스퍼레이션 (LPG)",
+          "price": 35740000
         }
       ],
-      "gradeCount": 12,
+      "gradeCount": 11,
       "fuelType": "가솔린"
     },
     {
@@ -2520,26 +2660,74 @@
       "grades": [
         {
           "name": "노블레스 라이트",
-          "price": 42060000
+          "price": 36790000
         },
         {
           "name": "베스트 셀렉션",
-          "price": 43400000
+          "price": 38130000
         },
         {
           "name": "노블레스",
-          "price": 45520000
+          "price": 40260000
         },
         {
           "name": "시그니처",
-          "price": 49170000
+          "price": 43900000
         },
         {
           "name": "시그니처 블랙",
+          "price": 45460000
+        },
+        {
+          "name": "노블레스 라이트 (3.5)",
+          "price": 39870000
+        },
+        {
+          "name": "베스트 셀렉션 (3.5)",
+          "price": 40960000
+        },
+        {
+          "name": "노블레스 (3.5)",
+          "price": 43090000
+        },
+        {
+          "name": "시그니처 (3.5)",
+          "price": 46730000
+        },
+        {
+          "name": "시그니처 블랙 (3.5)",
+          "price": 48290000
+        },
+        {
+          "name": "노블레스 라이트 (HEV)",
+          "price": 42060000
+        },
+        {
+          "name": "베스트 셀렉션 (HEV)",
+          "price": 43390000
+        },
+        {
+          "name": "노블레스 (HEV)",
+          "price": 45520000
+        },
+        {
+          "name": "시그니처 (HEV)",
+          "price": 49170000
+        },
+        {
+          "name": "시그니처 블랙 (HEV)",
           "price": 50530000
+        },
+        {
+          "name": "프레스티지 (LPG)",
+          "price": 37250000
+        },
+        {
+          "name": "노블레스 (LPG)",
+          "price": 41030000
         }
       ],
-      "gradeCount": 20,
+      "gradeCount": 17,
       "fuelType": "가솔린"
     },
     {
@@ -2548,10 +2736,10 @@
       "brandName": "기아",
       "name": "더 뉴 K9",
       "imageUrl": "/cars/4066.png",
-      "startPrice": 65940000,
+      "startPrice": 60410000,
       "grades": [
         {
-          "name": "플래티넘 RWD",
+          "name": "플래티넘",
           "price": 65940000
         },
         {
@@ -2559,16 +2747,36 @@
           "price": 68380000
         },
         {
-          "name": "베스트 셀렉션 I AWD",
+          "name": "플래티넘 베스트 셀렉션Ⅰ",
           "price": 73700000
         },
         {
-          "name": "마스터즈 AWD",
+          "name": "마스터즈",
           "price": 78820000
         },
         {
-          "name": "베스트 셀렉션 II AWD",
+          "name": "마스터즈 베스트 셀렉션Ⅱ",
           "price": 85820000
+        },
+        {
+          "name": "플래티넘 (3.8)",
+          "price": 60410000
+        },
+        {
+          "name": "플래티넘 AWD (3.8)",
+          "price": 62880000
+        },
+        {
+          "name": "플래티넘 베스트 셀렉션Ⅰ (3.8)",
+          "price": 69080000
+        },
+        {
+          "name": "마스터즈 (3.8)",
+          "price": 75290000
+        },
+        {
+          "name": "마스터즈 베스트 셀렉션Ⅱ (3.8)",
+          "price": 82390000
         }
       ],
       "gradeCount": 10,
@@ -2715,7 +2923,7 @@
           "price": 42140000
         }
       ],
-      "gradeCount": 28,
+      "gradeCount": 20,
       "fuelType": "가솔린"
     },
     {
@@ -2803,8 +3011,8 @@
           "price": 51320000
         }
       ],
-      "gradeCount": 28,
-      "fuelType": "디젤"
+      "gradeCount": 29,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4691",

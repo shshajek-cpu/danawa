@@ -1,0 +1,1259 @@
+{
+  "fixed": [
+    {
+      "id": "1901",
+      "name": "포터2",
+      "brand": "현대",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "3537",
+      "name": "A7",
+      "brand": "아우디",
+      "oldCount": 11,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "3654",
+      "name": "베뉴",
+      "brand": "현대",
+      "oldCount": 10,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "3668",
+      "name": "Q3",
+      "brand": "아우디",
+      "oldCount": 12,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "3688",
+      "name": "UX",
+      "brand": "렉서스",
+      "oldCount": 12,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "3713",
+      "name": "A6",
+      "brand": "아우디",
+      "oldCount": 12,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "3772",
+      "name": "봉고 3",
+      "brand": "기아",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "3775",
+      "name": "디펜더",
+      "brand": "랜드로버",
+      "oldCount": 8,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "3995",
+      "name": "더 뉴 G70 FL",
+      "brand": "제네시스",
+      "oldCount": 16,
+      "newCount": 10,
+      "changes": []
+    },
+    {
+      "id": "4007",
+      "name": "V90 크로스 컨트리",
+      "brand": "볼보",
+      "oldCount": 9,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4016",
+      "name": "G90",
+      "brand": "제네시스",
+      "oldCount": 14,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4027",
+      "name": "모델 X FL",
+      "brand": "테슬라",
+      "oldCount": 8,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4031",
+      "name": "LS FL",
+      "brand": "렉서스",
+      "oldCount": 10,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4043",
+      "name": "Model S",
+      "brand": "테슬라",
+      "oldCount": 8,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4061",
+      "name": "리릭",
+      "brand": "캐딜락",
+      "oldCount": 6,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4062",
+      "name": "Q4 e-tron",
+      "brand": "아우디",
+      "oldCount": 7,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4063",
+      "name": "시에나",
+      "brand": "토요타",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4064",
+      "name": "디스커버리",
+      "brand": "랜드로버",
+      "oldCount": 10,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4066",
+      "name": "더 뉴 K9",
+      "brand": "기아",
+      "oldCount": 8,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4088",
+      "name": "아이오닉 9",
+      "brand": "현대",
+      "oldCount": 13,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4093",
+      "name": "New ES FL",
+      "brand": "렉서스",
+      "oldCount": 13,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4114",
+      "name": "2시리즈 액티브 투어러",
+      "brand": "BMW",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4127",
+      "name": "시에라",
+      "brand": "GMC",
+      "oldCount": 2,
+      "newCount": 1,
+      "changes": []
+    },
+    {
+      "id": "4128",
+      "name": "EV9",
+      "brand": "기아",
+      "oldCount": 9,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4130",
+      "name": "디 올 뉴 니로",
+      "brand": "기아",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4142",
+      "name": "A6 e-tron",
+      "brand": "아우디",
+      "oldCount": 8,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4164",
+      "name": "NX",
+      "brand": "렉서스",
+      "oldCount": 12,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4173",
+      "name": "RAV4 FL",
+      "brand": "토요타",
+      "oldCount": 11,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4177",
+      "name": "GR 86",
+      "brand": "토요타",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4181",
+      "name": "i7",
+      "brand": "BMW",
+      "oldCount": 8,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4188",
+      "name": "디 올 뉴 그랜저",
+      "brand": "현대",
+      "oldCount": 12,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4189",
+      "name": "파일럿",
+      "brand": "혼다",
+      "oldCount": 2,
+      "newCount": 1,
+      "changes": []
+    },
+    {
+      "id": "4192",
+      "name": "X7",
+      "brand": "BMW",
+      "oldCount": 8,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4196",
+      "name": "7시리즈",
+      "brand": "BMW",
+      "oldCount": 7,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4361",
+      "name": "코나",
+      "brand": "현대",
+      "oldCount": 9,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4363",
+      "name": "레인지로버 스포츠",
+      "brand": "랜드로버",
+      "oldCount": 27,
+      "newCount": 23,
+      "changes": []
+    },
+    {
+      "id": "4371",
+      "name": "X1",
+      "brand": "BMW",
+      "oldCount": 6,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4372",
+      "name": "iX1",
+      "brand": "BMW",
+      "oldCount": 6,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4390",
+      "name": "RX",
+      "brand": "렉서스",
+      "oldCount": 12,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4391",
+      "name": "더 뉴 셀토스",
+      "brand": "기아",
+      "oldCount": 6,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4395",
+      "name": "콜로라도",
+      "brand": "쉐보레",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4396",
+      "name": "디 올 뉴 니로 EV",
+      "brand": "기아",
+      "oldCount": 8,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4399",
+      "name": "포터2 EV",
+      "brand": "현대",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4404",
+      "name": "봉고 3 EV",
+      "brand": "기아",
+      "oldCount": 3,
+      "newCount": 2,
+      "changes": []
+    },
+    {
+      "id": "4405",
+      "name": "XC40 FL",
+      "brand": "볼보",
+      "oldCount": 8,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4421",
+      "name": "V60 크로스 컨트리",
+      "brand": "볼보",
+      "oldCount": 9,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4422",
+      "name": "XM",
+      "brand": "BMW",
+      "oldCount": 8,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4424",
+      "name": "Z4",
+      "brand": "BMW",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4429",
+      "name": "트랙스 크로스오버",
+      "brand": "쉐보레",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4431",
+      "name": "A8",
+      "brand": "아우디",
+      "oldCount": 12,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4435",
+      "name": "싼타페",
+      "brand": "현대",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4439",
+      "name": "프리우스",
+      "brand": "토요타",
+      "oldCount": 9,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4446",
+      "name": "EX30",
+      "brand": "볼보",
+      "oldCount": 5,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4447",
+      "name": "크라운",
+      "brand": "토요타",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4455",
+      "name": "더 뉴 아반떼",
+      "brand": "현대",
+      "oldCount": 10,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4460",
+      "name": "하이랜더",
+      "brand": "토요타",
+      "oldCount": 11,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4465",
+      "name": "GV80 FL",
+      "brand": "제네시스",
+      "oldCount": 18,
+      "newCount": 13,
+      "changes": []
+    },
+    {
+      "id": "4466",
+      "name": "쏘나타 FL",
+      "brand": "현대",
+      "oldCount": 9,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4468",
+      "name": "폴스타 2 FL",
+      "brand": "폴스타",
+      "oldCount": 11,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4469",
+      "name": "All New CR-V",
+      "brand": "혼다",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4473",
+      "name": "알파드",
+      "brand": "토요타",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4474",
+      "name": "더 뉴 트레일블레이저",
+      "brand": "쉐보레",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4475",
+      "name": "X5",
+      "brand": "BMW",
+      "oldCount": 6,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4476",
+      "name": "X6",
+      "brand": "BMW",
+      "oldCount": 8,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4479",
+      "name": "X5 M",
+      "brand": "BMW",
+      "oldCount": 4,
+      "newCount": 2,
+      "changes": []
+    },
+    {
+      "id": "4480",
+      "name": "X6 M",
+      "brand": "BMW",
+      "oldCount": 6,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4492",
+      "name": "토레스 EVX",
+      "brand": "KGM",
+      "oldCount": 9,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4499",
+      "name": "EV5",
+      "brand": "기아",
+      "oldCount": 11,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4510",
+      "name": "코나 일렉트릭",
+      "brand": "현대",
+      "oldCount": 10,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4512",
+      "name": "노틸러스",
+      "brand": "링컨",
+      "oldCount": 9,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4513",
+      "name": "폴스타 4",
+      "brand": "폴스타",
+      "oldCount": 10,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4517",
+      "name": "5시리즈",
+      "brand": "BMW",
+      "oldCount": 6,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4518",
+      "name": "렉스턴 뉴 아레나",
+      "brand": "KGM",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4528",
+      "name": "i5",
+      "brand": "BMW",
+      "oldCount": 7,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4545",
+      "name": "더 뉴 티볼리",
+      "brand": "KGM",
+      "oldCount": 6,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4547",
+      "name": "어코드",
+      "brand": "혼다",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4548",
+      "name": "디스커버리 스포츠",
+      "brand": "랜드로버",
+      "oldCount": 12,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4551",
+      "name": "레인지로버 이보크",
+      "brand": "랜드로버",
+      "oldCount": 11,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4554",
+      "name": "더 뉴 모닝",
+      "brand": "기아",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4555",
+      "name": "CLE",
+      "brand": "벤츠",
+      "oldCount": 17,
+      "newCount": 10,
+      "changes": []
+    },
+    {
+      "id": "4558",
+      "name": "아이오닉 5 N",
+      "brand": "현대",
+      "oldCount": 9,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4560",
+      "name": "아르카나",
+      "brand": "르노코리아",
+      "oldCount": 5,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4563",
+      "name": "더 뉴 쏘렌토",
+      "brand": "기아",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4564",
+      "name": "더 뉴 아반떼 N",
+      "brand": "현대",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4565",
+      "name": "에스컬레이드 IQ",
+      "brand": "캐딜락",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4580",
+      "name": "X2",
+      "brand": "BMW",
+      "oldCount": 8,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4585",
+      "name": "더 뉴 K5",
+      "brand": "기아",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4586",
+      "name": "더 뉴 카니발",
+      "brand": "기아",
+      "oldCount": 6,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4592",
+      "name": "더 뉴 투싼 FL",
+      "brand": "현대",
+      "oldCount": 10,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4603",
+      "name": "G80 FL",
+      "brand": "제네시스",
+      "oldCount": 13,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4609",
+      "name": "GV70 FL",
+      "brand": "제네시스",
+      "oldCount": 16,
+      "newCount": 11,
+      "changes": []
+    },
+    {
+      "id": "4610",
+      "name": "모델 3 하이랜드",
+      "brand": "테슬라",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4614",
+      "name": "4시리즈",
+      "brand": "BMW",
+      "oldCount": 6,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4615",
+      "name": "M4",
+      "brand": "BMW",
+      "oldCount": 9,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4622",
+      "name": "액티언",
+      "brand": "KGM",
+      "oldCount": 13,
+      "newCount": 10,
+      "changes": []
+    },
+    {
+      "id": "4624",
+      "name": "아이오닉 5 FL",
+      "brand": "현대",
+      "oldCount": 11,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4626",
+      "name": "ST1",
+      "brand": "현대",
+      "oldCount": 2,
+      "newCount": 1,
+      "changes": []
+    },
+    {
+      "id": "4632",
+      "name": "세닉 E-테크 일렉트릭",
+      "brand": "르노코리아",
+      "oldCount": 2,
+      "newCount": 1,
+      "changes": []
+    },
+    {
+      "id": "4635",
+      "name": "LM",
+      "brand": "렉서스",
+      "oldCount": 5,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4639",
+      "name": "i4",
+      "brand": "BMW",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4641",
+      "name": "더 뉴 EV6",
+      "brand": "기아",
+      "oldCount": 10,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4646",
+      "name": "토레스",
+      "brand": "KGM",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4647",
+      "name": "EV3",
+      "brand": "기아",
+      "oldCount": 9,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4649",
+      "name": "M3",
+      "brand": "BMW",
+      "oldCount": 8,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4650",
+      "name": "3시리즈",
+      "brand": "BMW",
+      "oldCount": 6,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4652",
+      "name": "1시리즈",
+      "brand": "BMW",
+      "oldCount": 7,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4653",
+      "name": "캐스퍼 EV",
+      "brand": "현대",
+      "oldCount": 10,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4655",
+      "name": "M2",
+      "brand": "BMW",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4656",
+      "name": "X3",
+      "brand": "BMW",
+      "oldCount": 8,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4657",
+      "name": "M5",
+      "brand": "BMW",
+      "oldCount": 9,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4659",
+      "name": "그랑 콜레오스",
+      "brand": "르노코리아",
+      "oldCount": 5,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4660",
+      "name": "G80 EV FL",
+      "brand": "제네시스",
+      "oldCount": 14,
+      "newCount": 10,
+      "changes": []
+    },
+    {
+      "id": "4663",
+      "name": "에스컬레이드",
+      "brand": "캐딜락",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4665",
+      "name": "더 뉴 K8",
+      "brand": "기아",
+      "oldCount": 8,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4666",
+      "name": "무쏘 EV",
+      "brand": "KGM",
+      "oldCount": 9,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4667",
+      "name": "모델 Y 주니퍼",
+      "brand": "테슬라",
+      "oldCount": 8,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4671",
+      "name": "캐스퍼 FL",
+      "brand": "현대",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4674",
+      "name": "캠리",
+      "brand": "토요타",
+      "oldCount": 10,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4677",
+      "name": "넥쏘",
+      "brand": "현대",
+      "oldCount": 9,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4683",
+      "name": "2시리즈 그란쿠페",
+      "brand": "BMW",
+      "oldCount": 8,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4684",
+      "name": "더 뉴 스포티지",
+      "brand": "기아",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4686",
+      "name": "타스만",
+      "brand": "기아",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4689",
+      "name": "더 뉴 레이 FL",
+      "brand": "기아",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4690",
+      "name": "Q6 e-tron",
+      "brand": "아우디",
+      "oldCount": 9,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4691",
+      "name": "더 레이 EV",
+      "brand": "기아",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4697",
+      "name": "Q8 FL",
+      "brand": "아우디",
+      "oldCount": 11,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4698",
+      "name": "Q7 2차 FL",
+      "brand": "아우디",
+      "oldCount": 12,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4699",
+      "name": "팰리세이드",
+      "brand": "현대",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4700",
+      "name": "LX",
+      "brand": "렉서스",
+      "oldCount": 8,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4701",
+      "name": "GV60 FL",
+      "brand": "제네시스",
+      "oldCount": 17,
+      "newCount": 12,
+      "changes": []
+    },
+    {
+      "id": "4705",
+      "name": "Electrified GV70",
+      "brand": "제네시스",
+      "oldCount": 15,
+      "newCount": 12,
+      "changes": []
+    },
+    {
+      "id": "4707",
+      "name": "A3 FL",
+      "brand": "아우디",
+      "oldCount": 12,
+      "newCount": 9,
+      "changes": []
+    },
+    {
+      "id": "4708",
+      "name": "iX",
+      "brand": "BMW",
+      "oldCount": 6,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4712",
+      "name": "EV4",
+      "brand": "기아",
+      "oldCount": 9,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4714",
+      "name": "PV5",
+      "brand": "기아",
+      "oldCount": 7,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4715",
+      "name": "뉴 오딧세이",
+      "brand": "혼다",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4735",
+      "name": "A5",
+      "brand": "아우디",
+      "oldCount": 11,
+      "newCount": 8,
+      "changes": []
+    },
+    {
+      "id": "4736",
+      "name": "Q5",
+      "brand": "아우디",
+      "oldCount": 10,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4737",
+      "name": "XC90",
+      "brand": "볼보",
+      "oldCount": 10,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4740",
+      "name": "S90",
+      "brand": "볼보",
+      "oldCount": 9,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4742",
+      "name": "아이오닉 6 N",
+      "brand": "현대",
+      "oldCount": 6,
+      "newCount": 5,
+      "changes": []
+    },
+    {
+      "id": "4746",
+      "name": "아이오닉 6 FL",
+      "brand": "현대",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4747",
+      "name": "XC60",
+      "brand": "볼보",
+      "oldCount": 9,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4750",
+      "name": "EX30 CC",
+      "brand": "볼보",
+      "oldCount": 5,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4759",
+      "name": "e-트론 GT FL",
+      "brand": "아우디",
+      "oldCount": 9,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4761",
+      "name": "GV60 MAGMA",
+      "brand": "제네시스",
+      "oldCount": 14,
+      "newCount": 13,
+      "changes": []
+    },
+    {
+      "id": "4763",
+      "name": "디 올 뉴 셀토스",
+      "brand": "기아",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4765",
+      "name": "스타리아 FL",
+      "brand": "현대",
+      "oldCount": 7,
+      "newCount": 6,
+      "changes": []
+    },
+    {
+      "id": "4766",
+      "name": "무쏘",
+      "brand": "KGM",
+      "oldCount": 8,
+      "newCount": 7,
+      "changes": []
+    },
+    {
+      "id": "4772",
+      "name": "필랑트",
+      "brand": "르노코리아",
+      "oldCount": 4,
+      "newCount": 3,
+      "changes": []
+    },
+    {
+      "id": "4777",
+      "name": "아카디아",
+      "brand": "GMC",
+      "oldCount": 5,
+      "newCount": 4,
+      "changes": []
+    },
+    {
+      "id": "4779",
+      "name": "캐니언",
+      "brand": "GMC",
+      "oldCount": 5,
+      "newCount": 4,
+      "changes": []
+    }
+  ],
+  "unchanged": [
+    "3982",
+    "3992",
+    "4011",
+    "4037",
+    "4065",
+    "4111",
+    "4373",
+    "4377",
+    "4379",
+    "4380",
+    "4381",
+    "4427",
+    "4430",
+    "4461",
+    "4471",
+    "4495",
+    "4496",
+    "4506",
+    "4507",
+    "4508",
+    "4509",
+    "4511",
+    "4516",
+    "4568",
+    "4569",
+    "4582",
+    "4593",
+    "4613",
+    "4619",
+    "4628",
+    "4638",
+    "4651",
+    "4670",
+    "4732",
+    "4741"
+  ],
+  "failed": [],
+  "missing": []
+}

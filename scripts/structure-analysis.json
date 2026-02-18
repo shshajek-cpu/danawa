@@ -1,0 +1,620 @@
+{
+  "4361": {
+    "radioAnalysis": {
+      "totalRadios": 23,
+      "byName": {
+        "eChkTrim_1": {
+          "count": 21,
+          "samples": [
+            {
+              "id": "trim_192697",
+              "value": "on",
+              "checked": true,
+              "label": "모던 2WD A/T 모던 2WD A/TTOP3선택률: 12% 2,955만 원"
+            },
+            {
+              "id": "trim_192698",
+              "value": "on",
+              "checked": false,
+              "label": "H-Pick 2WD A/T H-Pick 2WD A/TTOP1선택률: 59% 3,046만 원"
+            },
+            {
+              "id": "trim_192699",
+              "value": "on",
+              "checked": false,
+              "label": "프리미엄 2WD A/T 프리미엄 2WD A/T 3,254만 원"
+            },
+            {
+              "id": "trim_192701",
+              "value": "on",
+              "checked": false,
+              "label": "인스퍼레이션 2WD A/T 인스퍼레이션 2WD A/TTOP2선택률: 18% 3,512만 원"
+            },
+            {
+              "id": "trim_193428",
+              "value": "on",
+              "checked": false,
+              "label": "블랙 익스테리어 2WD A/T 블랙 익스테리어 2WD A/T 3,537만 원"
+            }
+          ]
+        },
+        "SETRNSKD": {
+          "count": 2,
+          "samples": [
+            {
+              "id": "radio_01-1",
+              "value": "",
+              "checked": true,
+              "label": "탁송 탁송"
+            },
+            {
+              "id": "radio_01-2",
+              "value": "0:S00:직접 출고",
+              "checked": false,
+              "label": "직접출고 직접출고"
+            }
+          ]
+        }
+      },
+      "samples": [
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192697",
+          "value": "on",
+          "checked": true,
+          "label": "모던 2WD A/T 모던 2WD A/TTOP3선택률: 12% 2,955만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192698",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick 2WD A/T H-Pick 2WD A/TTOP1선택률: 59% 3,046만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192699",
+          "value": "on",
+          "checked": false,
+          "label": "프리미엄 2WD A/T 프리미엄 2WD A/T 3,254만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192701",
+          "value": "on",
+          "checked": false,
+          "label": "인스퍼레이션 2WD A/T 인스퍼레이션 2WD A/TTOP2선택률: 18% 3,512만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193428",
+          "value": "on",
+          "checked": false,
+          "label": "블랙 익스테리어 2WD A/T 블랙 익스테리어 2WD A/T 3,537만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192702",
+          "value": "on",
+          "checked": false,
+          "label": "N Line 2WD A/T N Line 2WD A/T 3,609만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192703",
+          "value": "on",
+          "checked": false,
+          "label": "모던 2WD A/T 모던 2WD A/T 2,478만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192704",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick 2WD A/T H-Pick 2WD A/TTOP1선택률: 70% 2,559만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192705",
+          "value": "on",
+          "checked": false,
+          "label": "프리미엄 2WD A/T 프리미엄 2WD A/TTOP3선택률: 7% 2,821만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192706",
+          "value": "on",
+          "checked": false,
+          "label": "프리미엄 4WD A/T 프리미엄 4WD A/T 3,020만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192709",
+          "value": "on",
+          "checked": false,
+          "label": "인스퍼레이션 2WD A/T 인스퍼레이션 2WD A/TTOP2선택률: 16% 3,102만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192710",
+          "value": "on",
+          "checked": false,
+          "label": "인스퍼레이션 4WD A/T 인스퍼레이션 4WD A/T 3,302만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193442",
+          "value": "on",
+          "checked": false,
+          "label": "블랙 익스테리어 2WD A/T 블랙 익스테리어 2WD A/T 3,127만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193445",
+          "value": "on",
+          "checked": false,
+          "label": "블랙 익스테리어 4WD A/T 블랙 익스테리어 4WD A/T 3,327만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192711",
+          "value": "on",
+          "checked": false,
+          "label": "N Line 2WD A/T N Line 2WD A/T 3,199만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192712",
+          "value": "on",
+          "checked": false,
+          "label": "N Line 4WD A/T N Line 4WD A/T 3,400만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192713",
+          "value": "on",
+          "checked": false,
+          "label": "모던 2WD A/T 모던 2WD A/TTOP2선택률: 22% 2,409만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192714",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick 2WD A/T H-Pick 2WD A/TTOP1선택률: 61% 2,499만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192715",
+          "value": "on",
+          "checked": false,
+          "label": "프리미엄 2WD A/T 프리미엄 2WD A/T 2,753만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_192717",
+          "value": "on",
+          "checked": false,
+          "label": "인스퍼레이션 2WD A/T 인스퍼레이션 2WD A/TTOP3선택률: 13% 3,034만 원"
+        }
+      ]
+    },
+    "jsData": {
+      "hasEstmData": false,
+      "modelInfo": null,
+      "fuelInfo": null
+    }
+  },
+  "4435": {
+    "radioAnalysis": {
+      "totalRadios": 74,
+      "byName": {
+        "eChkTrim_1": {
+          "count": 72,
+          "samples": [
+            {
+              "id": "trim_193413",
+              "value": "on",
+              "checked": true,
+              "label": "익스클루시브 (5인승) A/T 익스클루시브 (5인승) A/TTOP3선택률: 17% 3,964만 원"
+            },
+            {
+              "id": "trim_193414",
+              "value": "on",
+              "checked": false,
+              "label": "익스클루시브 (6인승) A/T 익스클루시브 (6인승) A/T 4,067만 원"
+            },
+            {
+              "id": "trim_193415",
+              "value": "on",
+              "checked": false,
+              "label": "익스클루시브 (7인승) A/T 익스클루시브 (7인승) A/T 4,032만 원"
+            },
+            {
+              "id": "trim_193416",
+              "value": "on",
+              "checked": false,
+              "label": "프레스티지 (5인승) A/T 프레스티지 (5인승) A/T 4,247만 원"
+            },
+            {
+              "id": "trim_193417",
+              "value": "on",
+              "checked": false,
+              "label": "프레스티지 (6인승) A/T 프레스티지 (6인승) A/T 4,349만 원"
+            }
+          ]
+        },
+        "SETRNSKD": {
+          "count": 2,
+          "samples": [
+            {
+              "id": "radio_01-1",
+              "value": "",
+              "checked": true,
+              "label": "탁송 탁송"
+            },
+            {
+              "id": "radio_01-2",
+              "value": "0:S00:직접 출고",
+              "checked": false,
+              "label": "직접출고 직접출고"
+            }
+          ]
+        }
+      },
+      "samples": [
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193413",
+          "value": "on",
+          "checked": true,
+          "label": "익스클루시브 (5인승) A/T 익스클루시브 (5인승) A/TTOP3선택률: 17% 3,964만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193414",
+          "value": "on",
+          "checked": false,
+          "label": "익스클루시브 (6인승) A/T 익스클루시브 (6인승) A/T 4,067만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193415",
+          "value": "on",
+          "checked": false,
+          "label": "익스클루시브 (7인승) A/T 익스클루시브 (7인승) A/T 4,032만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193416",
+          "value": "on",
+          "checked": false,
+          "label": "프레스티지 (5인승) A/T 프레스티지 (5인승) A/T 4,247만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193417",
+          "value": "on",
+          "checked": false,
+          "label": "프레스티지 (6인승) A/T 프레스티지 (6인승) A/T 4,349만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193418",
+          "value": "on",
+          "checked": false,
+          "label": "프레스티지 (7인승) A/T 프레스티지 (7인승) A/T 4,315만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193419",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick (5인승) A/T H-Pick (5인승) A/TTOP2선택률: 21% 4,508만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193420",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick (6인승) A/T H-Pick (6인승) A/TTOP1선택률: 21% 4,610만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193421",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick (7인승) A/T H-Pick (7인승) A/T 4,576만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193429",
+          "value": "on",
+          "checked": false,
+          "label": "블랙 익스테리어 (5인승) A/T 블랙 익스테리어 (5인승) A/T 4,542만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193430",
+          "value": "on",
+          "checked": false,
+          "label": "블랙 익스테리어 (6인승) A/T 블랙 익스테리어 (6인승) A/T 4,645만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193431",
+          "value": "on",
+          "checked": false,
+          "label": "블랙 익스테리어 (7인승) A/T 블랙 익스테리어 (7인승) A/T 4,610만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193422",
+          "value": "on",
+          "checked": false,
+          "label": "캘리그래피 (5인승) A/T 캘리그래피 (5인승) A/T 4,807만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193423",
+          "value": "on",
+          "checked": false,
+          "label": "캘리그래피 (6인승) A/T 캘리그래피 (6인승) A/T 4,910만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193424",
+          "value": "on",
+          "checked": false,
+          "label": "캘리그래피 (7인승) A/T 캘리그래피 (7인승) A/T 4,875만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193425",
+          "value": "on",
+          "checked": false,
+          "label": "블랙잉크 (5인승) A/T 블랙잉크 (5인승) A/T 4,807만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193426",
+          "value": "on",
+          "checked": false,
+          "label": "블랙잉크 (6인승) A/T 블랙잉크 (6인승) A/T 4,910만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193427",
+          "value": "on",
+          "checked": false,
+          "label": "블랙잉크 (7인승) A/T 블랙잉크 (7인승) A/T 4,875만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193451",
+          "value": "on",
+          "checked": false,
+          "label": "익스클루시브 (5인승) A/T 익스클루시브 (5인승) A/T 4,284만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193452",
+          "value": "on",
+          "checked": false,
+          "label": "익스클루시브 (6인승) A/T 익스클루시브 (6인승) A/T 4,386만 원"
+        }
+      ]
+    },
+    "jsData": {
+      "hasEstmData": false,
+      "modelInfo": null,
+      "fuelInfo": null
+    }
+  },
+  "4592": {
+    "radioAnalysis": {
+      "totalRadios": 26,
+      "byName": {
+        "eChkTrim_1": {
+          "count": 24,
+          "samples": [
+            {
+              "id": "trim_193432",
+              "value": "on",
+              "checked": true,
+              "label": "모던 2WD A/T 모던 2WD A/TTOP3선택률: 16% 3,270만 원"
+            },
+            {
+              "id": "trim_193433",
+              "value": "on",
+              "checked": false,
+              "label": "모던 4WD A/T 모던 4WD A/T 3,491만 원"
+            },
+            {
+              "id": "trim_193434",
+              "value": "on",
+              "checked": false,
+              "label": "프리미엄 2WD A/T 프리미엄 2WD A/T 3,514만 원"
+            },
+            {
+              "id": "trim_193435",
+              "value": "on",
+              "checked": false,
+              "label": "프리미엄 4WD A/T 프리미엄 4WD A/T 3,735만 원"
+            },
+            {
+              "id": "trim_193436",
+              "value": "on",
+              "checked": false,
+              "label": "H-Pick 2WD A/T H-Pick 2WD A/TTOP1선택률: 45% 3,597만 원"
+            }
+          ]
+        },
+        "SETRNSKD": {
+          "count": 2,
+          "samples": [
+            {
+              "id": "radio_01-1",
+              "value": "",
+              "checked": true,
+              "label": "탁송 탁송"
+            },
+            {
+              "id": "radio_01-2",
+              "value": "0:S00:직접 출고",
+              "checked": false,
+              "label": "직접출고 직접출고"
+            }
+          ]
+        }
+      },
+      "samples": [
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193432",
+          "value": "on",
+          "checked": true,
+          "label": "모던 2WD A/T 모던 2WD A/TTOP3선택률: 16% 3,270만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193433",
+          "value": "on",
+          "checked": false,
+          "label": "모던 4WD A/T 모던 4WD A/T 3,491만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193434",
+          "value": "on",
+          "checked": false,
+          "label": "프리미엄 2WD A/T 프리미엄 2WD A/T 3,514만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193435",
+          "value": "on",
+          "checked": false,
+          "label": "프리미엄 4WD A/T 프리미엄 4WD A/T 3,735만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193436",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick 2WD A/T H-Pick 2WD A/TTOP1선택률: 45% 3,597만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193437",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick 4WD A/T H-Pick 4WD A/T 3,818만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193438",
+          "value": "on",
+          "checked": false,
+          "label": "인스퍼레이션 2WD A/T 인스퍼레이션 2WD A/TTOP2선택률: 21% 3,861만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193439",
+          "value": "on",
+          "checked": false,
+          "label": "인스퍼레이션 4WD A/T 인스퍼레이션 4WD A/T 4,082만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193443",
+          "value": "on",
+          "checked": false,
+          "label": "블랙 익스테리어 2WD A/T 블랙 익스테리어 2WD A/T 3,905만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193444",
+          "value": "on",
+          "checked": false,
+          "label": "블랙 익스테리어 4WD A/T 블랙 익스테리어 4WD A/T 4,126만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193440",
+          "value": "on",
+          "checked": false,
+          "label": "N Line 인스퍼레이션 2WD A/T N Line 인스퍼레이션 2WD A/T 3,925만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193441",
+          "value": "on",
+          "checked": false,
+          "label": "N Line 인스퍼레이션 4WD A/T N Line 인스퍼레이션 4WD A/T 4,146만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193508",
+          "value": "on",
+          "checked": false,
+          "label": "모던 2WD A/T 모던 2WD A/TTOP3선택률: 11% 2,805만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193509",
+          "value": "on",
+          "checked": false,
+          "label": "모던 AWD A/T 모던 AWD A/T 3,000만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193510",
+          "value": "on",
+          "checked": false,
+          "label": "프리미엄 2WD A/T 프리미엄 2WD A/T 3,069만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193511",
+          "value": "on",
+          "checked": false,
+          "label": "프리미엄 AWD A/T 프리미엄 AWD A/T 3,264만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193512",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick 2WD A/T H-Pick 2WD A/TTOP1선택률: 50% 3,156만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193513",
+          "value": "on",
+          "checked": false,
+          "label": "H-Pick AWD A/T H-Pick AWD A/T 3,351만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193514",
+          "value": "on",
+          "checked": false,
+          "label": "인스퍼레이션 2WD A/T 인스퍼레이션 2WD A/TTOP2선택률: 17% 3,407만 원"
+        },
+        {
+          "name": "eChkTrim_1",
+          "id": "trim_193515",
+          "value": "on",
+          "checked": false,
+          "label": "인스퍼레이션 AWD A/T 인스퍼레이션 AWD A/T 3,602만 원"
+        }
+      ]
+    },
+    "jsData": {
+      "hasEstmData": false,
+      "modelInfo": null,
+      "fuelInfo": null
+    }
+  }
+}

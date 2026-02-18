@@ -1,0 +1,225 @@
+{
+  "critical_errors": [
+    {
+      "carId": "4064",
+      "brand": "랜드로버",
+      "name": "디스커버리",
+      "current_fuelType": "디젤",
+      "correct_fuelType": "가솔린",
+      "reason": "P300 엔진은 인제니움 2.0L 가솔린 터보 엔진 (1,997cc)",
+      "danawa_confirmation": "P300 S 트림, 가솔린 2.0L",
+      "action": "IMMEDIATE_FIX",
+      "recommended_change": {
+        "fuelType": "가솔린"
+      }
+    }
+  ],
+  "misclassified_phev": [
+    {
+      "carId": "4593",
+      "brand": "포르쉐",
+      "name": "파나메라",
+      "current_fuelType": "가솔린",
+      "correct_fuelType": "하이브리드",
+      "reason": "단일 트림 \"Panamera 4 E-Hybrid\"만 존재, PHEV 차량",
+      "danawa_confirmation": "가솔린 2.9 플러그인 하이브리드",
+      "action": "HIGH_PRIORITY_FIX",
+      "recommended_change": {
+        "fuelType": "하이브리드"
+      }
+    }
+  ],
+  "mixed_fuel_vehicles": [
+    {
+      "carId": "3775",
+      "brand": "랜드로버",
+      "name": "디펜더",
+      "current_fuelType": "디젤",
+      "actual_fuelTypes": [
+        "가솔린",
+        "디젤"
+      ],
+      "breakdown": {
+        "gasoline_trims": 7,
+        "diesel_trims": 4,
+        "total_trims": 11
+      },
+      "gasoline_engines": [
+        "P300 (2.0L)",
+        "P400 (3.0L)",
+        "P635 OCTA (4.4L)"
+      ],
+      "diesel_engines": [
+        "D250 (3.0L)",
+        "D300 (3.0L)"
+      ],
+      "action": "STRUCTURAL_CHANGE_NEEDED",
+      "recommendation": "다중 유종 지원 또는 유종별 subModels 분리"
+    },
+    {
+      "carId": "4119",
+      "brand": "랜드로버",
+      "name": "레인지로버",
+      "current_fuelType": "하이브리드",
+      "actual_fuelTypes": [
+        "하이브리드",
+        "가솔린",
+        "디젤"
+      ],
+      "breakdown": {
+        "phev_trims": 2,
+        "gasoline_trims": 9,
+        "diesel_trims": 1,
+        "total_trims": 12
+      },
+      "engines": [
+        "P550e PHEV",
+        "P530 가솔린 (4.4L)",
+        "P615 가솔린 (4.4L)",
+        "D350 디젤 (3.0L)"
+      ],
+      "action": "STRUCTURAL_CHANGE_NEEDED",
+      "recommendation": "다중 유종 지원 필요 (3가지 유종 혼합)"
+    },
+    {
+      "carId": "4363",
+      "brand": "랜드로버",
+      "name": "레인지로버 스포츠",
+      "current_fuelType": "하이브리드",
+      "actual_fuelTypes": [
+        "하이브리드",
+        "가솔린"
+      ],
+      "breakdown": {
+        "phev_trims": 2,
+        "gasoline_trims": 13,
+        "total_trims": 15
+      },
+      "engines": [
+        "P550e PHEV",
+        "P360 가솔린",
+        "P400 가솔린",
+        "P635 SV 가솔린"
+      ],
+      "action": "STRUCTURAL_CHANGE_NEEDED",
+      "recommendation": "PHEV + 가솔린 분리 필요"
+    },
+    {
+      "carId": "4472",
+      "brand": "랜드로버",
+      "name": "레인지로버 벨라",
+      "current_fuelType": "하이브리드",
+      "actual_fuelTypes": [
+        "하이브리드",
+        "가솔린"
+      ],
+      "breakdown": {
+        "phev_trims": 2,
+        "gasoline_trims": 4,
+        "total_trims": 6
+      },
+      "engines": [
+        "P400e PHEV (2.0L)",
+        "P250 가솔린 (2.0L)",
+        "P400 가솔린 (3.0L)"
+      ],
+      "action": "STRUCTURAL_CHANGE_NEEDED",
+      "recommendation": "PHEV + 가솔린 분리 필요"
+    },
+    {
+      "carId": "4506",
+      "brand": "포르쉐",
+      "name": "카이엔",
+      "current_fuelType": "하이브리드",
+      "actual_fuelTypes": [
+        "하이브리드",
+        "가솔린"
+      ],
+      "breakdown": {
+        "phev_trims": 6,
+        "gasoline_trims": 5,
+        "total_trims": 11
+      },
+      "phev_variants": [
+        "E-Hybrid (3.0L)",
+        "S E-Hybrid (3.0L)",
+        "Turbo E-Hybrid (4.0L)"
+      ],
+      "gasoline_variants": [
+        "Cayenne (3.0L)",
+        "GTS (4.0L)",
+        "Turbo GT (4.0L)"
+      ],
+      "action": "STRUCTURAL_CHANGE_NEEDED",
+      "recommendation": "E-Hybrid + 가솔린 분리 필요"
+    },
+    {
+      "carId": "4065",
+      "brand": "지프",
+      "name": "그랜드 체로키",
+      "current_fuelType": "가솔린",
+      "actual_fuelTypes": [
+        "가솔린",
+        "하이브리드"
+      ],
+      "breakdown": {
+        "gasoline_trims": 9,
+        "phev_4xe_trims": 4,
+        "total_trims": 13
+      },
+      "has_subModels": true,
+      "subModels_count": 7,
+      "action": "STRUCTURAL_CHANGE_NEEDED",
+      "recommendation": "subModels 구조 활용하여 4xe PHEV 별도 표시"
+    }
+  ],
+  "summary": {
+    "total_vehicles_checked": 46,
+    "critical_errors": 1,
+    "misclassified_phev": 1,
+    "mixed_fuel_vehicles": 6,
+    "correct_classifications": 38,
+    "requires_immediate_fix": 2,
+    "requires_structural_change": 6
+  },
+  "recommended_solutions": {
+    "solution_1": {
+      "name": "다중 유종 필드 추가",
+      "description": "fuelType을 fuelTypes 배열로 변경하고 trimsByFuelType 객체 추가",
+      "pros": [
+        "정확한 정보 제공",
+        "유종별 필터링 가능",
+        "확장성 높음"
+      ],
+      "cons": [
+        "기존 코드 수정 필요",
+        "마이그레이션 작업 필요"
+      ]
+    },
+    "solution_2": {
+      "name": "subModels 구조 전면 활용",
+      "description": "모든 혼합 유종 차량을 subModels로 유종별 구분",
+      "pros": [
+        "기존 구조 활용",
+        "그랜드 체로키에서 이미 사용 중"
+      ],
+      "cons": [
+        "일관성 있는 적용 필요",
+        "UI 변경 필요"
+      ]
+    },
+    "solution_3": {
+      "name": "개별 차량 분리",
+      "description": "각 유종을 별도 차량 ID로 등록",
+      "pros": [
+        "현재 구조 유지 가능",
+        "구현 간단"
+      ],
+      "cons": [
+        "데이터 중복",
+        "관리 복잡도 증가",
+        "사용자 혼란 가능성"
+      ]
+    }
+  }
+}

@@ -1,0 +1,3243 @@
+[
+  {
+    "id": "4660",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "G80 EV",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"G80 EV\" → 다나와: \"Electrified G80\"",
+      "색상: 로컬 9개, 다나와 14개 (차이: 5)"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 3개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 9,
+      "options": 14,
+      "startPrice": 84680000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Electrified G80",
+      "grades": 3,
+      "colors": 14,
+      "options": 14,
+      "gradeNames": [
+        "e-AWD A/T e-AWD A/T 보조금 적용 시",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "마티라 블루(NEB)-유료",
+        "마칼루 그레이(MPE)-유료(무광)",
+        "우유니 화이트(UYH)",
+        "세빌 실버(SSS)",
+        "마칼루 그레이(NCM)"
+      ],
+      "optionNames": [
+        "마티라 블루 외장컬러",
+        "마칼루 그레이(무광) 외장컬러",
+        "시그니쳐 디자인 셀렉션",
+        "파퓰러 패키지",
+        "헤드업 디스플레이"
+      ]
+    }
+  },
+  {
+    "id": "4603",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "G80",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 5개, 다나와 22개 (차이: 17)",
+      "색상: 로컬 7개, 다나와 13개 (차이: 6)",
+      "옵션: 로컬 25개, 다나와 19개 (차이: 6)"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 5,
+      "colors": 7,
+      "options": 25,
+      "startPrice": 59780000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "G80",
+      "grades": 22,
+      "colors": 13,
+      "options": 19,
+      "gradeNames": [
+        "2WD A/T 2WD A/T",
+        "AWD A/T AWD A/T",
+        "스포츠 패키지 2WD A/T 스포츠 패키지 2WD A/T",
+        "스포츠 패키지 AWD A/T 스포츠 패키지 AWD A/T",
+        "BLACK AWD A/T BLACK AWD A/T"
+      ],
+      "colorNames": [
+        "마칼루 그레이(MPE)-유료(무광)",
+        "우유니 화이트(UYH)",
+        "바트나 그레이(GRY)",
+        "세빌 실버(SSS)",
+        "마칼루 그레이(NCM)"
+      ],
+      "optionNames": [
+        "무광 마칼루 그레이 외장컬러",
+        "245/45R19(앞) + 275/40R19(뒤) 콘티넨탈 타이어 + 하이퍼 실버 휠(A)",
+        "245/45R19(앞) + 275/40R19(뒤) 콘티넨탈 타이어 + 다이아몬드 컷팅 휠(",
+        "245/45R19(앞) + 275/40R19(뒤) 콘티넨탈 타이어 + 다이아몬드 컷팅 휠(",
+        "245/40R20(앞) + 275/35R20(뒤) 피렐리 타이어 + 휠 (프리뷰 전자제어 "
+      ]
+    }
+  },
+  {
+    "id": "4016",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "G90",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 6개, 다나와 18개 (차이: 12)",
+      "옵션: 로컬 32개, 다나와 23개 (차이: 9)",
+      "시작가: 로컬 9,617만원, 다나와 217만원"
+    ],
+    "warnings": [
+      "색상: 로컬 12개, 다나와 14개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 12,
+      "options": 32,
+      "startPrice": 96170000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "G90",
+      "grades": 18,
+      "colors": 14,
+      "options": 23,
+      "gradeNames": [
+        "2WD (5인승) A/T 2WD (5인승) A/T",
+        "AWD (5인승) A/T AWD (5인승) A/T",
+        "2WD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T 2WD (4인승) + 뒷좌석 컴포트 패",
+        "AWD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T AWD (4인승) + 뒷좌석 컴포트 패",
+        "BLACK AWD (5인승) A/T BLACK AWD (5인승) A/T 1억"
+      ],
+      "colorNames": [
+        "마칼루 그레이-무광 (MPE)",
+        "우유니 화이트 (UYH)",
+        "세빌 실버 (SSS)",
+        "마칼루 그레이 (NCM)",
+        "비크 블랙 (PH3)"
+      ],
+      "optionNames": [
+        "(무광) 마칼루 그레이 외장컬러",
+        "245/45R20(앞) + 275/40R20(뒤) 미쉐린 타이어 + 다이아몬드 컷팅 휠",
+        "245/45R20(앞) + 275/40R20(뒤) 미쉐린 타이어 + 다크 하이퍼 실버 휠",
+        "시그니쳐 디자인 셀렉션",
+        "메탈 G-MATRIX 패턴 내장재(오픈포어 리얼우드 대체)"
+      ]
+    }
+  },
+  {
+    "id": "4701",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "GV60",
+    "status": "FAIL",
+    "issues": [
+      "색상: 로컬 9개, 다나와 17개 (차이: 8)"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 5개 (차이: 3)",
+      "옵션: 로컬 21개, 다나와 20개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 9,
+      "options": 21,
+      "startPrice": 64900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GV60",
+      "grades": 5,
+      "colors": 17,
+      "options": 20,
+      "gradeNames": [
+        "스탠다드 2WD A/T 스탠다드 2WD A/T 보조금 적용 시",
+        "스탠다드 AWD A/T 스탠다드 AWD A/T 보조금 적용 시",
+        "퍼포먼스 AWD A/T 퍼포먼스 AWD A/T",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "마테호른 화이트(FT7)(무광-유료)",
+        "마칼루 그레이(MPE)(무광-유료)",
+        "스토르 그린(MKG)(무광-유료)",
+        "세레스 블루(MSA)(무광-유료)",
+        "우유니 화이트(UYH)(유광)"
+      ],
+      "optionNames": [
+        "무광 마테호른 화이트 외장컬러",
+        "무광 마칼루 그레이 외장컬러",
+        "무광 스토르 그린 외장컬러",
+        "무광 세레스 블루 외장컬러",
+        "시그니쳐 디자인 셀렉션Ⅰ"
+      ]
+    }
+  },
+  {
+    "id": "4761",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "GV60 MAGMA",
+    "status": "FAIL",
+    "issues": [
+      "색상: 로컬 9개, 다나와 14개 (차이: 5)"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 3개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 9,
+      "options": 10,
+      "startPrice": 96570000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GV60 MAGMA",
+      "grades": 3,
+      "colors": 14,
+      "options": 10,
+      "gradeNames": [
+        "GV60 MAGMA A/T GV60 MAGMA A/T",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "마테호른 화이트(FT7)-유료(무광)",
+        "마칼루 그레이(MPE)-유료(무광)",
+        "스토르 그린(MKG)-유료(무광)",
+        "세레스 블루(MSA)-유료(무광)",
+        "마그마 오렌지(8MB)-유료"
+      ],
+      "optionNames": [
+        "(무광) 마테호른 화이트 외장컬러",
+        "(무광) 마칼루 그레이 외장컬러",
+        "(무광) 스토르 그린 외장컬러",
+        "(무광) 세레스 블루 외장컬러",
+        "마그마 오렌지 외장컬러"
+      ]
+    }
+  },
+  {
+    "id": "4609",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "GV70",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 4개, 다나와 10개 (차이: 6)",
+      "색상: 로컬 10개, 다나와 16개 (차이: 6)",
+      "옵션: 로컬 28개, 다나와 22개 (차이: 6)"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 4,
+      "colors": 10,
+      "options": 28,
+      "startPrice": 53180000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GV70",
+      "grades": 10,
+      "colors": 16,
+      "options": 22,
+      "gradeNames": [
+        "2WD A/T 2WD A/T",
+        "AWD A/T AWD A/T",
+        "스포츠 2WD A/T 스포츠 2WD A/T",
+        "스포츠 AWD A/T 스포츠 AWD A/T",
+        "2WD A/T 2WD A/T"
+      ],
+      "colorNames": [
+        "마테호른 화이트(FT7)-무광",
+        "마칼루 그레이(MPE)-무광",
+        "우유니 화이트(UYH)",
+        "세빌 실버(SSS)",
+        "마칼루 그레이(NCM)"
+      ],
+      "optionNames": [
+        "(무광) 마테호른 화이트 외장컬러",
+        "(무광) 마칼루 그레이 외장컬러",
+        "235/55R19 미쉐린 타이어 + 휠",
+        "255/40R21 미쉐린 타이어 + 휠 (※ 프리뷰 전자제어 서스펜션 포함)",
+        "시그니쳐 디자인 셀렉션Ⅰ"
+      ]
+    }
+  },
+  {
+    "id": "4465",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "GV80",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 9개, 다나와 26개 (차이: 17)",
+      "색상: 로컬 10개, 다나와 18개 (차이: 8)",
+      "옵션: 로컬 35개, 다나와 24개 (차이: 11)",
+      "시작가: 로컬 6,790만원, 다나와 47만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 9,
+      "colors": 10,
+      "options": 35,
+      "startPrice": 67900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GV80",
+      "grades": 26,
+      "colors": 18,
+      "options": 24,
+      "gradeNames": [
+        "2WD (5인승) A/T 2WD (5인승) A/T",
+        "AWD (5인승) A/T AWD (5인승) A/T",
+        "BLACK AWD (5인승) A/T BLACK AWD (5인승) A/T",
+        "2WD (6인승) A/T 2WD (6인승) A/T",
+        "AWD (6인승) A/T AWD (6인승) A/T"
+      ],
+      "colorNames": [
+        "마테호른 화이트(FT7)-무광",
+        "마칼루 그레이(MPE)-무광",
+        "스토르 그린(MKG)-무광",
+        "세레스 블루(MSA)-무광",
+        "우유니 화이트(UYH)"
+      ],
+      "optionNames": [
+        "(무광) 마테호른 화이트 외장컬러",
+        "(무광) 마칼루 그레이 외장컬러",
+        "(무광) 스토르 그린 외장컬러",
+        "(무광) 세레스 블루 외장컬러",
+        "265/50R20 미쉐린 타이어 + 다이아몬드 컷팅 휠"
+      ]
+    }
+  },
+  {
+    "id": "3995",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "더 뉴 G70",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 G70\" → 다나와: \"G70\"",
+      "트림: 로컬 4개, 다나와 28개 (차이: 24)",
+      "색상: 로컬 8개, 다나와 16개 (차이: 8)",
+      "옵션: 로컬 22개, 다나와 16개 (차이: 6)"
+    ],
+    "warnings": [
+      "시작가: 로컬 4,438만원, 다나와 4,281만원"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 8,
+      "options": 22,
+      "startPrice": 44380000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "G70",
+      "grades": 28,
+      "colors": 16,
+      "options": 16,
+      "gradeNames": [
+        "2WD A/T 2WD A/T",
+        "AWD A/T AWD A/T",
+        "스포츠 패키지 2WD A/T 스포츠 패키지 2WD A/T",
+        "스포츠 패키지 AWD A/T 스포츠 패키지 AWD A/T",
+        "2WD A/T 2WD A/T"
+      ],
+      "colorNames": [
+        "무광 본드 실버(SMT)-유료",
+        "무광 마칼루 그레이(MPE)-유료",
+        "무광 벌리 블루(MBM)-유료",
+        "바트나 그레이(GRY)",
+        "우유니 화이트(UYH)"
+      ],
+      "optionNames": [
+        "무광 본드 실버 외장컬러",
+        "무광 마칼루 그레이 외장컬러",
+        "무광 벌리 블루 외장컬러",
+        "225/40R19(앞) + 255/35R19(뒤) 미쉐린 타이어 + 다이아몬드 컷팅 휠",
+        "천연가죽 패키지"
+      ]
+    }
+  },
+  {
+    "id": "4626",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "ST1",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 7개, 다나와 9개 (차이: 2)",
+      "옵션: 로컬 7개, 다나와 3개 (차이: 4)"
+    ],
+    "local": {
+      "trims": 7,
+      "colors": 2,
+      "options": 7,
+      "startPrice": 56550000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "ST1",
+      "grades": 9,
+      "colors": 2,
+      "options": 3,
+      "gradeNames": [
+        "스타일 A/T 스타일 A/T 보조금 적용 시",
+        "스마트 A/T 스마트 A/T 보조금 적용 시",
+        "프리미엄 A/T 프리미엄 A/T 보조금 적용 시",
+        "스마트 A/T 스마트 A/T 보조금 적용 시",
+        "프리미엄 A/T 프리미엄 A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "크리미 화이트(YAW)",
+        "블랙 모노톤(NNB)"
+      ],
+      "optionNames": [
+        "빌트인 캠",
+        "하이패스",
+        "테크"
+      ]
+    }
+  },
+  {
+    "id": "4677",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "넥쏘",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"넥쏘\" → 다나와: \"디 올 뉴 넥쏘\"",
+      "색상: 로컬 5개, 다나와 9개 (차이: 4)",
+      "옵션: 로컬 10개, 다나와 2개 (차이: 8)"
+    ],
+    "warnings": [
+      "트림: 로컬 3개, 다나와 5개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 5,
+      "options": 10,
+      "startPrice": 76440000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "디 올 뉴 넥쏘",
+      "grades": 5,
+      "colors": 9,
+      "options": 2,
+      "gradeNames": [
+        "익스클루시브 A/T 익스클루시브 A/T",
+        "익스클루시브 스페셜 A/T 익스클루시브 스페셜 A/T",
+        "프레스티지 A/T 프레스티지 A/T",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "오션 인디고 매트(NBK)",
+        "크리미 화이트 펄(TW3)",
+        "팬텀 블랙 펄(TCM)",
+        "아마존 그레이 메탈릭(A5G)",
+        "에코트로닉 그레이 펄(PE2)"
+      ],
+      "optionNames": [
+        "오션 인디고 매트 외장컬러",
+        "하이패스"
+      ]
+    }
+  },
+  {
+    "id": "4564",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "더 뉴 아반떼 N",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 아반떼 N\" → 다나와: \"아반떼 N\""
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 6개 (차이: 2)",
+      "색상: 로컬 6개, 다나와 8개 (차이: 2)",
+      "옵션: 로컬 16개, 다나와 13개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 16,
+      "startPrice": 33090000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "아반떼 N",
+      "grades": 6,
+      "colors": 8,
+      "options": 13,
+      "gradeNames": [
+        "아반떼 N M/T 아반떼 N M/T",
+        "아반떼 N A/T 아반떼 N A/T",
+        "아반떼 N (시티 팩) A/T 아반떼 N (시티 팩) A/T",
+        "아반떼 N (트랙 팩) A/T 아반떼 N (트랙 팩) A/T",
+        "탁송 탁송"
+      ],
+      "colorNames": [
+        "어비스 블랙 펄(A2B)",
+        "아틀라스 화이트(SAW)",
+        "사이버 그레이 메탈릭(C5G)",
+        "에코트로닉 그레이 펄(PE2)",
+        "메타 블루 펄(PM2)"
+      ],
+      "optionNames": [
+        "선루프",
+        "N 라이트 스포츠 버켓 시트",
+        "19인치 초경량 단조 휠",
+        "N 컴포트",
+        "[N퍼포먼스] 카본 익스테리어 패키지"
+      ]
+    }
+  },
+  {
+    "id": "4455",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "더 뉴 아반떼",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 아반떼\" → 다나와: \"아반떼\"",
+      "트림: 로컬 5개, 다나와 23개 (차이: 18)",
+      "옵션: 로컬 17개, 다나와 4개 (차이: 13)"
+    ],
+    "warnings": [
+      "색상: 로컬 9개, 다나와 10개 (차이: 1)",
+      "시작가: 로컬 2,523만원, 다나와 2,034만원"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 9,
+      "options": 17,
+      "startPrice": 25230000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "아반떼",
+      "grades": 23,
+      "colors": 10,
+      "options": 4,
+      "gradeNames": [
+        "스마트 A/T 스마트 A/T",
+        "모던 라이트 A/T 모던 라이트 A/T",
+        "모던 A/T 모던 A/T",
+        "인스퍼레이션 A/T 인스퍼레이션 A/T",
+        "N라인 A/T N라인 A/T"
+      ],
+      "colorNames": [
+        "아틀라스 화이트(SAW)",
+        "사이버 그레이 메탈릭(C5G)",
+        "플루이드 그레이 메탈릭(M6T)",
+        "에코트로닉 그레이 펄(PE2)",
+        "아마존 그레이 메탈릭(A5G)"
+      ],
+      "optionNames": [
+        "인포테인먼트 내비",
+        "하이패스",
+        "현대 스마트센스",
+        "17인치 알로이 휠 & 타이어Ⅱ"
+      ]
+    }
+  },
+  {
+    "id": "4592",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "더 뉴 투싼",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 투싼\" → 다나와: \"투싼\"",
+      "트림: 로컬 12개, 다나와 26개 (차이: 14)",
+      "옵션: 로컬 31개, 다나와 10개 (차이: 21)"
+    ],
+    "warnings": [
+      "색상: 로컬 9개, 다나와 10개 (차이: 1)",
+      "시작가: 로컬 3,270만원, 다나와 2,805만원"
+    ],
+    "local": {
+      "trims": 12,
+      "colors": 9,
+      "options": 31,
+      "startPrice": 32700000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "투싼",
+      "grades": 26,
+      "colors": 10,
+      "options": 10,
+      "gradeNames": [
+        "모던 2WD A/T 모던 2WD A/T",
+        "모던 4WD A/T 모던 4WD A/T",
+        "프리미엄 2WD A/T 프리미엄 2WD A/T",
+        "프리미엄 4WD A/T 프리미엄 4WD A/T",
+        "H-Pick 2WD A/T H-Pick 2WD A/T"
+      ],
+      "colorNames": [
+        "팬텀 블랙 펄(TCM)",
+        "크리미 화이트 펄(TW3)",
+        "쉬머링 실버 메탈릭(R2T)",
+        "에코트로닉 그레이 펄(PE2)",
+        "얼티메이트 레드 메탈릭(R2P)"
+      ],
+      "optionNames": [
+        "파인 그린 매트 외장컬러",
+        "[HGA] 라이프 스타일",
+        "[HGA] 사이드 스텝",
+        "[HGA] 블랙 사이드 스텝",
+        "파노라마 선루프 + 루프랙"
+      ]
+    }
+  },
+  {
+    "id": "4188",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "디 올 뉴 그랜저",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"디 올 뉴 그랜저\" → 다나와: \"그랜저\"",
+      "트림: 로컬 6개, 다나와 36개 (차이: 30)",
+      "색상: 로컬 8개, 다나와 12개 (차이: 4)",
+      "옵션: 로컬 28개, 다나와 11개 (차이: 17)",
+      "시작가: 로컬 4,354만원, 다나와 3,712만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 6,
+      "colors": 8,
+      "options": 28,
+      "startPrice": 43540000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "그랜저",
+      "grades": 36,
+      "colors": 12,
+      "options": 11,
+      "gradeNames": [
+        "프리미엄 A/T 프리미엄 A/T",
+        "익스클루시브 A/T 익스클루시브 A/T",
+        "아너스 A/T 아너스 A/T",
+        "캘리그래피 A/T 캘리그래피 A/T",
+        "캘리그래피 (블랙익스테리어) A/T 캘리그래피 (블랙익스테리어) A/T"
+      ],
+      "colorNames": [
+        "세레니티 화이트 펄(W6H)",
+        "녹턴 그레이 매트(T9M)",
+        "어비스 블랙 펄(A2B)",
+        "에어로 실버 메탈릭(T4A)",
+        "트랜스미션 블루 펄(NY9)"
+      ],
+      "optionNames": [
+        "세레니티 화이트 펄 외장컬러",
+        "녹턴 그레이 매트 외장컬러",
+        "파노라마 선루프",
+        "헤드업 디스플레이",
+        "파킹 어시스트"
+      ]
+    }
+  },
+  {
+    "id": "3654",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "베뉴",
+    "status": "FAIL",
+    "issues": [
+      "옵션: 로컬 13개, 다나와 3개 (차이: 10)"
+    ],
+    "warnings": [
+      "트림: 로컬 3개, 다나와 7개 (차이: 4)",
+      "색상: 로컬 9개, 다나와 10개 (차이: 1)",
+      "시작가: 로컬 1,926만원, 다나와 1,617만원"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 9,
+      "options": 13,
+      "startPrice": 19260000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "베뉴",
+      "grades": 7,
+      "colors": 10,
+      "options": 3,
+      "gradeNames": [
+        "스마트 A/T 스마트 A/T",
+        "프리미엄 A/T 프리미엄 A/T",
+        "플럭스 A/T 플럭스 A/T",
+        "운전교습용 A/T 운전교습용 A/T",
+        "스마트 A/T 스마트 A/T"
+      ],
+      "colorNames": [
+        "어비스 블랙 펄(A2B)",
+        "데님 블루 펄(TN6)",
+        "인텐스 블루 펄(YP5)",
+        "얼티메이트 레드 메탈릭(R2P)",
+        "에코트로닉 그레이 펄(PE2)"
+      ],
+      "optionNames": [
+        "15인치 알로이 휠 & 타이어",
+        "하이패스",
+        "[HGA] 프로텍션 매트 패키지"
+      ]
+    }
+  },
+  {
+    "id": "4765",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "스타리아",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"스타리아\" → 다나와: \"더 뉴 스타리아\"",
+      "트림: 로컬 4개, 다나와 23개 (차이: 19)",
+      "옵션: 로컬 43개, 다나와 2개 (차이: 41)",
+      "시작가: 로컬 3,870만원, 다나와 3,259만원"
+    ],
+    "warnings": [
+      "색상: 로컬 5개, 다나와 7개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 5,
+      "options": 43,
+      "startPrice": 38700000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "더 뉴 스타리아",
+      "grades": 23,
+      "colors": 7,
+      "options": 2,
+      "gradeNames": [
+        "11인승 스마트 2WD A/T 11인승 스마트 2WD A/T",
+        "11인승 모던 2WD A/T 11인승 모던 2WD A/T",
+        "9인승 스마트 2WD A/T 9인승 스마트 2WD A/T",
+        "9인승 모던 2WD A/T 9인승 모던 2WD A/T",
+        "9인승 프레스티지 2WD A/T 9인승 프레스티지 2WD A/T"
+      ],
+      "colorNames": [
+        "크리미 화이트 (YAC)",
+        "쉬머링 실버 메탈릭 (R2T)",
+        "에코트로닉 그레이 펄 (PE2)",
+        "클래지 블루 펄 (CBP)",
+        "어비스 블랙 펄 (A2B)"
+      ],
+      "optionNames": [
+        "멀티미디어 내비플러스Ⅰ",
+        "[HGA] 멀티 행거"
+      ]
+    }
+  },
+  {
+    "id": "4435",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "싼타페",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 18개, 다나와 74개 (차이: 56)",
+      "옵션: 로컬 31개, 다나와 16개 (차이: 15)"
+    ],
+    "warnings": [
+      "시작가: 로컬 3,964만원, 다나와 3,606만원"
+    ],
+    "local": {
+      "trims": 18,
+      "colors": 8,
+      "options": 31,
+      "startPrice": 39640000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "싼타페",
+      "grades": 74,
+      "colors": 8,
+      "options": 16,
+      "gradeNames": [
+        "익스클루시브 (5인승) A/T 익스클루시브 (5인승) A/T",
+        "익스클루시브 (6인승) A/T 익스클루시브 (6인승) A/T",
+        "익스클루시브 (7인승) A/T 익스클루시브 (7인승) A/T",
+        "프레스티지 (5인승) A/T 프레스티지 (5인승) A/T",
+        "프레스티지 (6인승) A/T 프레스티지 (6인승) A/T"
+      ],
+      "colorNames": [
+        "크리미 화이트 펄(WW2)",
+        "얼씨 브래스 메탈릭 매트(YBM)",
+        "사이버 세이지 펄(RS2)",
+        "페블 블루 펄(PB2)",
+        "오카도 그린 펄(RN2)"
+      ],
+      "optionNames": [
+        "크리미 화이트 펄 외장 컬러",
+        "얼씨 브래스 메탈릭 매트 외장 컬러",
+        "빌트인 캠 2 + 증강현실 내비게이션",
+        "[HGA] 라이프 스타일",
+        "듀얼 와이드 선루프 + 루프랙"
+      ]
+    }
+  },
+  {
+    "id": "4466",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "쏘나타",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"쏘나타\" → 다나와: \"쏘나타 디 엣지\"",
+      "트림: 로컬 4개, 다나와 28개 (차이: 24)",
+      "옵션: 로컬 31개, 다나와 12개 (차이: 19)",
+      "시작가: 로컬 3,270만원, 다나와 2,560만원"
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 9개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 31,
+      "startPrice": 32700000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "쏘나타 디 엣지",
+      "grades": 28,
+      "colors": 9,
+      "options": 12,
+      "gradeNames": [
+        "프리미엄 A/T 프리미엄 A/T",
+        "에스 A/T 에스 A/T",
+        "익스클루시브 A/T 익스클루시브 A/T",
+        "인스퍼레이션 A/T 인스퍼레이션 A/T",
+        "프리미엄 A/T 프리미엄 A/T"
+      ],
+      "colorNames": [
+        "에어로 실버 매트ㅣ무광컬러(T4M)-유료",
+        "녹턴 그레이 매트ㅣ무광컬러(T9M)-유료",
+        "세레니티 화이트 펄(W6H)-유료",
+        "트랜스 미션 블루 펄(NY9)",
+        "바이오 필릭 블루 펄(XB9)"
+      ],
+      "optionNames": [
+        "에어로 실버 매트 외장컬러",
+        "녹턴 그레이 매트 외장컬러",
+        "세레니티 화이트 펄 외장컬러",
+        "빌트인캠2 + 증강현실 내비게이션",
+        "인포테인먼트 내비Ⅱ"
+      ]
+    }
+  },
+  {
+    "id": "4558",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "아이오닉 5 N",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 4개 (차이: 2)",
+      "색상: 로컬 7개, 다나와 9개 (차이: 2)",
+      "옵션: 로컬 12개, 다나와 8개 (차이: 4)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 7,
+      "options": 12,
+      "startPrice": 77690000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "아이오닉 5 N",
+      "grades": 4,
+      "colors": 9,
+      "options": 8,
+      "gradeNames": [
+        "AWD 에센셜 A/T AWD 에센셜 A/T",
+        "AWD A/T AWD A/T",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "퍼포먼스 블루 매트(XGE)",
+        "그래비티 골드 매트(W3T)",
+        "아틀라스 화이트(SAW)",
+        "퍼포먼스 블루(SFB)",
+        "에코트로닉 그레이 펄(PE2)"
+      ],
+      "optionNames": [
+        "퍼포먼스 블루 매트 외장컬러",
+        "그래비티 골드 매트 외장컬러",
+        "컴포트 플러스",
+        "[N퍼포먼스] 알칸타라 인테리어 패키지",
+        "파킹 어시스트 Lite"
+      ]
+    }
+  },
+  {
+    "id": "4624",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "아이오닉 5",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 10개, 다나와 16개 (차이: 6)",
+      "옵션: 로컬 23개, 다나와 14개 (차이: 9)"
+    ],
+    "warnings": [
+      "색상: 로컬 8개, 다나와 11개 (차이: 3)",
+      "시작가: 로컬 5,064만원, 다나와 4,740만원"
+    ],
+    "local": {
+      "trims": 10,
+      "colors": 8,
+      "options": 23,
+      "startPrice": 50640000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "아이오닉 5",
+      "grades": 16,
+      "colors": 11,
+      "options": 14,
+      "gradeNames": [
+        "익스클루시브 2WD A/T 익스클루시브 2WD A/T 보조금 적용 시",
+        "익스클루시브 4WD A/T 익스클루시브 4WD A/T 보조금 적용 시",
+        "N 라인 (익스클루시브) 2WD A/T N 라인 (익스클루시브) 2WD A/T 보조금 적용",
+        "N 라인 (익스클루시브) 4WD A/T N 라인 (익스클루시브) 4WD A/T 보조금 적용",
+        "프레스티지 2WD A/T 프레스티지 2WD A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "무광-프로스티드 브라운 매트(RTE)",
+        "무광-셀라돈 그레이 매트(Y2T)",
+        "무광-그래비티 골드 매트(W3T)",
+        "어비스 블랙 펄(A2B)",
+        "사이버 그레이 메탈릭(C5G)"
+      ],
+      "optionNames": [
+        "프로스티드 브라운 매트",
+        "셀라돈 그레이 매트",
+        "그래비티 골드 매트",
+        "20인치 알로이 휠 + 미쉐린 타이어",
+        "디지털 센터 미러"
+      ]
+    }
+  },
+  {
+    "id": "4742",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "아이오닉 6 N",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 3개 (차이: 2)",
+      "색상: 로컬 3개, 다나와 6개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 3,
+      "options": 11,
+      "startPrice": 79900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "아이오닉 6 N",
+      "grades": 3,
+      "colors": 6,
+      "options": 11,
+      "gradeNames": [
+        "AWD A/T AWD A/T 보조금 적용 시",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "녹턴 그레이 매트(T9M)",
+        "퍼포먼스 블루 펄(WFB)",
+        "세레니티 화이트 펄(W6H)",
+        "녹턴 그레이 메탈릭(T2G)",
+        "어비스 블랙 펄(A2B)"
+      ],
+      "optionNames": [
+        "녹턴 그레이 매트 외장 컬러",
+        "퍼포먼스 블루 펄 외장 컬러",
+        "세레니티 화이트 펄 외장 컬러",
+        "빌트인 캠 2 Plus + N Race Cam",
+        "와이드 선루프"
+      ]
+    }
+  },
+  {
+    "id": "4746",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "아이오닉 6",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"아이오닉 6\" → 다나와: \"더 뉴 아이오닉 6\"",
+      "옵션: 로컬 20개, 다나와 6개 (차이: 14)"
+    ],
+    "warnings": [
+      "트림: 로컬 10개, 다나와 15개 (차이: 5)",
+      "색상: 로컬 7개, 다나와 8개 (차이: 1)",
+      "시작가: 로컬 5,064만원, 다나와 4,856만원"
+    ],
+    "local": {
+      "trims": 10,
+      "colors": 7,
+      "options": 20,
+      "startPrice": 50640000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "더 뉴 아이오닉 6",
+      "grades": 15,
+      "colors": 8,
+      "options": 6,
+      "gradeNames": [
+        "이-라이트 2WD A/T 이-라이트 2WD A/T보조금100% 보조금 적용 시",
+        "이-라이트 AWD A/T 이-라이트 AWD A/T보조금100% 보조금 적용 시",
+        "익스클루시브 2WD A/T 익스클루시브 2WD A/T보조금100% 보조금 적용 시",
+        "익스클루시브 AWD A/T 익스클루시브 AWD A/T보조금100% 보조금 적용 시",
+        "N라인 (익스클루시브) 2WD A/T N라인 (익스클루시브) 2WD A/T보조금100% 보"
+      ],
+      "colorNames": [
+        "세레니티 화이트 펄(W6H)",
+        "그래비티 골드 매트(W3T)",
+        "트랜스미션 블루 매트(M7D)",
+        "트랜스미션 블루 펄(NY9)",
+        "녹턴 그레이 메탈릭(T2G)"
+      ],
+      "optionNames": [
+        "세레니티 화이트 펄 외장 컬러",
+        "그래비티 골드 매트 외장 컬러",
+        "트랜스미션 블루 매트 외장 컬러",
+        "20인치 휠 + 피렐리 타이어",
+        "[HGA] 차량 보호 필름Ⅰ"
+      ]
+    }
+  },
+  {
+    "id": "4088",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "아이오닉 9",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 9개, 다나와 20개 (차이: 11)",
+      "색상: 로컬 8개, 다나와 13개 (차이: 5)",
+      "옵션: 로컬 23개, 다나와 11개 (차이: 12)"
+    ],
+    "warnings": [
+      "시작가: 로컬 6,903만원, 다나와 6,715만원"
+    ],
+    "local": {
+      "trims": 9,
+      "colors": 8,
+      "options": 23,
+      "startPrice": 69030000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "아이오닉 9",
+      "grades": 20,
+      "colors": 13,
+      "options": 11,
+      "gradeNames": [
+        "익스클루시브 2WD A/T 익스클루시브 2WD A/T 보조금 적용 시",
+        "익스클루시브 4WD (항속형) A/T 익스클루시브 4WD (항속형) A/T 보조금 적용 시",
+        "익스클루시브 4WD (성능형) A/T 익스클루시브 4WD (성능형) A/T 보조금 적용 시",
+        "프레스티지 2WD A/T 프레스티지 2WD A/T 보조금 적용 시",
+        "프레스티지 4WD (항속형) A/T 프레스티지 4WD (항속형) A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "녹턴 그레이 매트(T9M)",
+        "세레니티 화이트 펄(W6H)",
+        "어비스 블랙 펄(A2B)",
+        "녹턴 그레이 메탈릭(T2G)",
+        "바이오 필릭 블루 펄(XB9)"
+      ],
+      "optionNames": [
+        "세레니티 화이트 펄 외장 컬러",
+        "녹턴 그레이 매트 외장 컬러",
+        "파노라마 선루프",
+        "빌트인 캠 2(카메라 클리닝 시스템 포함) + 증강현실 내비게이션",
+        "[HGA] 사이드 스텝"
+      ]
+    }
+  },
+  {
+    "id": "4653",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "캐스퍼 EV",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"캐스퍼 EV\" → 다나와: \"캐스퍼 일렉트릭\"",
+      "옵션: 로컬 14개, 다나와 6개 (차이: 8)"
+    ],
+    "warnings": [
+      "트림: 로컬 3개, 다나와 5개 (차이: 2)",
+      "색상: 로컬 7개, 다나와 10개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 7,
+      "options": 14,
+      "startPrice": 27870000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "캐스퍼 일렉트릭",
+      "grades": 5,
+      "colors": 10,
+      "options": 6,
+      "gradeNames": [
+        "프리미엄 A/T 프리미엄 A/T 보조금 적용 시",
+        "인스퍼레이션 A/T 인스퍼레이션 A/T 보조금 적용 시",
+        "크로스 A/T 크로스 A/T 보조금 적용 시",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "아틀라스 화이트(SAW)",
+        "톰보이 카키(TKS)",
+        "시에나 오렌지 메탈릭(SRM)",
+        "버터크림 옐로우 펄(YLC)",
+        "언블리치드 아이보리(NES)"
+      ],
+      "optionNames": [
+        "에어로 실버 매트 외장컬러",
+        "비자림 카키 매트 외장컬러",
+        "더스크 블루 매트 외장컬러",
+        "[HGA] 밴 패키지",
+        "현대 스마트센스Ⅰ"
+      ]
+    }
+  },
+  {
+    "id": "4671",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "캐스퍼",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 3개, 다나와 12개 (차이: 9)",
+      "옵션: 로컬 16개, 다나와 4개 (차이: 12)"
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 7개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 6,
+      "options": 16,
+      "startPrice": 14930000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "캐스퍼",
+      "grades": 12,
+      "colors": 7,
+      "options": 4,
+      "gradeNames": [
+        "스마트 A/T 스마트 A/T",
+        "디 에센셜 A/T 디 에센셜 A/T",
+        "인스퍼레이션 A/T 인스퍼레이션 A/T",
+        "스마트 (캐스퍼액티브Ⅰ) A/T 스마트 (캐스퍼액티브Ⅰ) A/T",
+        "디 에센셜 (캐스퍼액티브Ⅰ) A/T 디 에센셜 (캐스퍼액티브Ⅰ) A/T"
+      ],
+      "colorNames": [
+        "비자림 카키 매트(TKM)",
+        "아틀라스 화이트(SAW)",
+        "톰보이 카키(TKS)",
+        "시에나 오렌지 메탈릭(SRM)",
+        "언블리치드 아이보리(NES)"
+      ],
+      "optionNames": [
+        "비자림 카키 매트 외장컬러",
+        "선루프",
+        "인포테인먼트 내비 플러스Ⅰ",
+        "17인치 알로이 휠 패키지"
+      ]
+    }
+  },
+  {
+    "id": "4510",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "코나 일렉트릭",
+    "status": "FAIL",
+    "issues": [
+      "옵션: 로컬 15개, 다나와 3개 (차이: 12)"
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 8개 (차이: 4)",
+      "색상: 로컬 7개, 다나와 10개 (차이: 3)",
+      "시작가: 로컬 4,566만원, 다나와 4,152만원"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 7,
+      "options": 15,
+      "startPrice": 45660000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "코나 일렉트릭",
+      "grades": 8,
+      "colors": 10,
+      "options": 3,
+      "gradeNames": [
+        "모던 플러스 A/T 모던 플러스 A/T 보조금 적용 시",
+        "프리미엄 A/T 프리미엄 A/T 보조금 적용 시",
+        "인스퍼레이션 A/T 인스퍼레이션 A/T 보조금 적용 시",
+        "N 라인 A/T N 라인 A/T 보조금 적용 시",
+        "이-밸류 플러스 A/T 이-밸류 플러스 A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "어비스 블랙 펄(A2B)",
+        "아틀라스 화이트(SAW)",
+        "사이버 그레이 메탈릭(C5G)",
+        "에코트로닉 그레이 펄(PE2)",
+        "얼티메이트 레드 메탈릭(R2P)"
+      ],
+      "optionNames": [
+        "현대 스마트 센스Ⅱ",
+        "스타일Ⅱ",
+        "하이패스"
+      ]
+    }
+  },
+  {
+    "id": "4699",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "팰리세이드",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"팰리세이드\" → 다나와: \"디 올 뉴 팰리세이드\"",
+      "트림: 로컬 6개, 다나와 26개 (차이: 20)",
+      "옵션: 로컬 20개, 다나와 9개 (차이: 11)",
+      "시작가: 로컬 4,968만원, 다나와 4,383만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 6,
+      "colors": 8,
+      "options": 20,
+      "startPrice": 49680000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "디 올 뉴 팰리세이드",
+      "grades": 26,
+      "colors": 8,
+      "options": 9,
+      "gradeNames": [
+        "익스클루시브 2WD A/T 익스클루시브 2WD A/T",
+        "익스클루시브 4WD A/T 익스클루시브 4WD A/T",
+        "프레스티지 2WD A/T 프레스티지 2WD A/T",
+        "프레스티지 4WD A/T 프레스티지 4WD A/T",
+        "캘리그래피 2WD A/T 캘리그래피 2WD A/T"
+      ],
+      "colorNames": [
+        "크리미 화이트 펄(WC9)",
+        "쉬머링 실버 메탈릭(R2T)",
+        "에코트로닉 그레이 펄(PE2)",
+        "클래지 블루 펄(CBP)",
+        "캐스트 아이언 브라운 펄(CRP)"
+      ],
+      "optionNames": [
+        "크리미 화이트 펄 외장컬러",
+        "듀얼 와이드 선루프",
+        "빌트인 캠 2 Plus + 증강현실 내비게이션",
+        "[HGA] 사이드 스텝",
+        "[HGA] 빌트인 공기청정기"
+      ]
+    }
+  },
+  {
+    "id": "1901",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "포터2",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 18개, 다나와 227개 (차이: 209)",
+      "옵션: 로컬 24개, 다나와 4개 (차이: 20)"
+    ],
+    "warnings": [
+      "색상: 로컬 3개, 다나와 4개 (차이: 1)",
+      "시작가: 로컬 2,141만원, 다나와 2,028만원"
+    ],
+    "local": {
+      "trims": 18,
+      "colors": 3,
+      "options": 24,
+      "startPrice": 21410000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "포터2",
+      "grades": 227,
+      "colors": 4,
+      "options": 4,
+      "gradeNames": [
+        "슈퍼캡 초장축 스마트 M/T 슈퍼캡 초장축 스마트 M/T",
+        "슈퍼캡 초장축 스마트 A/T 슈퍼캡 초장축 스마트 A/T",
+        "슈퍼캡 초장축 모던 M/T 슈퍼캡 초장축 모던 M/T",
+        "슈퍼캡 초장축 모던 A/T 슈퍼캡 초장축 모던 A/T",
+        "슈퍼캡 초장축 프리미엄 M/T 슈퍼캡 초장축 프리미엄 M/T"
+      ],
+      "colorNames": [
+        "크리미 화이트 (YAW)",
+        "오닉스 블루(ZV)",
+        "슬레이트 브라운 (RVB)",
+        "그레이"
+      ],
+      "optionNames": [
+        "중량짐용 후륜 현가장치",
+        "PTO(Power Take Off)",
+        "내비게이션 패키지Ⅰ",
+        "[HGA] 플라스틱 적재함 커버"
+      ]
+    }
+  },
+  {
+    "id": "4545",
+    "brandId": "kgm",
+    "brandName": "KGM",
+    "name": "더 뉴 티볼리",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 티볼리\" → 다나와: \"티볼리\"",
+      "트림: 로컬 2개, 다나와 13개 (차이: 11)",
+      "옵션: 로컬 26개, 다나와 9개 (차이: 17)"
+    ],
+    "warnings": [
+      "시작가: 로컬 2,230만원, 다나와 1,872만원"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 6,
+      "options": 26,
+      "startPrice": 22300000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "티볼리",
+      "grades": 13,
+      "colors": 6,
+      "options": 9,
+      "gradeNames": [
+        "V5 2WD A/T V5 2WD A/T",
+        "V7 2WD A/T V7 2WD A/T",
+        "V1 2WD A/T V1 2WD A/T",
+        "V3 2WD A/T V3 2WD A/T",
+        "V5 2WD A/T V5 2WD A/T"
+      ],
+      "colorNames": [
+        "그랜드 화이트(WAA)",
+        "아이언 메탈(ADE)",
+        "댄디 블루(BAS)",
+        "스페이스 블랙(LAK)",
+        "라떼 그레이지(EBL)"
+      ],
+      "optionNames": [
+        "밸류업 패키지",
+        "컨비니언스 패키지",
+        "[커스터마이징] 플로팅 무드 스피커",
+        "[커스터마이징] 테일게이트 LED 램프",
+        "[커스터마이징] 스포츠 페달"
+      ]
+    }
+  },
+  {
+    "id": "4518",
+    "brandId": "kgm",
+    "brandName": "KGM",
+    "name": "렉스턴 뉴 아레나",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 4개, 다나와 11개 (차이: 7)",
+      "옵션: 로컬 24개, 다나와 12개 (차이: 12)"
+    ],
+    "warnings": [
+      "색상: 로컬 7개, 다나와 4개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 7,
+      "options": 24,
+      "startPrice": 39990000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "렉스턴 뉴 아레나",
+      "grades": 11,
+      "colors": 4,
+      "options": 12,
+      "gradeNames": [
+        "프리미엄 2WD A/T 프리미엄 2WD A/T",
+        "프리미엄 4WD A/T 프리미엄 4WD A/T",
+        "노블레스 2WD A/T 노블레스 2WD A/T",
+        "노블레스 4WD A/T 노블레스 4WD A/T",
+        "프리미엄 2WD A/T 프리미엄 2WD A/T"
+      ],
+      "colorNames": [
+        "그랜드 화이트(WAA)",
+        "마블 그레이(ACM)",
+        "스페이스 블랙(LAK)",
+        "블랙"
+      ],
+      "optionNames": [
+        "세이프티 선루프",
+        "LD 시스템",
+        "[커스터마이징] 고정식 사이드 스텝",
+        "[커스터마이징] 플로팅 센터 스피커",
+        "[커스터마이징] 빌트인 공기청정기"
+      ]
+    }
+  },
+  {
+    "id": "4666",
+    "brandId": "kgm",
+    "brandName": "KGM",
+    "name": "무쏘 EV",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 6개 (차이: 2)",
+      "색상: 로컬 6개, 다나와 9개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 18,
+      "startPrice": 48000000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "무쏘 EV",
+      "grades": 6,
+      "colors": 9,
+      "options": 18,
+      "gradeNames": [
+        "MX 2WD A/T MX 2WD A/T 보조금 적용 시",
+        "MX 4WD A/T MX 4WD A/T 보조금 적용 시",
+        "블랙 엣지 2WD A/T 블랙 엣지 2WD A/T 보조금 적용 시",
+        "블랙 엣지 4WD A/T 블랙 엣지 4WD A/T 보조금 적용 시",
+        "탁송 탁송"
+      ],
+      "colorNames": [
+        "그랜드 화이트(WAA)",
+        "블레이징 골드(DAA)",
+        "아마조니아 그린(GAM)",
+        "울트라 마린(BBE)",
+        "마블 그레이(ACM)"
+      ],
+      "optionNames": [
+        "선루프",
+        "3D 어라운드뷰 모니터링 시스템",
+        "천연 가죽시트 패키지",
+        "유틸리티 루프랙",
+        "휴대폰 무선 충전기"
+      ]
+    }
+  },
+  {
+    "id": "4766",
+    "brandId": "kgm",
+    "brandName": "KGM",
+    "name": "무쏘",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 10개, 다나와 32개 (차이: 22)"
+    ],
+    "warnings": [
+      "색상: 로컬 7개, 다나와 8개 (차이: 1)",
+      "옵션: 로컬 20개, 다나와 15개 (차이: 5)"
+    ],
+    "local": {
+      "trims": 10,
+      "colors": 7,
+      "options": 20,
+      "startPrice": 29900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "무쏘",
+      "grades": 32,
+      "colors": 8,
+      "options": 15,
+      "gradeNames": [
+        "M5 2WD A/T M5 2WD A/T",
+        "M5 4WD A/T M5 4WD A/T",
+        "M7 2WD A/T M7 2WD A/T",
+        "M7 (그랜드 스타일) 2WD A/T M7 (그랜드 스타일) 2WD A/T",
+        "M7 4WD A/T M7 4WD A/T"
+      ],
+      "colorNames": [
+        "스모크 토프 OBH",
+        "그랜드 화이트 WAA",
+        "샌드스톤 베이지 EBK",
+        "아마조니아 그린 GAM",
+        "마블 그레이 ACM"
+      ],
+      "optionNames": [
+        "세이프티 선루프",
+        "12.3인치 KGM 링크 내비게이션 패키지(M5)",
+        "[커스터마이징] 고정식 사이드 스텝",
+        "[커스터마이징] 오프로드 사이드 스텝",
+        "[커스터마이징] 도어 가니쉬"
+      ]
+    }
+  },
+  {
+    "id": "4622",
+    "brandId": "kgm",
+    "brandName": "KGM",
+    "name": "액티언",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 1개, 다나와 7개 (차이: 6)",
+      "옵션: 로컬 25개, 다나와 19개 (차이: 6)"
+    ],
+    "warnings": [
+      "색상: 로컬 10개, 다나와 13개 (차이: 3)",
+      "시작가: 로컬 3,695만원, 다나와 3,417만원"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 10,
+      "options": 25,
+      "startPrice": 36950000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "액티언",
+      "grades": 7,
+      "colors": 13,
+      "options": 19,
+      "gradeNames": [
+        "S8 2WD A/T S8 2WD A/T",
+        "S8 2WD A/T S8 2WD A/T",
+        "S8 AWD A/T S8 AWD A/T",
+        "S8 2WD A/T S8 2WD A/T",
+        "S8 AWD A/T S8 AWD A/T"
+      ],
+      "colorNames": [
+        "그랜드 화이트",
+        "아이언 메탈",
+        "라떼 그레이지",
+        "포레스트 그린",
+        "댄디 블루"
+      ],
+      "optionNames": [
+        "파노라마 선루프",
+        "투톤 익스테리어 패키지",
+        "카멜/베이지 투톤 인테리어 패키지",
+        "블랙 스웨이드 퀼팅 인테리어 패키지",
+        "3D 어라운드뷰 모니터링 시스템"
+      ]
+    }
+  },
+  {
+    "id": "4492",
+    "brandId": "kgm",
+    "brandName": "KGM",
+    "name": "토레스 EVX",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 2개, 다나와 8개 (차이: 6)",
+      "옵션: 로컬 26개, 다나와 19개 (차이: 7)"
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 9개 (차이: 3)",
+      "시작가: 로컬 4,602만원, 다나와 4,438만원"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 6,
+      "options": 26,
+      "startPrice": 46020000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "토레스 EVX",
+      "grades": 8,
+      "colors": 9,
+      "options": 19,
+      "gradeNames": [
+        "E5 A/T E5 A/T",
+        "E7 A/T E7 A/T",
+        "TV5 A/T TV5 A/T 보조금 적용 시",
+        "TV7 A/T TV7 A/T 보조금 적용 시",
+        "E5 A/T E5 A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "그랜드 화이트 (WAA)",
+        "라떼 그레이지 (EBL)",
+        "아이언 메탈 (ADE)",
+        "포레스트 그린 (GAO)",
+        "댄디 블루 (BAS)"
+      ],
+      "optionNames": [
+        "파노라마 선루프",
+        "휴대용 충전 케이블",
+        "그레이 투톤 인테리어 패키지",
+        "브라운 인테리어 패키지",
+        "[커스터마이징] 사이드 스토리지 박스 (블랙 기본/실버 옵션)"
+      ]
+    }
+  },
+  {
+    "id": "4647",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "EV3",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 6개, 다나와 18개 (차이: 12)"
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 9개 (차이: 3)",
+      "옵션: 로컬 16개, 다나와 13개 (차이: 3)",
+      "시작가: 로컬 4,415만원, 다나와 3,995만원"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 6,
+      "options": 16,
+      "startPrice": 44150000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EV3",
+      "grades": 18,
+      "colors": 9,
+      "options": 13,
+      "gradeNames": [
+        "에어 2WD A/T 에어 2WD A/T 보조금 적용 시",
+        "에어 4WD A/T 에어 4WD A/T",
+        "어스 2WD A/T 어스 2WD A/T 보조금 적용 시",
+        "어스 4WD A/T 어스 4WD A/T",
+        "GT-Line 2WD A/T GT-Line 2WD A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄 (SWP)",
+        "아이보리 실버 (ISG)",
+        "아이보리 매트 실버 (ISM)",
+        "오로라 블랙 펄 (ABP)",
+        "세일 그레이 (EBD)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "아이보리 매트 실버 외장컬러",
+        "스타일",
+        "컴포트 I",
+        "컴포트 II"
+      ]
+    }
+  },
+  {
+    "id": "4712",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "EV4",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 6개, 다나와 18개 (차이: 12)"
+    ],
+    "warnings": [
+      "색상: 로컬 8개, 다나와 9개 (차이: 1)",
+      "옵션: 로컬 15개, 다나와 13개 (차이: 2)",
+      "시작가: 로컬 4,462만원, 다나와 4,042만원"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 8,
+      "options": 15,
+      "startPrice": 44620000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EV4",
+      "grades": 18,
+      "colors": 9,
+      "options": 13,
+      "gradeNames": [
+        "에어 2WD A/T 에어 2WD A/T 보조금 적용 시",
+        "에어 4WD A/T 에어 4WD A/T",
+        "어스 2WD A/T 어스 2WD A/T 보조금 적용 시",
+        "어스 4WD A/T 어스 4WD A/T",
+        "GT-Line 2WD A/T GT-Line 2WD A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "아이보리 실버(ISG)",
+        "셰일 그레이(EBD)",
+        "오로라 블랙 펄(ABP)",
+        "모닝 헤이즈(ACW)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "아이보리 매트 실버 외장컬러",
+        "스타일",
+        "컴포트",
+        "컨비니언스"
+      ]
+    }
+  },
+  {
+    "id": "4128",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "EV9",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 12개, 다나와 44개 (차이: 32)",
+      "옵션: 로컬 25개, 다나와 10개 (차이: 15)"
+    ],
+    "warnings": [
+      "색상: 로컬 7개, 다나와 9개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 12,
+      "colors": 7,
+      "options": 25,
+      "startPrice": 61970000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EV9",
+      "grades": 44,
+      "colors": 9,
+      "options": 10,
+      "gradeNames": [
+        "라이트 스탠다드 (7인승) A/T 라이트 스탠다드 (7인승) A/T",
+        "라이트 스탠다드 (6인승) A/T 라이트 스탠다드 (6인승) A/T",
+        "라이트 롱레인지 (7인승) A/T 라이트 롱레인지 (7인승) A/T",
+        "라이트 롱레인지 (6인승) A/T 라이트 롱레인지 (6인승) A/T",
+        "에어 스탠다드 (7인승) A/T 에어 스탠다드 (7인승) A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "아이보리 매트 실버(ISM)",
+        "페블 그레이(DFG)",
+        "판테라 메탈(P2M)",
+        "오로라 블랙 펄(ABP)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "아이보리 매트 실버 외장컬러",
+        "컨비니언스",
+        "헤드업 디스플레이",
+        "빌트인 캠 2"
+      ]
+    }
+  },
+  {
+    "id": "4714",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "PV5",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 2개, 다나와 14개 (차이: 12)",
+      "옵션: 로컬 19개, 다나와 7개 (차이: 12)"
+    ],
+    "warnings": [
+      "시작가: 로컬 4,540만원, 다나와 4,200만원"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 7,
+      "options": 19,
+      "startPrice": 45400000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "PV5",
+      "grades": 14,
+      "colors": 7,
+      "options": 7,
+      "gradeNames": [
+        "베이직 A/T 베이직 A/T 보조금 적용 시",
+        "플러스 A/T 플러스 A/T 보조금 적용 시",
+        "플러스 A/T 플러스 A/T",
+        "베이직 스탠다드 A/T 베이직 스탠다드 A/T 보조금 적용 시",
+        "베이직 롱레인지 A/T 베이직 롱레인지 A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "클리어 화이트(UD)",
+        "스틸 그레이(KLG)",
+        "오로라 블랙펄(ABP)",
+        "프로스트 블루(EBB)",
+        "시티스케이프 그린(CGE)"
+      ],
+      "optionNames": [
+        "컨비니언스",
+        "파워도어",
+        "스마트 커넥트",
+        "드라이브 와이즈",
+        "모니터링"
+      ]
+    }
+  },
+  {
+    "id": "4641",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 EV6",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 EV6\" → 다나와: \"EV6\"",
+      "트림: 로컬 8개, 다나와 14개 (차이: 6)",
+      "옵션: 로컬 19개, 다나와 9개 (차이: 10)"
+    ],
+    "warnings": [
+      "시작가: 로컬 4,761만원, 다나와 4,360만원"
+    ],
+    "local": {
+      "trims": 8,
+      "colors": 10,
+      "options": 19,
+      "startPrice": 47610000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EV6",
+      "grades": 14,
+      "colors": 10,
+      "options": 9,
+      "gradeNames": [
+        "라이트 2WD A/T 라이트 2WD A/T 보조금 적용 시",
+        "라이트 4WD A/T 라이트 4WD A/T 보조금 적용 시",
+        "에어 2WD A/T 에어 2WD A/T 보조금 적용 시",
+        "에어 4WD A/T 에어 4WD A/T 보조금 적용 시",
+        "어스 2WD A/T 어스 2WD A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄 (SWP)",
+        "오로라 블랙 펄 (ABP)",
+        "인터스텔라 그레이 (AGT)",
+        "런웨이 레드 (CR5)",
+        "문스케이프 매트 그레이 (KLM)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "문스케이프 매트 그레이 외장컬러",
+        "아이보리 매트 실버 외장컬러",
+        "스마트 파워테일게이트",
+        "드라이브 와이즈"
+      ]
+    }
+  },
+  {
+    "id": "4585",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 K5",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 K5\" → 다나와: \"K5\"",
+      "트림: 로컬 4개, 다나와 38개 (차이: 34)",
+      "옵션: 로컬 16개, 다나와 9개 (차이: 7)",
+      "시작가: 로컬 3,241만원, 다나와 2,507만원"
+    ],
+    "warnings": [
+      "색상: 로컬 5개, 다나와 7개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 5,
+      "options": 16,
+      "startPrice": 32410000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "K5",
+      "grades": 38,
+      "colors": 7,
+      "options": 9,
+      "gradeNames": [
+        "프레스티지 A/T 프레스티지 A/T",
+        "베스트 셀렉션 A/T 베스트 셀렉션 A/T",
+        "노블레스 A/T 노블레스 A/T",
+        "시그니처 A/T 시그니처 A/T",
+        "프레스티지 A/T 프레스티지 A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "인터스텔라 그레이(AGT)",
+        "오로라 블랙펄(ABP)",
+        "울프 그레이(C7S)",
+        "그래비티 블루(B4U)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄",
+        "스타일",
+        "컴포트",
+        "드라이브 와이즈",
+        "12.3인치 클러스터 팩"
+      ]
+    }
+  },
+  {
+    "id": "4665",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 K8",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 K8\" → 다나와: \"K8\"",
+      "트림: 로컬 5개, 다나와 45개 (차이: 40)",
+      "옵션: 로컬 27개, 다나와 9개 (차이: 18)",
+      "시작가: 로컬 4,206만원, 다나와 3,529만원"
+    ],
+    "warnings": [
+      "색상: 로컬 5개, 다나와 8개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 5,
+      "options": 27,
+      "startPrice": 42060000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "K8",
+      "grades": 45,
+      "colors": 8,
+      "options": 9,
+      "gradeNames": [
+        "노블레스 라이트 A/T 노블레스 라이트 A/T",
+        "베스트 셀렉션 A/T 베스트 셀렉션 A/T",
+        "노블레스 A/T 노블레스 A/T",
+        "시그니처 A/T 시그니처 A/T",
+        "시그니처 블랙 A/T 시그니처 블랙 A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄 (SWP)",
+        "아이보리 실버 (ISG)",
+        "문스케이프 매트 그레이(KLM)",
+        "선셋 베이지 (BYG)",
+        "인터스텔라 그레이 (AGT)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "문스케이프 매트 그레이 외장컬러",
+        "파노라마 선루프",
+        "스타일",
+        "드라이브 와이즈"
+      ]
+    }
+  },
+  {
+    "id": "4066",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 K9",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 K9\" → 다나와: \"K9\"",
+      "트림: 로컬 5개, 다나와 18개 (차이: 13)",
+      "옵션: 로컬 13개, 다나와 7개 (차이: 6)",
+      "시작가: 로컬 6,594만원, 다나와 5,871만원"
+    ],
+    "warnings": [
+      "색상: 로컬 5개, 다나와 8개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 5,
+      "options": 13,
+      "startPrice": 65940000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "K9",
+      "grades": 18,
+      "colors": 8,
+      "options": 7,
+      "gradeNames": [
+        "플래티넘 RWD A/T 플래티넘 RWD A/T",
+        "플래티넘 AWD A/T 플래티넘 AWD A/T",
+        "베스트 셀렉션 I AWD A/T 베스트 셀렉션 I AWD A/T",
+        "마스터즈 AWD A/T 마스터즈 AWD A/T",
+        "베스트 셀렉션 II AWD A/T 베스트 셀렉션 II AWD A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "판테라 메탈(P2M)",
+        "페블 그레이(DFG)",
+        "딥 크로마 블루(D9B)",
+        "오로라 블랙 펄(ABP)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "선루프",
+        "빌트인 캠",
+        "모니터링 팩",
+        "컴포트 팩"
+      ]
+    }
+  },
+  {
+    "id": "4689",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 레이",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 레이\" → 다나와: \"레이\"",
+      "트림: 로컬 4개, 다나와 12개 (차이: 8)"
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 8개 (차이: 2)",
+      "옵션: 로컬 9개, 다나와 6개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 9,
+      "startPrice": 14900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "레이",
+      "grades": 12,
+      "colors": 8,
+      "options": 6,
+      "gradeNames": [
+        "트렌디 A/T 트렌디 A/T",
+        "프레스티지 A/T 프레스티지 A/T",
+        "시그니처 A/T 시그니처 A/T",
+        "X-Line A/T X-Line A/T",
+        "트렌디 A/T 트렌디 A/T"
+      ],
+      "colorNames": [
+        "클리어 화이트(UD)",
+        "아스트로 그레이(M7G)",
+        "오로라 블랙 펄(ABP)",
+        "밀키 베이지(M9Y)",
+        "아쿠아 민트(AEQ)"
+      ],
+      "optionNames": [
+        "버튼시동 스마트키",
+        "스타일",
+        "컴포트 I",
+        "드라이브 와이즈",
+        "8인치 디스플레이 오디오"
+      ]
+    }
+  },
+  {
+    "id": "4554",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 모닝",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 모닝\" → 다나와: \"모닝\""
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 8개 (차이: 4)",
+      "색상: 로컬 7개, 다나와 8개 (차이: 1)",
+      "옵션: 로컬 9개, 다나와 8개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 7,
+      "options": 9,
+      "startPrice": 13950000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "모닝",
+      "grades": 8,
+      "colors": 8,
+      "options": 8,
+      "gradeNames": [
+        "트렌디 A/T 트렌디 A/T",
+        "프레스티지 A/T 프레스티지 A/T",
+        "시그니처 A/T 시그니처 A/T",
+        "GT-Line A/T GT-Line A/T",
+        "트렌디 A/T 트렌디 A/T"
+      ],
+      "colorNames": [
+        "클리어 화이트 (UD)",
+        "밀키 베이지 (M9Y)",
+        "어드벤쳐러스 그린 (A2G)",
+        "스파클링 실버 (KCS)",
+        "시그널 레드 (BEG)"
+      ],
+      "optionNames": [
+        "버튼시동 PACK",
+        "스타일",
+        "16인치 전면가공 휠",
+        "16인치 전면가공 휠",
+        "컴포트"
+      ]
+    }
+  },
+  {
+    "id": "4391",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 셀토스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 셀토스\" → 다나와: \"셀토스\"",
+      "트림: 로컬 8개, 다나와 18개 (차이: 10)",
+      "옵션: 로컬 18개, 다나와 7개 (차이: 11)"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 8,
+      "colors": 6,
+      "options": 18,
+      "startPrice": 22660000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "셀토스",
+      "grades": 18,
+      "colors": 6,
+      "options": 7,
+      "gradeNames": [
+        "트렌디 2WD A/T 트렌디 2WD A/T",
+        "트렌디 4WD A/T 트렌디 4WD A/T",
+        "프레스티지 2WD A/T 프레스티지 2WD A/T",
+        "프레스티지 4WD A/T 프레스티지 4WD A/T",
+        "시그니처 2WD A/T 시그니처 2WD A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "그래비티 그레이(KDG)",
+        "퓨전 블랙(FSB)",
+        "플루톤 블루(PLU)",
+        "다크 오션 블루(BU3)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "드라이브 와이즈",
+        "컨비니언스",
+        "10.25인치 내비게이션",
+        "[KGA] 아웃도어 패키지"
+      ]
+    }
+  },
+  {
+    "id": "4684",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 스포티지",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 스포티지\" → 다나와: \"스포티지\"",
+      "트림: 로컬 8개, 다나와 42개 (차이: 34)",
+      "옵션: 로컬 19개, 다나와 9개 (차이: 10)",
+      "시작가: 로컬 3,346만원, 다나와 2,793만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 8,
+      "colors": 7,
+      "options": 19,
+      "startPrice": 33460000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "스포티지",
+      "grades": 42,
+      "colors": 7,
+      "options": 9,
+      "gradeNames": [
+        "프레스티지 2WD A/T 프레스티지 2WD A/T",
+        "프레스티지 4WD A/T 프레스티지 4WD A/T",
+        "노블레스 2WD A/T 노블레스 2WD A/T",
+        "노블레스 4WD A/T 노블레스 4WD A/T",
+        "시그니처 2WD A/T 시그니처 2WD A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄 (SWP)",
+        "헤리티지 블루 (HRB)",
+        "울프 그레이 (C7A)",
+        "그래비티 그레이 (KDG)",
+        "베스타 블루 (BB2)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "스타일",
+        "12.3인치 내비게이션",
+        "빌트인 캠 2",
+        "파노라마 선루프"
+      ]
+    }
+  },
+  {
+    "id": "4563",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 쏘렌토",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 쏘렌토\" → 다나와: \"쏘렌토\"",
+      "트림: 로컬 12개, 다나와 74개 (차이: 62)",
+      "옵션: 로컬 15개, 다나와 9개 (차이: 6)"
+    ],
+    "warnings": [
+      "색상: 로컬 5개, 다나와 7개 (차이: 2)",
+      "시작가: 로컬 3,896만원, 다나와 3,580만원"
+    ],
+    "local": {
+      "trims": 12,
+      "colors": 5,
+      "options": 15,
+      "startPrice": 38960000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "쏘렌토",
+      "grades": 74,
+      "colors": 7,
+      "options": 9,
+      "gradeNames": [
+        "프레스티지 (5인승) A/T 프레스티지 (5인승) A/T",
+        "프레스티지 (6인승) A/T 프레스티지 (6인승) A/T",
+        "프레스티지 (7인승) A/T 프레스티지 (7인승) A/T",
+        "노블레스 (5인승) A/T 노블레스 (5인승) A/T",
+        "노블레스 (6인승) A/T 노블레스 (6인승) A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄 (SWP)",
+        "볼캐닉 샌드 브라운 (BN4)",
+        "시티스케이프 그린 (CGE)",
+        "인터스텔라 그레이 (AGT)",
+        "오로라 블랙펄 (ABP)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "스타일",
+        "12.3인치 클러스터",
+        "드라이브 와이즈",
+        "HUD + 빌트인 캠 2"
+      ]
+    }
+  },
+  {
+    "id": "4586",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 뉴 카니발",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 카니발\" → 다나와: \"카니발\"",
+      "트림: 로컬 4개, 다나와 58개 (차이: 54)",
+      "옵션: 로컬 20개, 다나와 10개 (차이: 10)",
+      "시작가: 로컬 4,611만원, 다나와 3,551만원"
+    ],
+    "warnings": [
+      "색상: 로컬 5개, 다나와 6개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 5,
+      "options": 20,
+      "startPrice": 46110000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "카니발",
+      "grades": 58,
+      "colors": 6,
+      "options": 10,
+      "gradeNames": [
+        "노블레스 A/T 노블레스 A/T",
+        "아웃도어 A/T 아웃도어 A/T",
+        "시그니처 A/T 시그니처 A/T",
+        "X-Line A/T X-Line A/T",
+        "프레스티지 A/T 프레스티지 A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "아이보리 실버 (ISG)",
+        "오로라 블랙 펄 (ABP)",
+        "판테라 메탈 (P2M)",
+        "토프"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "스타일",
+        "컴포트",
+        "스마트 커넥트",
+        "드라이브 와이즈"
+      ]
+    }
+  },
+  {
+    "id": "4691",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "더 레이 EV",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 레이 EV\" → 다나와: \"레이 EV\"",
+      "트림: 로컬 2개, 다나와 8개 (차이: 6)"
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 8개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 6,
+      "options": 5,
+      "startPrice": 28350000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "레이 EV",
+      "grades": 8,
+      "colors": 8,
+      "options": 5,
+      "gradeNames": [
+        "라이트 A/T 라이트 A/T 보조금 적용 시",
+        "에어 A/T 에어 A/T 보조금 적용 시",
+        "라이트 A/T 라이트 A/T 보조금 적용 시",
+        "에어 A/T 에어 A/T 보조금 적용 시",
+        "라이트 A/T 라이트 A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "클리어 화이트(UD)",
+        "아스트로 그레이(M7G)",
+        "오로라 블랙 펄(ABP)",
+        "밀키 베이지(M9Y)",
+        "아쿠아 민트(AEQ)"
+      ],
+      "optionNames": [
+        "스타일",
+        "컴포트 I",
+        "컴포트 II",
+        "드라이브 와이즈",
+        "[KGA] 그레이 투톤 패키지"
+      ]
+    }
+  },
+  {
+    "id": "4396",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "디 올 뉴 니로 EV",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"디 올 뉴 니로 EV\" → 다나와: \"니로 EV\""
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 4개 (차이: 2)",
+      "색상: 로컬 7개, 다나와 8개 (차이: 1)",
+      "옵션: 로컬 13개, 다나와 10개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 7,
+      "options": 13,
+      "startPrice": 48550000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "니로 EV",
+      "grades": 4,
+      "colors": 8,
+      "options": 10,
+      "gradeNames": [
+        "에어 A/T 에어 A/T 보조금 적용 시",
+        "어스 A/T 어스 A/T 보조금 적용 시",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "스틸 그레이(KLG)",
+        "시티스케이프 그린(CGE)",
+        "미네랄 블루(M4B)",
+        "인터스텔라 그레이(AGT)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄",
+        "드라이브 와이즈",
+        "스타일",
+        "스마트 커넥트",
+        "하만카돈 사운드"
+      ]
+    }
+  },
+  {
+    "id": "4130",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "디 올 뉴 니로",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"디 올 뉴 니로\" → 다나와: \"니로\"",
+      "옵션: 로컬 16개, 다나와 6개 (차이: 10)"
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 9개 (차이: 5)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 7,
+      "options": 16,
+      "startPrice": 27870000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "니로",
+      "grades": 9,
+      "colors": 7,
+      "options": 6,
+      "gradeNames": [
+        "트렌디 A/T 트렌디 A/T",
+        "프레스티지 A/T 프레스티지 A/T",
+        "베스트 셀렉션 A/T 베스트 셀렉션 A/T",
+        "시그니처 A/T 시그니처 A/T",
+        "트렌디 A/T 트렌디 A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "스틸 그레이(KLG)",
+        "인터스텔라 그레이(AGT)",
+        "오로라 블랙 펄(ABP)",
+        "미네랄 블루(M4B)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄",
+        "컨비니언스",
+        "드라이브 와이즈",
+        "스타일",
+        "내비게이션"
+      ]
+    }
+  },
+  {
+    "id": "4686",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "타스만",
+    "status": "FAIL",
+    "issues": [
+      "옵션: 로컬 14개, 다나와 4개 (차이: 10)"
+    ],
+    "warnings": [
+      "트림: 로컬 6개, 다나와 9개 (차이: 3)",
+      "색상: 로컬 7개, 다나와 8개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 7,
+      "options": 14,
+      "startPrice": 37500000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "타스만",
+      "grades": 9,
+      "colors": 8,
+      "options": 4,
+      "gradeNames": [
+        "다이내믹 2WD A/T 다이내믹 2WD A/T",
+        "다이내믹 4WD A/T 다이내믹 4WD A/T",
+        "어드벤처 2WD A/T 어드벤처 2WD A/T",
+        "어드벤처 4WD A/T 어드벤처 4WD A/T",
+        "익스트림 2WD A/T 익스트림 2WD A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄 (SWP)",
+        "오로라 블랙 펄 (ABP)",
+        "인터스텔라 그레이 (AGT)",
+        "스틸 그레이 (KLG)",
+        "시티스케이프 그린 (CGE)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "스타일",
+        "12.3인치 클러스터",
+        "드라이브 와이즈"
+      ]
+    }
+  },
+  {
+    "id": "4659",
+    "brandId": "르노코리아",
+    "brandName": "르노코리아",
+    "name": "그랑 콜레오스",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 4개, 다나와 12개 (차이: 8)",
+      "옵션: 로컬 37개, 다나와 27개 (차이: 10)"
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 5개 (차이: 1)",
+      "시작가: 로컬 3,815만원, 다나와 3,497만원"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 37,
+      "startPrice": 38150000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "그랑 콜레오스",
+      "grades": 12,
+      "colors": 5,
+      "options": 27,
+      "gradeNames": [
+        "테크노 A/T 테크노 A/T",
+        "아이코닉 A/T 아이코닉 A/T",
+        "에스프리 알핀 A/T 에스프리 알핀 A/T",
+        "에스카파드 A/T 에스카파드 A/T",
+        "테크노 A/T 테크노 A/T"
+      ],
+      "colorNames": [
+        "클라우드 펄",
+        "어반 그레이",
+        "메탈릭 블랙",
+        "미네랄 코퍼",
+        "다크 블루 인조가죽 시트"
+      ],
+      "optionNames": [
+        "클라우드 펄 외장컬러",
+        "미네랄 코퍼 외장컬러",
+        "[액세서리] R·beat 노래방 마이크",
+        "12.3인치 동승석 디스플레이(R:아케이드 게임, cinema(OTT), 음악 스트리밍, ",
+        "[액세서리] 프론트 그릴 데코"
+      ]
+    }
+  },
+  {
+    "id": "4772",
+    "brandId": "르노코리아",
+    "brandName": "르노코리아",
+    "name": "필랑트",
+    "status": "FAIL",
+    "issues": [
+      "옵션: 로컬 22개, 다나와 15개 (차이: 7)"
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 6개 (차이: 2)",
+      "색상: 로컬 5개, 다나와 4개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 5,
+      "options": 22,
+      "startPrice": 43320000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "필랑트",
+      "grades": 6,
+      "colors": 4,
+      "options": 15,
+      "gradeNames": [
+        "테크노 A/T 테크노 A/T",
+        "아이코닉 A/T 아이코닉 A/T",
+        "에스프리 알핀 A/T 에스프리 알핀 A/T",
+        "에스프리 알핀 1955 A/T 에스프리 알핀 1955 A/T",
+        "탁송 탁송"
+      ],
+      "colorNames": [
+        "클라우드 펄",
+        "어반 그레이",
+        "메탈릭 블랙",
+        "다크 블루"
+      ],
+      "optionNames": [
+        "클라우드 펄 외장컬러",
+        "12.3인치 동승석 디스플레이 (cinema (OTT), 음악 스트리밍, 웹브라우저, 앱스",
+        "[액세서리] 사이드 스텝",
+        "[액세서리] 프론트 그릴 데코",
+        "[액세서리] 트렁크 엔트리 가드"
+      ]
+    }
+  },
+  {
+    "id": "4474",
+    "brandId": "쉐보레",
+    "brandName": "쉐보레",
+    "name": "더 뉴 트레일블레이저",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"더 뉴 트레일블레이저\" → 다나와: \"트레일블레이저\""
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 6개 (차이: 2)",
+      "색상: 로컬 6개, 다나와 4개 (차이: 2)",
+      "옵션: 로컬 5개, 다나와 2개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 5,
+      "startPrice": 27570000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "트레일블레이저",
+      "grades": 6,
+      "colors": 4,
+      "options": 2,
+      "gradeNames": [
+        "프리미어 2WD A/T 프리미어 2WD A/T",
+        "프리미어 미드나잇 에디션 2WD A/T 프리미어 미드나잇 에디션 2WD A/T",
+        "RS 2WD A/T RS 2WD A/T",
+        "RS AWD A/T RS AWD A/T",
+        "탁송 탁송"
+      ],
+      "colorNames": [
+        "퓨어 화이트(GAZ)",
+        "스털링 그레이(GZB)",
+        "모던 블랙(GB0)",
+        "젯 블랙+빅토리아 헤링본 포인트"
+      ],
+      "optionNames": [
+        "드라이브 어시스트 패키지",
+        "컴포트 패키지"
+      ]
+    }
+  },
+  {
+    "id": "4429",
+    "brandId": "쉐보레",
+    "brandName": "쉐보레",
+    "name": "트랙스 크로스오버",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 5개, 다나와 7개 (차이: 2)",
+      "색상: 로컬 5개, 다나와 4개 (차이: 1)",
+      "옵션: 로컬 5개, 다나와 1개 (차이: 4)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 5,
+      "options": 5,
+      "startPrice": 21550000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "트랙스 크로스오버",
+      "grades": 7,
+      "colors": 4,
+      "options": 1,
+      "gradeNames": [
+        "LS A/T LS A/T",
+        "레드라인 A/T 레드라인 A/T",
+        "액티브 A/T 액티브 A/T",
+        "RS A/T RS A/T",
+        "RS 미드나잇 에디션 A/T RS 미드나잇 에디션 A/T"
+      ],
+      "colorNames": [
+        "모던 블랙(GB0)",
+        "퓨어 화이트(GAZ)",
+        "스털링 그레이(GZB)",
+        "블랙+그레이 직물 시트"
+      ],
+      "optionNames": [
+        "어댑티브 크루즈 컨트롤"
+      ]
+    }
+  },
+  {
+    "id": "4361",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "코나",
+    "status": "FAIL",
+    "issues": [
+      "옵션: 로컬 17개, 다나와 3개 (차이: 14)"
+    ],
+    "warnings": [
+      "트림: 로컬 21개, 다나와 23개 (차이: 2)",
+      "색상: 로컬 7개, 다나와 9개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 21,
+      "colors": 7,
+      "options": 17,
+      "startPrice": 24090000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "코나",
+      "grades": 23,
+      "colors": 9,
+      "options": 3,
+      "gradeNames": [
+        "모던 2WD A/T 모던 2WD A/T",
+        "H-Pick 2WD A/T H-Pick 2WD A/T",
+        "프리미엄 2WD A/T 프리미엄 2WD A/T",
+        "인스퍼레이션 2WD A/T 인스퍼레이션 2WD A/T",
+        "블랙 익스테리어 2WD A/T 블랙 익스테리어 2WD A/T"
+      ],
+      "colorNames": [
+        "아틀라스 화이트(SAW)",
+        "사이버 그레이 메탈릭(C5G)",
+        "에코트로닉 그레이 펄(PE2)",
+        "네오테릭 옐로우(YYY)",
+        "미라지 그린(RRR)"
+      ],
+      "optionNames": [
+        "하이패스",
+        "스타일Ⅰ",
+        "현대스마트센스Ⅰ"
+      ]
+    }
+  },
+  {
+    "id": "4399",
+    "brandId": "hyundai",
+    "brandName": "현대",
+    "name": "포터2 EV",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"포터2 EV\" → 다나와: \"포터2 일렉트릭\""
+    ],
+    "warnings": [
+      "트림: 로컬 18개, 다나와 20개 (차이: 2)",
+      "색상: 로컬 3개, 다나와 4개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 18,
+      "colors": 3,
+      "options": 2,
+      "startPrice": 43250000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "포터2 일렉트릭",
+      "grades": 20,
+      "colors": 4,
+      "options": 2,
+      "gradeNames": [
+        "슈퍼캡 초장축 스타일 스페셜 A/T 슈퍼캡 초장축 스타일 스페셜 A/T 보조금 적용 시",
+        "슈퍼캡 초장축 스마트 스페셜 A/T 슈퍼캡 초장축 스마트 스페셜 A/T 보조금 적용 시",
+        "슈퍼캡 초장축 프리미엄 스페셜 A/T 슈퍼캡 초장축 프리미엄 스페셜 A/T 보조금 적용 시",
+        "하이내장탑차 A/T 하이내장탑차 A/T 보조금 적용 시",
+        "내장탑차 A/T 내장탑차 A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "크리미 화이트 (YAW)",
+        "오닉스 블루(ZV)",
+        "슬레이트 브라운 (RVB)",
+        "그레이"
+      ],
+      "optionNames": [
+        "운전석 시트 패키지(열선시트/럼버서포트/통풍시트)",
+        "하이패스"
+      ]
+    }
+  },
+  {
+    "id": "4763",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "디 올 뉴 셀토스",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 12,
+      "colors": 7,
+      "options": 8,
+      "startPrice": 24770000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "디 올 뉴 셀토스",
+      "grades": 12,
+      "colors": 7,
+      "options": 8,
+      "gradeNames": [
+        "트렌디 A/T 트렌디 A/T",
+        "프레스티지 A/T 프레스티지 A/T",
+        "시그니처 A/T 시그니처 A/T",
+        "X-Line A/T X-Line A/T",
+        "트렌디 2WD A/T 트렌디 2WD A/T"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "아이스버그 그린(IEG)",
+        "그래비티 그레이(KDG)",
+        "아이보리 실버(ISG)",
+        "프로스트 블루(EBB)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "스타일",
+        "컨비니언스",
+        "12.3인치 내비게이션",
+        "빌트인 캠 2 플러스"
+      ]
+    }
+  },
+  {
+    "id": "3772",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "봉고 3",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 245개, 다나와 247개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 245,
+      "colors": 4,
+      "options": 4,
+      "startPrice": 19880000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "봉고 3",
+      "grades": 247,
+      "colors": 4,
+      "options": 4,
+      "gradeNames": [
+        "킹캡 초장축 L 라이트 M/T 킹캡 초장축 L 라이트 M/T",
+        "킹캡 초장축 L 라이트 A/T 킹캡 초장축 L 라이트 A/T",
+        "킹캡 초장축 L M/T 킹캡 초장축 L M/T",
+        "킹캡 초장축 L A/T 킹캡 초장축 L A/T",
+        "킹캡 초장축 스마트 셀렉션 A/T 킹캡 초장축 스마트 셀렉션 A/T"
+      ],
+      "colorNames": [
+        "클리어 화이트(UD)",
+        "진감청(MA)",
+        "퓨어 베이지(BPY)",
+        "그레이+블랙 투톤"
+      ],
+      "optionNames": [
+        "하드 서스펜션",
+        "PTO",
+        "10.25인치 내비게이션",
+        "하이패스 자동결제 시스템"
+      ]
+    }
+  },
+  {
+    "id": "4499",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "EV5",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 10개, 다나와 12개 (차이: 2)",
+      "색상: 로컬 9개, 다나와 11개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 10,
+      "colors": 9,
+      "options": 10,
+      "startPrice": 41530000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EV5",
+      "grades": 12,
+      "colors": 11,
+      "options": 10,
+      "gradeNames": [
+        "에어 2WD A/T 에어 2WD A/T 보조금 적용 시",
+        "에어 4WD A/T 에어 4WD A/T",
+        "어스 2WD A/T 어스 2WD A/T 보조금 적용 시",
+        "어스 4WD A/T 어스 4WD A/T",
+        "GT-Line 2WD A/T GT-Line 2WD A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "스노우 화이트 펄(SWP)",
+        "아이스버그 그린(IEG)",
+        "프로스트 블루(EBB)",
+        "다크 오션 블루(BU3)",
+        "아이보리 실버(ISG)"
+      ],
+      "optionNames": [
+        "스노우 화이트 펄 외장컬러",
+        "아이스버그 매트 그린 외장컬러",
+        "스타일",
+        "컴포트 I",
+        "19인치 휠+타이어"
+      ]
+    }
+  },
+  {
+    "id": "4404",
+    "brandId": "kia",
+    "brandName": "기아",
+    "name": "봉고 3 EV",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 29개, 다나와 31개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 29,
+      "colors": 3,
+      "options": 1,
+      "startPrice": 43250000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "봉고 3 EV",
+      "grades": 31,
+      "colors": 3,
+      "options": 1,
+      "gradeNames": [
+        "1톤 2WD 킹캡 초장축 스마트 셀렉션 A/T 1톤 2WD 킹캡 초장축 스마트 셀렉션 A/",
+        "1톤 2WD 킹캡 초장축 GL A/T 1톤 2WD 킹캡 초장축 GL A/T 보조금 적용 시",
+        "1톤 2WD 킹캡 초장축 GLS A/T 1톤 2WD 킹캡 초장축 GLS A/T 보조금 적용",
+        "냉동탑차 로우 킹캡 초장축 GL 듀얼컴프 A/T 냉동탑차 로우 킹캡 초장축 GL 듀얼컴프 ",
+        "냉동탑차 스탠다드 킹캡 초장축 GL 듀얼컴프 A/T 냉동탑차 스탠다드 킹캡 초장축 GL 듀"
+      ],
+      "colorNames": [
+        "순백색(UD)",
+        "진감청(MA)",
+        "그레이+블랙 투톤"
+      ],
+      "optionNames": [
+        "운전석 통풍시트+하이패스 자동결제 시스템"
+      ]
+    }
+  },
+  {
+    "id": "4705",
+    "brandId": "genesis",
+    "brandName": "제네시스",
+    "name": "Electrified GV70",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 3개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 15,
+      "options": 21,
+      "startPrice": 75300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Electrified GV70",
+      "grades": 3,
+      "colors": 15,
+      "options": 21,
+      "gradeNames": [
+        "e-AWD A/T e-AWD A/T 보조금 적용 시",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "마테호른 화이트(FT7)-유료(무광)",
+        "마칼루 그레이(MPE)-유료(무광)",
+        "스토르 그린(MKG)-유료(무광)",
+        "세레스 블루(MSA)-유료(무광)",
+        "우유니 화이트(UYH)"
+      ],
+      "optionNames": [
+        "무광 마테호른 화이트 외장컬러",
+        "무광 마칼루 그레이 외장컬러",
+        "무광 스토르 그린 외장컬러",
+        "무광 세레스 블루 외장컬러",
+        "265/45R20 미쉐린 타이어 + 휠(화이트도장 모노블럭(4P) 브레이크 + 후륜 스타일"
+      ]
+    }
+  },
+  {
+    "id": "4646",
+    "brandId": "kgm",
+    "brandName": "KGM",
+    "name": "토레스",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 19개, 다나와 21개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 19,
+      "colors": 7,
+      "options": 23,
+      "startPrice": 26710000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "토레스",
+      "grades": 21,
+      "colors": 7,
+      "options": 23,
+      "gradeNames": [
+        "T5 2WD A/T T5 2WD A/T",
+        "T7 2WD A/T T7 2WD A/T",
+        "블랙엣지 2WD A/T 블랙엣지 2WD A/T",
+        "T5 2WD A/T T5 2WD A/T",
+        "T7 2WD A/T T7 2WD A/T"
+      ],
+      "colorNames": [
+        "라떼 그레이지(EBL)",
+        "그랜드 화이트(WAA)",
+        "아이언 메탈(ADE)",
+        "포레스트 그린 (GAO)",
+        "댄디 블루(BAS)"
+      ],
+      "optionNames": [
+        "운전석 무릎 에어백",
+        "[커스터마이징] 사이드 스텝",
+        "밸류업 패키지",
+        "12.3인치 KGM 링크 내비게이션 패키지 + 인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+        "딥 컨트롤 패키지Ⅱ + 스마트 파워 테일게이트 패키지"
+      ]
+    }
+  },
+  {
+    "id": "4560",
+    "brandId": "르노코리아",
+    "brandName": "르노코리아",
+    "name": "아르카나",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 7개, 다나와 9개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 7,
+      "colors": 5,
+      "options": 12,
+      "startPrice": 23000000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "아르카나",
+      "grades": 9,
+      "colors": 5,
+      "options": 12,
+      "gradeNames": [
+        "테크노 A/T 테크노 A/T",
+        "아이코닉 A/T 아이코닉 A/T",
+        "아이코닉 컬러 패키지 A/T 아이코닉 컬러 패키지 A/T",
+        "에스프리 알핀 A/T 에스프리 알핀 A/T",
+        "테크노 A/T 테크노 A/T"
+      ],
+      "colorNames": [
+        "클라우드 펄",
+        "솔리드 화이트",
+        "어반 그레이",
+        "메탈릭 블랙",
+        "블랙"
+      ],
+      "optionNames": [
+        "클라우드 펄 외장컬러",
+        "[액세서리] LED 도어 스팟 램프",
+        "[액세서리] 파워 테일게이트",
+        "블랙 인조 가죽 시트 패키지 + 하이패스",
+        "[액세서리] 사이드 스텝"
+      ]
+    }
+  },
+  {
+    "id": "4632",
+    "brandId": "르노코리아",
+    "brandName": "르노코리아",
+    "name": "세닉 E-테크 일렉트릭",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 3개, 다나와 5개 (차이: 2)",
+      "색상: 로컬 3개, 다나와 2개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 3,
+      "options": 8,
+      "startPrice": 51590000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "세닉 E-테크 일렉트릭",
+      "grades": 5,
+      "colors": 2,
+      "options": 8,
+      "gradeNames": [
+        "테크노 A/T 테크노 A/T",
+        "테크노 플러스 A/T 테크노 플러스 A/T",
+        "아이코닉 A/T 아이코닉 A/T",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "클라우드 펄",
+        "멜란지 그레이"
+      ],
+      "optionNames": [
+        "[액세서리] 헤드레스트 쿠션",
+        "[액세서리] 센터콘솔 정리함",
+        "[액세서리] 다기능 후크",
+        "[액세서리] 루프바",
+        "[액세서리] 사이드 미러커버"
+      ]
+    }
+  },
+  {
+    "id": "4395",
+    "brandId": "쉐보레",
+    "brandName": "쉐보레",
+    "name": "콜로라도",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 1개, 다나와 3개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 7,
+      "options": 11,
+      "startPrice": 72790000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "콜로라도",
+      "grades": 3,
+      "colors": 7,
+      "options": 11,
+      "gradeNames": [
+        "Z71 A/T Z71 A/T",
+        "탁송 탁송",
+        "직접출고 직접출고"
+      ],
+      "colorNames": [
+        "토파즈 블루(GLT)",
+        "턱시도 블랙(GBA)",
+        "퓨어 화이트(GAZ)",
+        "스털링 그레이(GZB)",
+        "샌드 듄(GTL)"
+      ],
+      "optionNames": [
+        "Z71-X 에디션",
+        "테크놀로지 팩",
+        "선루프",
+        "[액세서리] 슬라이딩 적재함 커버(자동)",
+        "[액세서리] 슬라이딩 적재함 커버(수동)"
+      ]
+    }
+  }
+]

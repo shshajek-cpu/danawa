@@ -1,0 +1,2901 @@
+[
+  {
+    "id": "4707",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "A3",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 3개, 다나와 11개 (차이: 8)",
+      "시작가: 로컬 4,451만원, 다나와 800만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 3,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 44510000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "A3",
+      "grades": 11,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "RS3 A/T RS3 A/T",
+        "RS3 Carbon Edition A/T RS3 Carbon Edition A/T",
+        "40 TFSI A/T 40 TFSI A/T",
+        "40 TFSI Premium (9W9W) A/T 40 TFSI Premium (9W9W) ",
+        "40 TFSI Quattro Premium (U53) A/T 40 TFSI Quattro "
+      ],
+      "colorNames": [
+        "Progressive Red Metallic",
+        "District Green Metallic",
+        "Arkona White Solid",
+        "Mythos Black Metallic",
+        "Navarra Blue Metallic"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4735",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "A5",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"A5\" → 다나와: \"The new A5\"",
+      "트림: 로컬 11개, 다나와 22개 (차이: 11)",
+      "시작가: 로컬 5,789만원, 다나와 700만원"
+    ],
+    "warnings": [
+      "색상: 로컬 10개, 다나와 11개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 11,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 57890000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "The new A5",
+      "grades": 22,
+      "colors": 11,
+      "options": 0,
+      "gradeNames": [
+        "40 TFSI Quattro Advanced A/T 40 TFSI Quattro Advan",
+        "40 TFSI Quattro Advanced (IP) A/T 40 TFSI Quattro ",
+        "40 TFSI Quattro Advanced (TECH) A/T 40 TFSI Quattr",
+        "40 TFSI Quattro Advanced (TECH+IP) A/T 40 TFSI Qua",
+        "40 TFSI Quattro S-Line A/T 40 TFSI Quattro S-Line "
+      ],
+      "colorNames": [
+        "Glacier White,Metallic",
+        "Mythos Black,Metallic",
+        "Horizon Blue,Metallic",
+        "Grenadine Red,Metallic",
+        "Arkona White"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4142",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "A6 e-tron",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 9,459만원, 다나와 1,069만원"
+    ],
+    "warnings": [
+      "트림: 로컬 6개, 다나와 2개 (차이: 4)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 94590000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "A6 e-tron",
+      "grades": 2,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "아우디파이낸스 이용 시 할인 아우디 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Magnet Gray",
+        "Mythos Black, Metallic",
+        "Typhoon Gray, Metallic",
+        "Glacier White, Metallic",
+        "Plasma Blue, Metallic"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "3713",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "A6",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 7,244만원, 다나와 1,000만원"
+    ],
+    "warnings": [
+      "트림: 로컬 10개, 다나와 15개 (차이: 5)"
+    ],
+    "local": {
+      "trims": 10,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 72440000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "A6",
+      "grades": 15,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "45 TFSI (ULEV70) A/T 45 TFSI (ULEV70) A/T",
+        "45 TFSI Premium A/T 45 TFSI Premium A/T",
+        "45 TFSI Premium (ULEV70) A/T 45 TFSI Premium (ULEV",
+        "45 TFSI Premium (9W9W) A/T 45 TFSI Premium (9W9W) ",
+        "45 TFSI Premium (ULEV70+9W9W) A/T 45 TFSI Premium "
+      ],
+      "colorNames": [
+        "Firmament Blue Metallic",
+        "Floret Silver Metallic",
+        "Glacier White Metallic",
+        "Myth Black Metallic",
+        "Manhattan Gray Metallic"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "3537",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "A7",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 2개, 다나와 10개 (차이: 8)",
+      "시작가: 로컬 10,357만원, 다나와 357만원"
+    ],
+    "warnings": [
+      "색상: 로컬 8개, 다나와 11개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 103570000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "A7",
+      "grades": 10,
+      "colors": 11,
+      "options": 0,
+      "gradeNames": [
+        "55 TFSI e Quattro Premium A/T 55 TFSI e Quattro Pr",
+        "55 TFSI e Quattro Premium (9W9W) A/T 55 TFSI e Qua",
+        "55 TFSI Quattro Premium A/T 55 TFSI Quattro Premiu",
+        "55 TFSI Quattro Premium (9W9W) A/T 55 TFSI Quattro",
+        "50 TDI Quattro Premium A/T 50 TDI Quattro Premium "
+      ],
+      "colorNames": [
+        "Glacier White Metallic",
+        "Myth Black Metallic",
+        "Floret Silver Metallic",
+        "Firmament Blue Metallic",
+        "Chronos Gray Metallic"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4736",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "Q5",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"Q5\" → 다나와: \"The new Q5\"",
+      "트림: 로컬 6개, 다나와 16개 (차이: 10)",
+      "시작가: 로컬 6,673만원, 다나와 500만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 6,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 66730000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "The new Q5",
+      "grades": 16,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "40 TFSI Quattro Advanced (OV) A/T 40 TFSI Quattro ",
+        "45 TFSI Quattro S-Line (OV) A/T 45 TFSI Quattro S-",
+        "40 TDI Quattro Advanced (OV) A/T 40 TDI Quattro Ad",
+        "40 TDI Quattro Advanced (TECH) A/T 40 TDI Quattro ",
+        "40 TDI Quattro Advanced (TECH+OV) A/T 40 TDI Quatt"
+      ],
+      "colorNames": [
+        "Glacier White,Metallic",
+        "Mythos Black,Metallic",
+        "District Green,Metallic",
+        "Floret Silver,Metallic",
+        "Arkona White"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4690",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "Q6 e-tron",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 8,290만원, 다나와 690만원"
+    ],
+    "warnings": [
+      "트림: 로컬 12개, 다나와 13개 (차이: 1)",
+      "색상: 로컬 8개, 다나와 9개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 12,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 82900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Q6 e-tron",
+      "grades": 13,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "Performance A/T Performance A/T 보조금 적용 시",
+        "Performance (DISPLAY) A/T Performance (DISPLAY) A/",
+        "Performance (LIGHT) A/T Performance (LIGHT) A/T",
+        "Performance (TECH) A/T Performance (TECH) A/T",
+        "Performance (TECH+DISPLAY) A/T Performance (TECH+D"
+      ],
+      "colorNames": [
+        "Magnet Gray",
+        "Glacier White Metallic",
+        "Plasma Blue Metallic",
+        "Ascari Blue Metallic",
+        "Manhattan Gray Metallic"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4698",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "Q7 2차",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"Q7 2차\" → 다나와: \"Q7\"",
+      "트림: 로컬 2개, 다나와 11개 (차이: 9)",
+      "시작가: 로컬 11,912만원, 다나와 700만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 2,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 119120000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Q7",
+      "grades": 11,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "55 TFSI Quattro (2Z2Z) A/T 55 TFSI Quattro (2Z2Z) ",
+        "55 TFSI Quattro Premium (F62+2Z2Z) A/T 55 TFSI Qua",
+        "55 TFSI Quattro Premium (2Z2Z) A/T 55 TFSI Quattro",
+        "55 TFSI Quattro Premium (9W9W) A/T 55 TFSI Quattro",
+        "50 TDI Quattro (2Z2Z) A/T 50 TDI Quattro (2Z2Z) A/"
+      ],
+      "colorNames": [
+        "Waitomo Blue Metallic",
+        "Satellite Silver Metallic",
+        "Glacier White Metallic",
+        "Mythos Black Metallic",
+        "Carrara White"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4697",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "Q8",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 2개, 다나와 22개 (차이: 20)",
+      "시작가: 로컬 12,362만원, 다나와 500만원"
+    ],
+    "warnings": [
+      "색상: 로컬 9개, 다나와 11개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 123620000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Q8",
+      "grades": 22,
+      "colors": 11,
+      "options": 0,
+      "gradeNames": [
+        "55 TFSI Quattro A/T 55 TFSI Quattro A/T 1억",
+        "55 TFSI Quattro Premium A/T 55 TFSI Quattro Premiu",
+        "50 TDI Quattro A/T 50 TDI Quattro A/T 1억",
+        "50 TDI Quattro Premium A/T 50 TDI Quattro Premium ",
+        "RS Q8 Performance A/T RS Q8 Performance A/T 1억"
+      ],
+      "colorNames": [
+        "Waitomo Blue Metallic",
+        "Satellite Silver Metallic",
+        "Glacier White Metallic",
+        "Mythos Black Metallic",
+        "Carrara White"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4759",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "e-트론 GT",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"e-트론 GT\" → 다나와: \"The new e-tron GT\"",
+      "시작가: 로컬 17,012만원, 다나와 1,800만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 4개 (차이: 3)",
+      "색상: 로컬 7개, 다나와 9개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 170120000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "The new e-tron GT",
+      "grades": 4,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "S e-tron GT A/T S e-tron GT A/T 1억",
+        "RS e-tron GT performance A/T RS e-tron GT performa",
+        "아우디파이낸스 이용 시 할인 아우디 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Progressive Red, Metallic",
+        "Floret Silver, Metallic",
+        "Arkona White",
+        "Mythos Black, Metallic",
+        "Daytona Gray, Pearl Effect"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4037",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "C-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"C-클래스\" → 다나와: \"C-Class\"",
+      "색상: 로컬 14개, 다나와 9개 (차이: 5)",
+      "시작가: 로컬 6,280만원, 다나와 879만원"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 3개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 14,
+      "options": 0,
+      "startPrice": 62800000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "C-Class",
+      "grades": 3,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "C200 AMG Line A/T C200 AMG Line A/T",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "블랙 (040U)",
+        "폴라 화이트 (149U)",
+        "옵시디안 블랙 (197U)",
+        "하이테크 실버 (922U)",
+        "그라파이트 그레이 (831U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4430",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "EQE SUV",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 11,310만원, 다나와 1,244만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 2,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 113100000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EQE SUV",
+      "grades": 2,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "옵시디안 블랙 (197U)",
+        "폴라 화이트 (149U)",
+        "블랙 (040U)",
+        "벨벳 브라운 (771U)",
+        "소다라이트 블루 (842U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4381",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "EQS SUV",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 16,270만원, 다나와 1,789만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 2,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 162700000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EQS SUV",
+      "grades": 2,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "옵시디안 블랙 (197U)",
+        "블랙 (040U)",
+        "폴라 화이트 (149U)",
+        "소다라이트 블루 (842U)",
+        "하이 테크 실버 (922U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4114",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "2시리즈 액티브 투어러",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"2시리즈 액티브 투어러\" → 다나와: \"2 Series Active Tourer\"",
+      "시작가: 로컬 5,080만원, 다나와 460만원"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 5개 (차이: 3)",
+      "색상: 로컬 3개, 다나와 4개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 3,
+      "options": 0,
+      "startPrice": 50800000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "2 Series Active Tourer",
+      "grades": 5,
+      "colors": 4,
+      "options": 0,
+      "gradeNames": [
+        "218d Active Tourer Advantage (P1) A/T 218d Active ",
+        "218d Active Tourer Luxury (P1) A/T 218d Active Tou",
+        "218d Active Tourer Luxury (P2) A/T 218d Active Tou",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "알파인 화이트 (300)",
+        "스카이스크래퍼 그레이 (C4W)",
+        "산마리노 그린 (C4E)",
+        "퍼포레이티드 블랙"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4614",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "4시리즈",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"4시리즈\" → 다나와: \"4 Series\"",
+      "시작가: 로컬 7,330만원, 다나와 750만원"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 3개 (차이: 1)",
+      "색상: 로컬 5개, 다나와 6개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 73300000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "4 Series",
+      "grades": 3,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "M440i xDrive Convertible Pro OS (P0-0) A/T M440i x",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "알파인 화이트",
+        "케이프 요크 그린 메탈릭",
+        "블랙 사파이어 메탈릭",
+        "M 포티마오 블루 메탈릭",
+        "M 브루클린 그레이 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4196",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "7시리즈",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"7시리즈\" → 다나와: \"7 Series\"",
+      "트림: 로컬 7개, 다나와 19개 (차이: 12)",
+      "시작가: 로컬 20,110만원, 다나와 90만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 7,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 201100000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "7 Series",
+      "grades": 19,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "750e xDrive DPE A/T 750e xDrive DPE A/T 2억",
+        "750e xDrive DPE (P1) A/T 750e xDrive DPE (P1) A/T ",
+        "750e xDrive M Sport A/T 750e xDrive M Sport A/T 2억",
+        "750e xDrive M Sport (P0-0) A/T 750e xDrive M Sport",
+        "750e xDrive M Sport (P1) A/T 750e xDrive M Sport ("
+      ],
+      "colorNames": [
+        "Mineral White",
+        "Black Sapphire",
+        "Oxid Grey",
+        "Sophisto Grey",
+        "Black"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4615",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "M4",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 13,770만원, 다나와 1,400만원"
+    ],
+    "warnings": [
+      "트림: 로컬 3개, 다나와 8개 (차이: 5)",
+      "색상: 로컬 6개, 다나와 9개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 137700000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "M4",
+      "grades": 8,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "M4 Competition M xDrive Coupe A/T M4 Competition M",
+        "M4 Competition M xDrive Coupe (P0-0) A/T M4 Compet",
+        "M4 Competition M xDrive Coupe (P1) A/T M4 Competit",
+        "M4 Competition M xDrive Convertible A/T M4 Competi",
+        "M4 Competition M xDrive Convertible (P0-0) A/T M4 "
+      ],
+      "colorNames": [
+        "알파인 화이트",
+        "블랙 사파이어 메탈릭",
+        "M 포티마오 블루 메탈릭",
+        "M 토론토 레드 메탈릭",
+        "M 아일 오브 맨 그린 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4371",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X1",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 6,310만원, 다나와 500만원"
+    ],
+    "warnings": [
+      "트림: 로컬 6개, 다나와 2개 (차이: 4)",
+      "색상: 로컬 5개, 다나와 6개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 63100000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X1",
+      "grades": 2,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "알파인 화이트 (300)",
+        "블랙 사파이어 (475)",
+        "케이프 요크 그린 (C5Y)",
+        "산레모 그린 (C4E)",
+        "모카"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4580",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X2",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 6,940만원, 다나와 600만원"
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 8개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 69400000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X2",
+      "grades": 2,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "알파인 화이트 (300)",
+        "블랙 사파이어 메탈릭",
+        "포티마오 블루 메탈릭",
+        "브루클린 그레이 메탈릭",
+        "케이프 요크 그린 (C5Y)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4475",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X5",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 3개, 다나와 14개 (차이: 11)",
+      "시작가: 로컬 12,940만원, 다나와 600만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 3,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 129400000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X5",
+      "grades": 14,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "xDrive50e xLine A/T xDrive50e xLine A/T 1억",
+        "xDrive50e xLine (P0-1) A/T xDrive50e xLine (P0-1) ",
+        "xDrive50e M Sport Pro A/T xDrive50e M Sport Pro A/",
+        "xDrive40i xLine (7인승) A/T xDrive40i xLine (7인승) A/",
+        "xDrive40i M Sport A/T xDrive40i M Sport A/T 1억"
+      ],
+      "colorNames": [
+        "블랙 사파이어 메탈릭",
+        "맨해탄 메탈릭",
+        "미네랄 화이트 메탈릭",
+        "스카이스크래퍼 그레이 메탈릭",
+        "커피"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4480",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X6 M",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 19,580만원, 다나와 2,000만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 3개 (차이: 2)",
+      "색상: 로컬 4개, 다나와 6개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 4,
+      "options": 0,
+      "startPrice": 195800000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X6 M",
+      "grades": 3,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "X6 M Competition A/T X6 M Competition A/T 1억",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "블랙 사파이어 메탈릭",
+        "미네랄 화이트 메탈릭",
+        "M 브루클린 그레이 메탈릭",
+        "M 마리나 베이 블루 메탈릭",
+        "샤키르 오렌지"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4192",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X7",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 15,230만원, 다나와 950만원"
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 2개 (차이: 2)",
+      "색상: 로컬 6개, 다나와 8개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 152300000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X7",
+      "grades": 2,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Mineral White Metallic (A96)",
+        "Black Sapphire Metallic (475)",
+        "Skyscraper Grey Metallic (C4W)",
+        "Manhattan Metallic (C3D)",
+        "Blue Ridge Mountain Metallic (C35)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4422",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "XM",
+    "status": "FAIL",
+    "issues": [
+      "색상: 로컬 4개, 다나와 8개 (차이: 4)",
+      "시작가: 로컬 22,770만원, 다나와 1,000만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 3,
+      "colors": 4,
+      "options": 0,
+      "startPrice": 227700000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "XM",
+      "grades": 3,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "XM Label (P0-0) A/T XM Label (P0-0) A/T 2억",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "블랙 사파이어",
+        "미네랄 화이트",
+        "케이프 요크 그린",
+        "BMW 인디비주얼 드라빗 그레이",
+        "블랙"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4424",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "Z4",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 7,660만원, 다나와 600만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 4개 (차이: 3)",
+      "색상: 로컬 5개, 다나와 7개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 76600000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Z4",
+      "grades": 4,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "sDrive20i M Sport A/T sDrive20i M Sport A/T",
+        "M40i A/T M40i A/T",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "스카이 스크래퍼 그레이 (C4W)",
+        "알파인 화이트 (300)",
+        "블랙 사파이어 (475)",
+        "포티마오 블루 (C31)",
+        "샌프란시스코 레드 (C34)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4528",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "i5",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 8,490만원, 다나와 380만원"
+    ],
+    "warnings": [
+      "트림: 로컬 10개, 다나와 12개 (차이: 2)",
+      "색상: 로컬 6개, 다나와 7개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 10,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 84900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "i5",
+      "grades": 12,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "i5 eDrive40 SE A/T i5 eDrive40 SE A/T 보조금 적용 시",
+        "i5 eDrive40 SE (P0-1) A/T i5 eDrive40 SE (P0-1) A/",
+        "i5 eDrive40 M Sport A/T i5 eDrive40 M Sport A/T 보조",
+        "i5 eDrive40 M Sport (P1) A/T i5 eDrive40 M Sport (",
+        "i5 xDrive40 M Sport A/T i5 xDrive40 M Sport A/T 1억"
+      ],
+      "colorNames": [
+        "알파인 화이트 (300)",
+        "블랙 사파이어 (475)",
+        "소피스토 그레이 (A90)",
+        "케이프 요크 그린 (C5Y)",
+        "블랙"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4181",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "i7",
+    "status": "FAIL",
+    "issues": [
+      "색상: 로컬 12개, 다나와 8개 (차이: 4)",
+      "시작가: 로컬 16,610만원, 다나와 1,210만원"
+    ],
+    "warnings": [
+      "트림: 로컬 9개, 다나와 4개 (차이: 5)"
+    ],
+    "local": {
+      "trims": 9,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 166100000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "i7",
+      "grades": 4,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "i7 eDrive50 M Sport (P1-0) A/T i7 eDrive50 M Sport",
+        "i7 xDrive60 DPE (P1) A/T i7 xDrive60 DPE (P1) A/T ",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Mineral White",
+        "Black Sapphire",
+        "Oxid Grey",
+        "M Brooklyn Grey",
+        "Black"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4708",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "iX",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 12,480만원, 다나와 1,000만원"
+    ],
+    "warnings": [
+      "트림: 로컬 5개, 다나와 2개 (차이: 3)",
+      "색상: 로컬 5개, 다나와 6개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 124800000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "iX",
+      "grades": 2,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "미네랄 화이트 메탈릭 (A96)",
+        "블랙 사파이어 메탈릭 (475)",
+        "아틱 레이스 블루 메탈릭 (C4F)",
+        "듄 그레이 메탈릭 (C7A)",
+        "아벤츄린 레드 메탈릭 (C7A)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4372",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "iX1",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 6,420만원, 다나와 700만원"
+    ],
+    "warnings": [
+      "트림: 로컬 6개, 다나와 9개 (차이: 3)",
+      "색상: 로컬 5개, 다나와 6개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 64200000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "iX1",
+      "grades": 9,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "eDrive20 xLine A/T eDrive20 xLine A/T 보조금 적용 시",
+        "eDrive20 xLine (P1) A/T eDrive20 xLine (P1) A/T",
+        "xDrive30 xLine A/T xDrive30 xLine A/T 보조금 적용 시",
+        "xDrive30 xLine (P1) A/T xDrive30 xLine (P1) A/T 보조",
+        "xDrive30 M Sport A/T xDrive30 M Sport A/T 보조금 적용 시"
+      ],
+      "colorNames": [
+        "알파인 화이트 (300)",
+        "블랙 사파이어 (475)",
+        "케이프 요크 그린 (C5Y)",
+        "스페이스 실버 (C67)",
+        "모카"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4516",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "E-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"E-클래스\" → 다나와: \"E-Class\"",
+      "시작가: 로컬 6,900만원, 다나와 1,071만원"
+    ],
+    "warnings": [
+      "트림: 로컬 17개, 다나와 19개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 17,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 69000000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "E-Class",
+      "grades": 19,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "E200 Avantgarde A/T E200 Avantgarde A/T",
+        "E200 AMG Line A/T E200 AMG Line A/T",
+        "E300 4MATIC Exclusive A/T E300 4MATIC Exclusive A/",
+        "E300 4MATIC AMG Line A/T E300 4MATIC AMG Line A/T",
+        "E450 4MATIC AMG Line A/T E450 4MATIC AMG Line A/T "
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "베르데 실버 (188U)",
+        "옵시디안 블랙 (197U)",
+        "노틱 블루 (595U)",
+        "벨벳 브라운 (771U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4373",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "GLC-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"GLC-클래스\" → 다나와: \"GLC-Class\"",
+      "시작가: 로컬 8,030만원, 다나와 110만원"
+    ],
+    "warnings": [
+      "트림: 로컬 14개, 다나와 16개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 14,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 80300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GLC-Class",
+      "grades": 16,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "GLC300 4MATIC Avantgarde A/T GLC300 4MATIC Avantga",
+        "GLC300 4MATIC AMG Line A/T GLC300 4MATIC AMG Line ",
+        "GLC220d 4MATIC A/T GLC220d 4MATIC A/T",
+        "GLC300 4MATIC Coupe Avantgarde A/T GLC300 4MATIC C",
+        "GLC300 4MATIC Coupe AMG Line A/T GLC300 4MATIC Cou"
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "옵시디안 블랙 (197U)",
+        "베르데 실버 (188U)",
+        "그라파이트 그레이 (831U)",
+        "하이 테크 실버 (922U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4471",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "GLE-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"GLE-클래스\" → 다나와: \"GLE-Class\"",
+      "시작가: 로컬 11,660만원, 다나와 1,282만원"
+    ],
+    "warnings": [
+      "트림: 로컬 15개, 다나와 16개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 15,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 116600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GLE-Class",
+      "grades": 16,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "GLE350 4MATIC A/T GLE350 4MATIC A/T 1억",
+        "GLE450 4MATIC A/T GLE450 4MATIC A/T 1억",
+        "GLE450 4MATIC AMG Line A/T GLE450 4MATIC AMG Line ",
+        "GLE300d 4MATIC A/T GLE300d 4MATIC A/T 1억",
+        "GLE450 4MATIC Coupe AMG Line A/T GLE450 4MATIC Cou"
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "옵시디안 블랙 (197U)",
+        "소달라이트 블루 (842U)",
+        "하이 테크 실버 (922U)",
+        "에메랄드 그린 (989U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "3992",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "S-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"S-클래스\" → 다나와: \"S-Class\"",
+      "트림: 로컬 11개, 다나와 4개 (차이: 7)",
+      "시작가: 로컬 15,160만원, 다나와 910만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 11,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 151600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "S-Class",
+      "grades": 4,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "S500 4MATIC Long A/T S500 4MATIC Long A/T 2억",
+        "S350d 4MATIC A/T S350d 4MATIC A/T 1억",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "옵시디안 블랙 (197U)",
+        "블랙 (040U)",
+        "노틱 블루 (595U)",
+        "그라파이트 그레이 (831U)",
+        "하이 테크 실버 (922U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4555",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "CLE",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 7,420만원, 다나와 110만원"
+    ],
+    "warnings": [
+      "트림: 로컬 12개, 다나와 14개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 12,
+      "colors": 17,
+      "options": 0,
+      "startPrice": 74200000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "CLE",
+      "grades": 14,
+      "colors": 17,
+      "options": 0,
+      "gradeNames": [
+        "CLE200 Coupe AMG Line A/T CLE200 Coupe AMG Line A/",
+        "CLE450 4MATIC Coupe AMG Line A/T CLE450 4MATIC Cou",
+        "CLE200 Cabriolet AMG Line A/T CLE200 Cabriolet AMG",
+        "CLE450 4MATIC Cabriolet AMG Line A/T CLE450 4MATIC",
+        "AMG CLE53 4MATIC+ Coupe A/T AMG CLE53 4MATIC+ Coup"
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "옵시디안 블랙 (197U)",
+        "썬 옐로우 (914U)",
+        "그라파이트 그레이 (831U)",
+        "하이 테크 실버 (922U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4629",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "G-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"G-클래스\" → 다나와: \"G-Class\"",
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 18,760만원, 다나와 623만원"
+    ],
+    "warnings": [
+      "트림: 로컬 8개, 다나와 7개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 8,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 187600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "G-Class",
+      "grades": 7,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "G450d A/T G450d A/T 1억",
+        "G450d MANUFAKTUR A/T G450d MANUFAKTUR A/T 2억",
+        "G450d Edition Stronger Than 1980s A/T G450d Editio",
+        "Mercedes-AMG G63 A/T Mercedes-AMG G63 A/T 2억",
+        "Mercedes-AMG G63 MANUFAKTUR A/T Mercedes-AMG G63 M"
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4507",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "GLS-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"GLS-클래스\" → 다나와: \"GLS-Class\"",
+      "시작가: 로컬 15,710만원, 다나와 860만원"
+    ],
+    "warnings": [
+      "트림: 로컬 6개, 다나와 8개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 157100000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GLS-Class",
+      "grades": 8,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "GLS450 4MATIC AMG Line Premium A/T GLS450 4MATIC A",
+        "GLS580 4MATIC AMG Line A/T GLS580 4MATIC AMG Line ",
+        "AMG GLS63 4MATIC+ A/T AMG GLS63 4MATIC+ A/T 2억",
+        "GLS450 4MATIC A/T GLS450 4MATIC A/T 1억",
+        "GLS580 4MATIC A/T GLS580 4MATIC A/T 1억"
+      ],
+      "colorNames": [
+        "옵시디안 블랙 (197U)",
+        "폴라 화이트 (149U)",
+        "소달라이트 블루 (842U)",
+        "하이 테크 실버 (922U)",
+        "에메랄드 그린 (989U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4461",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "CLA-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"CLA-클래스\" → 다나와: \"CLA-Class\"",
+      "시작가: 로컬 5,740만원, 다나와 700만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 57400000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "CLA-Class",
+      "grades": 5,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "CLA250 4MATIC Progressive A/T CLA250 4MATIC Progre",
+        "CLA250 4MATIC AMG Line A/T CLA250 4MATIC AMG Line ",
+        "AMG CLA45 S 4MATIC+ A/T AMG CLA45 S 4MATIC+ A/T",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "나이트 블랙 (696U)",
+        "코스모스 블랙 (191U) - 유료",
+        "하이테크 실버 (922U) - 유료",
+        "마운틴 그레이 (787U) - 유료"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4496",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "GLB-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"GLB-클래스\" → 다나와: \"GLB-Class\"",
+      "시작가: 로컬 6,330만원, 다나와 782만원"
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 3개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 63300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GLB-Class",
+      "grades": 3,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "AMG GLB35 4MATIC A/T AMG GLB35 4MATIC A/T",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "나이트 블랙 (696U)",
+        "코스모스 블랙 (191U) - 유료",
+        "마운틴 그레이 (787U) - 유료",
+        "하이 테크 실버 (922U) - 유료"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4427",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "A-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"A-클래스\" → 다나와: \"A-Class\"",
+      "시작가: 로컬 4,810만원, 다나와 673만원"
+    ],
+    "warnings": [
+      "트림: 로컬 8개, 다나와 7개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 8,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 48100000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "A-Class",
+      "grades": 7,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "A220 Hatchback A/T A220 Hatchback A/T",
+        "A220 Sedan A/T A220 Sedan A/T",
+        "AMG A35 4MATIC Sedan A/T AMG A35 4MATIC Sedan A/T",
+        "AMG A45 S 4MATIC+ Hatchback A/T AMG A45 S 4MATIC+ ",
+        "AMG A45 S 4MATIC+ Hatchback Limited Edition A/T AM"
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "나이트 블랙 (696U)",
+        "코스모스 블랙 (191U) - 유료",
+        "마운틴 그레이 (787U) - 유료",
+        "하이 테크 실버 (922U) - 유료"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4569",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "EQB",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 7,810만원, 다나와 1,182만원"
+    ],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 3개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 78100000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EQB",
+      "grades": 3,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "EQB300 4MATIC AMG Line A/T EQB300 4MATIC AMG Line ",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "나이트 블랙 (696U)",
+        "폴라 화이트 (149U)",
+        "디지털 화이트 (144U)",
+        "하이 테크 실버 (922U)",
+        "코스모스 블랙 (191U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4568",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "EQA",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 6,930만원, 다나와 1,050만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 69300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EQA",
+      "grades": 4,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "EQA250 Progressive A/T EQA250 Progressive A/T 보조금 ",
+        "EQA250 AMG Line A/T EQA250 AMG Line A/T 보조금 적용 시",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "코스모스 블랙 (191U)",
+        "하이 테크 실버 (922U)",
+        "마운틴 그레이 (787U)",
+        "스펙트럴 블루 (970U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4011",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "Maybach S-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"Maybach S-클래스\" → 다나와: \"Maybach S-Class\"",
+      "시작가: 로컬 30,960만원, 다나와 2,840만원"
+    ],
+    "warnings": [
+      "트림: 로컬 5개, 다나와 3개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 26,
+      "options": 0,
+      "startPrice": 309600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Maybach S-Class",
+      "grades": 3,
+      "colors": 26,
+      "options": 0,
+      "gradeNames": [
+        "Mercedes-Maybach S680 V12 Edition A/T Mercedes-May",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "옵시디안 블랙 (197U)",
+        "블랙 (040U)",
+        "노틱 블루 (595U)",
+        "그라파이트 그레이 (831U)",
+        "하이 테크 실버 (922U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4508",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "Maybach GLS",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 28,760만원, 다나와 1,761만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 287600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Maybach GLS",
+      "grades": 4,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "GLS600 4MATIC A/T GLS600 4MATIC A/T 2억",
+        "GLS600 4MATIC MANUFAKTUR A/T GLS600 4MATIC MANUFAK",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+        "옵시디안 블랙 (197U)",
+        "소달라이트 블루 (842U)",
+        "하이 테크 실버 (922U)",
+        "에메랄드 그린 (989U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4495",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "GLA-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"GLA-클래스\" → 다나와: \"GLA-Class\"",
+      "시작가: 로컬 6,910만원, 다나와 760만원"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 3개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 69100000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GLA-Class",
+      "grades": 3,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "GLA250 4MATIC AMG Line A/T GLA250 4MATIC AMG Line ",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "폴라 화이트 (149U)",
+        "나이트 블랙 (696U)",
+        "코스모스 블랙 (191U) - 유료",
+        "마운틴 그레이 (787U) - 유료",
+        "하이테크 실버 (922U) - 유료"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4566",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "The New AMG GT",
+    "status": "FAIL",
+    "issues": [
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 20,560만원, 다나와 560만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 5개, 다나와 4개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 205600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "The New AMG GT",
+      "grades": 4,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "AMG GT 55 4MATIC+ A/T AMG GT 55 4MATIC+ A/T 2억",
+        "AMG GT 55 4MATIC+ Launch Edition A/T AMG GT 55 4MA",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "3982",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "AMG GT",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 15,930만원, 다나와 1,463만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 19,
+      "options": 0,
+      "startPrice": 159300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "AMG GT",
+      "grades": 2,
+      "colors": 19,
+      "options": 0,
+      "gradeNames": [
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "옵시디안 블랙 (197U)",
+        "폴라 화이트 (149U)",
+        "스펙트럴 블루 (970U)",
+        "그라파이트 그레이 (831U)",
+        "하이 테크 실버 (922U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4638",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "Electric G-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"Electric G-클래스\" → 다나와: \"Electric G-Class\"",
+      "시작가: 로컬 20,760만원, 다나와 569만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 3개, 다나와 4개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 4,
+      "options": 0,
+      "startPrice": 207600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Electric G-Class",
+      "grades": 4,
+      "colors": 4,
+      "options": 0,
+      "gradeNames": [
+        "G580 with EQ Technology A/T G580 with EQ Technolog",
+        "G580 with EQ Technology Edition ONE A/T G580 with ",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "MANUFAKTUR 사우스씨 블루 마그노 (591U)",
+        "MANUFAKTUR 클래식 그레이 논-메탈릭 (124U)",
+        "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+        "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4111",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "EQE",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 11,000만원, 다나와 1,460만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 11,
+      "options": 0,
+      "startPrice": 110000000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EQE",
+      "grades": 2,
+      "colors": 11,
+      "options": 0,
+      "gradeNames": [
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "블랙 (040U)",
+        "폴라 화이트 (149U)",
+        "옵시디안 블랙 메탈릭 (197U)",
+        "그라파이트 그레이 메탈릭 (831U)",
+        "하이 테크 실버 메탈릭 (922U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4511",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "Maybach EQS SUV",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 22,810만원, 다나와 2,509만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 15,
+      "options": 0,
+      "startPrice": 228100000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Maybach EQS SUV",
+      "grades": 2,
+      "colors": 15,
+      "options": 0,
+      "gradeNames": [
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "옵시디안 블랙 (197U)",
+        "벨벳 브라운 (771U)",
+        "소다라이트 블루 (842U)",
+        "하이 테크 실버 (922U)",
+        "에메랄드 그린 (989U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4670",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "Maybach SL",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 34,260만원, 다나와 996만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 2,
+      "options": 0,
+      "startPrice": 342600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Maybach SL",
+      "grades": 2,
+      "colors": 2,
+      "options": 0,
+      "gradeNames": [
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "MANUFAKTUR 가넷 레드 메탈릭 (393U)",
+        "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4380",
+    "brandId": "benz",
+    "brandName": "벤츠",
+    "name": "SL-클래스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"SL-클래스\" → 다나와: \"SL-Class\"",
+      "시작가: 로컬 15,560만원, 다나와 536만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 20,
+      "options": 0,
+      "startPrice": 155600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "SL-Class",
+      "grades": 3,
+      "colors": 20,
+      "options": 0,
+      "gradeNames": [
+        "AMG SL63 4MATIC+ A/T AMG SL63 4MATIC+ A/T 2억",
+        "벤츠파이낸스 이용 시 할인 벤츠 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "하이퍼 블루 (888U)",
+        "스펙트럴 블루 (970U)",
+        "MANUFAKTUR 스펙트럴 블루 마그노 (593U) - 유료",
+        "아일랜드 미드 그린 마그노 (599U) - 유료",
+        "썬 옐로우 (914U)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4517",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "5시리즈",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"5시리즈\" → 다나와: \"5 Series\"",
+      "시작가: 로컬 6,980만원, 다나와 650만원"
+    ],
+    "warnings": [
+      "트림: 로컬 27개, 다나와 29개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 27,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 69800000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "5 Series",
+      "grades": 29,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "530e A/T 530e A/T",
+        "530e M Sport A/T 530e M Sport A/T",
+        "530e M Sport (P0-0) A/T 530e M Sport (P0-0) A/T",
+        "530e xDrive M Sport A/T 530e xDrive M Sport A/T",
+        "530e xDrive M Sport Pro A/T 530e xDrive M Sport Pr"
+      ],
+      "colorNames": [
+        "알파인 화이트 (300)",
+        "블랙 사파이어 (475)",
+        "소피스토 그레이 (A90)",
+        "케이프 요크 그린 (C5Y)",
+        "블랙"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4656",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X3",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 6,850만원, 다나와 50만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 10,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 68500000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X3",
+      "grades": 10,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "20 xDrive A/T 20 xDrive A/T",
+        "20 xDrive (P0-0) A/T 20 xDrive (P0-0) A/T",
+        "20 xDrive M Sport A/T 20 xDrive M Sport A/T",
+        "20 xDrive M Sport (P1) A/T 20 xDrive M Sport (P1) ",
+        "20 xDrive M Sport Pro A/T 20 xDrive M Sport Pro A/"
+      ],
+      "colorNames": [
+        "알파인 화이트",
+        "블랙 사파이어",
+        "소피스토 그레이",
+        "스카이스크래퍼 그레이",
+        "아틱 레이스 블루"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4650",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "3시리즈",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"3시리즈\" → 다나와: \"3 Series\"",
+      "시작가: 로컬 5,900만원, 다나와 650만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 24개, 다나와 26개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 24,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 59000000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "3 Series",
+      "grades": 26,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "320i A/T 320i A/T",
+        "320i M Sport A/T 320i M Sport A/T",
+        "320i M Sport (P0-0) A/T 320i M Sport (P0-0) A/T",
+        "320i M Sport Pro Special Edition A/T 320i M Sport ",
+        "320i M Sport M Performace Parts Edition A/T 320i M"
+      ],
+      "colorNames": [
+        "Alpine White (300)",
+        "Black Sapphire (475)",
+        "Arctic Race Blue (C4F)",
+        "Skyscraper Grey (C4W)",
+        "Black"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4476",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X6",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 12,650만원, 다나와 800만원"
+    ],
+    "warnings": [
+      "트림: 로컬 5개, 다나와 2개 (차이: 3)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 126500000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X6",
+      "grades": 2,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "카본 블랙 메탈릭",
+        "맨해탄 메탈릭",
+        "미네랄 화이트 메탈릭",
+        "브루클린 그레이 메탈릭",
+        "스카이스크래퍼 그레이 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4072",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X4",
+    "status": "FAIL",
+    "issues": [
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 7,330만원, 다나와 220만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 5개, 다나와 7개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 73300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X4",
+      "grades": 7,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "xDrive20i xLine (P3) A/T xDrive20i xLine (P3) A/T",
+        "xDrive20i M Sport Pro SE (P2) A/T xDrive20i M Spor",
+        "xDrive20i M Sport Pro SE (P2-0) A/T xDrive20i M Sp",
+        "M40i (P3) A/T M40i (P3) A/T 1억",
+        "xDrive20d M Sport (P3) A/T xDrive20d M Sport (P3) "
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4652",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "1시리즈",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"1시리즈\" → 다나와: \"1 Series\"",
+      "시작가: 로컬 4,840만원, 다나와 350만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 3개, 다나와 5개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 48400000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "1 Series",
+      "grades": 5,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "120 A/T 120 A/T",
+        "120 M Sport A/T 120 M Sport A/T",
+        "M135 xDrive A/T M135 xDrive A/T",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "알파인 화이트",
+        "블랙 사파이어",
+        "스카이스크레퍼 그레이",
+        "케이프 요크 그린",
+        "블랙"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4683",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "2시리즈 그란쿠페",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"2시리즈 그란쿠페\" → 다나와: \"2 Series Gran Coupe\"",
+      "시작가: 로컬 4,990만원, 다나와 350만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 5개, 다나와 3개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 49900000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "2 Series Gran Coupe",
+      "grades": 3,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "M235 xDrive Gran Coupe Pro (P0-0) A/T M235 xDrive ",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "알파인 화이트",
+        "블랙 사파이어",
+        "스카이스크레퍼 그레이",
+        "브루클린 그레이",
+        "썬더나이트"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4655",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "M2",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 9,170만원, 다나와 700만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 2개, 다나와 4개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 4,
+      "options": 0,
+      "startPrice": 91700000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "M2",
+      "grades": 4,
+      "colors": 4,
+      "options": 0,
+      "gradeNames": [
+        "M2 Coupe A/T M2 Coupe A/T",
+        "M2 Coupe (P1) A/T M2 Coupe (P1) A/T",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "알파인 화이트",
+        "브루클린 그레이 메탈릭",
+        "블랙 사파이어 메탈릭",
+        "코냑"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4171",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "8시리즈",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"8시리즈\" → 다나와: \"8 Series\"",
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 14,670만원, 다나와 1,900만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 4개, 다나와 2개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 146700000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "8 Series",
+      "grades": 2,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4657",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "M5",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 16,810만원, 다나와 1,000만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 7개, 다나와 5개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 7,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 168100000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "M5",
+      "grades": 5,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "M5 (P0-0) A/T M5 (P0-0) A/T 1억",
+        "M5 Touring (P0-0) A/T M5 Touring (P0-0) A/T 1억",
+        "M5 Touring (P1-0) A/T M5 Touring (P1-0) A/T 1억",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Alpine White (300)",
+        "Black Sapphire (475)",
+        "Sophisto Grey (A90)",
+        "Brooklyn Grey (C4P)",
+        "M Isle of Man Green (C4G)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4649",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "M3",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 13,660만원, 다나와 1,400만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 6개, 다나와 7개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 136600000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "M3",
+      "grades": 7,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "M3 Competition M xDrive A/T M3 Competition M xDriv",
+        "M3 Competition M xDrive (P0-9) A/T M3 Competition ",
+        "M3 Competition M xDrive (P1) A/T M3 Competition M ",
+        "M3 Competition M xDrive Touring A/T M3 Competition",
+        "M3 Competition M xDrive Touring (P1) A/T M3 Compet"
+      ],
+      "colorNames": [
+        "Alpine White (300)",
+        "Black Sapphire (475)",
+        "Brooklyn Grey (C4P)",
+        "Skyscraper Grey (C4W)",
+        "M Isle of Man Green (C4G)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4582",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "iX2",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 6,580만원, 다나와 700만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 65800000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "iX2",
+      "grades": 2,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "알파인 화이트",
+        "블랙 사파이어 메탈릭",
+        "M 브루클린 그레이 메탈릭",
+        "M 포티마오 블루 메탈릭",
+        "케이프 요크 그린 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "3803",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "2시리즈",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"2시리즈\" → 다나와: \"2 Series\"",
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 7,430만원, 다나와 600만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 74300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "2 Series",
+      "grades": 2,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4479",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X5 M",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 19,170만원, 다나와 2,000만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 4,
+      "options": 0,
+      "startPrice": 191700000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X5 M",
+      "grades": 2,
+      "colors": 4,
+      "options": 0,
+      "gradeNames": [
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "블랙 사파이어 메탈릭",
+        "미네랄 화이트 메탈릭",
+        "애들레이드 그레이",
+        "타루마 브라운"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4639",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "i4",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 7,830만원, 다나와 770만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 12개, 다나와 14개 (차이: 2)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 12,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 78300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "i4",
+      "grades": 14,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "i4 eDrive40 Gran Coupe M Sport A/T i4 eDrive40 Gra",
+        "i4 eDrive40 Gran Coupe M Sport (P1) A/T i4 eDrive4",
+        "i4 eDrive40 Gran Coupe M Sport Pro A/T i4 eDrive40",
+        "i4 eDrive40 Gran Coupe M Sport Pro (P1) A/T i4 eDr",
+        "i4 M60 xDrive Gran Coupe A/T i4 M60 xDrive Gran Co"
+      ],
+      "colorNames": [
+        "알파인 화이트",
+        "블랙 사파이어 메탈릭",
+        "M 브루클린 그레이 메탈릭",
+        "M 포티마오 블루 메탈릭",
+        "케이프 요크 그린 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4073",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "name": "X4 M",
+    "status": "FAIL",
+    "issues": [
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 13,020만원, 다나와 1,700만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 2개, 다나와 3개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 130200000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "X4 M",
+      "grades": 3,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "X4 M Competition (P3-0) A/T X4 M Competition (P3-0",
+        "BMW파이낸스 이용 시 할인 BMW 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "3668",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "Q3",
+    "status": "FAIL",
+    "issues": [
+      "트림: 로컬 20개, 다나와 13개 (차이: 7)",
+      "시작가: 로컬 5,021만원, 다나와 900만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 20,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 50210000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Q3",
+      "grades": 13,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "40 TFSI Quattro A/T 40 TFSI Quattro A/T",
+        "40 TFSI Quattro (ULEV50) A/T 40 TFSI Quattro (ULEV",
+        "40 TFSI Quattro Premium A/T 40 TFSI Quattro Premiu",
+        "40 TFSI Quattro Premium (ULEV50) A/T 40 TFSI Quatt",
+        "40 TFSI Quattro Sportback A/T 40 TFSI Quattro Spor"
+      ],
+      "colorNames": [
+        "Chronos Gray, metallic",
+        "Mythos Black, metallic",
+        "Florett Silver Metallic",
+        "Arkona White",
+        "Pulse Orange"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4062",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "Q4 e-tron",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 19,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 64300000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Q4 e-tron",
+      "grades": 19,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "45 A/T 45 A/T 보조금 적용 시",
+        "45 Premium A/T 45 Premium A/T 보조금 적용 시",
+        "45 Sportback A/T 45 Sportback A/T 보조금 적용 시",
+        "45 Premium Sportback A/T 45 Premium Sportback A/T ",
+        "45 A/T 45 A/T"
+      ],
+      "colorNames": [
+        "Pebblestone Gray",
+        "Glacier White Metallic",
+        "Myth Black Metallic",
+        "Navarra Blue Metallic",
+        "Black"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4431",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "A8",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 14,502만원, 다나와 3,000만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 3개, 다나와 2개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 145020000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "A8",
+      "grades": 2,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "아우디파이낸스 이용 시 할인 아우디 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Brilliant Black",
+        "Firmament Blue, metallic",
+        "Floret Silver, metallic",
+        "Glacier White, metallic",
+        "Mythos Black, metallic"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4436",
+    "brandId": "audi",
+    "brandName": "아우디",
+    "name": "Q8 e-tron",
+    "status": "FAIL",
+    "issues": [
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 11,872만원, 다나와 1,872만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "트림: 로컬 4개, 다나와 3개 (차이: 1)",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 118720000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Q8 e-tron",
+      "grades": 3,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "55 e-tron Quattro A/T 55 e-tron Quattro A/T 1억",
+        "55 e-tron Quattro Premium A/T 55 e-tron Quattro Pr",
+        "55 e-tron Quattro A/T 55 e-tron Quattro A/T 1억"
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "id": 4629,
+    "name": "G-클래스",
+    "brand": "벤츠",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=4629",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 4566,
+    "name": "The New AMG GT",
+    "brand": "벤츠",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=4566",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 4072,
+    "name": "X4",
+    "brand": "BMW",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=4072",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 4171,
+    "name": "8시리즈",
+    "brand": "BMW",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=4171",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 3803,
+    "name": "2시리즈",
+    "brand": "BMW",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=3803",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 4073,
+    "name": "X4 M",
+    "brand": "BMW",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=4073",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 4436,
+    "name": "Q8 e-tron",
+    "brand": "아우디",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=4436",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 4119,
+    "name": "레인지로버",
+    "brand": "랜드로버",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=4119",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 4472,
+    "name": "레인지로버 벨라",
+    "brand": "랜드로버",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=4472",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "색상과 옵션을 선택 할 수 없는 차량입니다.",
+        "html": "<div class=\"estimate__blank\">색상과 옵션을 선택 할 수 없는 차량입니다.</div>",
+        "tagName": "DIV",
+        "className": "estimate__blank"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  },
+  {
+    "id": 3825,
+    "name": "Cybertruck",
+    "brand": "테슬라",
+    "url": "https://auto.danawa.com/newcar/?Work=estimate&Model=3825",
+    "hasColorUI": false,
+    "colors": [],
+    "reason": "색상 텍스트는 있으나 선택 UI 미확인",
+    "colorTextInstances": [
+      {
+        "text": "색상/옵션",
+        "html": "<span>색상/옵션</span>",
+        "tagName": "SPAN",
+        "className": ""
+      },
+      {
+        "text": "2. 옵션 및 색상을 선택하세요.",
+        "html": "<h3 class=\"title\">2. 옵션 및 색상을 선택하세요.</h3>",
+        "tagName": "H3",
+        "className": "title"
+      },
+      {
+        "text": "$(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manu",
+        "html": "<script>\n        $(document).ready(function() {\n            //snb\n            $('div.gridLeft').attr('data-uxlog-manual-track-id', 'danawa-auto-snb-' + gnb);\n            //snb - top\n            if($('div.location').length > 0) {\n                $('div.location').attr('data-uxlog-manual-track-id', 'danawa-auto-top-location-' + gnb);\n            }\n            //snb - rnb\n            if($('div.gridSide').length > 0) {\n                $('div.gridSide').attr('data-uxlog-manual-track-id', 'danawa-auto",
+        "tagName": "SCRIPT",
+        "className": ""
+      }
+    ]
+  }
+]

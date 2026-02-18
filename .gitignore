@@ -39,3 +39,23 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# omc state
+.omc/
+
+# temp reports
+*.txt
+*.csv
+*.json.bak
+BMW_*
+GENESIS_*
+GERMAN_*
+FUEL_*
+VERIFICATION_*
+INVESTIGATION_*
+EXECUTIVE_*
+QUICK_*
+AGENTS.md
+test-logos.html
+research/
+debug/

@@ -1,0 +1,887 @@
+{
+  "missingBrandName": [],
+  "missingGrades": [],
+  "missingDetails": [],
+  "missingTrims": [],
+  "missingColors": [
+    {
+      "id": "4629",
+      "name": "G-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4566",
+      "name": "The New AMG GT",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4072",
+      "name": "X4",
+      "brand": "BMW"
+    },
+    {
+      "id": "4171",
+      "name": "8시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "3803",
+      "name": "2시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "4073",
+      "name": "X4 M",
+      "brand": "BMW"
+    },
+    {
+      "id": "4436",
+      "name": "Q8 e-tron",
+      "brand": "아우디"
+    },
+    {
+      "id": "4119",
+      "name": "레인지로버",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "4472",
+      "name": "레인지로버 벨라",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "3825",
+      "name": "Cybertruck",
+      "brand": "테슬라"
+    }
+  ],
+  "missingOptions": [
+    {
+      "id": "4707",
+      "name": "A3",
+      "brand": "아우디"
+    },
+    {
+      "id": "4735",
+      "name": "A5",
+      "brand": "아우디"
+    },
+    {
+      "id": "4142",
+      "name": "A6 e-tron",
+      "brand": "아우디"
+    },
+    {
+      "id": "3713",
+      "name": "A6",
+      "brand": "아우디"
+    },
+    {
+      "id": "3537",
+      "name": "A7",
+      "brand": "아우디"
+    },
+    {
+      "id": "4736",
+      "name": "Q5",
+      "brand": "아우디"
+    },
+    {
+      "id": "4690",
+      "name": "Q6 e-tron",
+      "brand": "아우디"
+    },
+    {
+      "id": "4698",
+      "name": "Q7 2차",
+      "brand": "아우디"
+    },
+    {
+      "id": "4697",
+      "name": "Q8",
+      "brand": "아우디"
+    },
+    {
+      "id": "4759",
+      "name": "e-트론 GT",
+      "brand": "아우디"
+    },
+    {
+      "id": "4037",
+      "name": "C-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4430",
+      "name": "EQE SUV",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4381",
+      "name": "EQS SUV",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4114",
+      "name": "2시리즈 액티브 투어러",
+      "brand": "BMW"
+    },
+    {
+      "id": "4614",
+      "name": "4시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "4196",
+      "name": "7시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "4615",
+      "name": "M4",
+      "brand": "BMW"
+    },
+    {
+      "id": "4371",
+      "name": "X1",
+      "brand": "BMW"
+    },
+    {
+      "id": "4580",
+      "name": "X2",
+      "brand": "BMW"
+    },
+    {
+      "id": "4475",
+      "name": "X5",
+      "brand": "BMW"
+    },
+    {
+      "id": "4480",
+      "name": "X6 M",
+      "brand": "BMW"
+    },
+    {
+      "id": "4192",
+      "name": "X7",
+      "brand": "BMW"
+    },
+    {
+      "id": "4422",
+      "name": "XM",
+      "brand": "BMW"
+    },
+    {
+      "id": "4424",
+      "name": "Z4",
+      "brand": "BMW"
+    },
+    {
+      "id": "4528",
+      "name": "i5",
+      "brand": "BMW"
+    },
+    {
+      "id": "4181",
+      "name": "i7",
+      "brand": "BMW"
+    },
+    {
+      "id": "4708",
+      "name": "iX",
+      "brand": "BMW"
+    },
+    {
+      "id": "4372",
+      "name": "iX1",
+      "brand": "BMW"
+    },
+    {
+      "id": "4061",
+      "name": "리릭",
+      "brand": "캐딜락"
+    },
+    {
+      "id": "4663",
+      "name": "에스컬레이드",
+      "brand": "캐딜락"
+    },
+    {
+      "id": "4469",
+      "name": "All New CR-V",
+      "brand": "혼다"
+    },
+    {
+      "id": "4715",
+      "name": "뉴 오딧세이",
+      "brand": "혼다"
+    },
+    {
+      "id": "4547",
+      "name": "어코드",
+      "brand": "혼다"
+    },
+    {
+      "id": "4189",
+      "name": "파일럿",
+      "brand": "혼다"
+    },
+    {
+      "id": "4065",
+      "name": "그랜드 체로키",
+      "brand": "지프"
+    },
+    {
+      "id": "4732",
+      "name": "글래디에이터",
+      "brand": "지프"
+    },
+    {
+      "id": "4509",
+      "name": "랭글러",
+      "brand": "지프"
+    },
+    {
+      "id": "4064",
+      "name": "디스커버리",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "4031",
+      "name": "LS",
+      "brand": "렉서스"
+    },
+    {
+      "id": "4164",
+      "name": "NX",
+      "brand": "렉서스"
+    },
+    {
+      "id": "4093",
+      "name": "New ES",
+      "brand": "렉서스"
+    },
+    {
+      "id": "4390",
+      "name": "RX",
+      "brand": "렉서스"
+    },
+    {
+      "id": "3688",
+      "name": "UX",
+      "brand": "렉서스"
+    },
+    {
+      "id": "4512",
+      "name": "노틸러스",
+      "brand": "링컨"
+    },
+    {
+      "id": "4377",
+      "name": "408",
+      "brand": "푸조"
+    },
+    {
+      "id": "4628",
+      "name": "5008",
+      "brand": "푸조"
+    },
+    {
+      "id": "4593",
+      "name": "파나메라",
+      "brand": "포르쉐"
+    },
+    {
+      "id": "4177",
+      "name": "GR 86",
+      "brand": "토요타"
+    },
+    {
+      "id": "4173",
+      "name": "RAV4",
+      "brand": "토요타"
+    },
+    {
+      "id": "4063",
+      "name": "시에나",
+      "brand": "토요타"
+    },
+    {
+      "id": "4473",
+      "name": "알파드",
+      "brand": "토요타"
+    },
+    {
+      "id": "4447",
+      "name": "크라운",
+      "brand": "토요타"
+    },
+    {
+      "id": "4439",
+      "name": "프리우스",
+      "brand": "토요타"
+    },
+    {
+      "id": "4460",
+      "name": "하이랜더",
+      "brand": "토요타"
+    },
+    {
+      "id": "4007",
+      "name": "V90 크로스 컨트리",
+      "brand": "볼보"
+    },
+    {
+      "id": "4405",
+      "name": "XC40",
+      "brand": "볼보"
+    },
+    {
+      "id": "4516",
+      "name": "E-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4373",
+      "name": "GLC-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4471",
+      "name": "GLE-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "3992",
+      "name": "S-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4555",
+      "name": "CLE",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4629",
+      "name": "G-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4507",
+      "name": "GLS-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4461",
+      "name": "CLA-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4496",
+      "name": "GLB-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4427",
+      "name": "A-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4569",
+      "name": "EQB",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4568",
+      "name": "EQA",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4011",
+      "name": "Maybach S-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4508",
+      "name": "Maybach GLS",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4495",
+      "name": "GLA-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4566",
+      "name": "The New AMG GT",
+      "brand": "벤츠"
+    },
+    {
+      "id": "3982",
+      "name": "AMG GT",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4638",
+      "name": "Electric G-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4111",
+      "name": "EQE",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4511",
+      "name": "Maybach EQS SUV",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4670",
+      "name": "Maybach SL",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4380",
+      "name": "SL-클래스",
+      "brand": "벤츠"
+    },
+    {
+      "id": "4517",
+      "name": "5시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "4656",
+      "name": "X3",
+      "brand": "BMW"
+    },
+    {
+      "id": "4650",
+      "name": "3시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "4476",
+      "name": "X6",
+      "brand": "BMW"
+    },
+    {
+      "id": "4072",
+      "name": "X4",
+      "brand": "BMW"
+    },
+    {
+      "id": "4652",
+      "name": "1시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "4683",
+      "name": "2시리즈 그란쿠페",
+      "brand": "BMW"
+    },
+    {
+      "id": "4655",
+      "name": "M2",
+      "brand": "BMW"
+    },
+    {
+      "id": "4171",
+      "name": "8시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "4657",
+      "name": "M5",
+      "brand": "BMW"
+    },
+    {
+      "id": "4649",
+      "name": "M3",
+      "brand": "BMW"
+    },
+    {
+      "id": "4582",
+      "name": "iX2",
+      "brand": "BMW"
+    },
+    {
+      "id": "3803",
+      "name": "2시리즈",
+      "brand": "BMW"
+    },
+    {
+      "id": "4479",
+      "name": "X5 M",
+      "brand": "BMW"
+    },
+    {
+      "id": "4639",
+      "name": "i4",
+      "brand": "BMW"
+    },
+    {
+      "id": "4073",
+      "name": "X4 M",
+      "brand": "BMW"
+    },
+    {
+      "id": "3668",
+      "name": "Q3",
+      "brand": "아우디"
+    },
+    {
+      "id": "4062",
+      "name": "Q4 e-tron",
+      "brand": "아우디"
+    },
+    {
+      "id": "4431",
+      "name": "A8",
+      "brand": "아우디"
+    },
+    {
+      "id": "4436",
+      "name": "Q8 e-tron",
+      "brand": "아우디"
+    },
+    {
+      "id": "3775",
+      "name": "디펜더",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "4119",
+      "name": "레인지로버",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "4472",
+      "name": "레인지로버 벨라",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "4363",
+      "name": "레인지로버 스포츠",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "4551",
+      "name": "레인지로버 이보크",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "4548",
+      "name": "디스커버리 스포츠",
+      "brand": "랜드로버"
+    },
+    {
+      "id": "4747",
+      "name": "XC60",
+      "brand": "볼보"
+    },
+    {
+      "id": "4737",
+      "name": "XC90",
+      "brand": "볼보"
+    },
+    {
+      "id": "4740",
+      "name": "S90",
+      "brand": "볼보"
+    },
+    {
+      "id": "4421",
+      "name": "V60 크로스 컨트리",
+      "brand": "볼보"
+    },
+    {
+      "id": "4446",
+      "name": "EX30",
+      "brand": "볼보"
+    },
+    {
+      "id": "4750",
+      "name": "EX30 CC",
+      "brand": "볼보"
+    },
+    {
+      "id": "4619",
+      "name": "타이칸",
+      "brand": "포르쉐"
+    },
+    {
+      "id": "4506",
+      "name": "카이엔",
+      "brand": "포르쉐"
+    },
+    {
+      "id": "4651",
+      "name": "The New 911",
+      "brand": "포르쉐"
+    },
+    {
+      "id": "4613",
+      "name": "마칸 일렉트릭",
+      "brand": "포르쉐"
+    },
+    {
+      "id": "4565",
+      "name": "에스컬레이드 IQ",
+      "brand": "캐딜락"
+    },
+    {
+      "id": "4777",
+      "name": "아카디아",
+      "brand": "GMC"
+    },
+    {
+      "id": "4779",
+      "name": "캐니언",
+      "brand": "GMC"
+    },
+    {
+      "id": "4635",
+      "name": "LM",
+      "brand": "렉서스"
+    },
+    {
+      "id": "4700",
+      "name": "LX",
+      "brand": "렉서스"
+    },
+    {
+      "id": "4741",
+      "name": "3008",
+      "brand": "푸조"
+    },
+    {
+      "id": "4379",
+      "name": "308",
+      "brand": "푸조"
+    },
+    {
+      "id": "4674",
+      "name": "캠리",
+      "brand": "토요타"
+    }
+  ],
+  "missingSubModels": [
+    {
+      "id": "4064",
+      "name": "디스커버리"
+    }
+  ],
+  "missingImage": [],
+  "defaultImage": [
+    {
+      "id": "4361",
+      "name": "코나",
+      "url": "https://autoimg.danawa.com/photo/4361/53243/lineup_360.png"
+    },
+    {
+      "id": "4399",
+      "name": "포터2 EV",
+      "url": "https://autoimg.danawa.com/photo/4399/53110/lineup_360.png"
+    },
+    {
+      "id": "4566",
+      "name": "The New AMG GT",
+      "url": "https://autoimg.danawa.com/photo/4566/53616/lineup_360.png"
+    },
+    {
+      "id": "4638",
+      "name": "Electric G-클래스",
+      "url": "https://autoimg.danawa.com/photo/4638/53615/lineup_360.png"
+    },
+    {
+      "id": "4511",
+      "name": "Maybach EQS SUV",
+      "url": "https://autoimg.danawa.com/photo/4511/53430/lineup_360.png"
+    },
+    {
+      "id": "4670",
+      "name": "Maybach SL",
+      "url": "https://autoimg.danawa.com/photo/4670/53533/lineup_360.png"
+    },
+    {
+      "id": "4656",
+      "name": "X3",
+      "url": "https://autoimg.danawa.com/photo/4656/53503/lineup_360.png"
+    },
+    {
+      "id": "4650",
+      "name": "3시리즈",
+      "url": "https://autoimg.danawa.com/photo/4650/53453/lineup_360.png"
+    },
+    {
+      "id": "4072",
+      "name": "X4",
+      "url": "https://autoimg.danawa.com/photo/4072/52611/lineup_360.png"
+    },
+    {
+      "id": "4652",
+      "name": "1시리즈",
+      "url": "https://autoimg.danawa.com/photo/4652/53447/lineup_360.png"
+    },
+    {
+      "id": "4683",
+      "name": "2시리즈 그란쿠페",
+      "url": "https://autoimg.danawa.com/photo/4683/53548/lineup_360.png"
+    },
+    {
+      "id": "4655",
+      "name": "M2",
+      "url": "https://autoimg.danawa.com/photo/4655/53489/lineup_360.png"
+    },
+    {
+      "id": "4171",
+      "name": "8시리즈",
+      "url": "https://autoimg.danawa.com/photo/4171/53551/lineup_360.png"
+    },
+    {
+      "id": "4657",
+      "name": "M5",
+      "url": "https://autoimg.danawa.com/photo/4657/53470/lineup_360.png"
+    },
+    {
+      "id": "4649",
+      "name": "M3",
+      "url": "https://autoimg.danawa.com/photo/4649/53490/lineup_360.png"
+    },
+    {
+      "id": "4582",
+      "name": "iX2",
+      "url": "https://autoimg.danawa.com/photo/4582/53549/lineup_360.png"
+    },
+    {
+      "id": "3803",
+      "name": "2시리즈",
+      "url": "https://autoimg.danawa.com/photo/3803/52644/lineup_360.png"
+    },
+    {
+      "id": "4639",
+      "name": "i4",
+      "url": "https://autoimg.danawa.com/photo/4639/53647/lineup_360.png"
+    },
+    {
+      "id": "4073",
+      "name": "X4 M",
+      "url": "https://autoimg.danawa.com/photo/4073/52636/lineup_360.png"
+    },
+    {
+      "id": "4431",
+      "name": "A8",
+      "url": "https://autoimg.danawa.com/photo/4431/53350/lineup_360.png"
+    },
+    {
+      "id": "4436",
+      "name": "Q8 e-tron",
+      "url": "https://autoimg.danawa.com/photo/4436/52648/lineup_360.png"
+    },
+    {
+      "id": "3775",
+      "name": "디펜더",
+      "url": "https://autoimg.danawa.com/photo/3775/53169/lineup_360.png"
+    },
+    {
+      "id": "4119",
+      "name": "레인지로버",
+      "url": "https://autoimg.danawa.com/photo/4119/53680/lineup_360.png"
+    },
+    {
+      "id": "4472",
+      "name": "레인지로버 벨라",
+      "url": "https://autoimg.danawa.com/photo/4472/53263/lineup_360.png"
+    },
+    {
+      "id": "4363",
+      "name": "레인지로버 스포츠",
+      "url": "https://autoimg.danawa.com/photo/4363/53682/lineup_360.png"
+    },
+    {
+      "id": "4551",
+      "name": "레인지로버 이보크",
+      "url": "https://autoimg.danawa.com/photo/4551/53685/lineup_360.png"
+    },
+    {
+      "id": "4548",
+      "name": "디스커버리 스포츠",
+      "url": "https://autoimg.danawa.com/photo/4548/53160/lineup_360.png"
+    },
+    {
+      "id": "4763",
+      "name": "디 올 뉴 셀토스",
+      "url": "https://autoimg.danawa.com/photo/4763/53547/lineup_360.png"
+    },
+    {
+      "id": "3772",
+      "name": "봉고 3",
+      "url": "https://autoimg.danawa.com/photo/3772/53587/lineup_360.png"
+    },
+    {
+      "id": "4404",
+      "name": "봉고 3 EV",
+      "url": "https://autoimg.danawa.com/photo/4404/50833/lineup_360.png"
+    },
+    {
+      "id": "4565",
+      "name": "에스컬레이드 IQ",
+      "url": "https://autoimg.danawa.com/photo/4565/53485/lineup_360.png"
+    },
+    {
+      "id": "4741",
+      "name": "3008",
+      "url": "https://autoimg.danawa.com/photo/4741/53329/lineup_360.png"
+    },
+    {
+      "id": "4379",
+      "name": "308",
+      "url": "https://autoimg.danawa.com/photo/4379/53177/lineup_360.png"
+    },
+    {
+      "id": "4395",
+      "name": "콜로라도",
+      "url": "https://autoimg.danawa.com/photo/4395/52454/lineup_360.png"
+    },
+    {
+      "id": "3825",
+      "name": "Cybertruck",
+      "url": "https://autoimg.danawa.com/photo/3825/44980/lineup_360.png"
+    }
+  ],
+  "gradeCountMismatch": [
+    {
+      "id": "4626",
+      "name": "ST1",
+      "gradesLen": 3,
+      "gradeCount": 7,
+      "trimsLen": 7
+    },
+    {
+      "id": "4065",
+      "name": "그랜드 체로키",
+      "gradesLen": 1,
+      "gradeCount": 13,
+      "trimsLen": 13
+    },
+    {
+      "id": "4361",
+      "name": "코나",
+      "gradesLen": 5,
+      "gradeCount": 21,
+      "trimsLen": 21
+    },
+    {
+      "id": "4399",
+      "name": "포터2 EV",
+      "gradesLen": 5,
+      "gradeCount": 18,
+      "trimsLen": 18
+    }
+  ],
+  "detailBrandMismatch": [],
+  "duplicateNames": [],
+  "zeroPriceTrim": []
+}

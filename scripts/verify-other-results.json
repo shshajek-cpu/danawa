@@ -1,0 +1,2443 @@
+[
+  {
+    "id": "4061",
+    "brandId": "cadillac",
+    "brandName": "캐딜락",
+    "name": "리릭",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"리릭\" → 다나와: \"Lyriq\"",
+      "시작가: 로컬 10,696만원, 다나와 696만원"
+    ],
+    "warnings": [
+      "색상: 로컬 5개, 다나와 6개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 106960000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Lyriq",
+      "grades": 1,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "Sport A/T Sport A/T 1억"
+      ],
+      "colorNames": [
+        "Argent Silver Metallic",
+        "Stellar Black Metallic",
+        "Crystal White Tricoat",
+        "Opulent Blue Metallic",
+        "Radiant Red Tintcoat"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4663",
+    "brandId": "cadillac",
+    "brandName": "캐딜락",
+    "name": "에스컬레이드",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"에스컬레이드\" → 다나와: \"The New Escalade\"",
+      "시작가: 로컬 16,607만원, 다나와 6,607만원"
+    ],
+    "warnings": [
+      "색상: 로컬 5개, 다나와 7개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 166070000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "The New Escalade",
+      "grades": 2,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "Sport Platinum A/T Sport Platinum A/T 1억",
+        "Premium Luxury Platinum A/T Premium Luxury Platinu"
+      ],
+      "colorNames": [
+        "Crystal White Tricoat",
+        "Black Raven",
+        "Galactic Gray Metallic",
+        "Argent Silver Metallic",
+        "Radiant Red Tintcoat"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4127",
+    "brandId": "gmc",
+    "brandName": "GMC",
+    "name": "시에라",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"시에라\" → 다나와: \"Sierra\"",
+      "시작가: 로컬 9,420만원, 다나와 200만원"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 1개 (차이: 1)",
+      "색상: 로컬 5개, 다나와 2개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 5,
+      "options": 2,
+      "startPrice": 94200000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Sierra",
+      "grades": 1,
+      "colors": 2,
+      "options": 2,
+      "gradeNames": [
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "턱시도 블랙 (GBA)",
+        "젯 블랙"
+      ],
+      "optionNames": [
+        "[액세서리] 슬라이딩 적재함 커버 (자동)",
+        "[액세서리] 롤바"
+      ]
+    }
+  },
+  {
+    "id": "4469",
+    "brandId": "honda",
+    "brandName": "혼다",
+    "name": "All New CR-V",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"All New CR-V\" → 다나와: \"CR-V\"",
+      "시작가: 로컬 5,280만원, 다나와 4,170만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 3개 (차이: 2)",
+      "색상: 로컬 5개, 다나와 7개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 52800000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "CR-V",
+      "grades": 3,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "2WD Touring A/T 2WD Touring A/T",
+        "4WD Touring A/T 4WD Touring A/T",
+        "2WD A/T 2WD A/T"
+      ],
+      "colorNames": [
+        "플래티넘 화이트 펄",
+        "메테로이드 그레이 메탈릭",
+        "크리스탈 블랙 펄",
+        "어반 그레이 펄",
+        "캐니언 리버 블루 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4715",
+    "brandId": "honda",
+    "brandName": "혼다",
+    "name": "뉴 오딧세이",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"뉴 오딧세이\" → 다나와: \"Odyssey\""
+    ],
+    "warnings": [
+      "색상: 로컬 3개, 다나와 4개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 3,
+      "options": 0,
+      "startPrice": 63400000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Odyssey",
+      "grades": 1,
+      "colors": 4,
+      "options": 0,
+      "gradeNames": [
+        "Elite A/T Elite A/T"
+      ],
+      "colorNames": [
+        "플래티넘 화이트",
+        "모던 스틸",
+        "크리스탈 블랙",
+        "브라운 레더"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4547",
+    "brandId": "honda",
+    "brandName": "혼다",
+    "name": "어코드",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"어코드\" → 다나와: \"Accord\"",
+      "시작가: 로컬 5,280만원, 다나와 4,350만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)",
+      "색상: 로컬 5개, 다나와 7개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 52800000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Accord",
+      "grades": 2,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "Touring A/T Touring A/T",
+        "Turbo A/T Turbo A/T"
+      ],
+      "colorNames": [
+        "Crystal Black Pearl",
+        "Platinum White Pearl",
+        "Meteoroid Gray Metallic",
+        "Urban Gray Pearl",
+        "Canyon River Blue Metallic"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4189",
+    "brandId": "honda",
+    "brandName": "혼다",
+    "name": "파일럿",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"파일럿\" → 다나와: \"Pilot\""
+    ],
+    "warnings": [
+      "색상: 로컬 3개, 다나와 2개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 3,
+      "options": 0,
+      "startPrice": 68100000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Pilot",
+      "grades": 2,
+      "colors": 2,
+      "options": 0,
+      "gradeNames": [
+        "ELITE A/T ELITE A/T",
+        "Black Edition A/T Black Edition A/T"
+      ],
+      "colorNames": [
+        "MODERN STEEL",
+        "Brown Leather"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4065",
+    "brandId": "jeep",
+    "brandName": "지프",
+    "name": "그랜드 체로키",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"그랜드 체로키\" → 다나와: \"Grand Cherokee\"",
+      "트림: 로컬 13개, 다나와 5개 (차이: 8)",
+      "시작가: 로컬 7,690만원, 다나와 230만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 13,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 76900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Grand Cherokee",
+      "grades": 5,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "Summit Reserve A/T Summit Reserve A/T 1억",
+        "Limited A/T Limited A/T",
+        "Overland A/T Overland A/T",
+        "지프파이낸스 이용 시 할인 지프 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Baltic Gray Metallic Clear-Coat",
+        "Velvet Red Pearl-Coat",
+        "Silver Zynith",
+        "Bright White Clear-Coat",
+        "Diamond Black Crystal Pearl-Coat"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4732",
+    "brandId": "jeep",
+    "brandName": "지프",
+    "name": "글래디에이터",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"글래디에이터\" → 다나와: \"Gladiator\"",
+      "시작가: 로컬 8,510만원, 다나와 600만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 2,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 85100000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Gladiator",
+      "grades": 2,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "지프파이낸스 이용 시 할인 지프 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Anvil Clear-Coat",
+        "Firecracker Red Clear-Coat",
+        "Hydro Blue Pearl-Coat",
+        "Black Clear-Coat",
+        "Bright White Clear-Coat"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4509",
+    "brandId": "jeep",
+    "brandName": "지프",
+    "name": "랭글러",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"랭글러\" → 다나와: \"Wrangler\"",
+      "시작가: 로컬 8,390만원, 다나와 500만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 83900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Wrangler",
+      "grades": 2,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "지프파이낸스 이용 시 할인 지프 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Black Clear-Coat",
+        "Granite Crystal Metallic Clear-Coat",
+        "Anvil Clear-Coat",
+        "Hydro Blue Pearl-Coat",
+        "Firecracker Red Clear-Coat"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4064",
+    "brandId": "landrover",
+    "brandName": "랜드로버",
+    "name": "디스커버리",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"디스커버리\" → 다나와: \"Discovery\"",
+      "시작가: 로컬 9,600만원, 다나와 130만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 4개 (차이: 3)",
+      "색상: 로컬 7개, 다나와 10개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 96000000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Discovery",
+      "grades": 4,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "P300 S A/T P300 S A/T",
+        "P360 Dynamic HSE A/T P360 Dynamic HSE A/T 1억",
+        "D250 S A/T D250 S A/T 1억",
+        "D350 Dynamic HSE A/T D350 Dynamic HSE A/T 1억"
+      ],
+      "colorNames": [
+        "Fuji White",
+        "Santorini Black",
+        "Eiger Grey",
+        "Lantau Bronze",
+        "Varesine Blue"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4031",
+    "brandId": "lexus",
+    "brandName": "렉서스",
+    "name": "LS",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 15,597만원, 다나와 4,527만원"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 4개 (차이: 2)",
+      "색상: 로컬 8개, 다나와 10개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 155970000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "LS",
+      "grades": 4,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "500h Luxury AWD A/T 500h Luxury AWD A/T 1억",
+        "500h Platinum AWD A/T 500h Platinum AWD A/T 1억",
+        "500 Luxury AWD A/T 500 Luxury AWD A/T 1억",
+        "500 Platinum AWD A/T 500 Platinum AWD A/T 1억"
+      ],
+      "colorNames": [
+        "WHITE NOVA GLASS FLAKE",
+        "LUNAR LUSTER",
+        "MANGANESE LUSTER",
+        "GRAPHITE BLACK GLASS FLAKE",
+        "SONIC IRIDIUM"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4164",
+    "brandId": "lexus",
+    "brandName": "렉서스",
+    "name": "NX",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 4개 (차이: 2)",
+      "색상: 로컬 9개, 다나와 12개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 66950000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "NX",
+      "grades": 4,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "350h Premium A/T 350h Premium A/T",
+        "350h Luxury A/T 350h Luxury A/T",
+        "450h+ Premium A/T 450h+ Premium A/T",
+        "450h+ F SPORT A/T 450h+ F SPORT A/T"
+      ],
+      "colorNames": [
+        "Sonic Chrome",
+        "Sonic Quartz",
+        "Sonic Titanium",
+        "Graphite Black Glass Flake",
+        "Black"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4093",
+    "brandId": "lexus",
+    "brandName": "렉서스",
+    "name": "New ES",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"New ES\" → 다나와: \"ES\""
+    ],
+    "warnings": [
+      "색상: 로컬 12개, 다나와 13개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 67250000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "ES",
+      "grades": 2,
+      "colors": 13,
+      "options": 0,
+      "gradeNames": [
+        "300h Luxury Plus A/T 300h Luxury Plus A/T",
+        "300h Executive A/T 300h Executive A/T"
+      ],
+      "colorNames": [
+        "SONIC IRIDIUM",
+        "SONIC CHROME",
+        "SONIC QUARTZ",
+        "SONIC TITANIUM",
+        "GRAPHITE BLACK GLASS FLAKE"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4390",
+    "brandId": "lexus",
+    "brandName": "렉서스",
+    "name": "RX",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 8,675만원, 다나와 970만원"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 4개 (차이: 2)",
+      "색상: 로컬 9개, 다나와 12개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 86750000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "RX",
+      "grades": 4,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "350h Premium A/T 350h Premium A/T",
+        "350h Luxury A/T 350h Luxury A/T",
+        "450h+ Luxury A/T 450h+ Luxury A/T 1억",
+        "500h F SPORT Performance A/T 500h F SPORT Performa"
+      ],
+      "colorNames": [
+        "SONIC COPPER",
+        "SONIC QUARTZ",
+        "SONIC TITANIUM",
+        "SONIC CHROME",
+        "SONIC IRIDIUM"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "3688",
+    "brandId": "lexus",
+    "brandName": "렉서스",
+    "name": "UX",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "색상: 로컬 13개, 다나와 12개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 13,
+      "options": 0,
+      "startPrice": 52120000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "UX",
+      "grades": 2,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "300h 2WD A/T 300h 2WD A/T",
+        "300h F SPORT A/T 300h F SPORT A/T"
+      ],
+      "colorNames": [
+        "Sonic Copper",
+        "Madder Red",
+        "Sonic Quartz",
+        "Sonic Titanium",
+        "Sonic Iridium"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4512",
+    "brandId": "lincoln",
+    "brandName": "링컨",
+    "name": "노틸러스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"노틸러스\" → 다나와: \"Nautilus\"",
+      "시작가: 로컬 7,620만원, 다나와 200만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)",
+      "색상: 로컬 7개, 다나와 9개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 76200000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Nautilus",
+      "grades": 2,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "링컨파이낸스 이용 시 할인 링컨 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Whisper Blue",
+        "Diamond Red",
+        "Silver Radiance",
+        "Infinite Black",
+        "Lustrous Grey"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4377",
+    "brandId": "peugeot",
+    "brandName": "푸조",
+    "name": "408",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 4,390만원, 다나와 27만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 2,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 43900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "408",
+      "grades": 2,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "푸조파이낸스 이용 시 할인 푸조 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Obsession Blue",
+        "Elixir Red",
+        "Nera Black",
+        "Okenite White",
+        "Selenium Grey"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4628",
+    "brandId": "peugeot",
+    "brandName": "푸조",
+    "name": "5008",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"5008\" → 다나와: \"All New 5008\"",
+      "시작가: 로컬 4,890만원, 다나와 27만원"
+    ],
+    "warnings": [],
+    "local": {
+      "trims": 2,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 48900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "All New 5008",
+      "grades": 2,
+      "colors": 6,
+      "options": 0,
+      "gradeNames": [
+        "푸조파이낸스 이용 시 할인 푸조 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Ingaro Blue",
+        "Cumulus Grey",
+        "Okenite White",
+        "Nera Black",
+        "Titane Grey"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4468",
+    "brandId": "polestar",
+    "brandName": "폴스타",
+    "name": "폴스타 2",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"폴스타 2\" → 다나와: \"Polestar 2\"",
+      "색상: 로컬 7개, 다나와 11개 (차이: 4)"
+    ],
+    "warnings": [
+      "옵션: 로컬 14개, 다나와 10개 (차이: 4)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 7,
+      "options": 14,
+      "startPrice": 43900000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Polestar 2",
+      "grades": 3,
+      "colors": 11,
+      "options": 10,
+      "gradeNames": [
+        "Standard range Single motor A/T Standard range Sin",
+        "Long range Single motor A/T Long range Single moto",
+        "Long range Dual motor + Pilot pack A/T Long range "
+      ],
+      "colorNames": [
+        "Snow",
+        "Vapour",
+        "Storm",
+        "Jupiter",
+        "Midnight"
+      ],
+      "optionNames": [
+        "Snow 외장컬러",
+        "파일럿 팩",
+        "플러스 팩",
+        "플러스 팩 + 통풍 기능 포함 나파가죽시트 및 Light Ash Deco 장식",
+        "Harman Kardon 프리미엄 사운드"
+      ]
+    }
+  },
+  {
+    "id": "4593",
+    "brandId": "porsche",
+    "brandName": "포르쉐",
+    "name": "파나메라",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"파나메라\" → 다나와: \"Panamera\"",
+      "시작가: 로컬 19,400만원, 다나와 530만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 6개 (차이: 5)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 18,
+      "options": 0,
+      "startPrice": 194000000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Panamera",
+      "grades": 6,
+      "colors": 18,
+      "options": 0,
+      "gradeNames": [
+        "Panamera 4 E-Hybrid A/T Panamera 4 E-Hybrid A/T 1억",
+        "Panamera Turbo E-Hybrid A/T Panamera Turbo E-Hybri",
+        "Panamera Turbo S E-Hybrid A/T Panamera Turbo S E-H",
+        "Panamera 4 A/T Panamera 4 A/T 1억",
+        "Panamera Red Exclusive A/T Panamera Red Exclusive "
+      ],
+      "colorNames": [
+        "화이트",
+        "블랙",
+        "제트 블랙 메탈릭",
+        "카라라 화이트 메탈릭",
+        "볼케이노 그레이 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4177",
+    "brandId": "toyota",
+    "brandName": "토요타",
+    "name": "GR 86",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "색상: 로컬 7개, 다나와 8개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 42970000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "GR 86",
+      "grades": 2,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "Standard M/T Standard M/T",
+        "Premium M/T Premium M/T"
+      ],
+      "colorNames": [
+        "CRYSTAL BLACK SILICA",
+        "CRYSTAL WHITE PEARL",
+        "ICE SILVER METALLIC",
+        "IGNITION RED",
+        "MAGNETITE GRAY METALLIC"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4173",
+    "brandId": "toyota",
+    "brandName": "토요타",
+    "name": "RAV4",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 3개 (차이: 1)",
+      "색상: 로컬 8개, 다나와 11개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 44150000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "RAV4",
+      "grades": 3,
+      "colors": 11,
+      "options": 0,
+      "gradeNames": [
+        "2WD XLE A/T 2WD XLE A/T",
+        "AWD LTD A/T AWD LTD A/T",
+        "XSE A/T XSE A/T"
+      ],
+      "colorNames": [
+        "Platinum White Pearl Mica",
+        "Silver Metallic",
+        "Gray Metallic",
+        "Attitude Black Mica",
+        "Red Mica"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4063",
+    "brandId": "toyota",
+    "brandName": "토요타",
+    "name": "시에나",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"시에나\" → 다나와: \"Sienna\""
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 72890000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Sienna",
+      "grades": 2,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "2WD A/T 2WD A/T",
+        "AWD (E-four) A/T AWD (E-four) A/T"
+      ],
+      "colorNames": [
+        "PLATINUM WHITE PEARL MICA",
+        "GRAY METALLIC",
+        "SILVER METALLIC",
+        "ATTITUDE BLACK MICA",
+        "DARK BLUE MICA"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4473",
+    "brandId": "toyota",
+    "brandName": "토요타",
+    "name": "알파드",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"알파드\" → 다나와: \"Alphard\"",
+      "시작가: 로컬 8,678만원, 다나와 49만원"
+    ],
+    "warnings": [
+      "색상: 로컬 3개, 다나와 4개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 3,
+      "options": 0,
+      "startPrice": 86780000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Alphard",
+      "grades": 2,
+      "colors": 4,
+      "options": 0,
+      "gradeNames": [
+        "AWD Premium A/T AWD Premium A/T",
+        "AWD Executive A/T AWD Executive A/T 1억"
+      ],
+      "colorNames": [
+        "PLATINUM WHITE PEARL MICA",
+        "PRECIOUS METAL",
+        "BLACK",
+        "블랙 나파 가죽"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4447",
+    "brandId": "toyota",
+    "brandName": "토요타",
+    "name": "크라운",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"크라운\" → 다나와: \"Crown\"",
+      "시작가: 로컬 6,845만원, 다나와 5,883만원"
+    ],
+    "warnings": [
+      "트림: 로컬 1개, 다나와 2개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 68450000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Crown",
+      "grades": 2,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "2.4L HEV Dual Boost A/T 2.4L HEV Dual Boost A/T",
+        "2.5L HEV A/T 2.5L HEV A/T"
+      ],
+      "colorNames": [
+        "PRECIOUS WHITE PEARL",
+        "BLACK",
+        "PRECIOUS METAL",
+        "EMOTIONAL RED 2",
+        "PRECIOUS BRONZE"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4439",
+    "brandId": "toyota",
+    "brandName": "토요타",
+    "name": "프리우스",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"프리우스\" → 다나와: \"Prius\""
+    ],
+    "warnings": [
+      "트림: 로컬 3개, 다나와 5개 (차이: 2)",
+      "색상: 로컬 7개, 다나와 9개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 39680000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Prius",
+      "grades": 5,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "LE A/T LE A/T",
+        "XLE A/T XLE A/T",
+        "AWD XLE A/T AWD XLE A/T",
+        "SE A/T SE A/T",
+        "XSE A/T XSE A/T"
+      ],
+      "colorNames": [
+        "GRAY METAL",
+        "MUSTARD",
+        "DARK BLUE",
+        "EMOTIONAL RED2",
+        "PLATINUM WHITE PEARL MICA"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4460",
+    "brandId": "toyota",
+    "brandName": "토요타",
+    "name": "하이랜더",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"하이랜더\" → 다나와: \"Highlander\""
+    ],
+    "warnings": [
+      "색상: 로컬 8개, 다나와 11개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 74030000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Highlander",
+      "grades": 1,
+      "colors": 11,
+      "options": 0,
+      "gradeNames": [
+        "Platinum A/T Platinum A/T"
+      ],
+      "colorNames": [
+        "PLATINUM WHITE PEARL MICA",
+        "SILVER METALLIC",
+        "GRAY METALLIC",
+        "ATTITUDE BLACK MICA",
+        "RED MICA"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4007",
+    "brandId": "volvo",
+    "brandName": "볼보",
+    "name": "V90 크로스 컨트리",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"V90 크로스 컨트리\" → 다나와: \"V90 Cross Country\""
+    ],
+    "warnings": [
+      "색상: 로컬 6개, 다나와 9개 (차이: 3)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 71548000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "V90 Cross Country",
+      "grades": 2,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "B5 AWD Plus A/T B5 AWD Plus A/T",
+        "B5 AWD Ultra A/T B5 AWD Ultra A/T"
+      ],
+      "colorNames": [
+        "Onyx Black(717)",
+        "Denim Blue(723)",
+        "Platinum Grey(731)",
+        "Silver Dawn(735)",
+        "Crystal White Pearl(707)"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4405",
+    "brandId": "volvo",
+    "brandName": "볼보",
+    "name": "XC40",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "트림: 로컬 4개, 다나와 7개 (차이: 3)",
+      "색상: 로컬 6개, 다나와 8개 (차이: 2)",
+      "시작가: 로컬 5,120.17만원, 다나와 4,884만원"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 6,
+      "options": 0,
+      "startPrice": 51201700,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "XC40",
+      "grades": 7,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "B4 Plus Bright AWD A/T B4 Plus Bright AWD A/T",
+        "B4 Ultra Bright AWD A/T B4 Ultra Bright AWD A/T",
+        "B4 Ultra Dark AWD A/T B4 Ultra Dark AWD A/T",
+        "B4 Black Edition AWD A/T B4 Black Edition AWD A/T",
+        "B4 Plus Bright AWD A/T B4 Plus Bright AWD A/T"
+      ],
+      "colorNames": [
+        "클라우드 블루",
+        "크리스탈 화이트",
+        "오닉스 블랙",
+        "데님 블루",
+        "베이퍼 그레이"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4610",
+    "brandId": "테슬라",
+    "brandName": "테슬라",
+    "name": "모델 3 하이랜드",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"모델 3 하이랜드\" → 다나와: \"Model 3\"",
+      "옵션: 로컬 11개, 다나와 4개 (차이: 7)"
+    ],
+    "warnings": [
+      "트림: 로컬 3개, 다나와 6개 (차이: 3)",
+      "색상: 로컬 2개, 다나와 4개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 3,
+      "colors": 2,
+      "options": 11,
+      "startPrice": 41990000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Model 3",
+      "grades": 6,
+      "colors": 4,
+      "options": 4,
+      "gradeNames": [
+        "Standard A/T Standard A/T 보조금 적용 시",
+        "Premium A/T Premium A/T 보조금 적용 시",
+        "Performance A/T Performance A/T 보조금 적용 시",
+        "RWD A/T RWD A/T",
+        "Long Range A/T Long Range A/T"
+      ],
+      "colorNames": [
+        "Pearl White Multi-Coat",
+        "Diamond Black",
+        "Stealth Grey",
+        "Black"
+      ],
+      "optionNames": [
+        "Diamond Black 외장컬러",
+        "Pearl White Muti-Coat 외장컬러",
+        "향상된 오토파일럿",
+        "풀 셀프 드라이빙(감독형)"
+      ]
+    }
+  },
+  {
+    "id": "4027",
+    "brandId": "테슬라",
+    "brandName": "테슬라",
+    "name": "모델 X",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"모델 X\" → 다나와: \"Model X\"",
+      "색상: 로컬 2개, 다나와 8개 (차이: 6)",
+      "시작가: 로컬 13,500만원, 다나와 3,500만원"
+    ],
+    "warnings": [
+      "옵션: 로컬 11개, 다나와 10개 (차이: 1)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 2,
+      "options": 11,
+      "startPrice": 135000000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Model X",
+      "grades": 2,
+      "colors": 8,
+      "options": 10,
+      "gradeNames": [
+        "AWD A/T AWD A/T 1억",
+        "Plaid A/T Plaid A/T 1억"
+      ],
+      "colorNames": [
+        "Stealth Grey",
+        "Pearl White Multi-Coat",
+        "Diamond Black",
+        "Ultra Red",
+        "Frost Blue Metallic"
+      ],
+      "optionNames": [
+        "펄 화이트 멀티-코트 외장컬러",
+        "다이아몬드 블랙 외장컬러",
+        "울트라 레드 외장컬러",
+        "프로스트 블루 메탈릭 외장컬러",
+        "22인치 마키나 휠"
+      ]
+    }
+  },
+  {
+    "id": "4667",
+    "brandId": "테슬라",
+    "brandName": "테슬라",
+    "name": "모델 Y 주니퍼",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"모델 Y 주니퍼\" → 다나와: \"Model Y\"",
+      "색상: 로컬 4개, 다나와 8개 (차이: 4)"
+    ],
+    "warnings": [
+      "트림: 로컬 2개, 다나와 4개 (차이: 2)",
+      "옵션: 로컬 10개, 다나와 8개 (차이: 2)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 4,
+      "options": 10,
+      "startPrice": 49990000,
+      "hasGrades": true,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Model Y",
+      "grades": 4,
+      "colors": 8,
+      "options": 8,
+      "gradeNames": [
+        "Premium RWD A/T Premium RWD A/T 보조금 적용 시",
+        "Premium Long Range A/T Premium Long Range A/T 보조금 ",
+        "RWD A/T RWD A/T",
+        "Long Range A/T Long Range A/T"
+      ],
+      "colorNames": [
+        "Stealth Grey",
+        "Pearl White Multi-Coat",
+        "Diamond Black",
+        "Glacier Blue",
+        "Ultra Red"
+      ],
+      "optionNames": [
+        "Pearl White Multi-Coat 외장컬러",
+        "Diamond Black 외장컬러",
+        "Glacier Blue 외장컬러",
+        "Ultra Red 외장컬러",
+        "Quicksilver 외장컬러"
+      ]
+    }
+  },
+  {
+    "id": "3775",
+    "brandId": "landrover",
+    "brandName": "랜드로버",
+    "name": "디펜더",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"디펜더\" → 다나와: \"Defender\"",
+      "시작가: 로컬 10,697만원, 다나와 697만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 11,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 106970000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Defender",
+      "grades": 11,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "90 P400 X A/T 90 P400 X A/T 1억",
+        "90 D250 X-Dynamic SE A/T 90 D250 X-Dynamic SE A/T ",
+        "110 P300 X-Dynamic SE A/T 110 P300 X-Dynamic SE A/",
+        "110 P400 X A/T 110 P400 X A/T 1억",
+        "130 P400 X-Dynamic HSE A/T 130 P400 X-Dynamic HSE "
+      ],
+      "colorNames": [
+        "Pangea Green",
+        "Gondwana Stone",
+        "Santorini Black",
+        "Carpathian Grey",
+        "Silicon Silver"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4119",
+    "brandId": "landrover",
+    "brandName": "랜드로버",
+    "name": "레인지로버",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"레인지로버\" → 다나와: \"Range Rover\"",
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 23,657만원, 다나와 3,657만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 12,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 236570000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Range Rover",
+      "grades": 12,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "P550e Autobiography SWB A/T P550e Autobiography SW",
+        "P530 Autobiography SWB A/T P530 Autobiography SWB ",
+        "P530 Autobiography LWB A/T P530 Autobiography LWB ",
+        "P530 Autobiography LWB (7인승) A/T P530 Autobiograph",
+        "P615 LWB SV A/T P615 LWB SV A/T 3억"
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4472",
+    "brandId": "landrover",
+    "brandName": "랜드로버",
+    "name": "레인지로버 벨라",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"레인지로버 벨라\" → 다나와: \"Range Rover Velar\"",
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 9,190만원, 다나와 1,797만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 0,
+      "options": 0,
+      "startPrice": 91900000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Range Rover Velar",
+      "grades": 6,
+      "colors": 0,
+      "options": 0,
+      "gradeNames": [
+        "P400e Dynamic SE A/T P400e Dynamic SE A/T 1억",
+        "P400e Dynamic SE A/T P400e Dynamic SE A/T 1억",
+        "P250 Dynamic SE A/T P250 Dynamic SE A/T",
+        "P250 Dynamic SE A/T P250 Dynamic SE A/T",
+        "P400 Autobiography A/T P400 Autobiography A/T 1억"
+      ],
+      "colorNames": [],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4363",
+    "brandId": "landrover",
+    "brandName": "랜드로버",
+    "name": "레인지로버 스포츠",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"레인지로버 스포츠\" → 다나와: \"Range Rover Sport\"",
+      "시작가: 로컬 13,317만원, 다나와 2,567만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 15,
+      "colors": 27,
+      "options": 0,
+      "startPrice": 133170000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Range Rover Sport",
+      "grades": 15,
+      "colors": 27,
+      "options": 0,
+      "gradeNames": [
+        "P550e Dynamic HSE A/T P550e Dynamic HSE A/T 1억",
+        "P360 Dynamic SE A/T P360 Dynamic SE A/T 1억",
+        "P360 Dynamic HSE A/T P360 Dynamic HSE A/T 1억",
+        "P400 Autobiography A/T P400 Autobiography A/T 1억",
+        "P635 SV A/T P635 SV A/T 2억"
+      ],
+      "colorNames": [
+        "Fuji White",
+        "Santorini Black",
+        "Firenze Red",
+        "Borasco Grey",
+        "Eiger Grey"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4551",
+    "brandId": "landrover",
+    "brandName": "랜드로버",
+    "name": "레인지로버 이보크",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"레인지로버 이보크\" → 다나와: \"Range Rover Evoque\""
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 11,
+      "options": 0,
+      "startPrice": 74400000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Range Rover Evoque",
+      "grades": 4,
+      "colors": 11,
+      "options": 0,
+      "gradeNames": [
+        "P250 S A/T P250 S A/T",
+        "P250 Dynamic SE A/T P250 Dynamic SE A/T",
+        "P250 S A/T P250 S A/T",
+        "P250 Dynamic SE A/T P250 Dynamic SE A/T"
+      ],
+      "colorNames": [
+        "Fuji White",
+        "Santorini Black",
+        "Seoul Pearl Silver",
+        "Eiger Grey",
+        "Corinthian Bronze"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4548",
+    "brandId": "landrover",
+    "brandName": "랜드로버",
+    "name": "디스커버리 스포츠",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"디스커버리 스포츠\" → 다나와: \"Discovery Sport\""
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 12,
+      "options": 0,
+      "startPrice": 74500000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Discovery Sport",
+      "grades": 2,
+      "colors": 12,
+      "options": 0,
+      "gradeNames": [
+        "P250 S A/T P250 S A/T",
+        "P250 Dynamic SE A/T P250 Dynamic SE A/T"
+      ],
+      "colorNames": [
+        "Fuji White",
+        "Santorini Black",
+        "Firenze Red",
+        "Eiger Grey",
+        "Hakuba Silver"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4747",
+    "brandId": "volvo",
+    "brandName": "볼보",
+    "name": "XC60",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 64820000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "XC60",
+      "grades": 6,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "T8 AWD Ultra Bright A/T T8 AWD Ultra Bright A/T",
+        "B5 AWD Plus Bright A/T B5 AWD Plus Bright A/T",
+        "B5 AWD Ultra Bright A/T B5 AWD Ultra Bright A/T",
+        "B5 AWD Ultra Dark A/T B5 AWD Ultra Dark A/T",
+        "B5 AWD Ultra Bright (Air Sus) A/T B5 AWD Ultra Bri"
+      ],
+      "colorNames": [
+        "크리스탈 화이트",
+        "오닉스 블랙",
+        "데님 블루",
+        "멀베리 레드",
+        "베이퍼 그레이"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4737",
+    "brandId": "volvo",
+    "brandName": "볼보",
+    "name": "XC90",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 8,703만원, 다나와 1,477만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 5,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 87030000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "XC90",
+      "grades": 5,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "T8 AWD Ultra Bright A/T T8 AWD Ultra Bright A/T 1억",
+        "T8 AWD Ultra Dark A/T T8 AWD Ultra Dark A/T 1억",
+        "B6 AWD Plus A/T B6 AWD Plus A/T",
+        "B6 AWD Ultra Bright A/T B6 AWD Ultra Bright A/T",
+        "B6 AWD Ultra Dark A/T B6 AWD Ultra Dark A/T"
+      ],
+      "colorNames": [
+        "크리스탈 화이트",
+        "오닉스 블랙",
+        "데님 블루",
+        "브라이트 더스크",
+        "멀베리 레드"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4740",
+    "brandId": "volvo",
+    "brandName": "볼보",
+    "name": "S90",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 7,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 64360000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "S90",
+      "grades": 7,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "T8 AWD Ultra Bright A/T T8 AWD Ultra Bright A/T",
+        "B5 Plus Bright A/T B5 Plus Bright A/T",
+        "B5 Ultra Bright A/T B5 Ultra Bright A/T",
+        "B5 Ultra Dark A/T B5 Ultra Dark A/T",
+        "B5 Ultra Bright (Air Sus) A/T B5 Ultra Bright (Air"
+      ],
+      "colorNames": [
+        "크리스탈 화이트",
+        "오닉스 블랙",
+        "데님 블루",
+        "브라이트 더스크",
+        "멀베리 레드"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4421",
+    "brandId": "volvo",
+    "brandName": "볼보",
+    "name": "V60 크로스 컨트리",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"V60 크로스 컨트리\" → 다나와: \"V60 Cross Country\""
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 4,
+      "colors": 9,
+      "options": 0,
+      "startPrice": 55850000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "V60 Cross Country",
+      "grades": 4,
+      "colors": 9,
+      "options": 0,
+      "gradeNames": [
+        "B5 AWD Ultra A/T B5 AWD Ultra A/T",
+        "B5 AWD Ultra Forest Lake Edition A/T B5 AWD Ultra ",
+        "B5 AWD Plus A/T B5 AWD Plus A/T",
+        "B5 AWD Ultra A/T B5 AWD Ultra A/T"
+      ],
+      "colorNames": [
+        "크리스탈 화이트",
+        "오닉스 블랙",
+        "데님 블루",
+        "베이퍼 그레이",
+        "오로라 실버"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4446",
+    "brandId": "volvo",
+    "brandName": "볼보",
+    "name": "EX30",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 47520000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EX30",
+      "grades": 2,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "Core A/T Core A/T",
+        "Ultra A/T Ultra A/T"
+      ],
+      "colorNames": [
+        "클라우드 블루",
+        "오닉스 블랙",
+        "베이퍼 그레이",
+        "크리스탈 화이트",
+        "인디고"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4750",
+    "brandId": "volvo",
+    "brandName": "볼보",
+    "name": "EX30 CC",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 55120000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "EX30 CC",
+      "grades": 1,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "Twin Motor Performance Ultra A/T Twin Motor Perfor"
+      ],
+      "colorNames": [
+        "클라우드 블루",
+        "크리스탈 화이트",
+        "오닉스 블랙",
+        "베이퍼 그레이",
+        "파인"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4619",
+    "brandId": "porsche",
+    "brandName": "포르쉐",
+    "name": "타이칸",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"타이칸\" → 다나와: \"Taycan\"",
+      "시작가: 로컬 13,100만원, 다나와 1,610만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 13,
+      "colors": 18,
+      "options": 0,
+      "startPrice": 131000000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Taycan",
+      "grades": 13,
+      "colors": 18,
+      "options": 0,
+      "gradeNames": [
+        "Taycan A/T Taycan A/T 1억",
+        "Taycan 4 A/T Taycan 4 A/T 1억",
+        "Taycan 4 Black Edition A/T Taycan 4 Black Edition ",
+        "Taycan 4S A/T Taycan 4S A/T 1억",
+        "Taycan 4S Black Edition A/T Taycan 4S Black Editio"
+      ],
+      "colorNames": [
+        "화이트",
+        "블랙",
+        "제트 블랙 메탈릭",
+        "볼케이노 그레이 메탈릭",
+        "돌로마이트 실버 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4506",
+    "brandId": "porsche",
+    "brandName": "포르쉐",
+    "name": "카이엔",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"카이엔\" → 다나와: \"Cayenne\"",
+      "시작가: 로컬 14,380만원, 다나와 480만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 11,
+      "colors": 11,
+      "options": 0,
+      "startPrice": 143800000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Cayenne",
+      "grades": 11,
+      "colors": 11,
+      "options": 0,
+      "gradeNames": [
+        "Cayenne E-Hybrid A/T Cayenne E-Hybrid A/T 1억",
+        "Cayenne S E-Hybrid A/T Cayenne S E-Hybrid A/T 1억",
+        "Cayenne Turbo E-Hybrid A/T Cayenne Turbo E-Hybrid ",
+        "Cayenne A/T Cayenne A/T 1억",
+        "Cayenne GTS A/T Cayenne GTS A/T 1억"
+      ],
+      "colorNames": [
+        "화이트",
+        "크로마이트 블랙 메탈릭",
+        "카라라 화이트 메탈릭",
+        "돌로마이트 실버 메탈릭",
+        "쿼차이트 그레이 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4651",
+    "brandId": "porsche",
+    "brandName": "포르쉐",
+    "name": "The New 911",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 22,980만원, 다나와 2,600만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 15,
+      "colors": 16,
+      "options": 0,
+      "startPrice": 229800000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "The New 911",
+      "grades": 15,
+      "colors": 16,
+      "options": 0,
+      "gradeNames": [
+        "911 Carrera GTS Coupe A/T 911 Carrera GTS Coupe A/",
+        "911 Carrera 4 GTS Coupe A/T 911 Carrera 4 GTS Coup",
+        "911 Carrera GTS Cabriolet A/T 911 Carrera GTS Cabr",
+        "911 Carrera 4 GTS Cabriolet A/T 911 Carrera 4 GTS ",
+        "911 Spirit 70 A/T 911 Spirit 70 A/T 3억"
+      ],
+      "colorNames": [
+        "화이트",
+        "블랙",
+        "제트 블랙 메탈릭",
+        "바나듐 그레이 메탈릭",
+        "GT 실버 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4613",
+    "brandId": "porsche",
+    "brandName": "포르쉐",
+    "name": "마칸 일렉트릭",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"마칸 일렉트릭\" → 다나와: \"Macan Electric\"",
+      "시작가: 로컬 9,910만원, 다나와 590만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 8,
+      "colors": 13,
+      "options": 0,
+      "startPrice": 99100000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Macan Electric",
+      "grades": 8,
+      "colors": 13,
+      "options": 0,
+      "gradeNames": [
+        "Macan 4 A/T Macan 4 A/T 1억",
+        "Macan 4S A/T Macan 4S A/T 1억",
+        "Macan GTS A/T Macan GTS A/T 1억",
+        "Macan Turbo A/T Macan Turbo A/T 1억",
+        "Macan A/T Macan A/T"
+      ],
+      "colorNames": [
+        "화이트",
+        "블랙",
+        "제트 블랙 메탈릭",
+        "아이스 그레이 메탈릭",
+        "볼케이노 그레이 메탈릭"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4565",
+    "brandId": "cadillac",
+    "brandName": "캐딜락",
+    "name": "에스컬레이드 IQ",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"에스컬레이드 IQ\" → 다나와: \"Escalade IQ\"",
+      "시작가: 로컬 27,757만원, 다나와 7,757만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 7,
+      "options": 0,
+      "startPrice": 277570000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Escalade IQ",
+      "grades": 1,
+      "colors": 7,
+      "options": 0,
+      "gradeNames": [
+        "Premium Sport A/T Premium Sport A/T 2억"
+      ],
+      "colorNames": [
+        "Luna Metallic",
+        "Black Raven",
+        "Black Cherry Tintcoat",
+        "Deep Space Metallic",
+        "Vibrant White Tricoat"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4777",
+    "brandId": "gmc",
+    "brandName": "GMC",
+    "name": "아카디아",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"아카디아\" → 다나와: \"Acadia\""
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 89900000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Acadia",
+      "grades": 1,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "Denali Ultimate A/T Denali Ultimate A/T"
+      ],
+      "colorNames": [
+        "Glacier White Tricoat",
+        "Ebony Twilight Metallic",
+        "Sterling Metallic",
+        "Downpour Metallic",
+        "Woodland Mahogany"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4779",
+    "brandId": "gmc",
+    "brandName": "GMC",
+    "name": "캐니언",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"캐니언\" → 다나와: \"Canyon\""
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 1,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 76850000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Canyon",
+      "grades": 1,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "Denali A/T Denali A/T"
+      ],
+      "colorNames": [
+        "Onyx Black",
+        "Sterling Metallic",
+        "Volcanic Red Tintcoat",
+        "Glacier Metallic",
+        "Jet Black, Teak point"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4635",
+    "brandId": "lexus",
+    "brandName": "렉서스",
+    "name": "LM",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 14,657만원, 다나와 4,657만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 146570000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "LM",
+      "grades": 2,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "500h Executive (6인승) A/T 500h Executive (6인승) A/T ",
+        "500h Royal (4인승) A/T 500h Royal (4인승) A/T 1억"
+      ],
+      "colorNames": [
+        "SONIC TITANIUM",
+        "SONIC QUARTZ",
+        "GRAPHITE BLACK GLASS FLAKE",
+        "SOLIS WHITE",
+        "BLACK"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4700",
+    "brandId": "lexus",
+    "brandName": "렉서스",
+    "name": "LX",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 16,587만원, 다나와 6,587만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 6,
+      "colors": 8,
+      "options": 0,
+      "startPrice": 165870000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "LX",
+      "grades": 6,
+      "colors": 8,
+      "options": 0,
+      "gradeNames": [
+        "700h Overtrail (5인승) A/T 700h Overtrail (5인승) A/T ",
+        "700h Luxury (7인승) A/T 700h Luxury (7인승) A/T 1억",
+        "700h VIP (4인승) A/T 700h VIP (4인승) A/T 1억",
+        "700h Overtrail (5인승) A/T 700h Overtrail (5인승) A/T ",
+        "700h Luxury (7인승) A/T 700h Luxury (7인승) A/T 1억"
+      ],
+      "colorNames": [
+        "MANGANESE LUSTER",
+        "SONIC QUARTZ",
+        "SONIC TITANIUM",
+        "TERRANE KHAKI",
+        "GRAPHITE BLACK"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4741",
+    "brandId": "peugeot",
+    "brandName": "푸조",
+    "name": "3008",
+    "status": "WARN",
+    "issues": [],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 44900000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "3008",
+      "grades": 2,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "Allure A/T Allure A/T",
+        "GT A/T GT A/T"
+      ],
+      "colorNames": [
+        "Obsession Blue",
+        "Nera Black",
+        "Ingaro Blue",
+        "Cumulus Grey",
+        "Okenite White"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4379",
+    "brandId": "peugeot",
+    "brandName": "푸조",
+    "name": "308",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 3,990만원, 다나와 27만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 5,
+      "options": 0,
+      "startPrice": 39900000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "308",
+      "grades": 2,
+      "colors": 5,
+      "options": 0,
+      "gradeNames": [
+        "푸조파이낸스 이용 시 할인 푸조 파이낸스 이용 시 할인도움말 -",
+        "현금/타금융 이용 시 할인 현금/타금융 이용 시 할인도움말 -"
+      ],
+      "colorNames": [
+        "Elixir Red",
+        "Nera Black",
+        "Obsession Blue",
+        "Okenite White",
+        "Selenium Grey"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4513",
+    "brandId": "polestar",
+    "brandName": "폴스타",
+    "name": "폴스타 4",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"폴스타 4\" → 다나와: \"Polestar 4\""
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 10,
+      "options": 12,
+      "startPrice": 66900000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Polestar 4",
+      "grades": 2,
+      "colors": 10,
+      "options": 12,
+      "gradeNames": [
+        "Long range Single motor (incl. Pilot pack) A/T Lon",
+        "Long range Dual motor (incl. Pilot pack) A/T Long "
+      ],
+      "colorNames": [
+        "Snow(유료)",
+        "Magnesium",
+        "Electron",
+        "Storm",
+        "Space"
+      ],
+      "optionNames": [
+        "스노우 외장컬러",
+        "Plus pack",
+        "Pro pack",
+        "Charcoal 데코가 적용된 Charcoal 색상의 천공 나파 가죽",
+        "Charcoal 데코가 적용된 Zinc 색상의 천공 나파 가죽"
+      ]
+    }
+  },
+  {
+    "id": "4674",
+    "brandId": "toyota",
+    "brandName": "토요타",
+    "name": "캠리",
+    "status": "FAIL",
+    "issues": [
+      "이름: \"캠리\" → 다나와: \"Camry\""
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 10,
+      "options": 0,
+      "startPrice": 47750000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Camry",
+      "grades": 2,
+      "colors": 10,
+      "options": 0,
+      "gradeNames": [
+        "XLE A/T XLE A/T",
+        "XLE Premium A/T XLE Premium A/T"
+      ],
+      "colorNames": [
+        "플래티넘 화이트 펄 마이카",
+        "실버 메탈릭",
+        "프레셔스 메탈",
+        "뉴트럴 블랙",
+        "이모셔널 레드 3"
+      ],
+      "optionNames": []
+    }
+  },
+  {
+    "id": "4043",
+    "brandId": "테슬라",
+    "brandName": "테슬라",
+    "name": "Model S",
+    "status": "FAIL",
+    "issues": [
+      "시작가: 로컬 12,500만원, 다나와 2,500만원"
+    ],
+    "warnings": [
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 8,
+      "options": 8,
+      "startPrice": 125000000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Model S",
+      "grades": 2,
+      "colors": 8,
+      "options": 8,
+      "gradeNames": [
+        "AWD A/T AWD A/T 1억",
+        "Plaid A/T Plaid A/T 1억"
+      ],
+      "colorNames": [
+        "Stealth Grey",
+        "Pearl White Multi-Coat",
+        "Diamond Black",
+        "Ultra Red",
+        "Frost Blue Metallic"
+      ],
+      "optionNames": [
+        "펄 화이트 멀티-코트 외장컬러",
+        "다이아몬드 블랙 외장컬러",
+        "울트라 레드 외장컬러",
+        "프로스트 블루 메탈릭 외장컬러",
+        "21인치 벨라리움 휠"
+      ]
+    }
+  },
+  {
+    "id": "3825",
+    "brandId": "테슬라",
+    "brandName": "테슬라",
+    "name": "Cybertruck",
+    "status": "FAIL",
+    "issues": [
+      "색상 데이터 없음 (로컬 & 다나와 모두)",
+      "시작가: 로컬 14,500만원, 다나와 4,500만원"
+    ],
+    "warnings": [
+      "기본 이미지(lineup_360.png) 사용",
+      "generated-cars.json에 grades 배열 누락 (details에는 trims 있음)"
+    ],
+    "local": {
+      "trims": 2,
+      "colors": 0,
+      "options": 2,
+      "startPrice": 145000000,
+      "hasGrades": false,
+      "hasBrandName": true
+    },
+    "danawa": {
+      "name": "Cybertruck",
+      "grades": 2,
+      "colors": 0,
+      "options": 2,
+      "gradeNames": [
+        "AWD A/T AWD A/T 1억",
+        "Cyberbeast A/T Cyberbeast A/T 1억"
+      ],
+      "colorNames": [],
+      "optionNames": [
+        "화이트 데코",
+        "풀 셀프 드라이빙(감독형)"
+      ]
+    }
+  }
+]

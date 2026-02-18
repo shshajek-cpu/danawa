@@ -3,27 +3,47 @@
 import Link from "next/link";
 import { useState, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
-import { getCarDetail, TRIMS as FALLBACK_TRIMS } from "@/constants/data";
+import { getCarDetail, getTrimsForSubModel, TRIMS as FALLBACK_TRIMS } from "@/constants/data";
+import BottomNav from "@/components/BottomNav";
 
 function ContractPageContent() {
     const searchParams = useSearchParams();
-    const [duration, setDuration] = useState(48);
-    const [mileage, setMileage] = useState(20000);
-    const [deposit, setDeposit] = useState(30);
+    const [duration, setDuration] = useState(Number(searchParams.get("duration")) || 48);
+    const [mileage, setMileage] = useState(Number(searchParams.get("mileage")) || 20000);
+    const [deposit, setDeposit] = useState(Number(searchParams.get("deposit")) || 30);
+    const [depositType, setDepositType] = useState<"선납금" | "보증금">(
+        (searchParams.get("depositType") as "선납금" | "보증금") || "선납금"
+    );
 
-    // Get carId and trimId from searchParams
+    // Get carId, trimId, and subModel from searchParams
     const carId = searchParams.get("carId") || "";
     const trimId = searchParams.get("trimId") || "";
+    const subModelId = searchParams.get("subModel") || "";
+    const colorId = searchParams.get("colorId") || "";
+    const optionIds = searchParams.getAll("opt");
 
-    // Load car detail and find trim
+    // Load car detail and find trim (prefer subModel-specific trims)
     const carDetail = getCarDetail(carId);
-    const trims = carDetail ? carDetail.trims : FALLBACK_TRIMS;
+    const subModelTrims = (carId && subModelId) ? getTrimsForSubModel(carId, subModelId) : null;
+    const trims = subModelTrims || (carDetail ? carDetail.trims : FALLBACK_TRIMS);
     const selectedTrim = trims.find(t => t.id === trimId) || trims[0];
 
-    // Calculate monthly rent estimate based on actual trim price
+    // Calculate color price
+    const colorPrice = carDetail?.colorImages?.find(c => c.id === colorId)?.price || 0;
+
+    // Calculate total option prices
+    const optionPrice = optionIds.reduce((sum, optId) => {
+        const option = carDetail?.selectableOptions?.find(o => o.id === optId);
+        return sum + (option?.price || 0);
+    }, 0);
+
+    // Total base price including trim, color, and options
+    const totalBasePrice = selectedTrim.price + colorPrice + optionPrice;
+
+    // Calculate monthly rent estimate based on actual trim price + color + options
     const calculateEstimate = () => {
-        // Base monthly = roughly trimPrice / contract months with adjustments
-        let base = Math.floor(selectedTrim.price / 60 * 1.1); // rough monthly based on price
+        // Base monthly = roughly totalBasePrice / contract months with adjustments
+        let base = Math.floor(totalBasePrice / 60 * 1.1); // rough monthly based on total price
 
         if (duration > 36) base -= Math.floor(base * 0.02 * ((duration - 36) / 12));
         if (duration < 36) base += Math.floor(base * 0.02 * ((36 - duration) / 12));
@@ -44,12 +64,13 @@ function ContractPageContent() {
         params.set("duration", duration.toString());
         params.set("mileage", mileage.toString());
         params.set("deposit", deposit.toString());
+        params.set("depositType", depositType);
         params.set("monthly", monthlyPrice.toString());
         return params.toString();
     };
 
     return (
-        <div className="pb-32 bg-background-light min-h-screen relative">
+        <div className="pb-64 bg-background-light min-h-screen relative">
 
 
             <header className="px-4 py-2 flex items-center bg-white sticky top-0 z-40">
@@ -70,7 +91,7 @@ function ContractPageContent() {
                             선택해주세요
                         </h2>
                         <span className="text-primary bg-blue-50 px-3 py-1 rounded-full text-xs font-bold">
-                            Step 2/3
+                            Step 3/3
                         </span>
                     </div>
                 </section>
@@ -78,7 +99,7 @@ function ContractPageContent() {
                 {/* Contract Duration Slider */}
                 <section className="mt-4 mb-8">
                     <div className="flex justify-between items-end mb-6">
-                        <label className="text-sm font-bold text-slate-400">
+                        <label className="text-sm font-bold text-slate-500">
                             계약 기간
                         </label>
                         <div className="text-2xl font-black text-slate-900">
@@ -106,7 +127,7 @@ function ContractPageContent() {
                             ))}
                         </div>
                     </div>
-                    <div className="flex justify-between mt-4 px-1 text-[11px] font-bold text-slate-400">
+                    <div className="flex justify-between mt-4 px-1 text-[11px] font-bold text-slate-500">
                         <span>12개월</span>
                         <span>24개월</span>
                         <span>36개월</span>
@@ -118,7 +139,7 @@ function ContractPageContent() {
                 {/* Mileage Slider */}
                 <section className="mb-8">
                     <div className="flex justify-between items-end mb-6">
-                        <label className="text-sm font-bold text-slate-400">
+                        <label className="text-sm font-bold text-slate-500">
                             연간 주행거리
                         </label>
                         <div className="text-2xl font-black text-slate-900">
@@ -145,7 +166,7 @@ function ContractPageContent() {
                             ))}
                         </div>
                     </div>
-                    <div className="flex justify-between mt-4 px-1 text-[11px] font-bold text-slate-400">
+                    <div className="flex justify-between mt-4 px-1 text-[11px] font-bold text-slate-500">
                         <span>1만 km</span>
                         <span>2만 km</span>
                         <span>3만 km</span>
@@ -158,10 +179,16 @@ function ContractPageContent() {
                 <section className="mb-10">
                     <div className="flex justify-between items-center mb-6">
                         <div className="flex p-1 bg-slate-100 rounded-xl w-48">
-                            <button className="flex-1 py-1.5 text-xs font-bold bg-white rounded-lg shadow-sm text-primary">
+                            <button
+                                onClick={() => setDepositType("선납금")}
+                                className={`flex-1 py-1.5 text-xs font-bold rounded-lg transition-all ${depositType === "선납금" ? "bg-white shadow-sm text-primary" : "text-slate-500"}`}
+                            >
                                 선납금
                             </button>
-                            <button className="flex-1 py-1.5 text-xs font-bold text-slate-500">
+                            <button
+                                onClick={() => setDepositType("보증금")}
+                                className={`flex-1 py-1.5 text-xs font-bold rounded-lg transition-all ${depositType === "보증금" ? "bg-white shadow-sm text-primary" : "text-slate-500"}`}
+                            >
                                 보증금
                             </button>
                         </div>
@@ -189,7 +216,7 @@ function ContractPageContent() {
                             ))}
                         </div>
                     </div>
-                    <div className="flex justify-between mt-4 px-1 text-[11px] font-bold text-slate-400">
+                    <div className="flex justify-between mt-4 px-1 text-[11px] font-bold text-slate-500">
                         <span>0% (없음)</span>
                         <span>10%</span>
                         <span>20%</span>
@@ -206,7 +233,7 @@ function ContractPageContent() {
                             </span>
                         </div>
                         <div>
-                            <p className="text-[11px] font-bold text-slate-400 uppercase tracking-wider leading-none mb-1">
+                            <p className="text-[11px] font-bold text-slate-500 uppercase tracking-wider leading-none mb-1">
                                 Current Selection
                             </p>
                             <h3 className="font-bold text-slate-900">
@@ -228,7 +255,7 @@ function ContractPageContent() {
                         <div className="flex justify-between items-center">
                             <span className="text-sm text-slate-500">선납금 / 보증금</span>
                             <span className="text-sm font-bold text-primary">
-                                선납금 {deposit}%
+                                {depositType} {deposit}%
                             </span>
                         </div>
                         <div className="flex justify-between items-center pt-3 border-t border-slate-200">
@@ -240,14 +267,14 @@ function ContractPageContent() {
             </main>
 
             {/* Bottom Fixed Bar */}
-            <div className="fixed bottom-0 left-1/2 -translate-x-1/2 w-full max-w-[430px] bg-white border-t border-slate-100 px-5 py-4 pb-8 z-50">
+            <div className="fixed bottom-[60px] left-1/2 -translate-x-1/2 w-full max-w-[430px] bg-white border-t border-slate-100 px-5 py-4 pb-4 z-50">
                 <div className="flex items-center justify-between mb-4">
                     <div>
                         <div className="flex items-center gap-1.5 mb-0.5">
                             <span className="text-[10px] font-black bg-slate-900 text-white px-1.5 py-0.5 rounded">
                                 STEP 3/3
                             </span>
-                            <span className="text-xs text-slate-400 font-medium">
+                            <span className="text-xs text-slate-500 font-medium">
                                 계약 조건
                             </span>
                         </div>
@@ -255,14 +282,14 @@ function ContractPageContent() {
                             <span className="text-sm font-bold text-slate-900">
                                 월 렌트료
                             </span>
-                            <span className="text-xs text-slate-400">·</span>
+                            <span className="text-xs text-slate-500">·</span>
                             <span className="text-[11px] text-primary font-bold">
-                                선수금 {deposit}% 기준
+                                {depositType} {deposit}% 기준
                             </span>
                         </div>
                     </div>
                     <div className="text-right">
-                        <p className="text-[10px] text-slate-400 font-medium">
+                        <p className="text-[10px] text-slate-500 font-medium">
                             VAT 포함
                         </p>
                         <p className="text-lg font-black leading-tight">
@@ -281,6 +308,8 @@ function ContractPageContent() {
                 </div>
                 <div className="mt-5 w-32 h-1 bg-slate-100 rounded-full mx-auto"></div>
             </div>
+
+            <BottomNav />
         </div>
     );
 }

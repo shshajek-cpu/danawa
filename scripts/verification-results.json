@@ -1,0 +1,2979 @@
+{
+  "3995": {
+    "carId": "3995",
+    "carName": "더 뉴 G70",
+    "status": "❌ 불일치",
+    "issues": [
+      "이름 불일치: 로컬=\"더 뉴 G70\", 다나와=\"G70\"",
+      "트림 개수 큰 차이: 로컬=4, 다나와=28",
+      "옵션 개수 차이: 로컬=22, 다나와=16"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "G70",
+      "trims": [
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/TTOP1선택률: 70%",
+          "price": 44380000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/TTOP2선택률: 23%",
+          "price": 46810000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/TTOP3선택률: 4%",
+          "price": 47880000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/T",
+          "price": 50120000
+        },
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/T",
+          "price": 49250000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/T",
+          "price": 51680000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/TTOP2선택률: 21%",
+          "price": 51580000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/T",
+          "price": 54020000
+        },
+        {
+          "name": "그래파이트 에디션 2WD A/T\t\t\t            \t\t\t            \t\t\t                그래파이트 에디션 2WD A/TTOP1선택률: 42%",
+          "price": 58860000
+        },
+        {
+          "name": "그래파이트 에디션 AWD A/T\t\t\t            \t\t\t            \t\t\t                그래파이트 에디션 AWD A/TTOP3선택률: 21%",
+          "price": 61300000
+        },
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/T",
+          "price": 46330000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/T",
+          "price": 48760000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/T",
+          "price": 49830000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/T",
+          "price": 52070000
+        },
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/TTOP1선택률: 71%",
+          "price": 42810000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/TTOP2선택률: 21%",
+          "price": 45240000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/TTOP3선택률: 7%",
+          "price": 46320000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/T",
+          "price": 48550000
+        },
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/TTOP3선택률: 21%",
+          "price": 47680000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/T",
+          "price": 50120000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/TTOP1선택률: 50%",
+          "price": 50020000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/TTOP2선택률: 21%",
+          "price": 52450000
+        },
+        {
+          "name": "프리미엄 2WD A/T\t\t\t            \t\t\t            \t\t\t                프리미엄 2WD A/T",
+          "price": 44760000
+        },
+        {
+          "name": "프리미엄 AWD A/T\t\t\t            \t\t\t            \t\t\t                프리미엄 AWD A/T",
+          "price": 47190000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/T",
+          "price": 48270000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/T",
+          "price": 50500000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "무광 본드 실버 외장컬러",
+          "price": 680000
+        },
+        {
+          "name": "무광 마칼루 그레이 외장컬러",
+          "price": 680000
+        },
+        {
+          "name": "무광 벌리 블루 외장컬러",
+          "price": 680000
+        },
+        {
+          "name": "225/40R19(앞) + 255/35R19(뒤) 미쉐린 타이어 + 다이아몬드 컷팅 휠",
+          "price": 680000
+        },
+        {
+          "name": "천연가죽 패키지",
+          "price": 1170000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션",
+          "price": 2330000
+        },
+        {
+          "name": "파퓰러 패키지",
+          "price": 4040000
+        },
+        {
+          "name": "전자제어 서스펜션",
+          "price": 970000
+        },
+        {
+          "name": "와이드 선루프",
+          "price": 780000
+        },
+        {
+          "name": "컨비니언스 패키지",
+          "price": 1270000
+        },
+        {
+          "name": "하이테크 패키지",
+          "price": 1560000
+        },
+        {
+          "name": "렉시콘 사운드 패키지",
+          "price": 1170000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지",
+          "price": 1650000
+        },
+        {
+          "name": "[액세서리] 차량보호필름",
+          "price": 390000
+        },
+        {
+          "name": "[액세서리] 플로팅 휠 캡",
+          "price": 90000
+        },
+        {
+          "name": "[액세서리] 카본 리어 스포일러",
+          "price": 870000
+        }
+      ],
+      "pageTitle": "G70 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4016": {
+    "carId": "4016",
+    "carName": "G90",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=6, 다나와=18",
+      "옵션 개수 차이: 로컬=32, 다나와=23"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "G90",
+      "trims": [
+        {
+          "name": "2WD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                2WD (5인승) A/TTOP2선택률: 39%",
+          "price": 96170000
+        },
+        {
+          "name": "AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                AWD (5인승) A/TTOP1선택률: 48%",
+          "price": 99670000
+        },
+        {
+          "name": "2WD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T\t\t\t            \t\t\t            \t\t\t                2WD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T\t\t\t                1억",
+          "price": 3070000
+        },
+        {
+          "name": "AWD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T\t\t\t            \t\t\t            \t\t\t                AWD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T\t\t\t                1억",
+          "price": 6570000
+        },
+        {
+          "name": "BLACK AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (5인승) A/TTOP3선택률: 6%\t\t\t                1억",
+          "price": 28170000
+        },
+        {
+          "name": "BLACK AWD (4인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (4인승) A/T\t\t\t                1억",
+          "price": 31570000
+        },
+        {
+          "name": "2WD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                2WD (5인승) A/T\t\t\t                1억",
+          "price": 2170000
+        },
+        {
+          "name": "AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                AWD (5인승) A/TTOP1선택률: 57%\t\t\t                1억",
+          "price": 5670000
+        },
+        {
+          "name": "2WD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T\t\t\t            \t\t\t            \t\t\t                2WD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T\t\t\t                1억",
+          "price": 9070000
+        },
+        {
+          "name": "AWD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T\t\t\t            \t\t\t            \t\t\t                AWD (4인승) + 뒷좌석 컴포트 패키지Ⅰ A/T\t\t\t                1억",
+          "price": 12570000
+        },
+        {
+          "name": "BLACK AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (5인승) A/TTOP2선택률: 29%\t\t\t                1억",
+          "price": 34370000
+        },
+        {
+          "name": "BLACK AWD (4인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (4인승) A/TTOP3선택률: 10%\t\t\t                1억",
+          "price": 37770000
+        },
+        {
+          "name": "롱휠베이스 AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                롱휠베이스 AWD (5인승) A/T\t\t\t                1억",
+          "price": 66470000
+        },
+        {
+          "name": "롱휠베이스 AWD (4인승) + 뒷좌석 컴포트 패키지 A/T\t\t\t            \t\t\t            \t\t\t                롱휠베이스 AWD (4인승) + 뒷좌석 컴포트 패키지 A/T\t\t\t                1억",
+          "price": 75370000
+        },
+        {
+          "name": "롱휠베이스 BLACK AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                롱휠베이스 BLACK AWD (5인승) A/T\t\t\t                1억",
+          "price": 73770000
+        },
+        {
+          "name": "롱휠베이스 BLACK AWD (4인승) A/T\t\t\t            \t\t\t            \t\t\t                롱휠베이스 BLACK AWD (4인승) A/T\t\t\t                1억",
+          "price": 77670000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "(무광) 마칼루 그레이 외장컬러",
+          "price": 800000
+        },
+        {
+          "name": "245/45R20(앞) + 275/40R20(뒤) 미쉐린 타이어 + 다이아몬드 컷팅 휠",
+          "price": 1000000
+        },
+        {
+          "name": "245/45R20(앞) + 275/40R20(뒤) 미쉐린 타이어 + 다크 하이퍼 실버 휠",
+          "price": 1000000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션",
+          "price": 5500000
+        },
+        {
+          "name": "메탈 G-MATRIX 패턴 내장재(오픈포어 리얼우드 대체)",
+          "price": 1000000
+        },
+        {
+          "name": "파퓰러 컬렉션",
+          "price": 5600000
+        },
+        {
+          "name": "파퓰러 컬렉션+뒷좌석 컴포트 패키지Ⅱ",
+          "price": 8000000
+        },
+        {
+          "name": "프리미엄 컬렉션",
+          "price": 17100000
+        },
+        {
+          "name": "프리미엄 컬렉션+뒷좌석 컴포트 패키지Ⅱ",
+          "price": 19500000
+        },
+        {
+          "name": "프레스티지 컬렉션",
+          "price": 23000000
+        },
+        {
+          "name": "멀티 챔버 에어 서스펜션",
+          "price": 3500000
+        },
+        {
+          "name": "후륜 조향 시스템 + 멀티챔버 에어 서스펜션",
+          "price": 5000000
+        },
+        {
+          "name": "이지 클로즈 시스템",
+          "price": 1500000
+        },
+        {
+          "name": "파노라마 선루프",
+          "price": 2000000
+        },
+        {
+          "name": "뱅앤올룹슨 사운드 패키지",
+          "price": 3900000
+        },
+        {
+          "name": "빌트인 캠 패키지",
+          "price": 800000
+        },
+        {
+          "name": "앞좌석 컴포트 패키지",
+          "price": 2500000
+        },
+        {
+          "name": "뒷좌석 컴포트 패키지Ⅰ",
+          "price": 3500000
+        },
+        {
+          "name": "뒷좌석 컴포트 패키지Ⅰ+Ⅱ",
+          "price": 6400000
+        },
+        {
+          "name": "뒷좌석 컴포트 패키지Ⅰ+Ⅱ+앞좌석 컴포트 패키지",
+          "price": 8400000
+        },
+        {
+          "name": "[액세서리] 전동식 후석 스마트 엔터테인먼트 시스템",
+          "price": 3100000
+        },
+        {
+          "name": "[액세서리] 플로팅 휠 캡 + 메탈 페달",
+          "price": 200000
+        },
+        {
+          "name": "[액세서리] 차량보호필름",
+          "price": 540000
+        }
+      ],
+      "pageTitle": "G90 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4395": {
+    "carId": "4395",
+    "carName": "콜로라도",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "기본 이미지 사용 (lineup_360.png)",
+      "트림 개수 차이: 로컬=1, 다나와=3"
+    ],
+    "danawaData": {
+      "name": "콜로라도",
+      "trims": [
+        {
+          "name": "Z71 A/T\t\t\t            \t\t\t            \t\t\t                Z71 A/T",
+          "price": 72790000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "Z71-X 에디션",
+          "price": 1700000
+        },
+        {
+          "name": "테크놀로지 팩",
+          "price": 2850000
+        },
+        {
+          "name": "선루프",
+          "price": 800000
+        },
+        {
+          "name": "[액세서리] 슬라이딩 적재함 커버(자동)",
+          "price": 1520000
+        },
+        {
+          "name": "[액세서리] 슬라이딩 적재함 커버(수동)",
+          "price": 1140000
+        },
+        {
+          "name": "[액세서리] 롤 바",
+          "price": 680000
+        },
+        {
+          "name": "[액세서리] 블랙 스포츠 바",
+          "price": 2000000
+        },
+        {
+          "name": "[액세서리] 테일 게이트 오거나이저",
+          "price": 150000
+        },
+        {
+          "name": "[액세서리] 올웨더 플로어 매트(1열 / 2열)",
+          "price": 220000
+        },
+        {
+          "name": "[액세서리] 플랫 머드 가드(프론트 / 리어)",
+          "price": 260000
+        },
+        {
+          "name": "[액세서리] 적재함 고리 세트(구성 : 4 pcs)",
+          "price": 130000
+        }
+      ],
+      "pageTitle": "콜로라도 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "쉐보레"
+  },
+  "4429": {
+    "carId": "4429",
+    "carName": "트랙스 크로스오버",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "트림 개수 차이: 로컬=5, 다나와=7",
+      "옵션 개수 약간 차이: 로컬=5, 다나와=1"
+    ],
+    "danawaData": {
+      "name": "트랙스 크로스오버",
+      "trims": [
+        {
+          "name": "LS A/T\t\t\t            \t\t\t            \t\t\t                LS A/TTOP1선택률: 39%",
+          "price": 21550000
+        },
+        {
+          "name": "레드라인 A/T\t\t\t            \t\t\t            \t\t\t                레드라인 A/T",
+          "price": 25650000
+        },
+        {
+          "name": "액티브 A/T\t\t\t            \t\t\t            \t\t\t                액티브 A/TTOP2선택률: 26%",
+          "price": 27930000
+        },
+        {
+          "name": "RS A/T\t\t\t            \t\t\t            \t\t\t                RS A/T",
+          "price": 28510000
+        },
+        {
+          "name": "RS 미드나잇 에디션 A/T\t\t\t            \t\t\t            \t\t\t                RS 미드나잇 에디션 A/TTOP3선택률: 14%",
+          "price": 29300000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "어댑티브 크루즈 컨트롤",
+          "price": 440000
+        }
+      ],
+      "pageTitle": "트랙스 크로스오버 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "쉐보레"
+  },
+  "4465": {
+    "carId": "4465",
+    "carName": "GV80",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=9, 다나와=26",
+      "옵션 개수 차이: 로컬=35, 다나와=24"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "GV80",
+      "trims": [
+        {
+          "name": "2WD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                2WD (5인승) A/TTOP1선택률: 37%",
+          "price": 67900000
+        },
+        {
+          "name": "AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                AWD (5인승) A/TTOP2선택률: 35%",
+          "price": 70860000
+        },
+        {
+          "name": "BLACK AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (5인승) A/T",
+          "price": 93770000
+        },
+        {
+          "name": "2WD (6인승) A/T\t\t\t            \t\t\t            \t\t\t                2WD (6인승) A/T",
+          "price": 70370000
+        },
+        {
+          "name": "AWD (6인승) A/T\t\t\t            \t\t\t            \t\t\t                AWD (6인승) A/T",
+          "price": 73320000
+        },
+        {
+          "name": "BLACK AWD (6인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (6인승) A/T",
+          "price": 96270000
+        },
+        {
+          "name": "2WD (7인승) A/T\t\t\t            \t\t\t            \t\t\t                2WD (7인승) A/T",
+          "price": 68890000
+        },
+        {
+          "name": "AWD (7인승) A/T\t\t\t            \t\t\t            \t\t\t                AWD (7인승) A/TTOP3선택률: 12%",
+          "price": 71840000
+        },
+        {
+          "name": "BLACK AWD (7인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (7인승) A/T",
+          "price": 94770000
+        },
+        {
+          "name": "2WD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                2WD (5인승) A/T",
+          "price": 73320000
+        },
+        {
+          "name": "AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                AWD (5인승) A/TTOP1선택률: 50%",
+          "price": 76270000
+        },
+        {
+          "name": "BLACK AWD (5인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (5인승) A/T",
+          "price": 97970000
+        },
+        {
+          "name": "2WD (6인승) A/T\t\t\t            \t\t\t            \t\t\t                2WD (6인승) A/T",
+          "price": 75780000
+        },
+        {
+          "name": "AWD (6인승) A/T\t\t\t            \t\t\t            \t\t\t                AWD (6인승) A/TTOP2선택률: 15%",
+          "price": 78740000
+        },
+        {
+          "name": "BLACK AWD (6인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (6인승) A/TTOP3선택률: 12%\t\t\t                1억",
+          "price": 470000
+        },
+        {
+          "name": "2WD (7인승) A/T\t\t\t            \t\t\t            \t\t\t                2WD (7인승) A/T",
+          "price": 74300000
+        },
+        {
+          "name": "AWD (7인승) A/T\t\t\t            \t\t\t            \t\t\t                AWD (7인승) A/T",
+          "price": 77260000
+        },
+        {
+          "name": "BLACK AWD (7인승) A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (7인승) A/T",
+          "price": 98970000
+        },
+        {
+          "name": "AWD (5인승) Coupe A/T\t\t\t            \t\t\t            \t\t\t                AWD (5인승) Coupe A/T",
+          "price": 80160000
+        },
+        {
+          "name": "BLACK AWD (5인승) Coupe A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (5인승) Coupe A/T",
+          "price": 99670000
+        },
+        {
+          "name": "AWD (5인승) Coupe A/T\t\t\t            \t\t\t            \t\t\t                AWD (5인승) Coupe A/T",
+          "price": 84300000
+        },
+        {
+          "name": "BLACK AWD (5인승) Coupe A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (5인승) Coupe A/T\t\t\t                1억",
+          "price": 3870000
+        },
+        {
+          "name": "AWD (5인승) Coupe A/T\t\t\t            \t\t\t            \t\t\t                AWD (5인승) Coupe A/T",
+          "price": 90550000
+        },
+        {
+          "name": "BLACK AWD (5인승) Coupe A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD (5인승) Coupe A/T\t\t\t                1억",
+          "price": 9020000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "(무광) 마테호른 화이트 외장컬러",
+          "price": 700000
+        },
+        {
+          "name": "(무광) 마칼루 그레이 외장컬러",
+          "price": 700000
+        },
+        {
+          "name": "(무광) 스토르 그린 외장컬러",
+          "price": 700000
+        },
+        {
+          "name": "(무광) 세레스 블루 외장컬러",
+          "price": 700000
+        },
+        {
+          "name": "265/50R20 미쉐린 타이어 + 다이아몬드 컷팅 휠",
+          "price": 1300000
+        },
+        {
+          "name": "265/40R22 미쉐린 타이어 + 다이아몬드 컷팅 휠",
+          "price": 2500000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅰ",
+          "price": 1500000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅱ",
+          "price": 3000000
+        },
+        {
+          "name": "파퓰러 패키지 (2WD 전용)",
+          "price": 5550000
+        },
+        {
+          "name": "파노라마 선루프",
+          "price": 1400000
+        },
+        {
+          "name": "헤드업 디스플레이",
+          "price": 1300000
+        },
+        {
+          "name": "컨비니언스 패키지",
+          "price": 3200000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅰ",
+          "price": 1950000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅱ (2WD)",
+          "price": 2000000
+        },
+        {
+          "name": "후석 컴포트 패키지",
+          "price": 2900000
+        },
+        {
+          "name": "뱅앤올룹슨 사운드 패키지",
+          "price": 1900000
+        },
+        {
+          "name": "빌트인 캠 패키지",
+          "price": 850000
+        },
+        {
+          "name": "[액세서리] 후석 스마트 엔터테인먼트 시스템",
+          "price": 3000000
+        },
+        {
+          "name": "[액세서리] 전동식 사이드 스텝",
+          "price": 2450000
+        },
+        {
+          "name": "[액세서리] 고정식 사이드 스텝",
+          "price": 490000
+        },
+        {
+          "name": "[액세서리] 차량 보호 필름",
+          "price": 500000
+        },
+        {
+          "name": "[액세서리] 프로텍션 매트 패키지(1/2열)",
+          "price": 200000
+        },
+        {
+          "name": "[액세서리] 플로팅 휠 캡",
+          "price": 90000
+        },
+        {
+          "name": "[액세서리] 트레일러 히치",
+          "price": 1550000
+        }
+      ],
+      "pageTitle": "GV80 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4474": {
+    "carId": "4474",
+    "carName": "더 뉴 트레일블레이저",
+    "status": "❌ 불일치",
+    "issues": [
+      "이름 불일치: 로컬=\"더 뉴 트레일블레이저\", 다나와=\"트레일블레이저\""
+    ],
+    "warnings": [
+      "트림 개수 차이: 로컬=4, 다나와=6",
+      "옵션 개수 약간 차이: 로컬=5, 다나와=2"
+    ],
+    "danawaData": {
+      "name": "트레일블레이저",
+      "trims": [
+        {
+          "name": "프리미어 2WD A/T\t\t\t            \t\t\t            \t\t\t                프리미어 2WD A/TTOP2선택률: 27%",
+          "price": 27570000
+        },
+        {
+          "name": "프리미어 미드나잇 에디션 2WD A/T\t\t\t            \t\t\t            \t\t\t                프리미어 미드나잇 에디션 2WD A/T",
+          "price": 29050000
+        },
+        {
+          "name": "RS 2WD A/T\t\t\t            \t\t\t            \t\t\t                RS 2WD A/T",
+          "price": 30520000
+        },
+        {
+          "name": "RS AWD A/T\t\t\t            \t\t\t            \t\t\t                RS AWD A/TTOP1선택률: 63%",
+          "price": 32880000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "드라이브 어시스트 패키지",
+          "price": 790000
+        },
+        {
+          "name": "컴포트 패키지",
+          "price": 1080000
+        }
+      ],
+      "pageTitle": "트레일블레이저 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "쉐보레"
+  },
+  "4492": {
+    "carId": "4492",
+    "carName": "토레스 EVX",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=2, 다나와=10",
+      "옵션 개수 차이: 로컬=26, 다나와=19"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "토레스 EVX",
+      "trims": [
+        {
+          "name": "E5 A/T\t\t\t            \t\t\t            \t\t\t                E5 A/T",
+          "price": 46020000
+        },
+        {
+          "name": "E7 A/T\t\t\t            \t\t\t            \t\t\t                E7 A/T",
+          "price": 48120000
+        },
+        {
+          "name": "TV5 A/T\t\t\t            \t\t\t            \t\t\t                TV5 A/T\t\t\t                보조금 적용 시 3,977만 원",
+          "price": 44380000
+        },
+        {
+          "name": "TV7 A/T\t\t\t            \t\t\t            \t\t\t                TV7 A/T\t\t\t                보조금 적용 시 4,168만 원",
+          "price": 46290000
+        },
+        {
+          "name": "E5 A/T\t\t\t            \t\t\t            \t\t\t                E5 A/T\t\t\t                보조금 적용 시 4,142만 원",
+          "price": 46020000
+        },
+        {
+          "name": "E7 A/T\t\t\t            \t\t\t            \t\t\t                E7 A/T\t\t\t                보조금 적용 시 4,352만 원",
+          "price": 48120000
+        },
+        {
+          "name": "TV5 A/T\t\t\t            \t\t\t            \t\t\t                TV5 A/T\t\t\t                보조금 적용 시 3,936만 원",
+          "price": 44380000
+        },
+        {
+          "name": "TV7 A/T\t\t\t            \t\t\t            \t\t\t                TV7 A/T\t\t\t                보조금 적용 시 4,127만 원",
+          "price": 46290000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "파노라마 선루프",
+          "price": 1200000
+        },
+        {
+          "name": "휴대용 충전 케이블",
+          "price": 350000
+        },
+        {
+          "name": "그레이 투톤 인테리어 패키지",
+          "price": 250000
+        },
+        {
+          "name": "브라운 인테리어 패키지",
+          "price": 250000
+        },
+        {
+          "name": "[커스터마이징] 사이드 스토리지 박스 (블랙 기본/실버 옵션)",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 루프 크로스바",
+          "price": 450000
+        },
+        {
+          "name": "[커스터마이징] 루프 플랫 캐리어",
+          "price": 800000
+        },
+        {
+          "name": "[커스터마이징] 루프 클라이밍 핸들 (블랙 기본/실버 옵션)",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 멀티 우산꽂이",
+          "price": 150000
+        },
+        {
+          "name": "[커스터마이징] 테일게이트 LED 램프",
+          "price": 120000
+        },
+        {
+          "name": "[커스터마이징] 스포츠 페달",
+          "price": 60000
+        },
+        {
+          "name": "[커스터마이징] 에어매트",
+          "price": 110000
+        },
+        {
+          "name": "[커스터마이징] 차박용 텐트",
+          "price": 380000
+        },
+        {
+          "name": "[커스터마이징] 멀티 커튼",
+          "price": 100000
+        },
+        {
+          "name": "[커스터마이징] 사이드 스텝(좌/우)",
+          "price": 450000
+        },
+        {
+          "name": "[커스터마이징] 레저 패키지(아웃도어 워터탱크/휴대용 멀티 에어 컴프레셔)",
+          "price": 280000
+        },
+        {
+          "name": "[커스터마이징] 1열 풋램프 + LED 글로브 박스 램프",
+          "price": 50000
+        },
+        {
+          "name": "[커스터마이징] 3D TPV 매트 (1열/2열)",
+          "price": 150000
+        },
+        {
+          "name": "[커스터마이징] 레드 알루미늄 캘리퍼 커버",
+          "price": 300000
+        }
+      ],
+      "pageTitle": "토레스 EVX 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "KGM"
+  },
+  "4518": {
+    "carId": "4518",
+    "carName": "렉스턴 뉴 아레나",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=4, 다나와=11",
+      "옵션 개수 차이: 로컬=24, 다나와=12"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "렉스턴 뉴 아레나",
+      "trims": [
+        {
+          "name": "프리미엄 2WD A/T\t\t\t            \t\t\t            \t\t\t                프리미엄 2WD A/TTOP2선택률: 38%",
+          "price": 39990000
+        },
+        {
+          "name": "프리미엄 4WD A/T\t\t\t            \t\t\t            \t\t\t                프리미엄 4WD A/TTOP3선택률: 5%",
+          "price": 42010000
+        },
+        {
+          "name": "노블레스 2WD A/T\t\t\t            \t\t\t            \t\t\t                노블레스 2WD A/T",
+          "price": 43090000
+        },
+        {
+          "name": "노블레스 4WD A/T\t\t\t            \t\t\t            \t\t\t                노블레스 4WD A/TTOP1선택률: 53%",
+          "price": 45110000
+        },
+        {
+          "name": "프리미엄 2WD A/T\t\t\t            \t\t\t            \t\t\t                프리미엄 2WD A/T",
+          "price": 40380000
+        },
+        {
+          "name": "프리미엄 4WD A/T\t\t\t            \t\t\t            \t\t\t                프리미엄 4WD A/T",
+          "price": 42400000
+        },
+        {
+          "name": "노블레스 2WD A/T\t\t\t            \t\t\t            \t\t\t                노블레스 2WD A/T",
+          "price": 43470000
+        },
+        {
+          "name": "노블레스 4WD A/T\t\t\t            \t\t\t            \t\t\t                노블레스 4WD A/T",
+          "price": 45490000
+        },
+        {
+          "name": "써밋 4WD A/T\t\t\t            \t\t\t            \t\t\t                써밋 4WD A/T",
+          "price": 60260000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "세이프티 선루프",
+          "price": 520000
+        },
+        {
+          "name": "LD 시스템",
+          "price": 310000
+        },
+        {
+          "name": "[커스터마이징] 고정식 사이드 스텝",
+          "price": 380000
+        },
+        {
+          "name": "[커스터마이징] 플로팅 센터 스피커",
+          "price": 390000
+        },
+        {
+          "name": "[커스터마이징] 빌트인 공기청정기",
+          "price": 370000
+        },
+        {
+          "name": "[커스터마이징] 테일게이트 LED 램프",
+          "price": 120000
+        },
+        {
+          "name": "[커스터마이징] 러기지 트레이(5인승 전용)",
+          "price": 70000
+        },
+        {
+          "name": "[커스터마이징] 도어 스팟램프",
+          "price": 110000
+        },
+        {
+          "name": "[커스터마이징] 스포츠 페달",
+          "price": 60000
+        },
+        {
+          "name": "[커스터마이징] 차박용 텐트",
+          "price": 380000
+        },
+        {
+          "name": "[커스터마이징] 멀티 우산꽂이(우산꽂이+비상등+테일게이트 스팟램프)",
+          "price": 150000
+        },
+        {
+          "name": "[커스터마이징] 에어컨 습기 건조기",
+          "price": 160000
+        }
+      ],
+      "pageTitle": "렉스턴 뉴 아레나 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "KGM"
+  },
+  "4545": {
+    "carId": "4545",
+    "carName": "더 뉴 티볼리",
+    "status": "❌ 불일치",
+    "issues": [
+      "이름 불일치: 로컬=\"더 뉴 티볼리\", 다나와=\"티볼리\"",
+      "트림 개수 큰 차이: 로컬=2, 다나와=16",
+      "옵션 개수 차이: 로컬=26, 다나와=9"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "티볼리",
+      "trims": [
+        {
+          "name": "V5 2WD A/T\t\t\t            \t\t\t            \t\t\t                V5 2WD A/T",
+          "price": 22300000
+        },
+        {
+          "name": "V7 2WD A/T\t\t\t            \t\t\t            \t\t\t                V7 2WD A/T",
+          "price": 25810000
+        },
+        {
+          "name": "V1 2WD A/T\t\t\t            \t\t\t            \t\t\t                V1 2WD A/T",
+          "price": 19060000
+        },
+        {
+          "name": "V3 2WD A/T\t\t\t            \t\t\t            \t\t\t                V3 2WD A/T",
+          "price": 22290000
+        },
+        {
+          "name": "V5 2WD A/T\t\t\t            \t\t\t            \t\t\t                V5 2WD A/T",
+          "price": 25600000
+        },
+        {
+          "name": "V7 2WD A/T\t\t\t            \t\t\t            \t\t\t                V7 2WD A/T",
+          "price": 29110000
+        },
+        {
+          "name": "V5 2WD A/T\t\t\t            \t\t\t            \t\t\t                V5 2WD A/T",
+          "price": 21960000
+        },
+        {
+          "name": "V7 2WD A/T\t\t\t            \t\t\t            \t\t\t                V7 2WD A/T",
+          "price": 25810000
+        },
+        {
+          "name": "V7 4WD A/T\t\t\t            \t\t\t            \t\t\t                V7 4WD A/T",
+          "price": 27770000
+        },
+        {
+          "name": "V1 2WD A/T\t\t\t            \t\t\t            \t\t\t                V1 2WD A/T",
+          "price": 18720000
+        },
+        {
+          "name": "V3 2WD A/T\t\t\t            \t\t\t            \t\t\t                V3 2WD A/T",
+          "price": 22290000
+        },
+        {
+          "name": "V5 2WD A/T\t\t\t            \t\t\t            \t\t\t                V5 2WD A/T",
+          "price": 25260000
+        },
+        {
+          "name": "V7 2WD A/T\t\t\t            \t\t\t            \t\t\t                V7 2WD A/T",
+          "price": 29110000
+        },
+        {
+          "name": "V7 4WD A/T\t\t\t            \t\t\t            \t\t\t                V7 4WD A/T",
+          "price": 31000000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "밸류업 패키지",
+          "price": 1220000
+        },
+        {
+          "name": "컨비니언스 패키지",
+          "price": 400000
+        },
+        {
+          "name": "[커스터마이징] 플로팅 무드 스피커",
+          "price": 360000
+        },
+        {
+          "name": "[커스터마이징] 테일게이트 LED 램프",
+          "price": 120000
+        },
+        {
+          "name": "[커스터마이징] 스포츠 페달",
+          "price": 60000
+        },
+        {
+          "name": "[커스터마이징] 에어컨 습기 건조기",
+          "price": 160000
+        },
+        {
+          "name": "[커스터마이징] 레이디 패키지(레드 컬러)",
+          "price": 110000
+        },
+        {
+          "name": "[커스터마이징] 옴므 패키지(브라운 컬러)",
+          "price": 110000
+        },
+        {
+          "name": "[커스터마이징] 멀티 우산꽂이(우산꽂이 + 비상등 + 테일게이트 스팟램프)",
+          "price": 150000
+        }
+      ],
+      "pageTitle": "티볼리 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "KGM"
+  },
+  "4560": {
+    "carId": "4560",
+    "carName": "아르카나",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "트림 개수 차이: 로컬=7, 다나와=9"
+    ],
+    "danawaData": {
+      "name": "아르카나",
+      "trims": [
+        {
+          "name": "테크노 A/T\t\t\t            \t\t\t            \t\t\t                테크노 A/TTOP2선택률: 34%",
+          "price": 28500000
+        },
+        {
+          "name": "아이코닉 A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 A/TTOP1선택률: 57%",
+          "price": 32140000
+        },
+        {
+          "name": "아이코닉 컬러 패키지 A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 컬러 패키지 A/T",
+          "price": 32430000
+        },
+        {
+          "name": "에스프리 알핀 A/T\t\t\t            \t\t\t            \t\t\t                에스프리 알핀 A/TTOP3선택률: 7%",
+          "price": 34020000
+        },
+        {
+          "name": "테크노 A/T\t\t\t            \t\t\t            \t\t\t                테크노 A/T",
+          "price": 23000000
+        },
+        {
+          "name": "아이코닉 A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 A/T",
+          "price": 26400000
+        },
+        {
+          "name": "아이코닉 컬러 패키지 A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 컬러 패키지 A/T",
+          "price": 26680000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "클라우드 펄 외장컬러",
+          "price": 150000
+        },
+        {
+          "name": "[액세서리] LED 도어 스팟 램프",
+          "price": 110000
+        },
+        {
+          "name": "[액세서리] 파워 테일게이트",
+          "price": 950000
+        },
+        {
+          "name": "블랙 인조 가죽 시트 패키지 + 하이패스",
+          "price": 590000
+        },
+        {
+          "name": "[액세서리] 사이드 스텝",
+          "price": 410000
+        },
+        {
+          "name": "[액세서리] 언더바디 웰컴라이트",
+          "price": 190000
+        },
+        {
+          "name": "[액세서리] 언더바디 웰컴라이트 (사이드 스텝 장착 차량용)",
+          "price": 190000
+        },
+        {
+          "name": "[액세서리] 일루미네이팅 키킹 플레이트",
+          "price": 170000
+        },
+        {
+          "name": "[액세서리] 프리미엄 스포츠 페달",
+          "price": 60000
+        },
+        {
+          "name": "[액세서리] LED 램프세트",
+          "price": 50000
+        },
+        {
+          "name": "[액세서리] 뒷좌석 전용 초고속 급속 충전기",
+          "price": 70000
+        },
+        {
+          "name": "[액세서리] 더블 트렁크 플로어",
+          "price": 110000
+        }
+      ],
+      "pageTitle": "아르카나 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "르노코리아"
+  },
+  "4603": {
+    "carId": "4603",
+    "carName": "G80",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=5, 다나와=22",
+      "옵션 개수 차이: 로컬=25, 다나와=19"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "G80",
+      "trims": [
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/TTOP1선택률: 49%",
+          "price": 59780000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/TTOP2선택률: 40%",
+          "price": 62540000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/T",
+          "price": 63720000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/TTOP3선택률: 8%",
+          "price": 66480000
+        },
+        {
+          "name": "BLACK AWD A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD A/T",
+          "price": 82430000
+        },
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/T",
+          "price": 66280000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/TTOP1선택률: 65%",
+          "price": 69040000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/T",
+          "price": 71790000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/TTOP2선택률: 22%",
+          "price": 74550000
+        },
+        {
+          "name": "BLACK AWD A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD A/TTOP3선택률: 11%",
+          "price": 86660000
+        },
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/TTOP1선택률: 52%",
+          "price": 58990000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/TTOP2선택률: 40%",
+          "price": 61750000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/T",
+          "price": 62930000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/TTOP3선택률: 5%",
+          "price": 65690000
+        },
+        {
+          "name": "BLACK AWD A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD A/T",
+          "price": 81490000
+        },
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/TTOP3선택률: 13%",
+          "price": 65490000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/TTOP1선택률: 50%",
+          "price": 68250000
+        },
+        {
+          "name": "스포츠 패키지 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 2WD A/T",
+          "price": 71010000
+        },
+        {
+          "name": "스포츠 패키지 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 패키지 AWD A/TTOP2선택률: 33%",
+          "price": 73760000
+        },
+        {
+          "name": "BLACK AWD A/T\t\t\t            \t\t\t            \t\t\t                BLACK AWD A/T",
+          "price": 85730000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "무광 마칼루 그레이 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "245/45R19(앞) + 275/40R19(뒤) 콘티넨탈 타이어 + 하이퍼 실버 휠(A)",
+          "price": 1180000
+        },
+        {
+          "name": "245/45R19(앞) + 275/40R19(뒤) 콘티넨탈 타이어 + 다이아몬드 컷팅 휠(B)",
+          "price": 1180000
+        },
+        {
+          "name": "245/45R19(앞) + 275/40R19(뒤) 콘티넨탈 타이어 + 다이아몬드 컷팅 휠(C)",
+          "price": 1180000
+        },
+        {
+          "name": "245/40R20(앞) + 275/35R20(뒤) 피렐리 타이어 + 휠 (프리뷰 전자제어 서스펜션 포함)",
+          "price": 2950000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅰ",
+          "price": 1480000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅱ",
+          "price": 2950000
+        },
+        {
+          "name": "파퓰러 패키지",
+          "price": 4230000
+        },
+        {
+          "name": "프리뷰 전자제어 서스펜션",
+          "price": 1080000
+        },
+        {
+          "name": "파노라마 선루프",
+          "price": 1380000
+        },
+        {
+          "name": "컨비니언스 패키지",
+          "price": 1280000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅰ",
+          "price": 1920000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅱ",
+          "price": 1970000
+        },
+        {
+          "name": "2열 컴포트 패키지",
+          "price": 2660000
+        },
+        {
+          "name": "뱅앤올룹슨 사운드 패키지",
+          "price": 1870000
+        },
+        {
+          "name": "빌트인 캠 패키지",
+          "price": 840000
+        },
+        {
+          "name": "[액세서리] 후석 스마트 엔터테인먼트 시스템",
+          "price": 2950000
+        },
+        {
+          "name": "[액세서리] 차량보호필름",
+          "price": 440000
+        },
+        {
+          "name": "[액세서리] 플로팅 휠 캡",
+          "price": 90000
+        }
+      ],
+      "pageTitle": "G80 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4609": {
+    "carId": "4609",
+    "carName": "GV70",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=4, 다나와=10",
+      "옵션 개수 차이: 로컬=28, 다나와=22"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "GV70",
+      "trims": [
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/TTOP1선택률: 58%",
+          "price": 53180000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/TTOP2선택률: 31%",
+          "price": 56130000
+        },
+        {
+          "name": "스포츠 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 2WD A/TTOP3선택률: 7%",
+          "price": 55940000
+        },
+        {
+          "name": "스포츠 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 AWD A/T",
+          "price": 58890000
+        },
+        {
+          "name": "2WD A/T\t\t\t            \t\t\t            \t\t\t                2WD A/TTOP3선택률: 17%",
+          "price": 58600000
+        },
+        {
+          "name": "AWD A/T\t\t\t            \t\t\t            \t\t\t                AWD A/TTOP2선택률: 25%",
+          "price": 61550000
+        },
+        {
+          "name": "스포츠 2WD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 2WD A/T",
+          "price": 61900000
+        },
+        {
+          "name": "스포츠 AWD A/T\t\t\t            \t\t\t            \t\t\t                스포츠 AWD A/TTOP1선택률: 48%",
+          "price": 64850000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "(무광) 마테호른 화이트 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "(무광) 마칼루 그레이 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "235/55R19 미쉐린 타이어 + 휠",
+          "price": 1080000
+        },
+        {
+          "name": "255/40R21 미쉐린 타이어 + 휠 (※ 프리뷰 전자제어 서스펜션 포함)",
+          "price": 3250000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅰ",
+          "price": 1670000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅱ",
+          "price": 2950000
+        },
+        {
+          "name": "파퓰러 패키지Ⅰ",
+          "price": 2910000
+        },
+        {
+          "name": "파퓰러 패키지Ⅱ",
+          "price": 6500000
+        },
+        {
+          "name": "프리뷰 전자제어 서스펜션",
+          "price": 1080000
+        },
+        {
+          "name": "파노라마 선루프",
+          "price": 1380000
+        },
+        {
+          "name": "헤드업 디스플레이",
+          "price": 1280000
+        },
+        {
+          "name": "컨비니언스 패키지",
+          "price": 2460000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅰ",
+          "price": 1920000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅱ",
+          "price": 1970000
+        },
+        {
+          "name": "2열 컴포트 패키지",
+          "price": 1080000
+        },
+        {
+          "name": "뱅앤올룹슨 사운드 패키지",
+          "price": 1670000
+        },
+        {
+          "name": "빌트인 캠 패키지",
+          "price": 840000
+        },
+        {
+          "name": "[액세서리] 차량 보호 필름",
+          "price": 440000
+        },
+        {
+          "name": "[액세서리] 플로팅 휠 캡",
+          "price": 90000
+        },
+        {
+          "name": "[액세서리] 사이드 스텝",
+          "price": 460000
+        },
+        {
+          "name": "[액세서리] 프로텍션 매트 패키지",
+          "price": 250000
+        },
+        {
+          "name": "[액세서리] 빌트인 공기 청정기",
+          "price": 440000
+        }
+      ],
+      "pageTitle": "GV70 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4622": {
+    "carId": "4622",
+    "carName": "액티언",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=1, 다나와=7",
+      "옵션 개수 차이: 로컬=25, 다나와=19"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "액티언",
+      "trims": [
+        {
+          "name": "S8 2WD A/T\t\t\t            \t\t\t            \t\t\t                S8 2WD A/T",
+          "price": 36950000
+        },
+        {
+          "name": "S8 2WD A/T\t\t\t            \t\t\t            \t\t\t                S8 2WD A/T",
+          "price": 34170000
+        },
+        {
+          "name": "S8 AWD A/T\t\t\t            \t\t\t            \t\t\t                S8 AWD A/T",
+          "price": 36190000
+        },
+        {
+          "name": "S8 2WD A/T\t\t\t            \t\t\t            \t\t\t                S8 2WD A/T",
+          "price": 37470000
+        },
+        {
+          "name": "S8 AWD A/T\t\t\t            \t\t\t            \t\t\t                S8 AWD A/T",
+          "price": 39490000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "파노라마 선루프",
+          "price": 1200000
+        },
+        {
+          "name": "투톤 익스테리어 패키지",
+          "price": 410000
+        },
+        {
+          "name": "카멜/베이지 투톤 인테리어 패키지",
+          "price": 400000
+        },
+        {
+          "name": "블랙 스웨이드 퀼팅 인테리어 패키지",
+          "price": 600000
+        },
+        {
+          "name": "3D 어라운드뷰 모니터링 시스템",
+          "price": 1100000
+        },
+        {
+          "name": "딥 컨트롤 패키지II",
+          "price": 650000
+        },
+        {
+          "name": "20인치 미쉐린 흡음형 타이어",
+          "price": 600000
+        },
+        {
+          "name": "[커스터마이징] 알파인 오디오 시스템",
+          "price": 620000
+        },
+        {
+          "name": "[커스터마이징] 1열 풋램프 + 글로브 박스 램프",
+          "price": 50000
+        },
+        {
+          "name": "[커스터마이징] 3D TPV 매트 (1열/2열)",
+          "price": 150000
+        },
+        {
+          "name": "[커스터마이징] LED 도어스커프",
+          "price": 120000
+        },
+        {
+          "name": "[커스터마이징] 러기지스크린",
+          "price": 90000
+        },
+        {
+          "name": "[커스터마이징] 레드 알루미늄 캘리퍼 커버",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 스포츠 페달",
+          "price": 60000
+        },
+        {
+          "name": "[커스터마이징] 시트백 테이블",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 에어매트",
+          "price": 110000
+        },
+        {
+          "name": "[커스터마이징] 이머전시 이스케이프 키트",
+          "price": 50000
+        },
+        {
+          "name": "[커스터마이징] 테일게이트 LED램프",
+          "price": 120000
+        },
+        {
+          "name": "[커스터마이징] 멀티커튼",
+          "price": 100000
+        }
+      ],
+      "pageTitle": "액티언 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "KGM"
+  },
+  "4632": {
+    "carId": "4632",
+    "carName": "세닉 E-테크 일렉트릭",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "트림 개수 차이: 로컬=3, 다나와=5"
+    ],
+    "danawaData": {
+      "name": "세닉 E-테크 일렉트릭",
+      "trims": [
+        {
+          "name": "테크노 A/T\t\t\t            \t\t\t            \t\t\t                테크노 A/T",
+          "price": 51590000
+        },
+        {
+          "name": "테크노 플러스 A/T\t\t\t            \t\t\t            \t\t\t                테크노 플러스 A/T",
+          "price": 54910000
+        },
+        {
+          "name": "아이코닉 A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 A/T",
+          "price": 59550000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "[액세서리] 헤드레스트 쿠션",
+          "price": 120000
+        },
+        {
+          "name": "[액세서리] 센터콘솔 정리함",
+          "price": 60000
+        },
+        {
+          "name": "[액세서리] 다기능 후크",
+          "price": 70000
+        },
+        {
+          "name": "[액세서리] 루프바",
+          "price": 420000
+        },
+        {
+          "name": "[액세서리] 사이드 미러커버",
+          "price": 190000
+        },
+        {
+          "name": "[액세서리] 3D 고무매트",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] 트렁크 라이너",
+          "price": 50000
+        },
+        {
+          "name": "[액세서리] Hi-Pass",
+          "price": 80000
+        }
+      ],
+      "pageTitle": "세닉 E-테크 일렉트릭 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "르노코리아"
+  },
+  "4646": {
+    "carId": "4646",
+    "carName": "토레스",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "트림 개수 차이: 로컬=19, 다나와=21"
+    ],
+    "danawaData": {
+      "name": "토레스",
+      "trims": [
+        {
+          "name": "T5 2WD A/T\t\t\t            \t\t\t            \t\t\t                T5 2WD A/T",
+          "price": 31400000
+        },
+        {
+          "name": "T7 2WD A/T\t\t\t            \t\t\t            \t\t\t                T7 2WD A/T",
+          "price": 36350000
+        },
+        {
+          "name": "블랙엣지 2WD A/T\t\t\t            \t\t\t            \t\t\t                블랙엣지 2WD A/T",
+          "price": 39700000
+        },
+        {
+          "name": "T5 2WD A/T\t\t\t            \t\t\t            \t\t\t                T5 2WD A/TTOP2선택률: 22%",
+          "price": 28100000
+        },
+        {
+          "name": "T7 2WD A/T\t\t\t            \t\t\t            \t\t\t                T7 2WD A/TTOP1선택률: 63%",
+          "price": 31990000
+        },
+        {
+          "name": "T7 AWD A/T\t\t\t            \t\t\t            \t\t\t                T7 AWD A/TTOP3선택률: 8%",
+          "price": 34010000
+        },
+        {
+          "name": "블랙 엣지 2WD A/T\t\t\t            \t\t\t            \t\t\t                블랙 엣지 2WD A/T",
+          "price": 35150000
+        },
+        {
+          "name": "블랙 엣지 AWD A/T\t\t\t            \t\t\t            \t\t\t                블랙 엣지 AWD A/T",
+          "price": 37170000
+        },
+        {
+          "name": "TL5 2WD A/T\t\t\t            \t\t\t            \t\t\t                TL5 2WD A/T",
+          "price": 31400000
+        },
+        {
+          "name": "TL7 2WD A/T\t\t\t            \t\t\t            \t\t\t                TL7 2WD A/T",
+          "price": 35290000
+        },
+        {
+          "name": "TL7 AWD A/T\t\t\t            \t\t\t            \t\t\t                TL7 AWD A/T",
+          "price": 37310000
+        },
+        {
+          "name": "TV5 2WD A/T\t\t\t            \t\t\t            \t\t\t                TV5 2WD A/T",
+          "price": 26710000
+        },
+        {
+          "name": "TV7 2WD A/T\t\t\t            \t\t\t            \t\t\t                TV7 2WD A/T",
+          "price": 29670000
+        },
+        {
+          "name": "TV7 AWD A/T\t\t\t            \t\t\t            \t\t\t                TV7 AWD A/T",
+          "price": 31650000
+        },
+        {
+          "name": "TV5 2WD A/T\t\t\t            \t\t\t            \t\t\t                TV5 2WD A/T",
+          "price": 30010000
+        },
+        {
+          "name": "TV7 2WD A/T\t\t\t            \t\t\t            \t\t\t                TV7 2WD A/T",
+          "price": 32970000
+        },
+        {
+          "name": "TV7 AWD A/T\t\t\t            \t\t\t            \t\t\t                TV7 AWD A/T",
+          "price": 34950000
+        },
+        {
+          "name": "택시 2WD A/T\t\t\t            \t\t\t            \t\t\t                택시 2WD A/T",
+          "price": 30930000
+        },
+        {
+          "name": "택시 AWD A/T\t\t\t            \t\t\t            \t\t\t                택시 AWD A/T",
+          "price": 32850000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "운전석 무릎 에어백",
+          "price": 250000
+        },
+        {
+          "name": "[커스터마이징] 사이드 스텝",
+          "price": 450000
+        },
+        {
+          "name": "밸류업 패키지",
+          "price": 1200000
+        },
+        {
+          "name": "12.3인치 KGM 링크 내비게이션 패키지 + 인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+          "price": 1500000
+        },
+        {
+          "name": "딥 컨트롤 패키지Ⅱ + 스마트 파워 테일게이트 패키지",
+          "price": 1300000
+        },
+        {
+          "name": "[커스터마이징] 사이드 스토리지 박스",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 루프 클라이밍 핸들",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 루프 크로스바",
+          "price": 450000
+        },
+        {
+          "name": "[커스터마이징] 루프 플랫 캐리어",
+          "price": 800000
+        },
+        {
+          "name": "[커스터마이징] 테일게이트 LED 램프",
+          "price": 120000
+        },
+        {
+          "name": "[커스터마이징] 스포츠 페달",
+          "price": 60000
+        },
+        {
+          "name": "[커스터마이징] 에어매트",
+          "price": 110000
+        },
+        {
+          "name": "[커스터마이징] 휠 아치 + 도어 가니쉬",
+          "price": 600000
+        },
+        {
+          "name": "[커스터마이징] 멀티 우산꽂이",
+          "price": 150000
+        },
+        {
+          "name": "[커스터마이징] 차박용 텐트",
+          "price": 380000
+        },
+        {
+          "name": "[커스터마이징] 멀티 커튼",
+          "price": 100000
+        },
+        {
+          "name": "[커스터마이징] 레드 알루미늄 캘리퍼 커버",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 1열 풋램프 + LED 글로브 박스 램프",
+          "price": 50000
+        },
+        {
+          "name": "[커스터마이징] 시트백 테이블",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 러기지 스크린",
+          "price": 90000
+        },
+        {
+          "name": "[커스터마이징] 3D TPV 매트 (1열/2열)",
+          "price": 150000
+        },
+        {
+          "name": "[커스터마이징] 후진 경고음 시스템(AVAS)",
+          "price": 120000
+        },
+        {
+          "name": "[커스터마이징] LED 도어스커프",
+          "price": 120000
+        }
+      ],
+      "pageTitle": "토레스 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "KGM"
+  },
+  "4659": {
+    "carId": "4659",
+    "carName": "그랑 콜레오스",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=4, 다나와=12",
+      "옵션 개수 차이: 로컬=37, 다나와=27"
+    ],
+    "warnings": [],
+    "danawaData": {
+      "name": "그랑 콜레오스",
+      "trims": [
+        {
+          "name": "테크노 A/T\t\t\t            \t\t\t            \t\t\t                테크노 A/TTOP2선택률: 15%",
+          "price": 38150000
+        },
+        {
+          "name": "아이코닉 A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 A/TTOP1선택률: 63%",
+          "price": 42090000
+        },
+        {
+          "name": "에스프리 알핀 A/T\t\t\t            \t\t\t            \t\t\t                에스프리 알핀 A/TTOP3선택률: 15%",
+          "price": 44060000
+        },
+        {
+          "name": "에스카파드 A/T\t\t\t            \t\t\t            \t\t\t                에스카파드 A/T",
+          "price": 43920000
+        },
+        {
+          "name": "테크노 A/T\t\t\t            \t\t\t            \t\t\t                테크노 A/TTOP3선택률: 18%",
+          "price": 34970000
+        },
+        {
+          "name": "아이코닉 2WD A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 2WD A/TTOP2선택률: 34%",
+          "price": 38810000
+        },
+        {
+          "name": "아이코닉 4WD A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 4WD A/TTOP1선택률: 35%",
+          "price": 41470000
+        },
+        {
+          "name": "에스프리 알핀 A/T\t\t\t            \t\t\t            \t\t\t                에스프리 알핀 A/T",
+          "price": 40920000
+        },
+        {
+          "name": "에스카파드 2WD A/T\t\t\t            \t\t\t            \t\t\t                에스카파드 2WD A/T",
+          "price": 40790000
+        },
+        {
+          "name": "에스카파드 4WD A/T\t\t\t            \t\t\t            \t\t\t                에스카파드 4WD A/T",
+          "price": 43450000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "클라우드 펄 외장컬러",
+          "price": 300000
+        },
+        {
+          "name": "미네랄 코퍼 외장컬러",
+          "price": 200000
+        },
+        {
+          "name": "[액세서리] R·beat 노래방 마이크",
+          "price": 210000
+        },
+        {
+          "name": "12.3인치 동승석 디스플레이(R:아케이드 게임, cinema(OTT), 음악 스트리밍, 웹브라우저, 앱스토어, 포토링크) + FULL 오토 파킹 보조 + 후방 긴급 제동 보조",
+          "price": 1630000
+        },
+        {
+          "name": "[액세서리] 프론트 그릴 데코",
+          "price": 50000
+        },
+        {
+          "name": "[액세서리] 프리미엄 스포츠 페달",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] 프리미엄 스포츠 페달(블랙)",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] 사이드 스텝",
+          "price": 470000
+        },
+        {
+          "name": "[액세서리] 사이드 스텝(블랙)",
+          "price": 500000
+        },
+        {
+          "name": "[액세서리] 디자이너s 패키지 I",
+          "price": 530000
+        },
+        {
+          "name": "[액세서리] 디자이너s 패키지 I(블랙)",
+          "price": 600000
+        },
+        {
+          "name": "[액세서리] 디자이너s 패키지 II",
+          "price": 660000
+        },
+        {
+          "name": "[액세서리] 디자이너s 패키지 II(블랙)",
+          "price": 690000
+        },
+        {
+          "name": "[액세서리] 스크린 보호 필름",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] R·cam",
+          "price": 350000
+        },
+        {
+          "name": "[액세서리] 러기지 스크린",
+          "price": 100000
+        },
+        {
+          "name": "[액세서리] 트렁크 엔트리 가드",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] 트렁크 엔트리 가드(블랙)",
+          "price": 90000
+        },
+        {
+          "name": "[액세서리] 트렁크 라이너",
+          "price": 100000
+        },
+        {
+          "name": "[액세서리] 트렁크 패키지 I",
+          "price": 160000
+        },
+        {
+          "name": "[액세서리] 트렁크 패키지 II",
+          "price": 240000
+        },
+        {
+          "name": "[액세서리] LED 도어 스팟 램프",
+          "price": 140000
+        },
+        {
+          "name": "[액세서리] LED Tiger 도어 스팟 램프",
+          "price": 150000
+        },
+        {
+          "name": "[액세서리] 스마트 보이스 테일 게이트",
+          "price": 290000
+        },
+        {
+          "name": "[액세서리] 캠핑 타프",
+          "price": 590000
+        },
+        {
+          "name": "[액세서리] 비스포크 냉장고",
+          "price": 590000
+        },
+        {
+          "name": "[액세서리] 프리미엄 코일 매트",
+          "price": 50000
+        }
+      ],
+      "pageTitle": "그랑 콜레오스 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "르노코리아"
+  },
+  "4660": {
+    "carId": "4660",
+    "carName": "G80 EV",
+    "status": "❌ 불일치",
+    "issues": [
+      "이름 불일치: 로컬=\"G80 EV\", 다나와=\"Electrified G80\""
+    ],
+    "warnings": [
+      "트림 개수 차이: 로컬=1, 다나와=3"
+    ],
+    "danawaData": {
+      "name": "Electrified G80",
+      "trims": [
+        {
+          "name": "e-AWD A/T\t\t\t            \t\t\t            \t\t\t                e-AWD A/T\t\t\t                보조금 적용 시 8,117만 원",
+          "price": 84680000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "마티라 블루 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "마칼루 그레이(무광) 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션",
+          "price": 2960000
+        },
+        {
+          "name": "파퓰러 패키지",
+          "price": 5320000
+        },
+        {
+          "name": "헤드업 디스플레이",
+          "price": 1280000
+        },
+        {
+          "name": "후륜 조향 시스템",
+          "price": 1480000
+        },
+        {
+          "name": "컨비니언스 패키지",
+          "price": 1870000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅰ",
+          "price": 1920000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅱ",
+          "price": 1970000
+        },
+        {
+          "name": "2열 컴포트 패키지",
+          "price": 3840000
+        },
+        {
+          "name": "빌트인 캠 패키지",
+          "price": 840000
+        },
+        {
+          "name": "[액세서리] 후석 스마트 엔터테인먼트 시스템",
+          "price": 2960000
+        },
+        {
+          "name": "[액세서리] 차량보호필름",
+          "price": 440000
+        },
+        {
+          "name": "[액세서리] 플로팅 휠 캡",
+          "price": 90000
+        }
+      ],
+      "pageTitle": "Electrified G80 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4666": {
+    "carId": "4666",
+    "carName": "무쏘 EV",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "트림 개수 차이: 로컬=4, 다나와=6"
+    ],
+    "danawaData": {
+      "name": "무쏘 EV",
+      "trims": [
+        {
+          "name": "MX 2WD A/T\t\t\t            \t\t\t            \t\t\t                MX 2WD A/TTOP3선택률: 28%\t\t\t                보조금 적용 시 3,970만 원",
+          "price": 48000000
+        },
+        {
+          "name": "MX 4WD A/T\t\t\t            \t\t\t            \t\t\t                MX 4WD A/TTOP1선택률: 34%\t\t\t                보조금 적용 시 4,247만 원",
+          "price": 50500000
+        },
+        {
+          "name": "블랙 엣지 2WD A/T\t\t\t            \t\t\t            \t\t\t                블랙 엣지 2WD A/T\t\t\t                보조금 적용 시 4,220만 원",
+          "price": 50500000
+        },
+        {
+          "name": "블랙 엣지 4WD A/T\t\t\t            \t\t\t            \t\t\t                블랙 엣지 4WD A/TTOP2선택률: 28%\t\t\t                보조금 적용 시 4,497만 원",
+          "price": 53000000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "선루프",
+          "price": 600000
+        },
+        {
+          "name": "3D 어라운드뷰 모니터링 시스템",
+          "price": 1200000
+        },
+        {
+          "name": "천연 가죽시트 패키지",
+          "price": 600000
+        },
+        {
+          "name": "유틸리티 루프랙",
+          "price": 200000
+        },
+        {
+          "name": "휴대폰 무선 충전기",
+          "price": 160000
+        },
+        {
+          "name": "[커스터마이징] 데크탑",
+          "price": 2600000
+        },
+        {
+          "name": "[커스터마이징] 슬라이딩 커버",
+          "price": 1300000
+        },
+        {
+          "name": "[커스터마이징] 데크 스토리지박스",
+          "price": 300000
+        },
+        {
+          "name": "[커스터마이징] 슬라이딩 베드",
+          "price": 1100000
+        },
+        {
+          "name": "[커스터마이징] 데크 디바이더",
+          "price": 350000
+        },
+        {
+          "name": "[커스터마이징] 롤바",
+          "price": 1300000
+        },
+        {
+          "name": "[커스터마이징] 루프 크로스바",
+          "price": 450000
+        },
+        {
+          "name": "[커스터마이징] 루프 플랫 캐리어",
+          "price": 800000
+        },
+        {
+          "name": "[커스터마이징] 스포츠 페달",
+          "price": 60000
+        },
+        {
+          "name": "[커스터마이징] 후진경고음시스템(AVAS)",
+          "price": 120000
+        },
+        {
+          "name": "[커스터마이징] 아웃도어 패키지",
+          "price": 750000
+        },
+        {
+          "name": "[커스터마이징] 스타일업 패키지",
+          "price": 2100000
+        },
+        {
+          "name": "[커스터마이징] 휴대용 충전 케이블(고급형)",
+          "price": 420000
+        }
+      ],
+      "pageTitle": "무쏘 EV 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "KGM"
+  },
+  "4701": {
+    "carId": "4701",
+    "carName": "GV60",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "트림 개수 차이: 로컬=2, 다나와=5",
+      "옵션 개수 약간 차이: 로컬=21, 다나와=20"
+    ],
+    "danawaData": {
+      "name": "GV60",
+      "trims": [
+        {
+          "name": "스탠다드 2WD A/T\t\t\t            \t\t\t            \t\t\t                스탠다드 2WD A/T\t\t\t                보조금 적용 시 6,120만 원",
+          "price": 64900000
+        },
+        {
+          "name": "스탠다드 AWD A/T\t\t\t            \t\t\t            \t\t\t                스탠다드 AWD A/T\t\t\t                보조금 적용 시 6,498만 원",
+          "price": 68510000
+        },
+        {
+          "name": "퍼포먼스 AWD A/T\t\t\t            \t\t\t            \t\t\t                퍼포먼스 AWD A/T",
+          "price": 75590000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "무광 마테호른 화이트 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "무광 마칼루 그레이 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "무광 스토르 그린 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "무광 세레스 블루 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅰ",
+          "price": 1480000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅱ",
+          "price": 2170000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅱ(스웨이드 패키지)",
+          "price": 2660000
+        },
+        {
+          "name": "파퓰러 패키지",
+          "price": 5420000
+        },
+        {
+          "name": "헤드업 디스플레이",
+          "price": 1280000
+        },
+        {
+          "name": "디지털 사이드 미러",
+          "price": 1480000
+        },
+        {
+          "name": "비전 루프",
+          "price": 990000
+        },
+        {
+          "name": "컨비니언스 패키지",
+          "price": 2660000
+        },
+        {
+          "name": "하이테크 패키지",
+          "price": 840000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅰ",
+          "price": 1920000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지 II",
+          "price": 1970000
+        },
+        {
+          "name": "뱅앤올룹슨 사운드 패키지",
+          "price": 1770000
+        },
+        {
+          "name": "빌트인 캠 패키지",
+          "price": 1480000
+        },
+        {
+          "name": "[액세서리] 차량 보호 필름",
+          "price": 400000
+        },
+        {
+          "name": "[액세서리] 프로텍션 매트 패키지",
+          "price": 250000
+        },
+        {
+          "name": "[액세서리] 플로팅 휠캡",
+          "price": 90000
+        }
+      ],
+      "pageTitle": "GV60 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4705": {
+    "carId": "4705",
+    "carName": "Electrified GV70",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "트림 개수 차이: 로컬=1, 다나와=3"
+    ],
+    "danawaData": {
+      "name": "Electrified GV70",
+      "trims": [
+        {
+          "name": "e-AWD A/T\t\t\t            \t\t\t            \t\t\t                e-AWD A/T\t\t\t                보조금 적용 시 7,191만 원",
+          "price": 75300000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "무광 마테호른 화이트 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "무광 마칼루 그레이 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "무광 스토르 그린 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "무광 세레스 블루 외장컬러",
+          "price": 690000
+        },
+        {
+          "name": "265/45R20 미쉐린 타이어 + 휠(화이트도장 모노블럭(4P) 브레이크 + 후륜 스타일링 커버 포함)",
+          "price": 790000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅰ",
+          "price": 1870000
+        },
+        {
+          "name": "시그니쳐 디자인 셀렉션Ⅱ",
+          "price": 2270000
+        },
+        {
+          "name": "파퓰러 패키지",
+          "price": 3550000
+        },
+        {
+          "name": "헤드업 디스플레이",
+          "price": 1280000
+        },
+        {
+          "name": "파노라마 선루프",
+          "price": 1380000
+        },
+        {
+          "name": "컨비니언스 패키지",
+          "price": 2560000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅰ",
+          "price": 1920000
+        },
+        {
+          "name": "드라이빙 어시스턴스 패키지Ⅱ",
+          "price": 1970000
+        },
+        {
+          "name": "2열 컴포트 패키지",
+          "price": 690000
+        },
+        {
+          "name": "아웃도어 패키지",
+          "price": 300000
+        },
+        {
+          "name": "뱅앤올룹슨 사운드 패키지",
+          "price": 1670000
+        },
+        {
+          "name": "빌트인 캠 패키지",
+          "price": 840000
+        },
+        {
+          "name": "[액세서리] 차량 보호 필름",
+          "price": 440000
+        },
+        {
+          "name": "[액세서리] 플로팅 휠 캡",
+          "price": 90000
+        },
+        {
+          "name": "[액세서리] 사이드 스텝",
+          "price": 460000
+        },
+        {
+          "name": "[액세서리] 프로텍션 매트 패키지",
+          "price": 250000
+        }
+      ],
+      "pageTitle": "Electrified GV70 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4761": {
+    "carId": "4761",
+    "carName": "GV60 MAGMA",
+    "status": "⚠️ 경고",
+    "issues": [],
+    "warnings": [
+      "트림 개수 차이: 로컬=1, 다나와=3"
+    ],
+    "danawaData": {
+      "name": "GV60 MAGMA",
+      "trims": [
+        {
+          "name": "GV60 MAGMA A/T\t\t\t            \t\t\t            \t\t\t                GV60 MAGMA A/T",
+          "price": 96570000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "(무광) 마테호른 화이트 외장컬러",
+          "price": 700000
+        },
+        {
+          "name": "(무광) 마칼루 그레이 외장컬러",
+          "price": 700000
+        },
+        {
+          "name": "(무광) 스토르 그린 외장컬러",
+          "price": 700000
+        },
+        {
+          "name": "(무광) 세레스 블루 외장컬러",
+          "price": 700000
+        },
+        {
+          "name": "마그마 오렌지 외장컬러",
+          "price": 1000000
+        },
+        {
+          "name": "21인치 그라파이트 그레이 매트 경량 단조 휠 + 275/35R21 피렐리 썸머 타이어 + 마그마 도장 모노블럭(4P) 브레이크",
+          "price": 3700000
+        },
+        {
+          "name": "21인치 그라파이트 그레이 매트 주조 휠 + 275/35R21 피렐리 썸머 타이어 + 블랙 도장 모노블럭(4P) 브레이크",
+          "price": 0
+        },
+        {
+          "name": "21인치 그라파이트 그레이 매트 경량 단조 휠 + 275/35R21 피렐리 썸머 타이어 + 블랙 도장 모노블럭(4P) 브레이크",
+          "price": 3700000
+        },
+        {
+          "name": "[액세서리] 차량 보호 필름",
+          "price": 410000
+        },
+        {
+          "name": "[액세서리] 프로텍션 매트 패키지",
+          "price": 250000
+        }
+      ],
+      "pageTitle": "GV60 MAGMA 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "제네시스"
+  },
+  "4766": {
+    "carId": "4766",
+    "carName": "무쏘",
+    "status": "❌ 불일치",
+    "issues": [
+      "트림 개수 큰 차이: 로컬=10, 다나와=32"
+    ],
+    "warnings": [
+      "옵션 개수 약간 차이: 로컬=20, 다나와=15"
+    ],
+    "danawaData": {
+      "name": "무쏘",
+      "trims": [
+        {
+          "name": "M5 2WD A/T\t\t\t            \t\t\t            \t\t\t                M5 2WD A/TTOP2선택률: 27%",
+          "price": 29900000
+        },
+        {
+          "name": "M5 4WD A/T\t\t\t            \t\t\t            \t\t\t                M5 4WD A/TTOP1선택률: 28%",
+          "price": 31900000
+        },
+        {
+          "name": "M7 2WD A/T\t\t\t            \t\t\t            \t\t\t                M7 2WD A/T",
+          "price": 35900000
+        },
+        {
+          "name": "M7 (그랜드 스타일) 2WD A/T\t\t\t            \t\t\t            \t\t\t                M7 (그랜드 스타일) 2WD A/T",
+          "price": 36700000
+        },
+        {
+          "name": "M7 4WD A/T\t\t\t            \t\t\t            \t\t\t                M7 4WD A/TTOP3선택률: 20%",
+          "price": 37900000
+        },
+        {
+          "name": "M7 (그랜드 스타일) 4WD A/T\t\t\t            \t\t\t            \t\t\t                M7 (그랜드 스타일) 4WD A/T",
+          "price": 38700000
+        },
+        {
+          "name": "M9 2WD A/T\t\t\t            \t\t\t            \t\t\t                M9 2WD A/T",
+          "price": 39900000
+        },
+        {
+          "name": "M9 (그랜드 스타일) 2WD A/T\t\t\t            \t\t\t            \t\t\t                M9 (그랜드 스타일) 2WD A/T",
+          "price": 40700000
+        },
+        {
+          "name": "M9 4WD A/T\t\t\t            \t\t\t            \t\t\t                M9 4WD A/T",
+          "price": 41900000
+        },
+        {
+          "name": "M9 (그랜드 스타일) 4WD A/T\t\t\t            \t\t\t            \t\t\t                M9 (그랜드 스타일) 4WD A/T",
+          "price": 42700000
+        },
+        {
+          "name": "M5 2WD A/T\t\t\t            \t\t\t            \t\t\t                M5 2WD A/T",
+          "price": 31700000
+        },
+        {
+          "name": "M5 4WD A/T\t\t\t            \t\t\t            \t\t\t                M5 4WD A/TTOP2선택률: 26%",
+          "price": 33800000
+        },
+        {
+          "name": "M7 2WD A/T\t\t\t            \t\t\t            \t\t\t                M7 2WD A/T",
+          "price": 37700000
+        },
+        {
+          "name": "M7 (그랜드 스타일) 2WD A/T\t\t\t            \t\t\t            \t\t\t                M7 (그랜드 스타일) 2WD A/T",
+          "price": 38500000
+        },
+        {
+          "name": "M7 4WD A/T\t\t\t            \t\t\t            \t\t\t                M7 4WD A/TTOP1선택률: 36%",
+          "price": 39800000
+        },
+        {
+          "name": "M7 (그랜드 스타일) 4WD A/T\t\t\t            \t\t\t            \t\t\t                M7 (그랜드 스타일) 4WD A/T",
+          "price": 40600000
+        },
+        {
+          "name": "M9 2WD A/T\t\t\t            \t\t\t            \t\t\t                M9 2WD A/T",
+          "price": 41700000
+        },
+        {
+          "name": "M9 (그랜드 스타일) 2WD A/T\t\t\t            \t\t\t            \t\t\t                M9 (그랜드 스타일) 2WD A/T",
+          "price": 42500000
+        },
+        {
+          "name": "M9 4WD A/T\t\t\t            \t\t\t            \t\t\t                M9 4WD A/T",
+          "price": 43800000
+        },
+        {
+          "name": "M9 (그랜드 스타일) 4WD A/T\t\t\t            \t\t\t            \t\t\t                M9 (그랜드 스타일) 4WD A/TTOP3선택률: 15%",
+          "price": 44600000
+        },
+        {
+          "name": "M5 4WD A/T\t\t\t            \t\t\t            \t\t\t                M5 4WD A/TTOP2선택률: 27%",
+          "price": 34100000
+        },
+        {
+          "name": "M7 4WD A/T\t\t\t            \t\t\t            \t\t\t                M7 4WD A/TTOP1선택률: 37%",
+          "price": 40100000
+        },
+        {
+          "name": "M7 (그랜드 스타일) 4WD A/T\t\t\t            \t\t\t            \t\t\t                M7 (그랜드 스타일) 4WD A/T",
+          "price": 40900000
+        },
+        {
+          "name": "M9 4WD A/T\t\t\t            \t\t\t            \t\t\t                M9 4WD A/T",
+          "price": 44100000
+        },
+        {
+          "name": "M9 (그랜드 스타일) 4WD A/T\t\t\t            \t\t\t            \t\t\t                M9 (그랜드 스타일) 4WD A/TTOP3선택률: 16%",
+          "price": 44900000
+        },
+        {
+          "name": "M5 4WD A/T\t\t\t            \t\t\t            \t\t\t                M5 4WD A/TTOP1선택률: 38%",
+          "price": 36000000
+        },
+        {
+          "name": "M7 4WD A/T\t\t\t            \t\t\t            \t\t\t                M7 4WD A/TTOP2선택률: 28%",
+          "price": 42000000
+        },
+        {
+          "name": "M7 (그랜드 스타일) 4WD A/T\t\t\t            \t\t\t            \t\t\t                M7 (그랜드 스타일) 4WD A/T",
+          "price": 42800000
+        },
+        {
+          "name": "M9 4WD A/T\t\t\t            \t\t\t            \t\t\t                M9 4WD A/T",
+          "price": 46000000
+        },
+        {
+          "name": "M9 (그랜드 스타일) 4WD A/T\t\t\t            \t\t\t            \t\t\t                M9 (그랜드 스타일) 4WD A/TTOP3선택률: 15%",
+          "price": 46800000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "세이프티 선루프",
+          "price": 500000
+        },
+        {
+          "name": "12.3인치 KGM 링크 내비게이션 패키지(M5)",
+          "price": 2300000
+        },
+        {
+          "name": "[커스터마이징] 고정식 사이드 스텝",
+          "price": 450000
+        },
+        {
+          "name": "[커스터마이징] 오프로드 사이드 스텝",
+          "price": 500000
+        },
+        {
+          "name": "[커스터마이징] 도어 가니쉬",
+          "price": 200000
+        },
+        {
+          "name": "[커스터마이징] 언더커버",
+          "price": 200000
+        },
+        {
+          "name": "[커스터마이징] 요소수 커버",
+          "price": 200000
+        },
+        {
+          "name": "[커스터마이징] 2열 언더트레이",
+          "price": 220000
+        },
+        {
+          "name": "[커스터마이징] 스포츠 페달",
+          "price": 60000
+        },
+        {
+          "name": "[커스터마이징] 리어 스텝",
+          "price": 350000
+        },
+        {
+          "name": "[커스터마이징] 슬라이딩 베드",
+          "price": 1000000
+        },
+        {
+          "name": "[커스터마이징] 슬라이딩 커버",
+          "price": 1300000
+        },
+        {
+          "name": "[커스터마이징] 하드탑",
+          "price": 2100000
+        },
+        {
+          "name": "[커스터마이징] 쿠페탑",
+          "price": 2350000
+        },
+        {
+          "name": "[커스터마이징] 롤바",
+          "price": 750000
+        }
+      ],
+      "pageTitle": "무쏘 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "KGM"
+  },
+  "4772": {
+    "carId": "4772",
+    "carName": "필랑트",
+    "status": "❌ 불일치",
+    "issues": [
+      "옵션 개수 차이: 로컬=22, 다나와=15"
+    ],
+    "warnings": [
+      "트림 개수 차이: 로컬=4, 다나와=6"
+    ],
+    "danawaData": {
+      "name": "필랑트",
+      "trims": [
+        {
+          "name": "테크노 A/T\t\t\t            \t\t\t            \t\t\t                테크노 A/TTOP3선택률: 13%",
+          "price": 43320000
+        },
+        {
+          "name": "아이코닉 A/T\t\t\t            \t\t\t            \t\t\t                아이코닉 A/TTOP2선택률: 36%",
+          "price": 46970000
+        },
+        {
+          "name": "에스프리 알핀 A/T\t\t\t            \t\t\t            \t\t\t                에스프리 알핀 A/T",
+          "price": 49720000
+        },
+        {
+          "name": "에스프리 알핀 1955 A/T\t\t\t            \t\t\t            \t\t\t                에스프리 알핀 1955 A/TTOP1선택률: 41%",
+          "price": 52190000
+        },
+        {
+          "name": "탁송\n                        \n                        \n                            탁송",
+          "price": 0
+        },
+        {
+          "name": "직접출고\n                        \n                        \n                            직접출고",
+          "price": 0
+        }
+      ],
+      "colors": [],
+      "options": [
+        {
+          "name": "클라우드 펄 외장컬러",
+          "price": 300000
+        },
+        {
+          "name": "12.3인치 동승석 디스플레이 (cinema (OTT), 음악 스트리밍, 웹브라우저, 앱스토어, 테마) + R:아케이드 게임, R:러쉬, R:레이싱 + FULL 오토 파킹 보조 + 후방 긴급 제동 보조",
+          "price": 1630000
+        },
+        {
+          "name": "[액세서리] 사이드 스텝",
+          "price": 470000
+        },
+        {
+          "name": "[액세서리] 프론트 그릴 데코",
+          "price": 50000
+        },
+        {
+          "name": "[액세서리] 트렁크 엔트리 가드",
+          "price": 90000
+        },
+        {
+          "name": "[액세서리] 도어 스팟 램프",
+          "price": 150000
+        },
+        {
+          "name": "[액세서리] 스포츠 페달",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] 러버 매트(TPE 소재)",
+          "price": 150000
+        },
+        {
+          "name": "[액세서리] 스크린 보호필름",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] 썬쉐이드(블랙)",
+          "price": 150000
+        },
+        {
+          "name": "[액세서리] 썬쉐이드(멜란지)",
+          "price": 150000
+        },
+        {
+          "name": "[액세서리] 암레스트 쿠션(블랙)",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] 암레스트 쿠션(그레이)",
+          "price": 80000
+        },
+        {
+          "name": "[액세서리] 공간 분리형 트렁크 라이너",
+          "price": 150000
+        },
+        {
+          "name": "[액세서리] 트렁크 빌트인 냉장고",
+          "price": 590000
+        }
+      ],
+      "pageTitle": "필랑트 신차 견적내기 : 다나와 자동차"
+    },
+    "brand": "르노코리아"
+  }
+}

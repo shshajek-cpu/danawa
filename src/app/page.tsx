@@ -1,18 +1,67 @@
 "use client";
 
-import { useState } from "react";
-import Link from "next/link";
+import { useState, useRef, useCallback } from "react";
 import { useRouter } from "next/navigation";
-import { BRANDS, CARS } from "@/constants/data";
+import { BRANDS, CARS, FUEL_TYPE_COLORS, CAR_FUEL_TYPES } from "@/constants/data";
+import BottomNav from "@/components/BottomNav";
 
 export default function HomePage() {
   const [isSearchModalOpen, setIsSearchModalOpen] = useState(false);
-  const [selectedBrandId, setSelectedBrandId] = useState("all");
+  const [selectedBrandId, setSelectedBrandId] = useState("");
+  const [selectedOrigin, setSelectedOrigin] = useState<"domestic" | "import">("domestic");
+  const [searchQuery, setSearchQuery] = useState("");
+  const [selectedFuel, setSelectedFuel] = useState("");
   const router = useRouter();
 
-  const filteredCars = selectedBrandId === "all"
-    ? CARS
-    : CARS.filter(car => car.brandId === selectedBrandId);
+  const DOMESTIC_BRANDS = ["현대", "기아", "제네시스", "KGM", "쉐보레", "르노코리아"];
+  const isDomesticBrand = (brandId: string) => {
+    const brand = BRANDS.find(b => b.id === brandId);
+    return brand ? DOMESTIC_BRANDS.includes(brand.name) : false;
+  };
+
+  // Drag-to-scroll for brand list on PC
+  const brandScrollRef = useRef<HTMLDivElement>(null);
+  const isDragging = useRef(false);
+  const startX = useRef(0);
+  const scrollLeft = useRef(0);
+  const hasDragged = useRef(false);
+
+  const handleMouseDown = useCallback((e: React.MouseEvent) => {
+    const el = brandScrollRef.current;
+    if (!el) return;
+    isDragging.current = true;
+    hasDragged.current = false;
+    startX.current = e.pageX - el.offsetLeft;
+    scrollLeft.current = el.scrollLeft;
+    el.style.cursor = "grabbing";
+  }, []);
+
+  const handleMouseMove = useCallback((e: React.MouseEvent) => {
+    if (!isDragging.current) return;
+    const el = brandScrollRef.current;
+    if (!el) return;
+    e.preventDefault();
+    const x = e.pageX - el.offsetLeft;
+    const walk = x - startX.current;
+    if (Math.abs(walk) > 3) hasDragged.current = true;
+    el.scrollLeft = scrollLeft.current - walk;
+  }, []);
+
+  const handleMouseUp = useCallback(() => {
+    isDragging.current = false;
+    const el = brandScrollRef.current;
+    if (el) el.style.cursor = "grab";
+  }, []);
+
+  const filteredCars = CARS.filter(car => {
+    const brandMatch = selectedBrandId === "" || car.brandId === selectedBrandId;
+    const originMatch = (selectedOrigin === "domestic" && isDomesticBrand(car.brandId))
+      || (selectedOrigin === "import" && !isDomesticBrand(car.brandId));
+    const searchMatch = searchQuery === "" || car.name.toLowerCase().includes(searchQuery.toLowerCase())
+      || BRANDS.find(b => b.id === car.brandId)?.name.toLowerCase().includes(searchQuery.toLowerCase());
+    const fuelMatch = selectedFuel === "" || (CAR_FUEL_TYPES[car.id] || []).includes(selectedFuel as any);
+    return brandMatch && originMatch && searchMatch && fuelMatch;
+  });
 
   return (
     <div className="bg-background-light min-h-screen relative pb-[100px]">
@@ -40,7 +89,7 @@ export default function HomePage() {
                 렌트제로니까, 안심하고 구매하세요!
               </p>
             </div>
-            <span className="material-symbols-outlined text-slate-400 text-lg group-hover:translate-x-1 transition-transform">chevron_right</span>
+            <span className="material-symbols-outlined text-slate-500 text-lg group-hover:translate-x-1 transition-transform">chevron_right</span>
           </div>
 
           {/* Hero Banner with Modal Trigger */}
@@ -69,14 +118,97 @@ export default function HomePage() {
             </div>
           </section>
 
+          {/* Search Bar */}
+          <section>
+            <div className="relative">
+              <span className="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-500 text-xl">search</span>
+              <input
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="차량명 또는 브랜드 검색"
+                className="w-full pl-10 pr-4 py-3 bg-slate-50 border border-slate-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary placeholder:text-slate-500"
+              />
+              {searchQuery && (
+                <button
+                  onClick={() => setSearchQuery("")}
+                  className="absolute right-3 top-1/2 -translate-y-1/2"
+                >
+                  <span className="material-symbols-outlined text-slate-500 text-lg">close</span>
+                </button>
+              )}
+            </div>
+          </section>
+
+          {/* Origin Filter */}
+          <section>
+            <div className="flex gap-2">
+              {([
+                { id: "domestic", label: "국산차" },
+                { id: "import", label: "수입차" },
+              ] as const).map((opt) => (
+                <button
+                  key={opt.id}
+                  onClick={() => { setSelectedOrigin(opt.id); setSelectedBrandId(""); }}
+                  className={`px-4 py-2 rounded-full text-sm font-bold transition-all ${
+                    selectedOrigin === opt.id
+                      ? "bg-slate-900 text-white shadow-md"
+                      : "bg-slate-100 text-slate-500 hover:bg-slate-200"
+                  }`}
+                >
+                  {opt.label}
+                </button>
+              ))}
+            </div>
+          </section>
+
+          {/* Fuel Type Filter */}
+          <section>
+            <div className="flex gap-1.5 flex-wrap">
+              <button
+                onClick={() => setSelectedFuel("")}
+                className={`px-3 py-1.5 rounded-full text-xs font-bold transition-all ${
+                  selectedFuel === ""
+                    ? "bg-slate-900 text-white shadow-md"
+                    : "bg-slate-100 text-slate-500 hover:bg-slate-200"
+                }`}
+              >
+                전체
+              </button>
+              {(["가솔린", "하이브리드", "디젤", "LPG", "전기", "수소"] as const).map((fuel) => (
+                <button
+                  key={fuel}
+                  onClick={() => setSelectedFuel(selectedFuel === fuel ? "" : fuel)}
+                  className={`px-3 py-1.5 rounded-full text-xs font-bold transition-all ${
+                    selectedFuel === fuel
+                      ? FUEL_TYPE_COLORS[fuel]?.replace("bg-", "bg-").replace("text-", "text-") + " ring-1 ring-current shadow-sm"
+                      : "bg-slate-100 text-slate-500 hover:bg-slate-200"
+                  }`}
+                >
+                  {fuel}
+                </button>
+              ))}
+            </div>
+          </section>
+
           {/* Brand Selection Section */}
           <section>
             <h3 className="text-lg font-bold text-slate-900 mb-3 font-sans">브랜드별 보기</h3>
-            <div className="flex gap-3 overflow-x-auto hide-scrollbar -mx-1 px-1 py-1">
-              {BRANDS.map((brand) => (
+            <div
+              ref={brandScrollRef}
+              onMouseDown={handleMouseDown}
+              onMouseMove={handleMouseMove}
+              onMouseUp={handleMouseUp}
+              onMouseLeave={handleMouseUp}
+              className="flex gap-3 overflow-x-auto hide-scrollbar -mx-1 px-1 py-1 cursor-grab select-none"
+            >
+              {BRANDS.filter(b =>
+                (selectedOrigin === "domestic" && DOMESTIC_BRANDS.includes(b.name))
+                || (selectedOrigin === "import" && !DOMESTIC_BRANDS.includes(b.name))
+              ).map((brand) => (
                 <button
                   key={brand.id}
-                  onClick={() => setSelectedBrandId(brand.id)}
+                  onClick={() => { if (!hasDragged.current) setSelectedBrandId(brand.id); }}
                   className={`flex flex-col items-center gap-2 min-w-[60px] cursor-pointer transition-all ${selectedBrandId === brand.id ? "opacity-100 scale-105" : "opacity-60 hover:opacity-100"
                     }`}
                 >
@@ -106,8 +238,8 @@ export default function HomePage() {
           <section className="pt-2">
             <div className="flex justify-between items-center mb-4">
               <h3 className="text-xl font-bold flex items-center gap-1 font-sans">
-                {selectedBrandId === 'all' ? '대기없는 즉시 출고' : `${BRANDS.find(b => b.id === selectedBrandId)?.name} 즉시 출고`}
-                <span className="material-symbols-outlined text-xl text-slate-400">chevron_right</span>
+                {selectedBrandId === '' ? '대기없는 즉시 출고' : `${BRANDS.find(b => b.id === selectedBrandId)?.name} 즉시 출고`}
+                <span className="material-symbols-outlined text-xl text-slate-500">chevron_right</span>
               </h3>
             </div>
             {filteredCars.length > 0 ? (
@@ -123,22 +255,29 @@ export default function HomePage() {
                       />
                     </div>
                     <div className="flex-1 min-w-0">
-                      <p className="text-[11px] font-semibold text-primary font-sans">{BRANDS.find(b => b.id === car.brandId)?.name}</p>
+                      <div className="flex items-center gap-1 flex-wrap">
+                        <p className="text-[11px] font-semibold text-primary font-sans">{BRANDS.find(b => b.id === car.brandId)?.name}</p>
+                        {(CAR_FUEL_TYPES[car.id] || [car.fuelType]).map((fuel) => (
+                          <span key={fuel} className={`text-[9px] font-bold px-1.5 py-0.5 rounded-full ${FUEL_TYPE_COLORS[fuel] || "bg-slate-100 text-slate-500"}`}>
+                            {fuel}
+                          </span>
+                        ))}
+                      </div>
                       <p className="text-sm font-bold text-slate-800 font-sans truncate">{car.name}</p>
                       <div className="flex items-center gap-1 mt-0.5">
-                        <span className="material-symbols-outlined text-[13px] text-slate-400">star</span>
-                        <span className="text-[11px] text-slate-400 font-sans">{car.gradeCount}개 등급</span>
+                        <span className="material-symbols-outlined text-[13px] text-slate-500">star</span>
+                        <span className="text-[11px] text-slate-500 font-sans">{car.gradeCount}개 등급</span>
                       </div>
                     </div>
                     <div className="flex-shrink-0 text-right">
-                      <p className="text-xs text-slate-400 font-sans">신차가</p>
+                      <p className="text-xs text-slate-500 font-sans">신차가</p>
                       <p className="text-base font-extrabold text-slate-900 font-sans">{(car.startPrice / 10000).toLocaleString()}<span className="text-xs font-medium text-slate-500">만원~</span></p>
                     </div>
                   </div>
                 ))}
               </div>
             ) : (
-              <div className="py-10 text-center text-slate-400 bg-slate-50 rounded-3xl border border-slate-100">
+              <div className="py-10 text-center text-slate-500 bg-slate-50 rounded-3xl border border-slate-100">
                 <span className="material-symbols-outlined text-4xl mb-2">no_crash</span>
                 <p className="text-sm">해당 브랜드의 차량이 없습니다.</p>
               </div>
@@ -146,33 +285,7 @@ export default function HomePage() {
           </section>
         </main>
 
-        {/* Bottom Navigation (5 Tabs) */}
-        <nav className="fixed bottom-0 left-1/2 -translate-x-1/2 w-full max-w-[430px] bg-white border-t border-slate-100 px-6 py-4 flex justify-between items-center z-50">
-          <Link href="/" className="flex flex-col items-center gap-1 group">
-            <span className="material-symbols-outlined text-primary">home</span>
-            <span className="text-[10px] font-bold text-primary font-sans">홈</span>
-          </Link>
-          <div className="flex flex-col items-center gap-1 group text-slate-400">
-            <span className="material-symbols-outlined">electric_bolt</span>
-            <span className="text-[10px] font-medium font-sans">즉시출고</span>
-          </div>
-          <div
-            onClick={() => setIsSearchModalOpen(true)}
-            className="flex flex-col items-center gap-1 group text-slate-400 cursor-pointer"
-          >
-            <span className="material-symbols-outlined">assignment</span>
-            <span className="text-[10px] font-medium font-sans">견적신청</span>
-          </div>
-          <div className="flex flex-col items-center gap-1 group text-slate-400">
-            <span className="material-symbols-outlined">description</span>
-            <span className="text-[10px] font-medium font-sans">내견적함</span>
-          </div>
-          <Link href="/my" className="flex flex-col items-center gap-1 group text-slate-400">
-            <span className="material-symbols-outlined">person_outline</span>
-            <span className="text-[10px] font-medium font-sans">마이</span>
-          </Link>
-        </nav>
-        <div className="fixed bottom-1 left-1/2 -translate-x-1/2 w-32 h-1 bg-slate-200 rounded-full z-[60]"></div>
+        <BottomNav />
 
         {/* Quote Selection Modal (Preserving logic from previous iteration) */}
         {isSearchModalOpen && (

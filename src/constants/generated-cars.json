@@ -3,132 +3,134 @@
     {
       "id": "audi",
       "name": "아우디",
-      "carCount": 11
+      "carCount": 14,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23bb0a30%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "benz",
       "name": "벤츠",
-      "carCount": 3
+      "carCount": 25,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23000000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2216%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EMB%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "bmw",
       "name": "BMW",
-      "carCount": 15
+      "carCount": 31,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%230066b1%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2212%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EBMW%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "cadillac",
       "name": "캐딜락",
-      "carCount": 3
-    },
-    {
-      "id": "citroen",
-      "name": "시트로엥",
-      "carCount": 3
-    },
-    {
-      "id": "ds",
-      "name": "DS",
-      "carCount": 2
+      "carCount": 3,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23000000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "genesis",
       "name": "제네시스",
-      "carCount": 8
+      "carCount": 9,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%231e1e1e%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "gmc",
       "name": "GMC",
-      "carCount": 1
+      "carCount": 3,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23c8102e%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2212%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EGMC%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "honda",
       "name": "혼다",
-      "carCount": 4
+      "carCount": 4,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23cc0000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "hyundai",
       "name": "현대",
-      "carCount": 28
+      "carCount": 22,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23002c5f%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "jeep",
       "name": "지프",
-      "carCount": 3
+      "carCount": 3,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23154734%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "kgm",
       "name": "KGM",
-      "carCount": 9
+      "carCount": 7,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23c8102e%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2212%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EKGM%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "kia",
       "name": "기아",
-      "carCount": 18
+      "carCount": 22,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23bb162b%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "landrover",
       "name": "랜드로버",
-      "carCount": 1
+      "carCount": 7,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23005a2b%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2216%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3ELR%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "lexus",
       "name": "렉서스",
-      "carCount": 5
+      "carCount": 7,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23000000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "lincoln",
       "name": "링컨",
-      "carCount": 1
+      "carCount": 1,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23000000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "peugeot",
       "name": "푸조",
-      "carCount": 2
+      "carCount": 4,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%230057a3%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "polestar",
       "name": "폴스타",
-      "carCount": 1
+      "carCount": 2,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23ffcc00%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2216%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EP*%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "porsche",
       "name": "포르쉐",
-      "carCount": 1
-    },
-    {
-      "id": "smartev",
-      "name": "SMART EV",
-      "carCount": 3
+      "carCount": 5,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23d5001c%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "toyota",
       "name": "토요타",
-      "carCount": 7
+      "carCount": 8,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23eb0a1e%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "volvo",
       "name": "볼보",
-      "carCount": 2
+      "carCount": 8,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23003057%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "르노코리아",
       "name": "르노코리아",
-      "carCount": 2
+      "carCount": 4,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23ffcc00%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "쉐보레",
       "name": "쉐보레",
-      "carCount": 2
-    },
-    {
-      "id": "쎄보모빌리티",
-      "name": "쎄보모빌리티",
-      "carCount": 1
+      "carCount": 3,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23d9a300%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fsvg%3E"
     },
     {
       "id": "테슬라",
       "name": "테슬라",
-      "carCount": 3
+      "carCount": 5,
+      "logoUrl": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2048%2048%22%3E%3Ccircle%20cx%3D%2224%22%20cy%3D%2224%22%20r%3D%2222%22%20fill%3D%22%23cc0000%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-size%3D%2220%22%20font-weight%3D%22bold%22%20font-family%3D%22Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fsvg%3E"
     }
   ],
   "cars": [
@@ -137,7 +139,7 @@
       "brandId": "audi",
       "brandName": "아우디",
       "name": "A3",
-      "imageUrl": "https://autoimg.danawa.com/photo/4707/53484/color_11_360.png",
+      "imageUrl": "/cars/4707.png",
       "startPrice": 44510000,
       "grades": [
         {
@@ -153,41 +155,15 @@
           "price": 51680000
         }
       ],
-      "gradeCount": 3
-    },
-    {
-      "id": "3900",
-      "brandId": "audi",
-      "brandName": "아우디",
-      "name": "A5",
-      "imageUrl": "https://autoimg.danawa.com/photo/3900/52684/color_11_360.png",
-      "startPrice": 60250000,
-      "grades": [
-        {
-          "name": "40 TFSI Quattro Sportback",
-          "price": 60250000
-        },
-        {
-          "name": "40 TFSI Quattro Premium Sportback",
-          "price": 67610000
-        },
-        {
-          "name": "45 TFSI Quattro Premium Sportback",
-          "price": 70550000
-        },
-        {
-          "name": "45 TFSI Quattro Premium Sportback Carbon Edition",
-          "price": 72520000
-        }
-      ],
-      "gradeCount": 4
+      "gradeCount": 3,
+      "fuelType": "가솔린"
     },
     {
       "id": "4735",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "A5",
-      "imageUrl": "https://autoimg.danawa.com/photo/4735/53248/color_11_360.png",
+      "imageUrl": "/cars/4735.png",
       "startPrice": 57890000,
       "grades": [
         {
@@ -235,14 +211,15 @@
           "price": 69090000
         }
       ],
-      "gradeCount": 11
+      "gradeCount": 11,
+      "fuelType": "가솔린"
     },
     {
       "id": "4142",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "A6 e-tron",
-      "imageUrl": "https://autoimg.danawa.com/photo/4142/49311/color_11_360.png",
+      "imageUrl": "/cars/4142.png",
       "startPrice": 94590000,
       "grades": [
         {
@@ -270,14 +247,15 @@
           "price": 105860000
         }
       ],
-      "gradeCount": 6
+      "gradeCount": 6,
+      "fuelType": "전기"
     },
     {
       "id": "3713",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "A6",
-      "imageUrl": "https://autoimg.danawa.com/photo/3713/52673/color_11_360.png",
+      "imageUrl": "/cars/3713.png",
       "startPrice": 72440000,
       "grades": [
         {
@@ -321,14 +299,15 @@
           "price": 84370000
         }
       ],
-      "gradeCount": 10
+      "gradeCount": 10,
+      "fuelType": "가솔린"
     },
     {
       "id": "3537",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "A7",
-      "imageUrl": "https://autoimg.danawa.com/photo/3537/52686/color_11_360.png",
+      "imageUrl": "/cars/3537.png",
       "startPrice": 103570000,
       "grades": [
         {
@@ -340,14 +319,15 @@
           "price": 104690000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4736",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "Q5",
-      "imageUrl": "https://autoimg.danawa.com/photo/4736/53380/color_11_360.png",
+      "imageUrl": "/cars/4736.png",
       "startPrice": 66730000,
       "grades": [
         {
@@ -375,14 +355,15 @@
           "price": 84400000
         }
       ],
-      "gradeCount": 6
+      "gradeCount": 6,
+      "fuelType": "가솔린"
     },
     {
       "id": "4690",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "Q6 e-tron",
-      "imageUrl": "https://autoimg.danawa.com/photo/4690/52115/color_11_360.png",
+      "imageUrl": "/cars/4690.png",
       "startPrice": 82900000,
       "grades": [
         {
@@ -434,14 +415,15 @@
           "price": 106900000
         }
       ],
-      "gradeCount": 12
+      "gradeCount": 12,
+      "fuelType": "전기"
     },
     {
       "id": "4698",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "Q7 2차",
-      "imageUrl": "https://autoimg.danawa.com/photo/4698/53572/color_11_360.png",
+      "imageUrl": "/cars/4698.png",
       "startPrice": 119120000,
       "grades": [
         {
@@ -453,14 +435,15 @@
           "price": 124520000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4697",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "Q8",
-      "imageUrl": "https://autoimg.danawa.com/photo/4697/53497/color_11_360.png",
+      "imageUrl": "/cars/4697.png",
       "startPrice": 123620000,
       "grades": [
         {
@@ -472,14 +455,15 @@
           "price": 130620000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4759",
       "brandId": "audi",
       "brandName": "아우디",
       "name": "e-트론 GT",
-      "imageUrl": "https://autoimg.danawa.com/photo/4759/53445/color_11_360.png",
+      "imageUrl": "/cars/4759.png",
       "startPrice": 170120000,
       "grades": [
         {
@@ -487,14 +471,15 @@
           "price": 170120000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "전기"
     },
     {
       "id": "4037",
       "brandId": "benz",
       "brandName": "벤츠",
       "name": "C-클래스",
-      "imageUrl": "https://autoimg.danawa.com/photo/4037/53201/color_11_360.png",
+      "imageUrl": "/cars/4037.png",
       "startPrice": 62800000,
       "grades": [
         {
@@ -506,14 +491,15 @@
           "price": 65900000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4430",
       "brandId": "benz",
       "brandName": "벤츠",
       "name": "EQE SUV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4430/53227/color_11_360.png",
+      "imageUrl": "/cars/4430.png",
       "startPrice": 113100000,
       "grades": [
         {
@@ -525,14 +511,15 @@
           "price": 136200000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4381",
       "brandId": "benz",
       "brandName": "벤츠",
       "name": "EQS SUV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4381/53233/color_11_360.png",
+      "imageUrl": "/cars/4381.png",
       "startPrice": 162700000,
       "grades": [
         {
@@ -544,14 +531,15 @@
           "price": 190000000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4114",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "2시리즈 액티브 투어러",
-      "imageUrl": "https://autoimg.danawa.com/photo/4114/53448/color_11_360.png",
+      "imageUrl": "/cars/4114.png",
       "startPrice": 50800000,
       "grades": [
         {
@@ -563,14 +551,15 @@
           "price": 52400000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4614",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "4시리즈",
-      "imageUrl": "https://autoimg.danawa.com/photo/4614/53460/color_11_360.png",
+      "imageUrl": "/cars/4614.png",
       "startPrice": 73300000,
       "grades": [
         {
@@ -582,14 +571,15 @@
           "price": 73300000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4196",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "7시리즈",
-      "imageUrl": "https://autoimg.danawa.com/photo/4196/52641/color_11_360.png",
+      "imageUrl": "/cars/4196.png",
       "startPrice": 201100000,
       "grades": [
         {
@@ -621,14 +611,15 @@
           "price": 229000000
         }
       ],
-      "gradeCount": 7
+      "gradeCount": 7,
+      "fuelType": "가솔린"
     },
     {
       "id": "4615",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "M4",
-      "imageUrl": "https://autoimg.danawa.com/photo/4615/53550/color_11_360.png",
+      "imageUrl": "/cars/4615.png",
       "startPrice": 137700000,
       "grades": [
         {
@@ -644,14 +635,15 @@
           "price": 137700000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "가솔린"
     },
     {
       "id": "4371",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "X1",
-      "imageUrl": "https://autoimg.danawa.com/photo/4371/52642/color_11_360.png",
+      "imageUrl": "/cars/4371.png",
       "startPrice": 63100000,
       "grades": [
         {
@@ -679,14 +671,15 @@
           "price": 72200000
         }
       ],
-      "gradeCount": 6
+      "gradeCount": 6,
+      "fuelType": "가솔린"
     },
     {
       "id": "4580",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "X2",
-      "imageUrl": "https://autoimg.danawa.com/photo/4580/53488/color_11_360.png",
+      "imageUrl": "/cars/4580.png",
       "startPrice": 69400000,
       "grades": [
         {
@@ -698,14 +691,15 @@
           "price": 75600000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4475",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "X5",
-      "imageUrl": "https://autoimg.danawa.com/photo/4475/53499/color_11_360.png",
+      "imageUrl": "/cars/4475.png",
       "startPrice": 129400000,
       "grades": [
         {
@@ -721,14 +715,15 @@
           "price": 136100000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "가솔린"
     },
     {
       "id": "4480",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "X6 M",
-      "imageUrl": "https://autoimg.danawa.com/photo/4480/53510/color_11_360.png",
+      "imageUrl": "/cars/4480.png",
       "startPrice": 195800000,
       "grades": [
         {
@@ -736,15 +731,16 @@
           "price": 195800000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "가솔린"
     },
     {
       "id": "4192",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "X7",
-      "imageUrl": "https://autoimg.danawa.com/photo/4192/53511/color_11_360.png",
-      "startPrice": 154300000,
+      "imageUrl": "/cars/4192.png",
+      "startPrice": 152300000,
       "grades": [
         {
           "name": "xDrive40i DPE (6인승)",
@@ -763,14 +759,15 @@
           "price": 154800000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "가솔린"
     },
     {
       "id": "4422",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "XM",
-      "imageUrl": "https://autoimg.danawa.com/photo/4422/53540/color_11_360.png",
+      "imageUrl": "/cars/4422.png",
       "startPrice": 227700000,
       "grades": [
         {
@@ -786,14 +783,15 @@
           "price": 240000000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "가솔린"
     },
     {
       "id": "4424",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "Z4",
-      "imageUrl": "https://autoimg.danawa.com/photo/4424/53493/color_11_360.png",
+      "imageUrl": "/cars/4424.png",
       "startPrice": 76600000,
       "grades": [
         {
@@ -801,14 +799,15 @@
           "price": 76600000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "가솔린"
     },
     {
       "id": "4528",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "i5",
-      "imageUrl": "https://autoimg.danawa.com/photo/4528/53473/color_11_360.png",
+      "imageUrl": "/cars/4528.png",
       "startPrice": 84900000,
       "grades": [
         {
@@ -852,14 +851,15 @@
           "price": 138100000
         }
       ],
-      "gradeCount": 10
+      "gradeCount": 10,
+      "fuelType": "전기"
     },
     {
       "id": "4181",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "i7",
-      "imageUrl": "https://autoimg.danawa.com/photo/4181/52643/color_11_360.png",
+      "imageUrl": "/cars/4181.png",
       "startPrice": 166100000,
       "grades": [
         {
@@ -899,14 +899,15 @@
           "price": 215100000
         }
       ],
-      "gradeCount": 9
+      "gradeCount": 9,
+      "fuelType": "전기"
     },
     {
       "id": "4708",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "iX",
-      "imageUrl": "https://autoimg.danawa.com/photo/4708/53354/color_11_360.png",
+      "imageUrl": "/cars/4708.png",
       "startPrice": 124800000,
       "grades": [
         {
@@ -930,14 +931,15 @@
           "price": 177700000
         }
       ],
-      "gradeCount": 5
+      "gradeCount": 5,
+      "fuelType": "전기"
     },
     {
       "id": "4372",
       "brandId": "bmw",
       "brandName": "BMW",
       "name": "iX1",
-      "imageUrl": "https://autoimg.danawa.com/photo/4372/53452/color_11_360.png",
+      "imageUrl": "/cars/4372.png",
       "startPrice": 64200000,
       "grades": [
         {
@@ -965,14 +967,15 @@
           "price": 70500000
         }
       ],
-      "gradeCount": 6
+      "gradeCount": 6,
+      "fuelType": "전기"
     },
     {
       "id": "4061",
       "brandId": "cadillac",
       "brandName": "캐딜락",
       "name": "리릭",
-      "imageUrl": "https://autoimg.danawa.com/photo/4061/48752/color_11_360.png",
+      "imageUrl": "/cars/4061.png",
       "startPrice": 106960000,
       "grades": [
         {
@@ -980,14 +983,15 @@
           "price": 106960000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "전기"
     },
     {
       "id": "4663",
       "brandId": "cadillac",
       "brandName": "캐딜락",
       "name": "에스컬레이드",
-      "imageUrl": "https://autoimg.danawa.com/photo/4663/53240/color_11_360.png",
+      "imageUrl": "/cars/4663.png",
       "startPrice": 166070000,
       "grades": [
         {
@@ -999,120 +1003,15 @@
           "price": 166070000
         }
       ],
-      "gradeCount": 2
-    },
-    {
-      "id": "3850",
-      "brandId": "cadillac",
-      "brandName": "캐딜락",
-      "name": "에스컬레이드",
-      "imageUrl": "https://autoimg.danawa.com/photo/3850/52919/color_11_360.png",
-      "startPrice": 157570000,
-      "grades": [
-        {
-          "name": "Premium Luxury Platinum",
-          "price": 157570000
-        },
-        {
-          "name": "Sport Platinum",
-          "price": 157570000
-        },
-        {
-          "name": "Twilight Special Edition",
-          "price": 159070000
-        }
-      ],
-      "gradeCount": 3
-    },
-    {
-      "id": "3683",
-      "brandId": "citroen",
-      "brandName": "시트로엥",
-      "name": "C3 에어크로스",
-      "imageUrl": "https://autoimg.danawa.com/photo/3683/49258/color_11_360.png",
-      "startPrice": 33000000,
-      "grades": [
-        {
-          "name": "Shine Pack",
-          "price": 33000000
-        }
-      ],
-      "gradeCount": 1
-    },
-    {
-      "id": "3653",
-      "brandId": "citroen",
-      "brandName": "시트로엥",
-      "name": "그랜드 C4 스페이스투어러",
-      "imageUrl": "https://autoimg.danawa.com/photo/3653/48294/color_11_360.png",
-      "startPrice": 42800000,
-      "grades": [
-        {
-          "name": "Shine",
-          "price": 42800000
-        },
-        {
-          "name": "Shine Pack",
-          "price": 46400000
-        }
-      ],
-      "gradeCount": 2
-    },
-    {
-      "id": "3623",
-      "brandId": "citroen",
-      "brandName": "시트로엥",
-      "name": "뉴 C4 칵투스",
-      "imageUrl": "https://autoimg.danawa.com/photo/3623/48295/color_11_360.png",
-      "startPrice": 32800000,
-      "grades": [
-        {
-          "name": "Shine",
-          "price": 32800000
-        }
-      ],
-      "gradeCount": 1
-    },
-    {
-      "id": "4408",
-      "brandId": "ds",
-      "brandName": "DS",
-      "name": "DS3 크로스백 E-텐스",
-      "imageUrl": "https://autoimg.danawa.com/photo/4408/50003/color_11_360.png",
-      "startPrice": 57900000,
-      "grades": [
-        {
-          "name": "Grand Chic",
-          "price": 57900000
-        }
-      ],
-      "gradeCount": 1
-    },
-    {
-      "id": "3771",
-      "brandId": "ds",
-      "brandName": "DS",
-      "name": "DS7 크로스백",
-      "imageUrl": "https://autoimg.danawa.com/photo/3771/49797/color_11_360.png",
-      "startPrice": 50900000,
-      "grades": [
-        {
-          "name": "So Chic",
-          "price": 50900000
-        },
-        {
-          "name": "Grand Chic",
-          "price": 55900000
-        }
-      ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4660",
       "brandId": "genesis",
       "brandName": "제네시스",
       "name": "G80 EV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4660/52965/color_10_360.png",
+      "imageUrl": "/cars/4660.png",
       "startPrice": 84680000,
       "grades": [
         {
@@ -1120,14 +1019,15 @@
           "price": 84680000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "전기"
     },
     {
       "id": "4603",
       "brandId": "genesis",
       "brandName": "제네시스",
       "name": "G80",
-      "imageUrl": "https://autoimg.danawa.com/photo/4603/53602/color_10_360.png",
+      "imageUrl": "/cars/4603.png",
       "startPrice": 59780000,
       "grades": [
         {
@@ -1151,14 +1051,15 @@
           "price": 82430000
         }
       ],
-      "gradeCount": 5
+      "gradeCount": 10,
+      "fuelType": "가솔린"
     },
     {
       "id": "4016",
       "brandId": "genesis",
       "brandName": "제네시스",
       "name": "G90",
-      "imageUrl": "https://autoimg.danawa.com/photo/4016/53095/color_10_360.png",
+      "imageUrl": "/cars/4016.png",
       "startPrice": 96170000,
       "grades": [
         {
@@ -1186,14 +1087,15 @@
           "price": 131570000
         }
       ],
-      "gradeCount": 6
+      "gradeCount": 6,
+      "fuelType": "가솔린"
     },
     {
       "id": "4701",
       "brandId": "genesis",
       "brandName": "제네시스",
       "name": "GV60",
-      "imageUrl": "https://autoimg.danawa.com/photo/4701/53097/color_10_360.png",
+      "imageUrl": "/cars/4701.png",
       "startPrice": 64900000,
       "grades": [
         {
@@ -1205,14 +1107,15 @@
           "price": 68510000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4761",
       "brandId": "genesis",
       "brandName": "제네시스",
       "name": "GV60 MAGMA",
-      "imageUrl": "https://autoimg.danawa.com/photo/4761/53520/color_10_360.png",
+      "imageUrl": "/cars/4761.png",
       "startPrice": 96570000,
       "grades": [
         {
@@ -1220,14 +1123,15 @@
           "price": 96570000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "전기"
     },
     {
       "id": "4609",
       "brandId": "genesis",
       "brandName": "제네시스",
       "name": "GV70",
-      "imageUrl": "https://autoimg.danawa.com/photo/4609/53474/color_10_360.png",
+      "imageUrl": "/cars/4609.png",
       "startPrice": 53180000,
       "grades": [
         {
@@ -1247,14 +1151,15 @@
           "price": 58890000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 8,
+      "fuelType": "가솔린"
     },
     {
       "id": "4465",
       "brandId": "genesis",
       "brandName": "제네시스",
       "name": "GV80",
-      "imageUrl": "https://autoimg.danawa.com/photo/4465/53406/color_10_360.png",
+      "imageUrl": "/cars/4465.png",
       "startPrice": 67900000,
       "grades": [
         {
@@ -1294,15 +1199,16 @@
           "price": 94770000
         }
       ],
-      "gradeCount": 9
+      "gradeCount": 22,
+      "fuelType": "가솔린"
     },
     {
       "id": "3995",
       "brandId": "genesis",
       "brandName": "제네시스",
       "name": "더 뉴 G70",
-      "imageUrl": "https://autoimg.danawa.com/photo/3995/53617/color_11_360.png",
-      "startPrice": 44380000,
+      "imageUrl": "/cars/3995.png",
+      "startPrice": 46330000,
       "grades": [
         {
           "name": "2WD",
@@ -1321,14 +1227,15 @@
           "price": 50120000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 10,
+      "fuelType": "가솔린"
     },
     {
       "id": "4127",
       "brandId": "gmc",
       "brandName": "GMC",
       "name": "시에라",
-      "imageUrl": "https://autoimg.danawa.com/photo/4127/52445/color_11_360.png",
+      "imageUrl": "/cars/4127.png",
       "startPrice": 94200000,
       "grades": [
         {
@@ -1340,14 +1247,15 @@
           "price": 95900000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4469",
       "brandId": "honda",
       "brandName": "혼다",
       "name": "All New CR-V",
-      "imageUrl": "https://autoimg.danawa.com/photo/4469/53528/color_11_360.png",
+      "imageUrl": "/cars/4469.png",
       "startPrice": 52800000,
       "grades": [
         {
@@ -1355,14 +1263,15 @@
           "price": 52800000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "가솔린"
     },
     {
       "id": "4715",
       "brandId": "honda",
       "brandName": "혼다",
       "name": "뉴 오딧세이",
-      "imageUrl": "https://autoimg.danawa.com/photo/4715/53397/color_11_360.png",
+      "imageUrl": "/cars/4715.png",
       "startPrice": 63400000,
       "grades": [
         {
@@ -1370,14 +1279,15 @@
           "price": 63400000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "가솔린"
     },
     {
       "id": "4547",
       "brandId": "honda",
       "brandName": "혼다",
       "name": "어코드",
-      "imageUrl": "https://autoimg.danawa.com/photo/4547/53187/color_11_360.png",
+      "imageUrl": "/cars/4547.png",
       "startPrice": 52800000,
       "grades": [
         {
@@ -1385,14 +1295,15 @@
           "price": 52800000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "가솔린"
     },
     {
       "id": "4189",
       "brandId": "honda",
       "brandName": "혼다",
       "name": "파일럿",
-      "imageUrl": "https://autoimg.danawa.com/photo/4189/53119/color_11_360.png",
+      "imageUrl": "/cars/4189.png",
       "startPrice": 68100000,
       "grades": [
         {
@@ -1404,15 +1315,16 @@
           "price": 69600000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4626",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "ST1",
-      "imageUrl": "https://autoimg.danawa.com/photo/4626/52293/color_11_360.png",
-      "startPrice": 58740000,
+      "imageUrl": "/cars/4626.png",
+      "startPrice": 56550000,
       "grades": [
         {
           "name": "스타일",
@@ -1427,14 +1339,15 @@
           "price": 64180000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 7,
+      "fuelType": "전기"
     },
     {
       "id": "4677",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "넥쏘",
-      "imageUrl": "https://autoimg.danawa.com/photo/4677/52013/color_10_360.png",
+      "imageUrl": "/cars/4677.png",
       "startPrice": 76440000,
       "grades": [
         {
@@ -1450,14 +1363,15 @@
           "price": 83450000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 6,
+      "fuelType": "수소"
     },
     {
       "id": "4564",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "더 뉴 아반떼 N",
-      "imageUrl": "https://autoimg.danawa.com/photo/4564/53239/color_11_360.png",
+      "imageUrl": "/cars/4564.png",
       "startPrice": 33090000,
       "grades": [
         {
@@ -1477,15 +1391,16 @@
           "price": 37180000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "가솔린"
     },
     {
       "id": "4455",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "더 뉴 아반떼",
-      "imageUrl": "https://autoimg.danawa.com/photo/4455/53228/color_11_360.png",
-      "startPrice": 25230000,
+      "imageUrl": "/cars/4455.png",
+      "startPrice": 20340000,
       "grades": [
         {
           "name": "스마트",
@@ -1508,15 +1423,16 @@
           "price": 31840000
         }
       ],
-      "gradeCount": 5
+      "gradeCount": 12,
+      "fuelType": "가솔린"
     },
     {
       "id": "4592",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "더 뉴 투싼",
-      "imageUrl": "https://autoimg.danawa.com/photo/4592/53356/color_10_360.png",
-      "startPrice": 32700000,
+      "imageUrl": "/cars/4592.png",
+      "startPrice": 28050000,
       "grades": [
         {
           "name": "모던 2WD",
@@ -1567,15 +1483,16 @@
           "price": 41460000
         }
       ],
-      "gradeCount": 12
+      "gradeCount": 24,
+      "fuelType": "가솔린"
     },
     {
       "id": "4188",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "디 올 뉴 그랜저",
-      "imageUrl": "https://autoimg.danawa.com/photo/4188/53278/color_10_360.png",
-      "startPrice": 43540000,
+      "imageUrl": "/cars/4188.png",
+      "startPrice": 37980000,
       "grades": [
         {
           "name": "프리미엄",
@@ -1602,24 +1519,15 @@
           "price": 53930000
         }
       ],
-      "gradeCount": 6
-    },
-    {
-      "id": "3500",
-      "brandId": "hyundai",
-      "brandName": "현대",
-      "name": "마이티",
-      "imageUrl": "https://autoimg.danawa.com/photo/3500/default/color_01_360.png",
-      "startPrice": 0,
-      "grades": [],
-      "gradeCount": 0
+      "gradeCount": 26,
+      "fuelType": "가솔린"
     },
     {
       "id": "3654",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "베뉴",
-      "imageUrl": "https://autoimg.danawa.com/photo/3654/53151/color_11_360.png",
+      "imageUrl": "/cars/3654.png",
       "startPrice": 19260000,
       "grades": [
         {
@@ -1635,15 +1543,16 @@
           "price": 23860000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "가솔린"
     },
     {
       "id": "4765",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "스타리아",
-      "imageUrl": "https://autoimg.danawa.com/photo/4765/53558/color_11_360.png",
-      "startPrice": 38700000,
+      "imageUrl": "/cars/4765.png",
+      "startPrice": 32590000,
       "grades": [
         {
           "name": "11인승 스마트 2WD",
@@ -1662,46 +1571,16 @@
           "price": 39990000
         }
       ],
-      "gradeCount": 4
-    },
-    {
-      "id": "4014",
-      "brandId": "hyundai",
-      "brandName": "현대",
-      "name": "스타리아",
-      "imageUrl": "https://autoimg.danawa.com/photo/4014/52278/color_11_360.png",
-      "startPrice": 41100000,
-      "grades": [
-        {
-          "name": "9인승 프레스티지 2WD",
-          "price": 41100000
-        },
-        {
-          "name": "9인승 인스퍼레이션 2WD",
-          "price": 44970000
-        },
-        {
-          "name": "9인승 리무진 2WD",
-          "price": 62410000
-        },
-        {
-          "name": "7인승 인스퍼레이션 2WD",
-          "price": 45440000
-        },
-        {
-          "name": "7인승 리무진 2WD",
-          "price": 63570000
-        }
-      ],
-      "gradeCount": 5
+      "gradeCount": 25,
+      "fuelType": "가솔린"
     },
     {
       "id": "4435",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "싼타페",
-      "imageUrl": "https://autoimg.danawa.com/photo/4435/53355/color_10_360.png",
-      "startPrice": 39640000,
+      "imageUrl": "/cars/4435.png",
+      "startPrice": 38260000,
       "grades": [
         {
           "name": "익스클루시브 (5인승)",
@@ -1776,15 +1655,16 @@
           "price": 48750000
         }
       ],
-      "gradeCount": 18
+      "gradeCount": 36,
+      "fuelType": "가솔린"
     },
     {
       "id": "4466",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "쏘나타",
-      "imageUrl": "https://autoimg.danawa.com/photo/4466/53436/color_10_360.png",
-      "startPrice": 32700000,
+      "imageUrl": "/cars/4466.png",
+      "startPrice": 28920000,
       "grades": [
         {
           "name": "프리미엄",
@@ -1803,49 +1683,15 @@
           "price": 39790000
         }
       ],
-      "gradeCount": 4
-    },
-    {
-      "id": "3297",
-      "brandId": "hyundai",
-      "brandName": "현대",
-      "name": "쏠라티",
-      "imageUrl": "https://autoimg.danawa.com/photo/3297/52250/color_11_360.png",
-      "startPrice": 67030000,
-      "grades": [
-        {
-          "name": "스탠다드 (15인승)",
-          "price": 67030000
-        },
-        {
-          "name": "스탠다드 (2인승)",
-          "price": 64410000
-        },
-        {
-          "name": "디럭스 (15인승)",
-          "price": 68820000
-        },
-        {
-          "name": "디럭스 (16인승)",
-          "price": 68840000
-        },
-        {
-          "name": "럭셔리 (15인승)",
-          "price": 71040000
-        },
-        {
-          "name": "럭셔리 (2인승)",
-          "price": 68420000
-        }
-      ],
-      "gradeCount": 6
+      "gradeCount": 12,
+      "fuelType": "가솔린"
     },
     {
       "id": "4558",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "아이오닉 5 N",
-      "imageUrl": "https://autoimg.danawa.com/photo/4558/53432/color_10_360.png",
+      "imageUrl": "/cars/4558.png",
       "startPrice": 77690000,
       "grades": [
         {
@@ -1857,15 +1703,16 @@
           "price": 80290000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4624",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "아이오닉 5",
-      "imageUrl": "https://autoimg.danawa.com/photo/4624/53266/color_10_360.png",
-      "startPrice": 54500000,
+      "imageUrl": "/cars/4624.png",
+      "startPrice": 47400000,
       "grades": [
         {
           "name": "익스클루시브 2WD",
@@ -1908,14 +1755,15 @@
           "price": 52980000
         }
       ],
-      "gradeCount": 10
+      "gradeCount": 12,
+      "fuelType": "전기"
     },
     {
       "id": "4742",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "아이오닉 6 N",
-      "imageUrl": "https://autoimg.danawa.com/photo/4742/53334/color_10_360.png",
+      "imageUrl": "/cars/4742.png",
       "startPrice": 79900000,
       "grades": [
         {
@@ -1923,15 +1771,16 @@
           "price": 79900000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "전기"
     },
     {
       "id": "4746",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "아이오닉 6",
-      "imageUrl": "https://autoimg.danawa.com/photo/4746/53344/color_10_360.png",
-      "startPrice": 50640000,
+      "imageUrl": "/cars/4746.png",
+      "startPrice": 48560000,
       "grades": [
         {
           "name": "이-라이트 2WD",
@@ -1974,14 +1823,15 @@
           "price": 63670000
         }
       ],
-      "gradeCount": 10
+      "gradeCount": 13,
+      "fuelType": "전기"
     },
     {
       "id": "4088",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "아이오닉 9",
-      "imageUrl": "https://autoimg.danawa.com/photo/4088/51619/color_10_360.png",
+      "imageUrl": "/cars/4088.png",
       "startPrice": 69030000,
       "grades": [
         {
@@ -2021,34 +1871,15 @@
           "price": 82920000
         }
       ],
-      "gradeCount": 9
-    },
-    {
-      "id": "4400",
-      "brandId": "hyundai",
-      "brandName": "현대",
-      "name": "카운티 EV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4400/default/color_01_360.png",
-      "startPrice": 0,
-      "grades": [],
-      "gradeCount": 0
-    },
-    {
-      "id": "3502",
-      "brandId": "hyundai",
-      "brandName": "현대",
-      "name": "카운티",
-      "imageUrl": "https://autoimg.danawa.com/photo/3502/default/color_01_360.png",
-      "startPrice": 0,
-      "grades": [],
-      "gradeCount": 0
+      "gradeCount": 9,
+      "fuelType": "전기"
     },
     {
       "id": "4653",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "캐스퍼 EV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4653/53342/color_10_360.png",
+      "imageUrl": "/cars/4653.png",
       "startPrice": 27870000,
       "grades": [
         {
@@ -2064,14 +1895,15 @@
           "price": 33370000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "전기"
     },
     {
       "id": "4671",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "캐스퍼",
-      "imageUrl": "https://autoimg.danawa.com/photo/4671/52329/color_10_360.png",
+      "imageUrl": "/cars/4671.png",
       "startPrice": 14930000,
       "grades": [
         {
@@ -2087,15 +1919,16 @@
           "price": 20170000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "가솔린"
     },
     {
       "id": "4510",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "코나 일렉트릭",
-      "imageUrl": "https://autoimg.danawa.com/photo/4510/53270/color_11_360.png",
-      "startPrice": 45660000,
+      "imageUrl": "/cars/4510.png",
+      "startPrice": 41520000,
       "grades": [
         {
           "name": "모던 플러스",
@@ -2114,35 +1947,16 @@
           "price": 50860000
         }
       ],
-      "gradeCount": 4
-    },
-    {
-      "id": "4361",
-      "brandId": "hyundai",
-      "brandName": "현대",
-      "name": "코나",
-      "imageUrl": "https://autoimg.danawa.com/photo/4361/default/color_01_360.png",
-      "startPrice": 0,
-      "grades": [],
-      "gradeCount": 0
-    },
-    {
-      "id": "4003",
-      "brandId": "hyundai",
-      "brandName": "현대",
-      "name": "파비스",
-      "imageUrl": "https://autoimg.danawa.com/photo/4003/default/color_01_360.png",
-      "startPrice": 0,
-      "grades": [],
-      "gradeCount": 0
+      "gradeCount": 6,
+      "fuelType": "전기"
     },
     {
       "id": "4699",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "팰리세이드",
-      "imageUrl": "https://autoimg.danawa.com/photo/4699/52362/color_10_360.png",
-      "startPrice": 49680000,
+      "imageUrl": "/cars/4699.png",
+      "startPrice": 44470000,
       "grades": [
         {
           "name": "익스클루시브 2WD",
@@ -2169,25 +1983,16 @@
           "price": 65630000
         }
       ],
-      "gradeCount": 6
-    },
-    {
-      "id": "4399",
-      "brandId": "hyundai",
-      "brandName": "현대",
-      "name": "포터2 EV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4399/default/color_01_360.png",
-      "startPrice": 0,
-      "grades": [],
-      "gradeCount": 0
+      "gradeCount": 12,
+      "fuelType": "가솔린"
     },
     {
       "id": "1901",
       "brandId": "hyundai",
       "brandName": "현대",
       "name": "포터2",
-      "imageUrl": "https://autoimg.danawa.com/photo/1901/53552/color_11_360.png",
-      "startPrice": 21520000,
+      "imageUrl": "/cars/1901.png",
+      "startPrice": 21410000,
       "grades": [
         {
           "name": "슈퍼캡 초장축 스마트",
@@ -2262,29 +2067,31 @@
           "price": 24780000
         }
       ],
-      "gradeCount": 18
+      "gradeCount": 45,
+      "fuelType": "디젤"
     },
     {
       "id": "4065",
       "brandId": "jeep",
       "brandName": "지프",
       "name": "그랜드 체로키",
-      "imageUrl": "https://autoimg.danawa.com/photo/4065/52942/color_11_360.png",
-      "startPrice": 102300000,
+      "imageUrl": "/cars/4065.png",
+      "startPrice": 76900000,
       "grades": [
         {
           "name": "Summit Reserve",
           "price": 102300000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 13,
+      "fuelType": "가솔린"
     },
     {
       "id": "4732",
       "brandId": "jeep",
       "brandName": "지프",
       "name": "글래디에이터",
-      "imageUrl": "https://autoimg.danawa.com/photo/4732/53214/color_11_360.png",
+      "imageUrl": "/cars/4732.png",
       "startPrice": 85100000,
       "grades": [
         {
@@ -2296,14 +2103,15 @@
           "price": 87100000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4509",
       "brandId": "jeep",
       "brandName": "지프",
       "name": "랭글러",
-      "imageUrl": "https://autoimg.danawa.com/photo/4509/53678/color_11_360.png",
+      "imageUrl": "/cars/4509.png",
       "startPrice": 83900000,
       "grades": [
         {
@@ -2311,14 +2119,15 @@
           "price": 83900000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "가솔린"
     },
     {
       "id": "4545",
       "brandId": "kgm",
       "brandName": "KGM",
       "name": "더 뉴 티볼리",
-      "imageUrl": "https://autoimg.danawa.com/photo/4545/53629/color_11_360.png",
+      "imageUrl": "/cars/4545.png",
       "startPrice": 22300000,
       "grades": [
         {
@@ -2330,14 +2139,15 @@
           "price": 25810000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4518",
       "brandId": "kgm",
       "brandName": "KGM",
       "name": "렉스턴 뉴 아레나",
-      "imageUrl": "https://autoimg.danawa.com/photo/4518/53376/color_10_360.png",
+      "imageUrl": "/cars/4518.png",
       "startPrice": 39990000,
       "grades": [
         {
@@ -2357,14 +2167,15 @@
           "price": 45110000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "디젤"
     },
     {
       "id": "4666",
       "brandId": "kgm",
       "brandName": "KGM",
       "name": "무쏘 EV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4666/53071/color_11_360.png",
+      "imageUrl": "/cars/4666.png",
       "startPrice": 48000000,
       "grades": [
         {
@@ -2384,84 +2195,15 @@
           "price": 53000000
         }
       ],
-      "gradeCount": 4
-    },
-    {
-      "id": "4716",
-      "brandId": "kgm",
-      "brandName": "KGM",
-      "name": "무쏘 스포츠",
-      "imageUrl": "https://autoimg.danawa.com/photo/4716/53378/color_10_360.png",
-      "startPrice": 30120000,
-      "grades": [
-        {
-          "name": "와일드 2WD",
-          "price": 30120000
-        },
-        {
-          "name": "와일드 4WD",
-          "price": 32220000
-        },
-        {
-          "name": "프레스티지 2WD",
-          "price": 35390000
-        },
-        {
-          "name": "프레스티지 (블랙엣지) 2WD",
-          "price": 36040000
-        },
-        {
-          "name": "프레스티지 4WD",
-          "price": 37490000
-        },
-        {
-          "name": "프레스티지 (블랙엣지) 4WD",
-          "price": 38140000
-        }
-      ],
-      "gradeCount": 6
-    },
-    {
-      "id": "4717",
-      "brandId": "kgm",
-      "brandName": "KGM",
-      "name": "무쏘 칸",
-      "imageUrl": "https://autoimg.danawa.com/photo/4717/53379/color_10_360.png",
-      "startPrice": 32320000,
-      "grades": [
-        {
-          "name": "와일드 2WD",
-          "price": 32320000
-        },
-        {
-          "name": "와일드 4WD",
-          "price": 34420000
-        },
-        {
-          "name": "프레스티지 2WD",
-          "price": 37590000
-        },
-        {
-          "name": "프레스티지 (블랙엣지) 2WD",
-          "price": 38240000
-        },
-        {
-          "name": "프레스티지 4WD",
-          "price": 39690000
-        },
-        {
-          "name": "프레스티지 (블랙엣지) 4WD",
-          "price": 40340000
-        }
-      ],
-      "gradeCount": 6
+      "gradeCount": 4,
+      "fuelType": "전기"
     },
     {
       "id": "4766",
       "brandId": "kgm",
       "brandName": "KGM",
       "name": "무쏘",
-      "imageUrl": "https://autoimg.danawa.com/photo/4766/53570/color_11_360.png",
+      "imageUrl": "/cars/4766.png",
       "startPrice": 29900000,
       "grades": [
         {
@@ -2505,64 +2247,31 @@
           "price": 42700000
         }
       ],
-      "gradeCount": 10
+      "gradeCount": 10,
+      "fuelType": "가솔린"
     },
     {
       "id": "4622",
       "brandId": "kgm",
       "brandName": "KGM",
       "name": "액티언",
-      "imageUrl": "https://autoimg.danawa.com/photo/4622/53301/color_11_360.png",
-      "startPrice": 36950000,
+      "imageUrl": "/cars/4622.png",
+      "startPrice": 34170000,
       "grades": [
         {
           "name": "S8 2WD",
           "price": 36950000
         }
       ],
-      "gradeCount": 1
-    },
-    {
-      "id": "3635",
-      "brandId": "kgm",
-      "brandName": "KGM",
-      "name": "코란도",
-      "imageUrl": "https://autoimg.danawa.com/photo/3635/52489/color_11_360.png",
-      "startPrice": 24100000,
-      "grades": [
-        {
-          "name": "C5 2WD",
-          "price": 24100000
-        },
-        {
-          "name": "C5 플러스 2WD",
-          "price": 25930000
-        },
-        {
-          "name": "C7 2WD",
-          "price": 27870000
-        },
-        {
-          "name": "C7 4WD",
-          "price": 29700000
-        },
-        {
-          "name": "C7 블랙에디션 2WD",
-          "price": 28360000
-        },
-        {
-          "name": "C7 블랙에디션 4WD",
-          "price": 30190000
-        }
-      ],
-      "gradeCount": 6
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4492",
       "brandId": "kgm",
       "brandName": "KGM",
       "name": "토레스 EVX",
-      "imageUrl": "https://autoimg.danawa.com/photo/4492/53664/color_11_360.png",
+      "imageUrl": "/cars/4492.png",
       "startPrice": 46020000,
       "grades": [
         {
@@ -2574,15 +2283,16 @@
           "price": 48120000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4647",
       "brandId": "kia",
       "brandName": "기아",
       "name": "EV3",
-      "imageUrl": "https://autoimg.danawa.com/photo/4647/53657/color_10_360.png",
-      "startPrice": 44150000,
+      "imageUrl": "/cars/4647.png",
+      "startPrice": 39950000,
       "grades": [
         {
           "name": "에어 2WD",
@@ -2609,15 +2319,16 @@
           "price": 51100000
         }
       ],
-      "gradeCount": 6
+      "gradeCount": 10,
+      "fuelType": "전기"
     },
     {
       "id": "4712",
       "brandId": "kia",
       "brandName": "기아",
       "name": "EV4",
-      "imageUrl": "https://autoimg.danawa.com/photo/4712/53660/color_10_360.png",
-      "startPrice": 44620000,
+      "imageUrl": "/cars/4712.png",
+      "startPrice": 40420000,
       "grades": [
         {
           "name": "에어 2WD",
@@ -2644,14 +2355,15 @@
           "price": 52460000
         }
       ],
-      "gradeCount": 6
+      "gradeCount": 9,
+      "fuelType": "전기"
     },
     {
       "id": "4128",
       "brandId": "kia",
       "brandName": "기아",
       "name": "EV9",
-      "imageUrl": "https://autoimg.danawa.com/photo/4128/53668/color_10_360.png",
+      "imageUrl": "/cars/4128.png",
       "startPrice": 61970000,
       "grades": [
         {
@@ -2703,14 +2415,15 @@
           "price": 73830000
         }
       ],
-      "gradeCount": 12
+      "gradeCount": 24,
+      "fuelType": "전기"
     },
     {
       "id": "4714",
       "brandId": "kia",
       "brandName": "기아",
       "name": "PV5",
-      "imageUrl": "https://autoimg.danawa.com/photo/4714/53291/color_11_360.png",
+      "imageUrl": "/cars/4714.png",
       "startPrice": 45400000,
       "grades": [
         {
@@ -2722,15 +2435,16 @@
           "price": 48200000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4641",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 EV6",
-      "imageUrl": "https://autoimg.danawa.com/photo/4641/53639/color_10_360.png",
-      "startPrice": 47610000,
+      "imageUrl": "/cars/4641.png",
+      "startPrice": 43600000,
       "grades": [
         {
           "name": "라이트 2WD",
@@ -2765,15 +2479,16 @@
           "price": 59340000
         }
       ],
-      "gradeCount": 8
+      "gradeCount": 12,
+      "fuelType": "전기"
     },
     {
       "id": "4585",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 K5",
-      "imageUrl": "https://autoimg.danawa.com/photo/4585/53302/color_10_360.png",
-      "startPrice": 32410000,
+      "imageUrl": "/cars/4585.png",
+      "startPrice": 27240000,
       "grades": [
         {
           "name": "프레스티지",
@@ -2792,15 +2507,16 @@
           "price": 38680000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 12,
+      "fuelType": "가솔린"
     },
     {
       "id": "4665",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 K8",
-      "imageUrl": "https://autoimg.danawa.com/photo/4665/53307/color_10_360.png",
-      "startPrice": 42060000,
+      "imageUrl": "/cars/4665.png",
+      "startPrice": 36790000,
       "grades": [
         {
           "name": "노블레스 라이트",
@@ -2823,14 +2539,15 @@
           "price": 50530000
         }
       ],
-      "gradeCount": 5
+      "gradeCount": 20,
+      "fuelType": "가솔린"
     },
     {
       "id": "4066",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 K9",
-      "imageUrl": "https://autoimg.danawa.com/photo/4066/53671/color_10_360.png",
+      "imageUrl": "/cars/4066.png",
       "startPrice": 65940000,
       "grades": [
         {
@@ -2854,14 +2571,15 @@
           "price": 85820000
         }
       ],
-      "gradeCount": 5
+      "gradeCount": 10,
+      "fuelType": "가솔린"
     },
     {
       "id": "4689",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 레이",
-      "imageUrl": "https://autoimg.danawa.com/photo/4689/53384/color_11_360.png",
+      "imageUrl": "/cars/4689.png",
       "startPrice": 14900000,
       "grades": [
         {
@@ -2881,14 +2599,15 @@
           "price": 20030000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "가솔린"
     },
     {
       "id": "4554",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 모닝",
-      "imageUrl": "https://autoimg.danawa.com/photo/4554/52374/color_11_360.png",
+      "imageUrl": "/cars/4554.png",
       "startPrice": 13950000,
       "grades": [
         {
@@ -2908,14 +2627,15 @@
           "price": 18700000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "가솔린"
     },
     {
       "id": "4391",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 셀토스",
-      "imageUrl": "https://autoimg.danawa.com/photo/4391/53252/color_10_360.png",
+      "imageUrl": "/cars/4391.png",
       "startPrice": 22660000,
       "grades": [
         {
@@ -2951,15 +2671,16 @@
           "price": 30810000
         }
       ],
-      "gradeCount": 8
+      "gradeCount": 16,
+      "fuelType": "가솔린"
     },
     {
       "id": "4684",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 스포티지",
-      "imageUrl": "https://autoimg.danawa.com/photo/4684/53375/color_10_360.png",
-      "startPrice": 33460000,
+      "imageUrl": "/cars/4684.png",
+      "startPrice": 28630000,
       "grades": [
         {
           "name": "프레스티지 2WD",
@@ -2994,15 +2715,16 @@
           "price": 42140000
         }
       ],
-      "gradeCount": 8
+      "gradeCount": 28,
+      "fuelType": "가솔린"
     },
     {
       "id": "4563",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 쏘렌토",
-      "imageUrl": "https://autoimg.danawa.com/photo/4563/53335/color_10_360.png",
-      "startPrice": 38960000,
+      "imageUrl": "/cars/4563.png",
+      "startPrice": 38080000,
       "grades": [
         {
           "name": "프레스티지 (5인승)",
@@ -3053,15 +2775,16 @@
           "price": 46270000
         }
       ],
-      "gradeCount": 12
+      "gradeCount": 36,
+      "fuelType": "가솔린"
     },
     {
       "id": "4586",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 뉴 카니발",
-      "imageUrl": "https://autoimg.danawa.com/photo/4586/52417/color_10_360.png",
-      "startPrice": 47080000,
+      "imageUrl": "/cars/4586.png",
+      "startPrice": 36360000,
       "grades": [
         {
           "name": "노블레스",
@@ -3080,14 +2803,15 @@
           "price": 51320000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 28,
+      "fuelType": "디젤"
     },
     {
       "id": "4691",
       "brandId": "kia",
       "brandName": "기아",
       "name": "더 레이 EV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4691/53388/color_11_360.png",
+      "imageUrl": "/cars/4691.png",
       "startPrice": 28350000,
       "grades": [
         {
@@ -3099,14 +2823,15 @@
           "price": 30350000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4396",
       "brandId": "kia",
       "brandName": "기아",
       "name": "디 올 뉴 니로 EV",
-      "imageUrl": "https://autoimg.danawa.com/photo/4396/53255/color_10_360.png",
+      "imageUrl": "/cars/4396.png",
       "startPrice": 48550000,
       "grades": [
         {
@@ -3118,14 +2843,15 @@
           "price": 51200000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4130",
       "brandId": "kia",
       "brandName": "기아",
       "name": "디 올 뉴 니로",
-      "imageUrl": "https://autoimg.danawa.com/photo/4130/53254/color_10_360.png",
+      "imageUrl": "/cars/4130.png",
       "startPrice": 27870000,
       "grades": [
         {
@@ -3145,14 +2871,15 @@
           "price": 34980000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4686",
       "brandId": "kia",
       "brandName": "기아",
       "name": "타스만",
-      "imageUrl": "https://autoimg.danawa.com/photo/4686/52081/color_10_360.png",
+      "imageUrl": "/cars/4686.png",
       "startPrice": 37500000,
       "grades": [
         {
@@ -3180,14 +2907,15 @@
           "price": 47550000
         }
       ],
-      "gradeCount": 6
+      "gradeCount": 13,
+      "fuelType": "디젤"
     },
     {
       "id": "4064",
       "brandId": "landrover",
       "brandName": "랜드로버",
       "name": "디스커버리",
-      "imageUrl": "https://autoimg.danawa.com/photo/4064/53161/color_11_360.png",
+      "imageUrl": "/cars/4064.png",
       "startPrice": 96000000,
       "grades": [
         {
@@ -3195,14 +2923,15 @@
           "price": 96000000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "디젤"
     },
     {
       "id": "4031",
       "brandId": "lexus",
       "brandName": "렉서스",
       "name": "LS",
-      "imageUrl": "https://autoimg.danawa.com/photo/4031/53544/color_11_360.png",
+      "imageUrl": "/cars/4031.png",
       "startPrice": 155970000,
       "grades": [
         {
@@ -3214,14 +2943,15 @@
           "price": 176870000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4164",
       "brandId": "lexus",
       "brandName": "렉서스",
       "name": "NX",
-      "imageUrl": "https://autoimg.danawa.com/photo/4164/53598/color_11_360.png",
+      "imageUrl": "/cars/4164.png",
       "startPrice": 66950000,
       "grades": [
         {
@@ -3233,14 +2963,15 @@
           "price": 76130000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4093",
       "brandId": "lexus",
       "brandName": "렉서스",
       "name": "New ES",
-      "imageUrl": "https://autoimg.danawa.com/photo/4093/52238/color_11_360.png",
+      "imageUrl": "/cars/4093.png",
       "startPrice": 67250000,
       "grades": [
         {
@@ -3252,14 +2983,15 @@
           "price": 71880000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4390",
       "brandId": "lexus",
       "brandName": "렉서스",
       "name": "RX",
-      "imageUrl": "https://autoimg.danawa.com/photo/4390/53643/color_11_360.png",
+      "imageUrl": "/cars/4390.png",
       "startPrice": 86750000,
       "grades": [
         {
@@ -3271,14 +3003,15 @@
           "price": 97430000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "하이브리드"
     },
     {
       "id": "3688",
       "brandId": "lexus",
       "brandName": "렉서스",
       "name": "UX",
-      "imageUrl": "https://autoimg.danawa.com/photo/3688/53601/color_11_360.png",
+      "imageUrl": "/cars/3688.png",
       "startPrice": 52120000,
       "grades": [
         {
@@ -3290,14 +3023,15 @@
           "price": 58700000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4512",
       "brandId": "lincoln",
       "brandName": "링컨",
       "name": "노틸러스",
-      "imageUrl": "https://autoimg.danawa.com/photo/4512/52938/color_11_360.png",
+      "imageUrl": "/cars/4512.png",
       "startPrice": 76200000,
       "grades": [
         {
@@ -3305,14 +3039,15 @@
           "price": 76200000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "가솔린"
     },
     {
       "id": "4377",
       "brandId": "peugeot",
       "brandName": "푸조",
       "name": "408",
-      "imageUrl": "https://autoimg.danawa.com/photo/4377/53313/color_11_360.png",
+      "imageUrl": "/cars/4377.png",
       "startPrice": 43900000,
       "grades": [
         {
@@ -3324,14 +3059,15 @@
           "price": 48900000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4628",
       "brandId": "peugeot",
       "brandName": "푸조",
       "name": "5008",
-      "imageUrl": "https://autoimg.danawa.com/photo/4628/53622/color_11_360.png",
+      "imageUrl": "/cars/4628.png",
       "startPrice": 48900000,
       "grades": [
         {
@@ -3343,14 +3079,15 @@
           "price": 55900000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4468",
       "brandId": "polestar",
       "brandName": "폴스타",
       "name": "폴스타 2",
-      "imageUrl": "https://autoimg.danawa.com/photo/4468/52983/color_10_360.png",
+      "imageUrl": "/cars/4468.png",
       "startPrice": 43900000,
       "grades": [
         {
@@ -3366,14 +3103,15 @@
           "price": 60900000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "전기"
     },
     {
       "id": "4593",
       "brandId": "porsche",
       "brandName": "포르쉐",
       "name": "파나메라",
-      "imageUrl": "https://autoimg.danawa.com/photo/4593/53133/color_11_360.png",
+      "imageUrl": "/cars/4593.png",
       "startPrice": 194000000,
       "grades": [
         {
@@ -3381,59 +3119,15 @@
           "price": 194000000
         }
       ],
-      "gradeCount": 1
-    },
-    {
-      "id": "3815",
-      "brandId": "smartev",
-      "brandName": "SMART EV",
-      "name": "D2C",
-      "imageUrl": "https://autoimg.danawa.com/photo/3815/50615/color_11_360.png",
-      "startPrice": 19800000,
-      "grades": [
-        {
-          "name": "D2C",
-          "price": 19800000
-        }
-      ],
-      "gradeCount": 1
-    },
-    {
-      "id": "3836",
-      "brandId": "smartev",
-      "brandName": "SMART EV",
-      "name": "D2P",
-      "imageUrl": "https://autoimg.danawa.com/photo/3836/50616/color_11_360.png",
-      "startPrice": 19800000,
-      "grades": [
-        {
-          "name": "D2P",
-          "price": 19800000
-        }
-      ],
-      "gradeCount": 1
-    },
-    {
-      "id": "3904",
-      "brandId": "smartev",
-      "brandName": "SMART EV",
-      "name": "Z",
-      "imageUrl": "https://autoimg.danawa.com/photo/3904/50614/color_11_360.png",
-      "startPrice": 27500000,
-      "grades": [
-        {
-          "name": "EV Z",
-          "price": 27500000
-        }
-      ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "가솔린"
     },
     {
       "id": "4177",
       "brandId": "toyota",
       "brandName": "토요타",
       "name": "GR 86",
-      "imageUrl": "https://autoimg.danawa.com/photo/4177/53495/color_12_360.png",
+      "imageUrl": "/cars/4177.png",
       "startPrice": 42970000,
       "grades": [
         {
@@ -3445,14 +3139,15 @@
           "price": 48960000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4173",
       "brandId": "toyota",
       "brandName": "토요타",
       "name": "RAV4",
-      "imageUrl": "https://autoimg.danawa.com/photo/4173/53259/color_11_360.png",
+      "imageUrl": "/cars/4173.png",
       "startPrice": 44150000,
       "grades": [
         {
@@ -3464,14 +3159,15 @@
           "price": 49980000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4063",
       "brandId": "toyota",
       "brandName": "토요타",
       "name": "시에나",
-      "imageUrl": "https://autoimg.danawa.com/photo/4063/53120/color_11_360.png",
+      "imageUrl": "/cars/4063.png",
       "startPrice": 72890000,
       "grades": [
         {
@@ -3479,14 +3175,15 @@
           "price": 72890000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4473",
       "brandId": "toyota",
       "brandName": "토요타",
       "name": "알파드",
-      "imageUrl": "https://autoimg.danawa.com/photo/4473/53628/color_11_360.png",
+      "imageUrl": "/cars/4473.png",
       "startPrice": 86780000,
       "grades": [
         {
@@ -3498,14 +3195,15 @@
           "price": 100490000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4447",
       "brandId": "toyota",
       "brandName": "토요타",
       "name": "크라운",
-      "imageUrl": "https://autoimg.danawa.com/photo/4447/53404/color_11_360.png",
+      "imageUrl": "/cars/4447.png",
       "startPrice": 68450000,
       "grades": [
         {
@@ -3513,14 +3211,15 @@
           "price": 68450000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4439",
       "brandId": "toyota",
       "brandName": "토요타",
       "name": "프리우스",
-      "imageUrl": "https://autoimg.danawa.com/photo/4439/53400/color_11_360.png",
+      "imageUrl": "/cars/4439.png",
       "startPrice": 39680000,
       "grades": [
         {
@@ -3536,14 +3235,15 @@
           "price": 45300000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4460",
       "brandId": "toyota",
       "brandName": "토요타",
       "name": "하이랜더",
-      "imageUrl": "https://autoimg.danawa.com/photo/4460/52230/color_11_360.png",
+      "imageUrl": "/cars/4460.png",
       "startPrice": 74030000,
       "grades": [
         {
@@ -3551,14 +3251,15 @@
           "price": 74030000
         }
       ],
-      "gradeCount": 1
+      "gradeCount": 1,
+      "fuelType": "하이브리드"
     },
     {
       "id": "4007",
       "brandId": "volvo",
       "brandName": "볼보",
       "name": "V90 크로스 컨트리",
-      "imageUrl": "https://autoimg.danawa.com/photo/4007/52861/color_11_360.png",
+      "imageUrl": "/cars/4007.png",
       "startPrice": 71548000,
       "grades": [
         {
@@ -3570,14 +3271,15 @@
           "price": 77666580
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "가솔린"
     },
     {
       "id": "4405",
       "brandId": "volvo",
       "brandName": "볼보",
       "name": "XC40",
-      "imageUrl": "https://autoimg.danawa.com/photo/4405/53468/color_11_360.png",
+      "imageUrl": "/cars/4405.png",
       "startPrice": 51201700,
       "grades": [
         {
@@ -3597,15 +3299,16 @@
           "price": 56100000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "가솔린"
     },
     {
       "id": "4659",
       "brandId": "르노코리아",
       "brandName": "르노코리아",
       "name": "그랑 콜레오스",
-      "imageUrl": "https://autoimg.danawa.com/photo/4659/52469/color_10_360.png",
-      "startPrice": 38150000,
+      "imageUrl": "/cars/4659.png",
+      "startPrice": 34970000,
       "grades": [
         {
           "name": "테크노",
@@ -3624,14 +3327,15 @@
           "price": 43920000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 10,
+      "fuelType": "가솔린"
     },
     {
       "id": "4772",
       "brandId": "르노코리아",
       "brandName": "르노코리아",
       "name": "필랑트",
-      "imageUrl": "https://autoimg.danawa.com/photo/4772/53621/color_10_360.png",
+      "imageUrl": "/cars/4772.png",
       "startPrice": 43320000,
       "grades": [
         {
@@ -3651,14 +3355,15 @@
           "price": 52190000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "가솔린"
     },
     {
       "id": "4474",
       "brandId": "쉐보레",
       "brandName": "쉐보레",
       "name": "더 뉴 트레일블레이저",
-      "imageUrl": "https://autoimg.danawa.com/photo/4474/53261/color_10_360.png",
+      "imageUrl": "/cars/4474.png",
       "startPrice": 27570000,
       "grades": [
         {
@@ -3678,14 +3383,15 @@
           "price": 32880000
         }
       ],
-      "gradeCount": 4
+      "gradeCount": 4,
+      "fuelType": "가솔린"
     },
     {
       "id": "4429",
       "brandId": "쉐보레",
       "brandName": "쉐보레",
       "name": "트랙스 크로스오버",
-      "imageUrl": "https://autoimg.danawa.com/photo/4429/53333/color_11_360.png",
+      "imageUrl": "/cars/4429.png",
       "startPrice": 21550000,
       "grades": [
         {
@@ -3709,29 +3415,15 @@
           "price": 29300000
         }
       ],
-      "gradeCount": 5
-    },
-    {
-      "id": "4045",
-      "brandId": "쎄보모빌리티",
-      "brandName": "쎄보모빌리티",
-      "name": "CEVO-C SE",
-      "imageUrl": "https://autoimg.danawa.com/photo/4045/50503/color_11_360.png",
-      "startPrice": 16900000,
-      "grades": [
-        {
-          "name": "기본형",
-          "price": 16900000
-        }
-      ],
-      "gradeCount": 1
+      "gradeCount": 5,
+      "fuelType": "가솔린"
     },
     {
       "id": "4610",
       "brandId": "테슬라",
       "brandName": "테슬라",
       "name": "모델 3 하이랜드",
-      "imageUrl": "https://autoimg.danawa.com/photo/4610/53634/color_10_360.png",
+      "imageUrl": "/cars/4610.png",
       "startPrice": 41990000,
       "grades": [
         {
@@ -3747,14 +3439,15 @@
           "price": 59990000
         }
       ],
-      "gradeCount": 3
+      "gradeCount": 3,
+      "fuelType": "전기"
     },
     {
       "id": "4027",
       "brandId": "테슬라",
       "brandName": "테슬라",
       "name": "모델 X",
-      "imageUrl": "https://autoimg.danawa.com/photo/4027/52950/color_10_360.png",
+      "imageUrl": "/cars/4027.png",
       "startPrice": 135000000,
       "grades": [
         {
@@ -3766,14 +3459,15 @@
           "price": 150000000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
     },
     {
       "id": "4667",
       "brandId": "테슬라",
       "brandName": "테슬라",
       "name": "모델 Y 주니퍼",
-      "imageUrl": "https://autoimg.danawa.com/photo/4667/53635/color_10_360.png",
+      "imageUrl": "/cars/4667.png",
       "startPrice": 49990000,
       "grades": [
         {
@@ -3785,7 +3479,3204 @@
           "price": 59990000
         }
       ],
-      "gradeCount": 2
+      "gradeCount": 2,
+      "fuelType": "전기"
+    },
+    {
+      "id": "4361",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "코나",
+      "imageUrl": "/cars/4361.png",
+      "startPrice": 24090000,
+      "grades": [
+        {
+          "name": "모던 2WD",
+          "price": 24090000
+        },
+        {
+          "name": "H-Pick 2WD",
+          "price": 24990000
+        },
+        {
+          "name": "프리미엄 2WD",
+          "price": 27530000
+        },
+        {
+          "name": "프리미엄 4WD",
+          "price": 30200000
+        },
+        {
+          "name": "인스퍼레이션 2WD",
+          "price": 30340000
+        }
+      ],
+      "gradeCount": 27,
+      "fuelType": "가솔린"
+    },
+    {
+      "id": "4399",
+      "brandId": "hyundai",
+      "brandName": "현대",
+      "name": "포터2 EV",
+      "imageUrl": "/cars/4399.png",
+      "startPrice": 43250000,
+      "grades": [
+        {
+          "name": "슈퍼캡 초장축 스타일 스페셜",
+          "price": 43250000
+        },
+        {
+          "name": "슈퍼캡 초장축 스마트 스페셜",
+          "price": 44600000
+        },
+        {
+          "name": "슈퍼캡 초장축 프리미엄 스페셜",
+          "price": 46200000
+        },
+        {
+          "name": "저상내장탑차",
+          "price": 48780000
+        },
+        {
+          "name": "파워게이트",
+          "price": 49220000
+        }
+      ],
+      "gradeCount": 18,
+      "fuelType": "전기"
+    },
+    {
+      "id": "4516",
+      "brandId": "benz",
+      "name": "E-클래스",
+      "imageUrl": "/cars/4516.png",
+      "startPrice": 69000000,
+      "gradeCount": 17,
+      "fuelType": "하이브리드",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "E200 Avantgarde A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "E200 AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "E300 4MATIC Exclusive A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "E300 4MATIC AMG Line A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "E450 4MATIC AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "E450 4MATIC Exclusive A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "E220d 4MATIC Exclusive A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "E350e 4MATIC Exclusive A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "E200 Avantgarde Limited A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "E450 4MATIC A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG E53 Hybrid 4MATIC+ A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG E53 Hybrid 4MATIC+ Edition 1 A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4373",
+      "brandId": "benz",
+      "name": "GLC-클래스",
+      "imageUrl": "/cars/4373.png",
+      "startPrice": 80300000,
+      "gradeCount": 14,
+      "fuelType": "디젤",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "GLC300 4MATIC Avantgarde A/T GLC300 4MATIC Avantgarde A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "GLC300 4MATIC AMG Line A/T GLC300 4MATIC AMG Line A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "GLC220d 4MATIC A/T GLC220d 4MATIC A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "GLC300 4MATIC Coupe Avantgarde A/T GLC300 4MATIC Coupe Avantgarde A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "GLC300 4MATIC Coupe AMG Line A/T GLC300 4MATIC Coupe AMG Line A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG GLC43 4MATIC A/T AMG GLC43 4MATIC A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG GLC43 4MATIC Coupe A/T AMG GLC43 4MATIC Coupe A/T -",
+          "trimCount": 2
+        },
+        {
+          "name": "GLC300 4MATIC Avantgarde A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLC300 4MATIC AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLC220d 4MATIC A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLC300 4MATIC Coupe Avantgarde A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLC300 4MATIC Coupe AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG GLC43 4MATIC A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4471",
+      "brandId": "benz",
+      "name": "GLE-클래스",
+      "imageUrl": "/cars/4471.png",
+      "startPrice": 116600000,
+      "gradeCount": 15,
+      "fuelType": "디젤",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "GLE350 4MATIC A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "GLE450 4MATIC A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "GLE450 4MATIC AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLE300d 4MATIC A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "GLE450 4MATIC Coupe AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLE450d 4MATIC Coupe AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG GLE53 4MATIC+ A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "AMG GLE53 4MATIC+ Coupe A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "GLE450 4MATIC Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLE450d 4MATIC Coupe A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "3992",
+      "brandId": "benz",
+      "name": "S-클래스",
+      "imageUrl": "/cars/3992.png",
+      "startPrice": 151600000,
+      "gradeCount": 11,
+      "fuelType": "하이브리드",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "S450 4MATIC A/T S450 4MATIC A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "S450 4MATIC Long A/T S450 4MATIC Long A/T -",
+          "trimCount": 2
+        },
+        {
+          "name": "S500 4MATIC Long A/T S500 4MATIC Long A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "S580 4MATIC Long A/T S580 4MATIC Long A/T -",
+          "trimCount": 2
+        },
+        {
+          "name": "S350d 4MATIC A/T S350d 4MATIC A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "Mercedes-AMG S63 E Performance A/T Mercedes-AMG S63 E Performance A/T -",
+          "trimCount": 2
+        },
+        {
+          "name": "S500 4MATIC Long A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "S350d 4MATIC A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4555",
+      "brandId": "benz",
+      "name": "CLE",
+      "imageUrl": "/cars/4555.png",
+      "startPrice": 74200000,
+      "gradeCount": 12,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "CLE200 Coupe AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "CLE450 4MATIC Coupe AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "CLE200 Cabriolet AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "CLE450 4MATIC Cabriolet AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG CLE53 4MATIC+ Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG CLE53 4MATIC+ Coupe Limited Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG CLE53 4MATIC+ Cabriolet A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "CLE200 Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "CLE450 4MATIC Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "CLE200 Cabriolet A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "CLE450 4MATIC Cabriolet A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4629",
+      "brandId": "benz",
+      "name": "G-클래스",
+      "imageUrl": "/cars/4629.png",
+      "startPrice": 187600000,
+      "gradeCount": 8,
+      "fuelType": "디젤",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "G450d A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "G450d MANUFAKTUR A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "Mercedes-AMG G63 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "G450d Edition Stronger Than 1980s A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Mercedes-AMG G63 MANUFAKTUR A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4507",
+      "brandId": "benz",
+      "name": "GLS-클래스",
+      "imageUrl": "/cars/4507.png",
+      "startPrice": 157100000,
+      "gradeCount": 6,
+      "fuelType": "디젤",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "GLS450 4MATIC AMG Line Premium A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLS580 4MATIC AMG Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG GLS63 4MATIC+ A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLS450 4MATIC A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLS580 4MATIC A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLS450d 4MATIC A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4461",
+      "brandId": "benz",
+      "name": "CLA-클래스",
+      "imageUrl": "/cars/4461.png",
+      "startPrice": 57400000,
+      "gradeCount": 5,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "CLA250 4MATIC AMG Line A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "AMG CLA45 S 4MATIC+ A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "CLA250 4MATIC Progressive A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4496",
+      "brandId": "benz",
+      "name": "GLB-클래스",
+      "imageUrl": "/cars/4496.png",
+      "startPrice": 63300000,
+      "gradeCount": 4,
+      "fuelType": "디젤",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "GLB250 4MATIC A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "GLB200d A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG GLB35 4MATIC A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4427",
+      "brandId": "benz",
+      "name": "A-클래스",
+      "imageUrl": "/cars/4427.png",
+      "startPrice": 48100000,
+      "gradeCount": 8,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "A220 Hatchback A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "A220 Sedan A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "AMG A45 S 4MATIC+ Hatchback A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "AMG A35 4MATIC Sedan A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "AMG A45 S 4MATIC+ Hatchback Limited Edition A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4569",
+      "brandId": "benz",
+      "name": "EQB",
+      "imageUrl": "/cars/4569.png",
+      "startPrice": 78100000,
+      "gradeCount": 4,
+      "fuelType": "전기",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "EQB300 4MATIC Progressive A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "EQB300 4MATIC AMG Line A/T",
+          "trimCount": 2
+        }
+      ]
+    },
+    {
+      "id": "4568",
+      "brandId": "benz",
+      "name": "EQA",
+      "imageUrl": "/cars/4568.png",
+      "startPrice": 69300000,
+      "gradeCount": 4,
+      "fuelType": "전기",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "EQA250 Progressive A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "EQA250 AMG Line A/T",
+          "trimCount": 2
+        }
+      ]
+    },
+    {
+      "id": "4011",
+      "brandId": "benz",
+      "name": "Maybach S-클래스",
+      "imageUrl": "/cars/4011.png",
+      "startPrice": 309600000,
+      "gradeCount": 5,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "Mercedes-Maybach S580 A/T Mercedes-Maybach S580 A/T -",
+          "trimCount": 2
+        },
+        {
+          "name": "Mercedes-Maybach S680 A/T Mercedes-Maybach S680 A/T -",
+          "trimCount": 2
+        },
+        {
+          "name": "Mercedes-Maybach S680 V12 Edition A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4508",
+      "brandId": "benz",
+      "name": "Maybach GLS",
+      "imageUrl": "/cars/4508.png",
+      "startPrice": 287600000,
+      "gradeCount": 4,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "GLS600 4MATIC A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "GLS600 4MATIC MANUFAKTUR A/T",
+          "trimCount": 2
+        }
+      ]
+    },
+    {
+      "id": "4495",
+      "brandId": "benz",
+      "name": "GLA-클래스",
+      "imageUrl": "/cars/4495.png",
+      "startPrice": 69100000,
+      "gradeCount": 2,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "GLA250 4MATIC A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GLA250 4MATIC AMG Line A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4566",
+      "brandId": "benz",
+      "name": "The New AMG GT",
+      "imageUrl": "/cars/4566.png",
+      "startPrice": 205600000,
+      "gradeCount": 5,
+      "fuelType": "하이브리드",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "AMG GT 63 S E Performance A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "AMG GT 55 4MATIC+ A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "AMG GT 55 4MATIC+ Launch Edition A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "3982",
+      "brandId": "benz",
+      "name": "AMG GT",
+      "imageUrl": "/cars/3982.png",
+      "startPrice": 159300000,
+      "gradeCount": 2,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "AMG GT 43 4MATIC+ A/T AMG GT 43 4MATIC+ A/T -",
+          "trimCount": 2
+        }
+      ]
+    },
+    {
+      "id": "4638",
+      "brandId": "benz",
+      "name": "Electric G-클래스",
+      "imageUrl": "/cars/4638.png",
+      "startPrice": 207600000,
+      "gradeCount": 3,
+      "fuelType": "전기",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "G580 with EQ Technology A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "G580 with EQ Technology Edition ONE A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4111",
+      "brandId": "benz",
+      "name": "EQE",
+      "imageUrl": "/cars/4111.png",
+      "startPrice": 110000000,
+      "gradeCount": 1,
+      "fuelType": "전기",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "EQE350+ A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4511",
+      "brandId": "benz",
+      "name": "Maybach EQS SUV",
+      "imageUrl": "/cars/4511.png",
+      "startPrice": 228100000,
+      "gradeCount": 1,
+      "fuelType": "전기",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "Mercedes-Maybach EQS680 A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4670",
+      "brandId": "benz",
+      "name": "Maybach SL",
+      "imageUrl": "/cars/4670.png",
+      "startPrice": 342600000,
+      "gradeCount": 1,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "Maybach SL680 A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4380",
+      "brandId": "benz",
+      "name": "SL-클래스",
+      "imageUrl": "/cars/4380.png",
+      "startPrice": 155600000,
+      "gradeCount": 3,
+      "fuelType": "가솔린",
+      "brandName": "벤츠",
+      "grades": [
+        {
+          "name": "AMG SL43 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "AMG SL63 4MATIC+ A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4517",
+      "brandId": "bmw",
+      "name": "5시리즈",
+      "imageUrl": "/cars/4517.png",
+      "startPrice": 69800000,
+      "gradeCount": 27,
+      "fuelType": "하이브리드",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "530e A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530e M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530e M Sport (P0-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530e xDrive M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530e xDrive M Sport Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "550e xDrive M Sport Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "550e xDrive M Sport Pro (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "550e xDrive M Sport Pro Special Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "550e xDrive M Sport Pro Best Seller Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "520i A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "520i M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "520i M Sport (P0-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "520i M Sport Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530i xDrive A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530i xDrive (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530i xDrive M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530i xDrive M Sport (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "530i xDrive M Sport Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d M Sport (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d M Sport (P1-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d xDrive A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d xDrive (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d xDrive M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "523d xDrive M Sport (P1) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4656",
+      "brandId": "bmw",
+      "name": "X3",
+      "imageUrl": "/cars/4656.png",
+      "startPrice": 68500000,
+      "gradeCount": 10,
+      "fuelType": "디젤",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "20 xDrive A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "20 xDrive (P0-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "20 xDrive M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "20 xDrive M Sport (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "20 xDrive M Sport Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "20 xDrive M Sport Pro Dune Grey Anniversary ED A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "30 xDrive M Sport Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M50 xDrive Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "20d xDrive A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "20d xDrive M Sport A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4650",
+      "brandId": "bmw",
+      "name": "3시리즈",
+      "imageUrl": "/cars/4650.png",
+      "startPrice": 59000000,
+      "gradeCount": 24,
+      "fuelType": "디젤",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "320i A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320i M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320i M Sport (P0-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320i M Sport Pro Special Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320i M Sport M Performace Parts Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M340i Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M340i Pro (P0-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M340i Pro (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M340i Pro M Performance Parts Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M340i Pro M Performance Parts Expert Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320d A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320d M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320d xDrive A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320d xDrive M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320i Touring A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320i Touring (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320i Touring M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320i Touring M Sport (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M340i xDrive Touring Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M340i xDrive Touring Pro (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320d Touring A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320d Touring (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320d Touring M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "320d Touring M Sport (P1) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4476",
+      "brandId": "bmw",
+      "name": "X6",
+      "imageUrl": "/cars/4476.png",
+      "startPrice": 126500000,
+      "gradeCount": 5,
+      "fuelType": "디젤",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "xDrive40i M Sport A/T xDrive40i M Sport A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "xDrive40i M Sport Pro Best Seller Edition A/T xDrive40i M Sport Pro Best Seller Edition A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "M60i xDrive Pro A/T M60i xDrive Pro A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "xDrive30d M Sport A/T xDrive30d M Sport A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "xDrive40d M Sport Pro Online Exclusive A/T xDrive40d M Sport Pro Online Exclusive A/T -",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4072",
+      "brandId": "bmw",
+      "name": "X4",
+      "imageUrl": "/cars/4072.png",
+      "startPrice": 73300000,
+      "gradeCount": 5,
+      "fuelType": "디젤",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "xDrive20i xLine (P3) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "xDrive20i M Sport Pro SE (P2) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "xDrive20i M Sport Pro SE (P2-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M40i (P3) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "xDrive20d M Sport (P3) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4652",
+      "brandId": "bmw",
+      "name": "1시리즈",
+      "imageUrl": "/cars/4652.png",
+      "startPrice": 48400000,
+      "gradeCount": 3,
+      "fuelType": "가솔린",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "120 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "120 M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M135 xDrive A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4683",
+      "brandId": "bmw",
+      "name": "2시리즈 그란쿠페",
+      "imageUrl": "/cars/4683.png",
+      "startPrice": 49900000,
+      "gradeCount": 5,
+      "fuelType": "가솔린",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "220 Gran Coupe M Sport Design A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "220 Gran Coupe M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "228 xDrive Gran Coupe M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M235 xDrive Gran Coupe Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M235 xDrive Gran Coupe Pro (P0-0) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4655",
+      "brandId": "bmw",
+      "name": "M2",
+      "imageUrl": "/cars/4655.png",
+      "startPrice": 91700000,
+      "gradeCount": 2,
+      "fuelType": "가솔린",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "M2 Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M2 Coupe (P1) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4171",
+      "brandId": "bmw",
+      "name": "8시리즈",
+      "imageUrl": "/cars/4171.png",
+      "startPrice": 146700000,
+      "gradeCount": 4,
+      "fuelType": "가솔린",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "M850i xDrive Coupe M Performance A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M850i xDrive Gran Coupe M Performance A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M850i xDrive Gran Coupe M Performance (P0-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M850i xDrive Gran Coupe Individual Dark Emerald ED A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4657",
+      "brandId": "bmw",
+      "name": "M5",
+      "imageUrl": "/cars/4657.png",
+      "startPrice": 168100000,
+      "gradeCount": 7,
+      "fuelType": "하이브리드",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "M5 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M5 (P0-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M5 (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M5 Touring A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M5 Touring (P0-0) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M5 Touring (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M5 Touring (P1-0) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4649",
+      "brandId": "bmw",
+      "name": "M3",
+      "imageUrl": "/cars/4649.png",
+      "startPrice": 136600000,
+      "gradeCount": 6,
+      "fuelType": "가솔린",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "M3 Competition M xDrive A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M3 Competition M xDrive (P0-9) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M3 Competition M xDrive (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M3 Competition M xDrive Touring A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M3 Competition M xDrive Touring (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "M3 Competition M xDrive Touring Special Edition A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4582",
+      "brandId": "bmw",
+      "name": "iX2",
+      "imageUrl": "/cars/4582.png",
+      "startPrice": 65800000,
+      "gradeCount": 2,
+      "fuelType": "전기",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "eDrive20 M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "eDrive20 M Sport (P1) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "3803",
+      "brandId": "bmw",
+      "name": "2시리즈",
+      "imageUrl": "/cars/3803.png",
+      "startPrice": 74300000,
+      "gradeCount": 1,
+      "fuelType": "가솔린",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "M240i xDrive Coupe Online Exclusive A/T M240i xDrive Coupe Online Exclusive A/T -",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4479",
+      "brandId": "bmw",
+      "name": "X5 M",
+      "imageUrl": "/cars/4479.png",
+      "startPrice": 191700000,
+      "gradeCount": 1,
+      "fuelType": "가솔린",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "X5 M Competition A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4639",
+      "brandId": "bmw",
+      "name": "i4",
+      "imageUrl": "/cars/4639.png",
+      "startPrice": 78300000,
+      "gradeCount": 12,
+      "fuelType": "전기",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "i4 eDrive40 Gran Coupe M Sport A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 eDrive40 Gran Coupe M Sport (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 eDrive40 Gran Coupe M Sport Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 eDrive40 Gran Coupe M Sport Pro (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 M60 xDrive Gran Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 M60 xDrive Gran Coupe (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 M60 xDrive Gran Coupe Pro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 M60 xDrive Gran Coupe Pro (P1) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 eDrive40 Gran Coupe M Sport (P2) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 eDrive40 Gran Coupe M Sport Pro (P2) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 M50 xDrive Gran Coupe (P2) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "i4 M50 xDrive Gran Coupe Pro (P2) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4073",
+      "brandId": "bmw",
+      "name": "X4 M",
+      "imageUrl": "/cars/4073.png",
+      "startPrice": 130200000,
+      "gradeCount": 2,
+      "fuelType": "가솔린",
+      "brandName": "BMW",
+      "grades": [
+        {
+          "name": "X4 M Competition (P3) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "X4 M Competition (P3-0) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "3668",
+      "brandId": "audi",
+      "name": "Q3",
+      "imageUrl": "/cars/3668.png",
+      "startPrice": 50210000,
+      "gradeCount": 20,
+      "fuelType": "디젤",
+      "brandName": "아우디",
+      "grades": [
+        {
+          "name": "40 TFSI Quattro A/T 40 TFSI Quattro A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Premium A/T 40 TFSI Quattro Premium A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Sportback A/T 40 TFSI Quattro Sportback A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Premium Sportback A/T 40 TFSI Quattro Premium Sportback A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "35 TDI A/T 35 TDI A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "35 TDI Premium A/T 35 TDI Premium A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "35 TDI Sportback A/T 35 TDI Sportback A/T -",
+          "trimCount": 1
+        },
+        {
+          "name": "35 TDI Premium Sportback A/T 35 TDI Premium Sportback A/T -",
+          "trimCount": 2
+        },
+        {
+          "name": "40 TFSI Quattro A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro (ULEV50) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Premium A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Premium (ULEV50) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Sportback A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Sportback (ULEV50) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Premium Sportback A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "40 TFSI Quattro Premium Sportback (ULEV50) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "35 TDI A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "35 TDI Premium A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "35 TDI Sportback A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4062",
+      "brandId": "audi",
+      "name": "Q4 e-tron",
+      "imageUrl": "/cars/4062.png",
+      "startPrice": 64300000,
+      "gradeCount": 19,
+      "fuelType": "전기",
+      "brandName": "아우디",
+      "grades": [
+        {
+          "name": "45 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "45 Premium A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "45 Sportback A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "45 Premium Sportback A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "45 (PWB) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 (KA6) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 (KA6+PWB) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 Premium (J6J6) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 Premium (PWB) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 Premium (PWB+J6J6) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 Premium (KA6) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 Premium (KA6+PWB) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 Sportback (KA6) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 Premium Sportback (J6J6) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "45 Premium Sportback (KA6) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4431",
+      "brandId": "audi",
+      "name": "A8",
+      "imageUrl": "/cars/4431.png",
+      "startPrice": 145020000,
+      "gradeCount": 3,
+      "fuelType": "디젤",
+      "brandName": "아우디",
+      "grades": [
+        {
+          "name": "A8 L 55 TFSI Quattro Premium A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "A8 50 TDI Quattro Premium A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "S8 TFSI A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4436",
+      "brandId": "audi",
+      "name": "Q8 e-tron",
+      "imageUrl": "/cars/4436.png",
+      "startPrice": 118720000,
+      "gradeCount": 4,
+      "fuelType": "전기",
+      "brandName": "아우디",
+      "grades": [
+        {
+          "name": "55 e-tron Quattro A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "55 e-tron Quattro Premium A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "SQ8 e-tron A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "3775",
+      "brandId": "landrover",
+      "name": "디펜더",
+      "imageUrl": "/cars/3775.png",
+      "startPrice": 106970000,
+      "gradeCount": 11,
+      "fuelType": "디젤",
+      "brandName": "랜드로버",
+      "grades": [
+        {
+          "name": "90 P400 X A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "90 D250 X-Dynamic SE A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "110 P300 X-Dynamic SE A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "110 P400 X A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "130 P400 X-Dynamic HSE A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "130 P400 Outbound A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P635 OCTA A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P635 OCTA Edition One A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "110 D250 X-Dynamic SE A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "110 D300 X-Dynamic HSE A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "130 D300 X-Dynamic HSE A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4119",
+      "brandId": "landrover",
+      "name": "레인지로버",
+      "imageUrl": "/cars/4119.png",
+      "startPrice": 236570000,
+      "gradeCount": 12,
+      "fuelType": "하이브리드",
+      "brandName": "랜드로버",
+      "grades": [
+        {
+          "name": "P550e Autobiography SWB A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P530 Autobiography SWB A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P530 Autobiography LWB A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P530 Autobiography LWB (7인승) A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P615 LWB SV A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P615 LWB SV Black A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P615 SV LWB A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "D350 Autobiography LWB A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4472",
+      "brandId": "landrover",
+      "name": "레인지로버 벨라",
+      "imageUrl": "/cars/4472.png",
+      "startPrice": 91900000,
+      "gradeCount": 6,
+      "fuelType": "하이브리드",
+      "brandName": "랜드로버",
+      "grades": [
+        {
+          "name": "P400e Dynamic SE A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P250 Dynamic SE A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P400 Autobiography A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P400 Dynamic HSE A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4363",
+      "brandId": "landrover",
+      "name": "레인지로버 스포츠",
+      "imageUrl": "/cars/4363.png",
+      "startPrice": 133170000,
+      "gradeCount": 15,
+      "fuelType": "하이브리드",
+      "brandName": "랜드로버",
+      "grades": [
+        {
+          "name": "P550e Dynamic HSE A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P360 Dynamic SE A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P360 Dynamic HSE A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P400 Autobiography A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P635 SV A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P635 SV Black A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P635 SV Carbon A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P635 SV Edition Two Marl Grey Gloss A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P635 SV Edition Two Ligurian Black Gloss A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P635 SV Edition Two Sunrise Copper Satin A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P635 SV Edition Two Blue Nebula Matte A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4551",
+      "brandId": "landrover",
+      "name": "레인지로버 이보크",
+      "imageUrl": "/cars/4551.png",
+      "startPrice": 74400000,
+      "gradeCount": 4,
+      "fuelType": "가솔린",
+      "brandName": "랜드로버",
+      "grades": [
+        {
+          "name": "P250 S A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "P250 Dynamic SE A/T",
+          "trimCount": 2
+        }
+      ]
+    },
+    {
+      "id": "4548",
+      "brandId": "landrover",
+      "name": "디스커버리 스포츠",
+      "imageUrl": "/cars/4548.png",
+      "startPrice": 74500000,
+      "gradeCount": 2,
+      "fuelType": "가솔린",
+      "brandName": "랜드로버",
+      "grades": [
+        {
+          "name": "P250 S A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "P250 Dynamic SE A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4747",
+      "brandId": "volvo",
+      "name": "XC60",
+      "imageUrl": "/cars/4747.png",
+      "startPrice": 64820000,
+      "gradeCount": 6,
+      "fuelType": "하이브리드",
+      "brandName": "볼보",
+      "grades": [
+        {
+          "name": "T8 AWD Ultra Bright A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 AWD Plus Bright A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 AWD Ultra Bright A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 AWD Ultra Dark A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 AWD Ultra Bright (Air Sus) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 AWD Ultra Dark (Air Sus) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4737",
+      "brandId": "volvo",
+      "name": "XC90",
+      "imageUrl": "/cars/4737.png",
+      "startPrice": 87030000,
+      "gradeCount": 5,
+      "fuelType": "하이브리드",
+      "brandName": "볼보",
+      "grades": [
+        {
+          "name": "T8 AWD Ultra Bright A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "T8 AWD Ultra Dark A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B6 AWD Plus A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B6 AWD Ultra Bright A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B6 AWD Ultra Dark A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4740",
+      "brandId": "volvo",
+      "name": "S90",
+      "imageUrl": "/cars/4740.png",
+      "startPrice": 64360000,
+      "gradeCount": 7,
+      "fuelType": "하이브리드",
+      "brandName": "볼보",
+      "grades": [
+        {
+          "name": "T8 AWD Ultra Bright A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 Plus Bright A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 Ultra Bright A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 Ultra Dark A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 Ultra Bright (Air Sus) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 Ultra Dark (Air Sus) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 Launch Edition A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4421",
+      "brandId": "volvo",
+      "name": "V60 크로스 컨트리",
+      "imageUrl": "/cars/4421.png",
+      "startPrice": 55850000,
+      "gradeCount": 4,
+      "fuelType": "가솔린",
+      "brandName": "볼보",
+      "grades": [
+        {
+          "name": "B5 AWD Ultra A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "B5 AWD Ultra Forest Lake Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "B5 AWD Plus A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4446",
+      "brandId": "volvo",
+      "name": "EX30",
+      "imageUrl": "/cars/4446.png",
+      "startPrice": 47520000,
+      "gradeCount": 2,
+      "fuelType": "전기",
+      "brandName": "볼보",
+      "grades": [
+        {
+          "name": "Core A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Ultra A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4750",
+      "brandId": "volvo",
+      "name": "EX30 CC",
+      "imageUrl": "/cars/4750.png",
+      "startPrice": 55120000,
+      "gradeCount": 1,
+      "fuelType": "전기",
+      "brandName": "볼보",
+      "grades": [
+        {
+          "name": "Twin Motor Performance Ultra A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4619",
+      "brandId": "porsche",
+      "name": "타이칸",
+      "imageUrl": "/cars/4619.png",
+      "startPrice": 131000000,
+      "gradeCount": 13,
+      "fuelType": "전기",
+      "brandName": "포르쉐",
+      "grades": [
+        {
+          "name": "Taycan A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan 4 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan 4 Black Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan 4S A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan 4S Black Edition A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan GTS A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan Turbo A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan Turbo S A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan Turbo GT A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan Turbo GT with Weissach package A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan 4 Cross Turismo A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan 4S Cross Turismo A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Taycan Turbo Cross Turismo A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4506",
+      "brandId": "porsche",
+      "name": "카이엔",
+      "imageUrl": "/cars/4506.png",
+      "startPrice": 143800000,
+      "gradeCount": 11,
+      "fuelType": "하이브리드",
+      "brandName": "포르쉐",
+      "grades": [
+        {
+          "name": "Cayenne E-Hybrid A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne S E-Hybrid A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne Turbo E-Hybrid A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne GTS A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne E-Hybrid Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne S E-Hybrid Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne Turbo E-Hybrid Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne GTS Coupe A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cayenne Turbo GT Coupe A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4651",
+      "brandId": "porsche",
+      "name": "The New 911",
+      "imageUrl": "/cars/4651.png",
+      "startPrice": 229800000,
+      "gradeCount": 15,
+      "fuelType": "가솔린",
+      "brandName": "포르쉐",
+      "grades": [
+        {
+          "name": "911 Carrera GTS Coupe A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "911 Carrera 4 GTS Coupe A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "911 Carrera GTS Cabriolet A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "911 Carrera 4 GTS Cabriolet A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "911 Spirit 70 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "911 Targa 4 GTS A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "911 GT3 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "911 GT3 with Touring Package A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "911 Turbo S A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "911 Turbo S Cabriolet A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4613",
+      "brandId": "porsche",
+      "name": "마칸 일렉트릭",
+      "imageUrl": "/cars/4613.png",
+      "startPrice": 99100000,
+      "gradeCount": 8,
+      "fuelType": "전기",
+      "brandName": "포르쉐",
+      "grades": [
+        {
+          "name": "Macan 4 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "Macan 4S A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "Macan GTS A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Macan Turbo A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "Macan A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4763",
+      "brandId": "kia",
+      "name": "디 올 뉴 셀토스",
+      "imageUrl": "/cars/4763.png",
+      "startPrice": 24770000,
+      "gradeCount": 20,
+      "fuelType": "하이브리드",
+      "brandName": "기아",
+      "grades": [
+        {
+          "name": "트렌디 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "프레스티지 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "시그니처 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "X-Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "트렌디 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "트렌디 4WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "프레스티지 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "프레스티지 4WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "시그니처 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "시그니처 4WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "X-Line 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "X-Line 4WD A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "3772",
+      "brandId": "kia",
+      "name": "봉고 3",
+      "imageUrl": "/cars/3772.png",
+      "startPrice": 19880000,
+      "gradeCount": 288,
+      "fuelType": "가솔린",
+      "brandName": "기아",
+      "grades": [
+        {
+          "name": "킹캡 초장축 L 라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "킹캡 초장축 L 라이트 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "킹캡 초장축 L M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "킹캡 초장축 스마트 셀렉션 A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "킹캡 초장축 GL M/T",
+          "trimCount": 4
+        },
+        {
+          "name": "킹캡 초장축 GL A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "킹캡 초장축 GLS M/T",
+          "trimCount": 4
+        },
+        {
+          "name": "킹캡 초장축 GLS A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "더블캡 초장축 L 라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "더블캡 초장축 L 라이트 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "더블캡 초장축 L M/T",
+          "trimCount": 4
+        },
+        {
+          "name": "더블캡 초장축 L A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "더블캡 초장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "더블캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "더블캡 초장축 GLS M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "더블캡 초장축 GLS A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "표준캡 초장축 L 라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "표준캡 초장축 L 라이트 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "표준캡 초장축 L M/T",
+          "trimCount": 4
+        },
+        {
+          "name": "표준캡 초장축 L A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "표준캡 초장축 GL M/T",
+          "trimCount": 4
+        },
+        {
+          "name": "표준캡 초장축 GL A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "표준캡 초장축 GLS M/T",
+          "trimCount": 4
+        },
+        {
+          "name": "표준캡 초장축 GLS A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "킹캡 장축 GL 라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "킹캡 장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "킹캡 장축 GLS M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "더블캡 장축 GL 라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "더블캡 장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "더블캡 장축 GLS M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "표준캡 장축 GL 라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "표준캡 장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "표준캡 장축 GLS M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 로우 킹캡 초장축 L라이트 듀얼컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 로우 킹캡 초장축 L라이트 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 L라이트 듀얼컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 L라이트 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 표준캡 초장축 L 듀얼컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 표준캡 초장축 L 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 L 듀얼컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 L 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 GL 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 하이 킹캡 초장축 L라이트 듀얼컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 하이 킹캡 초장축 L라이트 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 하이 킹캡 초장축 L 듀얼컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 하이 킹캡 초장축 L 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 하이 킹캡 초장축 GL 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉장탑차 스탠다드 킹캡 초장축 L 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉장탑차 하이 킹캡 초장축 L 듀얼컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉장탑차 하이 킹캡 초장축 L 듀얼컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉장탑 파워게이트 스탠다드 킹캡 초장축 L 듀얼컴프 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "내장탑차 로우 킹캡 초장축 L라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 로우 킹캡 초장축 L라이트 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 스탠다드 킹캡 초장축 L라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 스탠다드 킹캡 초장축 L라이트 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 스탠다드 킹캡 초장축 L M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 스탠다드 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 스탠다드 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 킹캡 초장축 L라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 킹캡 초장축 L라이트 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 표준캡 초장축 L M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 표준캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 킹캡 초장축 L M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 킹캡 초장축 GL A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "양문형 미닫이탑차 로우 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "양문형 미닫이탑차 하이 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "택배전용탑차 하이 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "워크스루밴 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑 파워게이트 하이 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 수동식 킹캡 초장축 L라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 수동식 킹캡 초장축 L라이트 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 전동식 킹캡 초장축 L라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 전동식 킹캡 초장축 L라이트 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 수동식 킹캡 초장축 L M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 수동식 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 전동식 킹캡 초장축 L M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 전동식 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 수동식 킹캡 초장축 GL A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "윙바디 전동식 킹캡 초장축 GL A/T",
+          "trimCount": 4
+        },
+        {
+          "name": "윙바디 확장형 킹캡 초장축 GL A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "덤프 일반형 4WD 킹캡 장축 GL 라이트 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "덤프 일반형 4WD 킹캡 장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "덤프 일반형 4WD 킹캡 장축 GL 전동유압식 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "덤프 3WAY형 4WD 킹캡 장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "파워게이트 수직형(2단) 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "파워게이트 턴인형(2단) 킹캡 초장축 L A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 표준캡 초장축 GL 싱글컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 표준캡 초장축 GL 싱글컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 GL 싱글컴프 M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 GL 싱글컴프 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 표준캡 초장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 표준캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 킹캡 초장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 수동식 킹캡 초장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 전동식 표준캡 초장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 전동식 표준캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 전동식 킹캡 초장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "파워게이트 수직형(2단) 킹캡 초장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "파워게이트 수직형(2단) 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "파워게이트 턴인형(2단) 킹캡 초장축 GL M/T",
+          "trimCount": 2
+        },
+        {
+          "name": "파워게이트 턴인형(2단) 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "빌트인 냉동탑차 스탠다드 킹캡 초장축 L 듀얼컴프 M/T",
+          "trimCount": 1
+        },
+        {
+          "name": "빌트인 냉동탑차 스탠다드 킹캡 초장축 L 듀얼컴프 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "냉온장탑차 스탠다드 킹캡 초장축 L 듀얼컴프 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "고급형 내장탑차 하이 킹캡 초장축 L A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "홈로리 2WD 킹캡 초장축 GL M/T",
+          "trimCount": 1
+        },
+        {
+          "name": "홈로리 4WD 표준캡 장축 GL M/T",
+          "trimCount": 1
+        },
+        {
+          "name": "활어수송차 킹캡 초장축 L A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "와이드 파워게이트 턴인형(2단) 킹캡 초장축 L M/T",
+          "trimCount": 1
+        },
+        {
+          "name": "와이드 파워게이트 턴인형(2단) 킹캡 초장축 L A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4499",
+      "brandId": "kia",
+      "name": "EV5",
+      "imageUrl": "/cars/4499.png",
+      "startPrice": 41530000,
+      "gradeCount": 9,
+      "fuelType": "전기",
+      "brandName": "기아",
+      "grades": [
+        {
+          "name": "에어 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "에어 4WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "어스 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "어스 4WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GT-Line 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GT-Line 4WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "에어 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "어스 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GT-Line A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GT A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4404",
+      "brandId": "kia",
+      "name": "봉고 3 EV",
+      "imageUrl": "/cars/4404.png",
+      "startPrice": 43250000,
+      "gradeCount": 29,
+      "fuelType": "전기",
+      "brandName": "기아",
+      "grades": [
+        {
+          "name": "1톤 2WD 킹캡 초장축 스마트 셀렉션 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "1톤 2WD 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "1톤 2WD 킹캡 초장축 GLS A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 로우 킹캡 초장축 GL 듀얼컴프 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 GL 듀얼컴프 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "냉동탑차 하이 킹캡 초장축 GL 듀얼컴프 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "내장탑차 로우 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 스탠다드 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "내장탑차 하이 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 수동식 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "윙바디 전동식 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "양문형 미닫이탑차 로우 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "양문형 미닫이탑차 하이 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "파워게이트 수직형(2단) 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "파워게이트 턴인형(2단) 킹캡 초장축 GL A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "냉동탑차 로우 킹캡 초장축 GL A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "냉동탑차 스탠다드 킹캡 초장축 GL A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4565",
+      "brandId": "cadillac",
+      "name": "에스컬레이드 IQ",
+      "imageUrl": "/cars/4565.png",
+      "startPrice": 277570000,
+      "gradeCount": 1,
+      "fuelType": "전기",
+      "brandName": "캐딜락",
+      "grades": [
+        {
+          "name": "Premium Sport A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4705",
+      "brandId": "genesis",
+      "name": "Electrified GV70",
+      "imageUrl": "/cars/4705.png",
+      "startPrice": 75300000,
+      "gradeCount": 1,
+      "fuelType": "전기",
+      "brandName": "제네시스",
+      "grades": [
+        {
+          "name": "e-AWD A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4777",
+      "brandId": "gmc",
+      "name": "아카디아",
+      "imageUrl": "/cars/4777.png",
+      "startPrice": 89900000,
+      "gradeCount": 1,
+      "fuelType": "가솔린",
+      "brandName": "GMC",
+      "grades": [
+        {
+          "name": "Denali Ultimate A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4779",
+      "brandId": "gmc",
+      "name": "캐니언",
+      "imageUrl": "/cars/4779.png",
+      "startPrice": 76850000,
+      "gradeCount": 1,
+      "fuelType": "가솔린",
+      "brandName": "GMC",
+      "grades": [
+        {
+          "name": "Denali A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4646",
+      "brandId": "kgm",
+      "name": "토레스",
+      "imageUrl": "/cars/4646.png",
+      "startPrice": 28100000,
+      "gradeCount": 27,
+      "fuelType": "하이브리드",
+      "brandName": "KGM",
+      "grades": [
+        {
+          "name": "T5 2WD A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "T7 2WD A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "블랙엣지 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "T7 AWD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "블랙 엣지 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "블랙 엣지 AWD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "TL5 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "TL7 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "TL7 AWD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "TV5 2WD A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "TV7 2WD A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "TV7 AWD A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "택시 2WD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "택시 AWD A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4635",
+      "brandId": "lexus",
+      "name": "LM",
+      "imageUrl": "/cars/4635.png",
+      "startPrice": 146570000,
+      "gradeCount": 2,
+      "fuelType": "하이브리드",
+      "brandName": "렉서스",
+      "grades": [
+        {
+          "name": "500h Executive (6인승) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "500h Royal (4인승) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4700",
+      "brandId": "lexus",
+      "name": "LX",
+      "imageUrl": "/cars/4700.png",
+      "startPrice": 165870000,
+      "gradeCount": 6,
+      "fuelType": "하이브리드",
+      "brandName": "렉서스",
+      "grades": [
+        {
+          "name": "700h Overtrail (5인승) A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "700h Luxury (7인승) A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "700h VIP (4인승) A/T",
+          "trimCount": 2
+        }
+      ]
+    },
+    {
+      "id": "4741",
+      "brandId": "peugeot",
+      "name": "3008",
+      "imageUrl": "/cars/4741.png",
+      "startPrice": 44900000,
+      "gradeCount": 2,
+      "fuelType": "하이브리드",
+      "brandName": "푸조",
+      "grades": [
+        {
+          "name": "Allure A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GT A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4379",
+      "brandId": "peugeot",
+      "name": "308",
+      "imageUrl": "/cars/4379.png",
+      "startPrice": 39900000,
+      "gradeCount": 2,
+      "fuelType": "하이브리드",
+      "brandName": "푸조",
+      "grades": [
+        {
+          "name": "Allure A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "GT A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4513",
+      "brandId": "polestar",
+      "name": "폴스타 4",
+      "imageUrl": "/cars/4513.png",
+      "startPrice": 66900000,
+      "gradeCount": 2,
+      "fuelType": "전기",
+      "brandName": "폴스타",
+      "grades": [
+        {
+          "name": "Long range Single motor (incl. Pilot pack) A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Long range Dual motor (incl. Pilot pack) A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4674",
+      "brandId": "toyota",
+      "name": "캠리",
+      "imageUrl": "/cars/4674.png",
+      "startPrice": 47750000,
+      "gradeCount": 2,
+      "fuelType": "하이브리드",
+      "brandName": "토요타",
+      "grades": [
+        {
+          "name": "XLE A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "XLE Premium A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4560",
+      "brandId": "르노코리아",
+      "name": "아르카나",
+      "imageUrl": "/cars/4560.png",
+      "startPrice": 23000000,
+      "gradeCount": 7,
+      "fuelType": "하이브리드",
+      "brandName": "르노코리아",
+      "grades": [
+        {
+          "name": "테크노 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "아이코닉 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "아이코닉 컬러 패키지 A/T",
+          "trimCount": 2
+        },
+        {
+          "name": "에스프리 알핀 A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4632",
+      "brandId": "르노코리아",
+      "name": "세닉 E-테크 일렉트릭",
+      "imageUrl": "/cars/4632.png",
+      "startPrice": 51590000,
+      "gradeCount": 3,
+      "fuelType": "전기",
+      "brandName": "르노코리아",
+      "grades": [
+        {
+          "name": "테크노 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "테크노 플러스 A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "아이코닉 A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4395",
+      "brandId": "쉐보레",
+      "name": "콜로라도",
+      "imageUrl": "/cars/4395.png",
+      "startPrice": 72790000,
+      "gradeCount": 1,
+      "fuelType": "가솔린",
+      "brandName": "쉐보레",
+      "grades": [
+        {
+          "name": "Z71 A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "4043",
+      "brandId": "테슬라",
+      "name": "Model S",
+      "imageUrl": "/cars/4043.png",
+      "startPrice": 125000000,
+      "gradeCount": 2,
+      "fuelType": "전기",
+      "brandName": "테슬라",
+      "grades": [
+        {
+          "name": "AWD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Plaid A/T",
+          "trimCount": 1
+        }
+      ]
+    },
+    {
+      "id": "3825",
+      "brandId": "테슬라",
+      "name": "Cybertruck",
+      "imageUrl": "/cars/3825.png",
+      "startPrice": 145000000,
+      "gradeCount": 2,
+      "fuelType": "전기",
+      "brandName": "테슬라",
+      "grades": [
+        {
+          "name": "AWD A/T",
+          "trimCount": 1
+        },
+        {
+          "name": "Cyberbeast A/T",
+          "trimCount": 1
+        }
+      ]
     }
   ]
 }
